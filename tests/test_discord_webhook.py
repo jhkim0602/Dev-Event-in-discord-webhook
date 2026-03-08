@@ -38,7 +38,7 @@ def test_build_discord_payload_includes_single_tag_and_image() -> None:
         tag_id="123",
     )
 
-    assert payload["thread_name"].startswith("[신규] ")
+    assert payload["thread_name"] == "GitHub Copilot Dev Days (Seoul)"
     assert payload["applied_tags"] == ["123"]
     assert payload["embeds"][0]["image"]["url"] == "https://cdn.example.com/cover.png"
 

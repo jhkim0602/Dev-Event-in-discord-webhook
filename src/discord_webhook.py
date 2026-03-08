@@ -20,7 +20,7 @@ def _field_value(value: str | None, *, limit: int = 1024) -> str:
 
 
 def _thread_name(title: str) -> str:
-    return _truncate(f"[신규] {title}", 90)
+    return _truncate(title, 90)
 
 
 def build_discord_payload(
