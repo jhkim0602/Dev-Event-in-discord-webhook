@@ -1,0 +1,93 @@
+name: Dev Event to Discord
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/20 * * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: dev-event-discord-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    env:
+      README_URL: https://raw.githubusercontent.com/brave-people/Dev-Event/master/README.md
+      STATE_BRANCH: automation-state
+      STATE_DIR: .state
+      TIMEZONE_NAME: Asia/Seoul
+      DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+      DISCORD_TAG_ID_OPEN: ${{ secrets.DISCORD_TAG_ID_OPEN }}
+      DISCORD_TAG_ID_CLOSED: ${{ secrets.DISCORD_TAG_ID_CLOSED }}
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: python -m pip install --upgrade pip && pip install -r requirements.txt
+
+      - name: Load state from automation branch
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p "$STATE_DIR"
+          if git ls-remote --exit-code --heads origin "$STATE_BRANCH" >/dev/null 2>&1; then
+            git fetch origin "$STATE_BRANCH"
+            if git show "origin/$STATE_BRANCH:state.json" >/dev/null 2>&1; then
+              git show "origin/$STATE_BRANCH:state.json" > "$STATE_DIR/state.json"
+            fi
+          fi
+
+      - name: Run sync
+        run: python -m src.main
+
+      - name: Persist state to automation branch
+        shell: bash
+        run: |
+          set -euo pipefail
+          if [ ! -f "$STATE_DIR/state.json" ]; then
+            echo "No state file to persist"
+            exit 0
+          fi
+
+          worktree_dir="$(mktemp -d)"
+          if git ls-remote --exit-code --heads origin "$STATE_BRANCH" >/dev/null 2>&1; then
+            git fetch origin "$STATE_BRANCH"
+            git worktree add -B "$STATE_BRANCH" "$worktree_dir" "origin/$STATE_BRANCH"
+          else
+            git worktree add --detach "$worktree_dir" HEAD
+            (
+              cd "$worktree_dir"
+              git checkout --orphan "$STATE_BRANCH"
+              git rm -rf . >/dev/null 2>&1 || true
+            )
+          fi
+
+          cp "$STATE_DIR/state.json" "$worktree_dir/state.json"
+
+          (
+            cd "$worktree_dir"
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add state.json
+            if git diff --cached --quiet; then
+              echo "State branch unchanged"
+              exit 0
+            fi
+            git commit -m "Update dev-event sync state"
+            git push origin HEAD:"$STATE_BRANCH"
+          )
+
+          git worktree remove "$worktree_dir" --force
