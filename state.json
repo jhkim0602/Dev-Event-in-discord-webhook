@@ -1,0 +1,383 @@
+{
+  "bootstrap": {
+    "completed": true,
+    "seeded_month": "26년 03월"
+  },
+  "events": {
+    "00a18b81bd73665d778ae0c12fe9db252a207ecaab07b6aa6fed69f71ee16fa0": {
+      "canonical_url": "https://cisco.com/site/kr/ko/learn/events/cisco-connect/index.html",
+      "event_id": "00a18b81bd73665d778ae0c12fe9db252a207ecaab07b6aa6fed69f71ee16fa0",
+      "message_id": null,
+      "posted": false,
+      "posted_at": null,
+      "source_title": "Cisco Connect 2026 Korea",
+      "tags": [],
+      "thread_id": null
+    },
+    "049e63de633cb48fe5f7edb8d22bb6e7b1bfaa24eb15202febed1170d0a8ee6d": {
+      "canonical_url": "https://event.wanted.co.kr/preopen_highfive2026",
+      "event_id": "049e63de633cb48fe5f7edb8d22bb6e7b1bfaa24eb15202febed1170d0a8ee6d",
+      "message_id": null,
+      "posted": false,
+      "posted_at": null,
+      "source_title": "HIGHFIVE 2026",
+      "tags": [],
+      "thread_id": null
+    },
+    "09bf4024e0d059ee13e5cfa0f885a6729cd5a611177f367d2d0c9c01d9352db2": {
+      "canonical_url": "https://event-us.kr/naekyehs/event/120945",
+      "event_id": "09bf4024e0d059ee13e5cfa0f885a6729cd5a611177f367d2d0c9c01d9352db2",
+      "message_id": "1480224243596791980",
+      "posted": true,
+      "posted_at": "2026-03-09T00:21:39.688511+09:00",
+      "source_title": "제22회 차세대 테크 리더십포럼 - 'Physical AI 시대: 로봇과 인공지능이 만드는 일상의 혁신'",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1480224243596791980"
+    },
+    "0f7f5bc608f47103668bbf391f1497f01bc33a8ad221c4c9d49c69369c3c4f48": {
+      "canonical_url": "https://dev-korea.com/ko/events/dev-korea-7-march-2026",
+      "event_id": "0f7f5bc608f47103668bbf391f1497f01bc33a8ad221c4c9d49c69369c3c4f48",
+      "message_id": "1480224156145422562",
+      "posted": true,
+      "posted_at": "2026-03-09T00:21:39.688511+09:00",
+      "source_title": "Dev Korea #7: 서버리스로 AI 기반 제품을 효율적으로 개발하고 배포하는 방법",
+      "tags": [
+        "오프라인",
+        "AI",
+        "컨퍼런스/세미나"
+      ],
+      "thread_id": "1480224156145422562"
+    },
+    "1041b695260a6649bc3d6bdf7d2dbace6f404a20db99a78cbb6772889928f0db": {
+      "canonical_url": "https://codysseycampus.kr/",
+      "event_id": "1041b695260a6649bc3d6bdf7d2dbace6f404a20db99a78cbb6772889928f0db",
+      "message_id": "1480224277780234426",
+      "posted": true,
+      "posted_at": "2026-03-09T00:21:39.688511+09:00",
+      "source_title": "코디세이캠퍼스 AI 올인원 1기 모집",
+      "tags": [
+        "오프라인",
+        "교육/부트캠프",
+        "AI"
+      ],
+      "thread_id": "1480224277780234426"
+    },
+    "110b50975cb0fd98a2f38df0f73377d840a708bedd3141f1d44cab632433685d": {
+      "canonical_url": "https://dothack.io/",
+      "event_id": "110b50975cb0fd98a2f38df0f73377d840a708bedd3141f1d44cab632433685d",
+      "message_id": null,
+      "posted": false,
+      "posted_at": null,
+      "source_title": "사이버 보안 컨퍼런스 [.HACK 2026]",
+      "tags": [],
+      "thread_id": null
+    },
+    "133bc25eb8a70f36d81a632b233b5443bed7c0b6233306abf09e435bc74c0ab4": {
+      "canonical_url": "https://networks-aicamp.io/program",
+      "event_id": "133bc25eb8a70f36d81a632b233b5443bed7c0b6233306abf09e435bc74c0ab4",
+      "message_id": "1480224077372457161",
+      "posted": true,
+      "posted_at": "2026-03-09T00:21:39.688511+09:00",
+      "source_title": "SK네트웍스 Family AI 캠프",
+      "tags": [
+        "오프라인",
+        "교육/부트캠프",
+        "AI"
+      ],
+      "thread_id": "1480224077372457161"
+    },
+    "1425d3c9a47faa80332c6624272b1b53fb1229f818f88db324290a7067d679af": {
+      "canonical_url": "https://docs.google.com/forms/d/e/1FAIpQLScnV-QNERiZfe3dVbHVloNAm0F0B8A6Ac_sziSpWZ4KijXBbw/viewform",
+      "event_id": "1425d3c9a47faa80332c6624272b1b53fb1229f818f88db324290a7067d679af",
+      "message_id": "1480224070413979648",
+      "posted": true,
+      "posted_at": "2026-03-09T00:21:39.688511+09:00",
+      "source_title": "[멋쟁이사자처럼] 취업 현피 Day",
+      "tags": [
+        "오프라인",
+        "커리어",
+        "교육/부트캠프"
+      ],
+      "thread_id": "1480224070413979648"
+    },
+    "2b13c477a81db81420422a7e5ac0f8518d86a649f6a56aa38542ab12d0d504bc": {
+      "canonical_url": "https://daker.ai/public/hackathons/vibe-coding-improvement-ai-idea-competition",
+      "event_id": "2b13c477a81db81420422a7e5ac0f8518d86a649f6a56aa38542ab12d0d504bc",
+      "message_id": "1480223996271136838",
+      "posted": true,
+      "posted_at": "2026-03-09T00:21:39.688511+09:00",
+      "source_title": "월간 해커톤: 바이브 코딩 개선 AI 아이디어 공모전",
+      "tags": [
+        "온라인",
+        "해커톤",
+        "AI"
+      ],
+      "thread_id": "1480223996271136838"
+    },
+    "3087af080996096aec4d1fd4d236f4116178cf682f550b0fc5225359b4632d9a": {
+      "canonical_url": "https://event-us.kr/bcmckisa/event/119309",
+      "event_id": "3087af080996096aec4d1fd4d236f4116178cf682f550b0fc5225359b4632d9a",
+      "message_id": "1480224125846032546",
+      "posted": true,
+      "posted_at": "2026-03-09T00:21:39.688511+09:00",
+      "source_title": "2026 블록체인 밋업 컨퍼런스(2026 BlockChain Meetup Conference)",
+      "tags": [
+        "오프라인",
+        "교육/부트캠프",
+        "AI"
+      ],
+      "thread_id": "1480224125846032546"
+    },
+    "457f64606ed89bebbf185396eeac869050dd2d82bc17cdcdf7cc17e4d28b1f72": {
+      "canonical_url": "https://ktcloud-techup.com/fullstack",
+      "event_id": "457f64606ed89bebbf185396eeac869050dd2d82bc17cdcdf7cc17e4d28b1f72",
+      "message_id": "1480224174390644788",
+      "posted": true,
+      "posted_at": "2026-03-09T00:21:39.688511+09:00",
+      "source_title": "kt cloud 풀스택",
+      "tags": [
+        "온라인",
+        "교육/부트캠프",
+        "클라우드"
+      ],
+      "thread_id": "1480224174390644788"
+    },
+    "503b640aee794fdc3223e8ae9efa4c75199eb32e19ee1b36e26a00333e31e0ef": {
+      "canonical_url": "https://ktcloud-techup.com/backend",
+      "event_id": "503b640aee794fdc3223e8ae9efa4c75199eb32e19ee1b36e26a00333e31e0ef",
+      "message_id": "1480224189720957119",
+      "posted": true,
+      "posted_at": "2026-03-09T00:21:39.688511+09:00",
+      "source_title": "kt cloud 백엔드",
+      "tags": [
+        "온라인",
+        "교육/부트캠프",
+        "클라우드"
+      ],
+      "thread_id": "1480224189720957119"
+    },
+    "53be24e951c4ea2c186d7739b1f17f460bc6854877a98dae6f1a94e1f332d90b": {
+      "canonical_url": "https://inf.run/9zmtr",
+      "event_id": "53be24e951c4ea2c186d7739b1f17f460bc6854877a98dae6f1a94e1f332d90b",
+      "message_id": "1480224059206799473",
+      "posted": true,
+      "posted_at": "2026-03-09T00:21:39.688511+09:00",
+      "source_title": "2026 백엔드 개발자 취업 전략 설명회",
+      "tags": [
+        "온라인",
+        "교육/부트캠프",
+        "커리어"
+      ],
+      "thread_id": "1480224059206799473"
+    },
+    "55813d60d6f632c609648e02e9c105e3b4c700232aaf17ee0b59df0d1af31ffc": {
+      "canonical_url": "https://aitop100.org/",
+      "event_id": "55813d60d6f632c609648e02e9c105e3b4c700232aaf17ee0b59df0d1af31ffc",
+      "message_id": "1480224023295033616",
+      "posted": true,
+      "posted_at": "2026-03-09T00:21:39.688511+09:00",
+      "source_title": "월AI_TOP_100 (CAMPUS)",
+      "tags": [
+        "온라인",
+        "공모전/대회",
+        "AI"
+      ],
+      "thread_id": "1480224023295033616"
+    },
+    "578483c4ce54b86f6f096fb434548836a9909ff061d796a2c8df7b7a5f8a7135": {
+      "canonical_url": "https://ktcloud-techup.com/frontend",
+      "event_id": "578483c4ce54b86f6f096fb434548836a9909ff061d796a2c8df7b7a5f8a7135",
+      "message_id": "1480224181986656339",
+      "posted": true,
+      "posted_at": "2026-03-09T00:21:39.688511+09:00",
+      "source_title": "kt cloud 프론트엔드",
+      "tags": [
+        "온라인",
+        "교육/부트캠프",
+        "클라우드"
+      ],
+      "thread_id": "1480224181986656339"
+    },
+    "5d94f4d75ed65f01e893058f54020245d66924b607e34be01a7a723296904f1d": {
+      "canonical_url": "https://oss.kr/pages/10/4453",
+      "event_id": "5d94f4d75ed65f01e893058f54020245d66924b607e34be01a7a723296904f1d",
+      "message_id": "1480224324165046454",
+      "posted": true,
+      "posted_at": "2026-03-09T00:21:39.688511+09:00",
+      "source_title": "오픈소스 컨트리뷰션 아카데미 멘토단 모집",
+      "tags": [
+        "오프라인",
+        "공모전/대회",
+        "교육/부트캠프"
+      ],
+      "thread_id": "1480224324165046454"
+    },
+    "7de2c2cf2707e660c2c46dcc69207fa1ae596a99fd80207cc4f20d6600cd01d7": {
+      "canonical_url": "https://luma.com/4scwh5tv",
+      "event_id": "7de2c2cf2707e660c2c46dcc69207fa1ae596a99fd80207cc4f20d6600cd01d7",
+      "message_id": "1480224212231913513",
+      "posted": true,
+      "posted_at": "2026-03-09T00:21:39.688511+09:00",
+      "source_title": "2026-03 Kiro 한국 사용자 모임",
+      "tags": [
+        "오프라인",
+        "AI",
+        "컨퍼런스/세미나"
+      ],
+      "thread_id": "1480224212231913513"
+    },
+    "89bc947aaf126b5f54a25d1b02a2826547988f0050c32df95437a4e440656e07": {
+      "canonical_url": "https://smarttechkorea.com/Main",
+      "event_id": "89bc947aaf126b5f54a25d1b02a2826547988f0050c32df95437a4e440656e07",
+      "message_id": null,
+      "posted": false,
+      "posted_at": null,
+      "source_title": "STK 스마트테크 코리아",
+      "tags": [],
+      "thread_id": null
+    },
+    "8abba11c32b9330537b826611dc7959c0b694adb3ff991c848ddb9362585b49b": {
+      "canonical_url": "https://swmaestro.ai/sw/main/notifyMentee.do?menuNo=200091",
+      "event_id": "8abba11c32b9330537b826611dc7959c0b694adb3ff991c848ddb9362585b49b",
+      "message_id": "1480224092660699339",
+      "posted": true,
+      "posted_at": "2026-03-09T00:21:39.688511+09:00",
+      "source_title": "2026년도 AI·SW마에스트로 제17기 연수생 모집 - 부산 센터",
+      "tags": [
+        "오프라인",
+        "교육/부트캠프",
+        "AI"
+      ],
+      "thread_id": "1480224092660699339"
+    },
+    "8c223a6a61c0b596f29ab45316b0c6cc9c255ac48ffc456972e7c3a97de9f0c4": {
+      "canonical_url": "https://luma.com/pb000fua",
+      "event_id": "8c223a6a61c0b596f29ab45316b0c6cc9c255ac48ffc456972e7c3a97de9f0c4",
+      "message_id": "1480224224529485905",
+      "posted": true,
+      "posted_at": "2026-03-09T00:21:39.688511+09:00",
+      "source_title": "Zero100 글로벌 바이브코딩 빌더톤 in 서울",
+      "tags": [
+        "오프라인",
+        "해커톤",
+        "공모전/대회"
+      ],
+      "thread_id": "1480224224529485905"
+    },
+    "a155fdce6848662dd4c317d517bc240efaac550b38811831bef24dd09190302a": {
+      "canonical_url": "https://kakaotechbootcamp.com/",
+      "event_id": "a155fdce6848662dd4c317d517bc240efaac550b38811831bef24dd09190302a",
+      "message_id": "1480224268301369558",
+      "posted": true,
+      "posted_at": "2026-03-09T00:21:39.688511+09:00",
+      "source_title": "카카오테크 부트캠프",
+      "tags": [
+        "오프라인",
+        "교육/부트캠프",
+        "AI"
+      ],
+      "thread_id": "1480224268301369558"
+    },
+    "a699790c5048add130cdebf17f4d468d91f82beb6386cf366cbf35ce4295a2d0": {
+      "canonical_url": "https://rocketpunch.com/event/jsnrpnY24Q",
+      "event_id": "a699790c5048add130cdebf17f4d468d91f82beb6386cf366cbf35ce4295a2d0",
+      "message_id": "1480224166849548453",
+      "posted": true,
+      "posted_at": "2026-03-09T00:21:39.688511+09:00",
+      "source_title": "Vibe Everything — AI Agent 밋업",
+      "tags": [
+        "오프라인",
+        "AI",
+        "컨퍼런스/세미나"
+      ],
+      "thread_id": "1480224166849548453"
+    },
+    "afa854af684f5258a54983850c40ea2f03c9c4bcae3a4d5c3bd49f55d9d67b08": {
+      "canonical_url": "https://lp.jetbrains.com/intellij-idea-conf-2026",
+      "event_id": "afa854af684f5258a54983850c40ea2f03c9c4bcae3a4d5c3bd49f55d9d67b08",
+      "message_id": null,
+      "posted": false,
+      "posted_at": null,
+      "source_title": "IntelliJ IDEA Conf 2026",
+      "tags": [],
+      "thread_id": null
+    },
+    "b9b706bd62e53a07a5a9cba44f386454d1dd9122fabac2e02d36d0c1d1a7caf2": {
+      "canonical_url": "https://meetup.com/awskrug/events/313475105",
+      "event_id": "b9b706bd62e53a07a5a9cba44f386454d1dd9122fabac2e02d36d0c1d1a7caf2",
+      "message_id": "1480224034301018142",
+      "posted": true,
+      "posted_at": "2026-03-09T00:21:39.688511+09:00",
+      "source_title": "AWSKRUG 판교 #pangyo 소모임",
+      "tags": [
+        "오프라인",
+        "클라우드",
+        "컨퍼런스/세미나"
+      ],
+      "thread_id": "1480224034301018142"
+    },
+    "c27422889148ab74ad560cee6f5baad274d1afe3992ddc16180d78e622b347b9": {
+      "canonical_url": "https://worlditshow.co.kr/introduce/01.php",
+      "event_id": "c27422889148ab74ad560cee6f5baad274d1afe3992ddc16180d78e622b347b9",
+      "message_id": null,
+      "posted": false,
+      "posted_at": null,
+      "source_title": "2026 월드IT쇼",
+      "tags": [],
+      "thread_id": null
+    },
+    "c590d375ebb9bf0d5785f81ab53c2bd0b894babed57c10615343440e4e15f701": {
+      "canonical_url": "https://event-us.kr/powerplatform/event/121503",
+      "event_id": "c590d375ebb9bf0d5785f81ab53c2bd0b894babed57c10615343440e4e15f701",
+      "message_id": "1480224294129893518",
+      "posted": true,
+      "posted_at": "2026-03-09T00:21:39.688511+09:00",
+      "source_title": "GitHub Copilot Dev Days (Seoul)",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1480224294129893518"
+    },
+    "c955d3f5068d2710fc127b0983b59ba8835df06b3a65682fd2f675d890f8d643": {
+      "canonical_url": "https://kipfa.or.kr/Seminar/SeminarReView.aspx?eduSeqNo=1512",
+      "event_id": "c955d3f5068d2710fc127b0983b59ba8835df06b3a65682fd2f675d890f8d643",
+      "message_id": null,
+      "posted": false,
+      "posted_at": null,
+      "source_title": "2026 인터넷서비스 트렌드 컨퍼런스",
+      "tags": [],
+      "thread_id": null
+    },
+    "d85fc2fb07c66e67690ae70444a7766c97f3ca70e17165a3f60fc80340129d83": {
+      "canonical_url": "https://onoffmix.com/event/336585",
+      "event_id": "d85fc2fb07c66e67690ae70444a7766c97f3ca70e17165a3f60fc80340129d83",
+      "message_id": null,
+      "posted": false,
+      "posted_at": null,
+      "source_title": "국내 최대 규모의 인공지능 전문 전시회, AI EXPO KOREA 2026",
+      "tags": [],
+      "thread_id": null
+    },
+    "e222c59c4cb740ee2037b20786f6a44b84cb25b4886cf680493acd936340b59c": {
+      "canonical_url": "https://meetup.com/awskrug/events/313352636",
+      "event_id": "e222c59c4cb740ee2037b20786f6a44b84cb25b4886cf680493acd936340b59c",
+      "message_id": "1480224200789594192",
+      "posted": true,
+      "posted_at": "2026-03-09T00:21:39.688511+09:00",
+      "source_title": "AWSKRUG 데브옵스 #DevOps 소모임 21번째 밋업",
+      "tags": [
+        "오프라인",
+        "클라우드",
+        "컨퍼런스/세미나"
+      ],
+      "thread_id": "1480224200789594192"
+    }
+  },
+  "version": 1
+}
