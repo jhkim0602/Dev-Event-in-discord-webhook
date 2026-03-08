@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import json
 from typing import Any
+import urllib.error
 from urllib.parse import parse_qsl, urlencode, urlsplit, urlunsplit
 import urllib.request
 
@@ -94,8 +95,18 @@ def post_forum_thread(webhook_url: str, payload: dict[str, Any], *, timeout_seco
     request = urllib.request.Request(
         _with_wait_true(webhook_url),
         data=json.dumps(payload).encode("utf-8"),
-        headers={"Content-Type": "application/json"},
+        headers={
+            "Content-Type": "application/json",
+            "User-Agent": "dev-event-discord-sync/1.0",
+        },
         method="POST",
     )
-    with urllib.request.urlopen(request, timeout=timeout_seconds) as response:
-        return json.loads(response.read().decode("utf-8"))
+    try:
+        with urllib.request.urlopen(request, timeout=timeout_seconds) as response:
+            return json.loads(response.read().decode("utf-8"))
+    except urllib.error.HTTPError as exc:
+        body = exc.read().decode("utf-8", errors="replace").strip()
+        message = f"Discord webhook returned HTTP {exc.code}"
+        if body:
+            message = f"{message}: {body}"
+        raise RuntimeError(message) from exc
