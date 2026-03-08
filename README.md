@@ -81,7 +81,7 @@ flowchart LR
 
 ## Runtime Flow
 
-1. GitHub Actions가 20분마다 워크플로를 실행합니다.
+1. GitHub Actions가 매일 한국시간 오전 8시에 워크플로를 실행합니다.
 2. 외부 행사 목록을 가져와 현재 행사 구간만 파싱합니다.
 3. URL을 정규화해 중복 이벤트를 제거합니다.
 4. `automation-state` 브랜치의 `state.json`을 읽어 이전에 게시한 이벤트를 불러옵니다.
