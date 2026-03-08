@@ -69,11 +69,6 @@ def build_discord_payload(
                 "value": _field_value(event.schedule_text),
                 "inline": False,
             },
-            {
-                "name": "출처",
-                "value": _field_value(source_readme_page_url),
-                "inline": False,
-            },
         ],
         "footer": {
             "text": "Source: Dev-Event README",

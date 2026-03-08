@@ -43,6 +43,7 @@ def test_build_discord_payload_includes_single_tag_and_image() -> None:
     assert payload["applied_tags"] == ["123", "456"]
     assert payload["embeds"][0]["fields"][3]["value"] == "오프라인(서울 종로), 유료, AI"
     assert payload["embeds"][0]["fields"][4]["value"] == "오프라인, 컨퍼런스/세미나, AI"
+    assert payload["embeds"][0]["fields"][5]["value"] == "02. 15(수) ~ 03. 28(토)"
     assert payload["embeds"][0]["image"]["url"] == "https://cdn.example.com/cover.png"
 
 
