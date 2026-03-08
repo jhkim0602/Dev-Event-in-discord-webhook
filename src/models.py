@@ -43,7 +43,7 @@ class StoredEvent:
     posted_at: str | None
     thread_id: str | None
     message_id: str | None
-    tag: str | None
+    tags: list[str]
     posted: bool = True
 
     @classmethod
@@ -55,7 +55,7 @@ class StoredEvent:
             posted_at=payload.get("posted_at"),
             thread_id=payload.get("thread_id"),
             message_id=payload.get("message_id"),
-            tag=payload.get("tag"),
+            tags=_coerce_tags(payload.get("tags"), payload.get("tag")),
             posted=payload.get("posted", True),
         )
 
@@ -90,3 +90,13 @@ class State:
             },
             "events": {key: value.to_dict() for key, value in self.events.items()},
         }
+
+
+def _coerce_tags(tags: Any, legacy_tag: Any) -> list[str]:
+    if isinstance(tags, list):
+        return [str(item) for item in tags if str(item).strip()]
+    if isinstance(tags, str) and tags.strip():
+        return [tags]
+    if isinstance(legacy_tag, str) and legacy_tag.strip():
+        return [legacy_tag]
+    return []

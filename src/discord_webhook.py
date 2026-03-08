@@ -29,7 +29,8 @@ def build_discord_payload(
     meta: EventMeta,
     *,
     source_readme_page_url: str,
-    tag_id: str,
+    tag_ids: list[str],
+    selected_tags: list[str],
 ) -> dict[str, Any]:
     schedule_name = event.schedule_label or "일정"
     categories = ", ".join(event.categories) if event.categories else "-"
@@ -59,6 +60,11 @@ def build_discord_payload(
                 "inline": True,
             },
             {
+                "name": "태그",
+                "value": _field_value(", ".join(selected_tags) if selected_tags else "-"),
+                "inline": True,
+            },
+            {
                 "name": schedule_name,
                 "value": _field_value(event.schedule_text),
                 "inline": False,
@@ -76,12 +82,14 @@ def build_discord_payload(
     if meta.og_image:
         embed["image"] = {"url": meta.og_image}
 
-    return {
+    payload = {
         "thread_name": _thread_name(event.title),
-        "applied_tags": [tag_id],
         "allowed_mentions": {"parse": []},
         "embeds": [embed],
     }
+    if tag_ids:
+        payload["applied_tags"] = tag_ids
+    return payload
 
 
 def _with_wait_true(webhook_url: str) -> str:

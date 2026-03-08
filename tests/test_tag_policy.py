@@ -1,41 +1,56 @@
-from datetime import datetime
-from zoneinfo import ZoneInfo
-
-from src.models import EventItem
-from src.tag_policy import extract_schedule_end, resolve_tag
+from src.models import EventItem, EventMeta
+from src.tag_policy import resolve_tags, select_rule_tags
 
 
-KST = ZoneInfo("Asia/Seoul")
-
-
-def _event(*, month_section: str, schedule_label: str | None, schedule_text: str | None) -> EventItem:
+def _event(*, title: str, categories: list[str]) -> EventItem:
     return EventItem(
         event_id="event",
-        month_section=month_section,
-        title="테스트 행사",
+        month_section="26년 03월",
+        title=title,
         url="https://example.com",
         canonical_url="https://example.com",
-        categories=["온라인"],
-        organizer="테스트",
-        schedule_label=schedule_label,
-        schedule_text=schedule_text,
+        categories=categories,
+        organizer="테스트 주최",
+        schedule_label="접수",
+        schedule_text="03. 01(일) ~ 03. 10(화)",
     )
 
 
-def test_resolve_tag_uses_reception_end_date() -> None:
-    event = _event(month_section="26년 03월", schedule_label="접수", schedule_text="02. 04(수) ~ 03. 09(월)")
-    now = datetime(2026, 3, 8, 12, 0, tzinfo=KST)
-    assert resolve_tag(event, now) == "모집중"
+def test_select_rule_tags_picks_format_type_and_topic() -> None:
+    event = _event(
+        title="GitHub Copilot Dev Days (Seoul)",
+        categories=["오프라인(서울 종로)", "유료", "AI"],
+    )
+
+    assert select_rule_tags(event) == ["오프라인", "컨퍼런스/세미나", "AI"]
 
 
-def test_resolve_tag_marks_closed_after_event_end() -> None:
-    event = _event(month_section="26년 04월", schedule_label="일시", schedule_text="02. 06(금) ~ 04. 21(화)")
-    now = datetime(2026, 4, 22, 0, 0, tzinfo=KST)
-    assert resolve_tag(event, now) == "모집종료"
+def test_select_rule_tags_detects_hackathon() -> None:
+    event = _event(
+        title="월간 해커톤: 바이브 코딩 개선 AI 아이디어 공모전",
+        categories=["온라인", "무료", "대회"],
+    )
+
+    assert select_rule_tags(event) == ["온라인", "해커톤", "AI"]
 
 
-def test_extract_schedule_end_preserves_explicit_time() -> None:
-    event = _event(month_section="26년 03월", schedule_label="접수", schedule_text="02. 13(금) ~ 03. 12(목) 17:00")
-    now = datetime(2026, 3, 1, 0, 0, tzinfo=KST)
-    end_at = extract_schedule_end(event, now)
-    assert end_at == datetime(2026, 3, 12, 17, 0, tzinfo=KST)
+def test_resolve_tags_uses_ai_as_secondary_step(monkeypatch) -> None:
+    event = _event(
+        title="STK 스마트테크 코리아",
+        categories=["오프라인(서울 코엑스)", "무료", "기술일반"],
+    )
+
+    def _fake_ai_tags(*args, **kwargs):
+        return ["컨퍼런스/세미나"]
+
+    monkeypatch.setattr("src.tag_policy.generate_tag_suggestions", _fake_ai_tags)
+
+    tags = resolve_tags(
+        event,
+        EventMeta(final_url="https://example.com"),
+        api_key="token",
+        model="gemini-test",
+        timeout_seconds=3,
+    )
+
+    assert tags == ["오프라인", "컨퍼런스/세미나"]

@@ -102,6 +102,17 @@ def _extract_text(payload: dict[str, Any]) -> str:
     return text
 
 
+def _call_json_generation(
+    *,
+    api_key: str,
+    model: str,
+    prompt: str,
+    timeout_seconds: int,
+) -> dict[str, Any]:
+    response = _call_gemini(api_key, model, prompt, timeout_seconds=timeout_seconds)
+    return json.loads(_extract_text(response))
+
+
 def _parse_summary(text: str) -> AiSummary:
     payload = json.loads(text)
     key_points = payload.get("key_points")
@@ -133,8 +144,13 @@ def generate_summary(
     last_error: Exception | None = None
     for stricter in (False, True):
         try:
-            response = _call_gemini(api_key, model, _prompt(event, meta, stricter=stricter), timeout_seconds=timeout_seconds)
-            return _parse_summary(_extract_text(response))
+            payload = _call_json_generation(
+                api_key=api_key,
+                model=model,
+                prompt=_prompt(event, meta, stricter=stricter),
+                timeout_seconds=timeout_seconds,
+            )
+            return _parse_summary(json.dumps(payload, ensure_ascii=False))
         except (json.JSONDecodeError, KeyError, ValueError, urllib.error.URLError) as exc:
             last_error = exc
             logger.warning("Gemini summary generation failed for %s: %s", event.title, exc)
@@ -142,3 +158,63 @@ def generate_summary(
     if last_error:
         logger.error("Falling back to template summary for %s after Gemini failure: %s", event.title, last_error)
     return build_fallback_summary(event)
+
+
+def generate_tag_suggestions(
+    event: EventItem,
+    meta: EventMeta,
+    *,
+    allowed_tags: list[str],
+    existing_tags: list[str],
+    api_key: str | None,
+    model: str,
+    timeout_seconds: int,
+) -> list[str]:
+    if not api_key:
+        return []
+
+    prompt = f"""
+당신은 개발자 행사 포럼 태그를 분류하는 도우미입니다.
+아래 허용 태그 목록 안에서만 선택하세요.
+기존에 이미 선택된 태그는 제외하고, 추가로 필요한 태그만 최대 2개 고르세요.
+응답은 반드시 JSON 객체 하나여야 합니다.
+
+허용 태그:
+{", ".join(allowed_tags)}
+
+이미 선택된 태그:
+{", ".join(existing_tags) if existing_tags else "-"}
+
+출력 JSON 스키마:
+{{
+  "tags": ["태그1", "태그2"]
+}}
+
+입력 정보:
+- 제목: {event.title}
+- 분류: {", ".join(event.categories) if event.categories else "-"}
+- 주최: {event.organizer or "-"}
+- {event.schedule_label or "일정"}: {event.schedule_text or "-"}
+- og:title: {meta.og_title or "-"}
+- og:description: {meta.og_description or "-"}
+""".strip()
+
+    try:
+        payload = _call_json_generation(
+            api_key=api_key,
+            model=model,
+            prompt=prompt,
+            timeout_seconds=timeout_seconds,
+        )
+        tags = payload.get("tags", [])
+        if not isinstance(tags, list):
+            return []
+        validated: list[str] = []
+        for tag in tags:
+            normalized = str(tag).strip()
+            if normalized in allowed_tags and normalized not in existing_tags and normalized not in validated:
+                validated.append(normalized)
+        return validated[:2]
+    except (json.JSONDecodeError, KeyError, ValueError, urllib.error.URLError) as exc:
+        logger.warning("Gemini tag suggestion failed for %s: %s", event.title, exc)
+        return []

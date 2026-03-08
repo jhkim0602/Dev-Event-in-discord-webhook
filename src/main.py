@@ -14,7 +14,7 @@ from src.models import EventItem, EventMeta, State, StoredEvent
 from src.readme_fetcher import fetch_readme
 from src.readme_parser import parse_events
 from src.state_store import load_state, save_state
-from src.tag_policy import resolve_tag
+from src.tag_policy import resolve_tags
 
 
 logger = logging.getLogger(__name__)
@@ -36,7 +36,7 @@ def seed_unposted_events(state: State, events: list[EventItem]) -> None:
             posted_at=None,
             thread_id=None,
             message_id=None,
-            tag=None,
+            tags=[],
             posted=False,
         )
 
@@ -110,18 +110,27 @@ def main(argv: list[str] | None = None) -> int:
             model=config.gemini_model,
             timeout_seconds=config.request_timeout_seconds,
         )
-        tag = resolve_tag(event, now)
-        tag_id = config.discord_tag_id_open if tag == "모집중" else config.discord_tag_id_closed
+        selected_tags = resolve_tags(
+            event,
+            meta,
+            api_key=config.gemini_api_key,
+            model=config.gemini_model,
+            timeout_seconds=config.request_timeout_seconds,
+        )
+        tag_ids = [config.discord_tag_map[tag] for tag in selected_tags if tag in config.discord_tag_map]
+        if selected_tags and not tag_ids:
+            logger.warning("No configured Discord tag IDs matched selected tags for %s: %s", event.title, ", ".join(selected_tags))
         payload = build_discord_payload(
             event,
             summary,
             meta,
             source_readme_page_url=config.source_readme_page_url,
-            tag_id=tag_id or "",
+            tag_ids=tag_ids,
+            selected_tags=selected_tags,
         )
 
         if args.dry_run:
-            logger.info("Dry run: would post %s with tag %s", event.title, tag)
+            logger.info("Dry run: would post %s with tags %s", event.title, ", ".join(selected_tags) if selected_tags else "-")
             continue
 
         try:
@@ -142,7 +151,7 @@ def main(argv: list[str] | None = None) -> int:
             posted_at=now.isoformat(),
             thread_id=response.get("channel_id"),
             message_id=response.get("id"),
-            tag=tag,
+            tags=selected_tags,
             posted=True,
         )
 

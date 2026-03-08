@@ -21,8 +21,7 @@ jobs:
       STATE_DIR: .state
       TIMEZONE_NAME: Asia/Seoul
       DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
-      DISCORD_TAG_ID_OPEN: ${{ secrets.DISCORD_TAG_ID_OPEN }}
-      DISCORD_TAG_ID_CLOSED: ${{ secrets.DISCORD_TAG_ID_CLOSED }}
+      DISCORD_TAG_MAP_JSON: ${{ secrets.DISCORD_TAG_MAP_JSON }}
       GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
     steps:
       - name: Checkout

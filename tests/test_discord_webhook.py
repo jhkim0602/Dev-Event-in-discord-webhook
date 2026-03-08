@@ -35,11 +35,14 @@ def test_build_discord_payload_includes_single_tag_and_image() -> None:
             og_image="https://cdn.example.com/cover.png",
         ),
         source_readme_page_url="https://github.com/brave-people/Dev-Event/blob/master/README.md",
-        tag_id="123",
+        tag_ids=["123", "456"],
+        selected_tags=["오프라인", "컨퍼런스/세미나", "AI"],
     )
 
     assert payload["thread_name"] == "GitHub Copilot Dev Days (Seoul)"
-    assert payload["applied_tags"] == ["123"]
+    assert payload["applied_tags"] == ["123", "456"]
+    assert payload["embeds"][0]["fields"][3]["value"] == "오프라인(서울 종로), 유료, AI"
+    assert payload["embeds"][0]["fields"][4]["value"] == "오프라인, 컨퍼런스/세미나, AI"
     assert payload["embeds"][0]["image"]["url"] == "https://cdn.example.com/cover.png"
 
 
@@ -49,7 +52,9 @@ def test_build_discord_payload_omits_image_when_missing() -> None:
         _summary(),
         EventMeta(final_url="https://event-us.kr/powerplatform/event/121503"),
         source_readme_page_url="https://github.com/brave-people/Dev-Event/blob/master/README.md",
-        tag_id="123",
+        tag_ids=[],
+        selected_tags=[],
     )
 
+    assert "applied_tags" not in payload
     assert "image" not in payload["embeds"][0]

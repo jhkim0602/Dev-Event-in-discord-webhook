@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import json
 import os
 from dataclasses import dataclass
 from pathlib import Path
@@ -15,8 +16,7 @@ class Config:
     readme_url: str
     source_readme_page_url: str
     discord_webhook_url: str | None
-    discord_tag_id_open: str | None
-    discord_tag_id_closed: str | None
+    discord_tag_map: dict[str, str]
     gemini_api_key: str | None
     gemini_model: str
     state_file: Path
@@ -35,13 +35,26 @@ class Config:
         missing: list[str] = []
         if not self.discord_webhook_url:
             missing.append("DISCORD_WEBHOOK_URL")
-        if not self.discord_tag_id_open:
-            missing.append("DISCORD_TAG_ID_OPEN")
-        if not self.discord_tag_id_closed:
-            missing.append("DISCORD_TAG_ID_CLOSED")
+        if not self.discord_tag_map:
+            missing.append("DISCORD_TAG_MAP_JSON")
         if missing:
             joined = ", ".join(missing)
             raise ValueError(f"Missing required environment variables: {joined}")
+
+
+def _load_tag_map() -> dict[str, str]:
+    raw = os.getenv("DISCORD_TAG_MAP_JSON", "").strip()
+    if not raw:
+        return {}
+    parsed = json.loads(raw)
+    if not isinstance(parsed, dict):
+        raise ValueError("DISCORD_TAG_MAP_JSON must be a JSON object")
+    tag_map: dict[str, str] = {}
+    for key, value in parsed.items():
+        if not str(key).strip() or not str(value).strip():
+            continue
+        tag_map[str(key).strip()] = str(value).strip()
+    return tag_map
 
 
 def load_config(*, dry_run: bool = False) -> Config:
@@ -51,8 +64,7 @@ def load_config(*, dry_run: bool = False) -> Config:
         readme_url=os.getenv("README_URL", DEFAULT_README_URL),
         source_readme_page_url=os.getenv("SOURCE_README_PAGE_URL", DEFAULT_SOURCE_README_PAGE_URL),
         discord_webhook_url=os.getenv("DISCORD_WEBHOOK_URL"),
-        discord_tag_id_open=os.getenv("DISCORD_TAG_ID_OPEN"),
-        discord_tag_id_closed=os.getenv("DISCORD_TAG_ID_CLOSED"),
+        discord_tag_map=_load_tag_map(),
         gemini_api_key=os.getenv("GEMINI_API_KEY"),
         gemini_model=os.getenv("GEMINI_MODEL", "gemini-2.0-flash"),
         state_file=state_dir / "state.json",
