@@ -76,6 +76,20 @@
       "tags": [],
       "thread_id": null
     },
+    "123d4c0cb1e5b7222c18587bc9564ec7467b643634ccebf039a6c90ba0978925": {
+      "canonical_url": "https://linkareer.com/activity/307318",
+      "event_id": "123d4c0cb1e5b7222c18587bc9564ec7467b643634ccebf039a6c90ba0978925",
+      "message_id": "1481072648296599572",
+      "posted": true,
+      "posted_at": "2026-03-11T08:33:47.502226+09:00",
+      "source_title": "2026 Samsung Convergence SW Academy 모집",
+      "tags": [
+        "오프라인",
+        "교육/부트캠프",
+        "공모전/대회"
+      ],
+      "thread_id": "1481072648296599572"
+    },
     "133bc25eb8a70f36d81a632b233b5443bed7c0b6233306abf09e435bc74c0ab4": {
       "canonical_url": "https://networks-aicamp.io/program",
       "event_id": "133bc25eb8a70f36d81a632b233b5443bed7c0b6233306abf09e435bc74c0ab4",
@@ -103,6 +117,20 @@
         "교육/부트캠프"
       ],
       "thread_id": "1480224070413979648"
+    },
+    "1643a7f8517fe6cb0d76c3e36695003970c9f24f1ee7d471ccc853908f8b3e7c": {
+      "canonical_url": "https://oss.kr/pages/10/4459?page=1&pageSize=10&searchKeyword=&searchType=",
+      "event_id": "1643a7f8517fe6cb0d76c3e36695003970c9f24f1ee7d471ccc853908f8b3e7c",
+      "message_id": "1481072737261977828",
+      "posted": true,
+      "posted_at": "2026-03-11T08:33:47.502226+09:00",
+      "source_title": "26년 오픈소스 컨트리뷰션 아카데미 [체험형] 멘티 모집",
+      "tags": [
+        "오프라인",
+        "공모전/대회",
+        "교육/부트캠프"
+      ],
+      "thread_id": "1481072737261977828"
     },
     "2b13c477a81db81420422a7e5ac0f8518d86a649f6a56aa38542ab12d0d504bc": {
       "canonical_url": "https://daker.ai/public/hackathons/vibe-coding-improvement-ai-idea-competition",
@@ -145,6 +173,19 @@
         "클라우드"
       ],
       "thread_id": "1480224174390644788"
+    },
+    "469acc526e3f213b04c9074d8c2358aefa866d0e14d28c23b5b64dd245048d9d": {
+      "canonical_url": "https://onoffmix.com/event/339234",
+      "event_id": "469acc526e3f213b04c9074d8c2358aefa866d0e14d28c23b5b64dd245048d9d",
+      "message_id": "1481072696543547554",
+      "posted": true,
+      "posted_at": "2026-03-11T08:33:47.502226+09:00",
+      "source_title": "C# 개발자 모임: Dot4 밋업",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나"
+      ],
+      "thread_id": "1481072696543547554"
     },
     "503b640aee794fdc3223e8ae9efa4c75199eb32e19ee1b36e26a00333e31e0ef": {
       "canonical_url": "https://ktcloud-techup.com/backend",
@@ -216,6 +257,20 @@
       ],
       "thread_id": "1480224324165046454"
     },
+    "7023b3e617924aa23ae6f0122dfedd0f0361064f470bba9ef7541a4725d7d1e9": {
+      "canonical_url": "https://ticketa.co/event/8gaujr23",
+      "event_id": "7023b3e617924aa23ae6f0122dfedd0f0361064f470bba9ef7541a4725d7d1e9",
+      "message_id": "1481072711689044190",
+      "posted": true,
+      "posted_at": "2026-03-11T08:33:47.502226+09:00",
+      "source_title": "Global AI AgentCamp 2026 in Daegu",
+      "tags": [
+        "오프라인",
+        "AI",
+        "교육/부트캠프"
+      ],
+      "thread_id": "1481072711689044190"
+    },
     "7de2c2cf2707e660c2c46dcc69207fa1ae596a99fd80207cc4f20d6600cd01d7": {
       "canonical_url": "https://luma.com/4scwh5tv",
       "event_id": "7de2c2cf2707e660c2c46dcc69207fa1ae596a99fd80207cc4f20d6600cd01d7",
@@ -229,6 +284,34 @@
         "컨퍼런스/세미나"
       ],
       "thread_id": "1480224212231913513"
+    },
+    "85dff067d94ab9a6a3a91506fc44237f1764d6145b277619ab0b4b2f2ece8741": {
+      "canonical_url": "https://vedacademy.co.kr/",
+      "event_id": "85dff067d94ab9a6a3a91506fc44237f1764d6145b277619ab0b4b2f2ece8741",
+      "message_id": "1481072682073198723",
+      "posted": true,
+      "posted_at": "2026-03-11T08:33:47.502226+09:00",
+      "source_title": "한화비전 Vision’s Edge Device Academy 4기",
+      "tags": [
+        "오프라인",
+        "AI",
+        "교육/부트캠프"
+      ],
+      "thread_id": "1481072682073198723"
+    },
+    "86e8b340a6869f76fb2d9a0f8553260ea3c66a5e2bc7af326ca7405da0c916c0": {
+      "canonical_url": "https://cossmoss.vercel.app/",
+      "event_id": "86e8b340a6869f76fb2d9a0f8553260ea3c66a5e2bc7af326ca7405da0c916c0",
+      "message_id": "1481072724167364653",
+      "posted": true,
+      "posted_at": "2026-03-11T08:33:47.502226+09:00",
+      "source_title": "[COSMOS] 4주 만에 내 아이디어가 서비스가 됩니다",
+      "tags": [
+        "오프라인",
+        "AI",
+        "교육/부트캠프"
+      ],
+      "thread_id": "1481072724167364653"
     },
     "89bc947aaf126b5f54a25d1b02a2826547988f0050c32df95437a4e440656e07": {
       "canonical_url": "https://smarttechkorea.com/Main",
@@ -320,6 +403,20 @@
       ],
       "thread_id": "1480224034301018142"
     },
+    "bb5ad22703dd706d311724dcc93e79245ff18fa0d51f5691e493643795c8ef46": {
+      "canonical_url": "https://tech.goorm.io/2603_commit",
+      "event_id": "bb5ad22703dd706d311724dcc93e79245ff18fa0d51f5691e493643795c8ef46",
+      "message_id": "1481072625957470511",
+      "posted": true,
+      "posted_at": "2026-03-11T08:33:47.502226+09:00",
+      "source_title": "kMoAI-ADK 개발기: AI 코딩 에이전트를 통제와 자율의 균형 속에 두는 길",
+      "tags": [
+        "오프라인",
+        "AI",
+        "컨퍼런스/세미나"
+      ],
+      "thread_id": "1481072625957470511"
+    },
     "c27422889148ab74ad560cee6f5baad274d1afe3992ddc16180d78e622b347b9": {
       "canonical_url": "https://worlditshow.co.kr/introduce/01.php",
       "event_id": "c27422889148ab74ad560cee6f5baad274d1afe3992ddc16180d78e622b347b9",
@@ -343,6 +440,20 @@
         "AI"
       ],
       "thread_id": "1480224294129893518"
+    },
+    "c7dfb4fc864b8f92f3d409c9bf6b11de8b4d91a35e952e97567fce504936f44b": {
+      "canonical_url": "https://ticketa.co/event/gy6ybl8f",
+      "event_id": "c7dfb4fc864b8f92f3d409c9bf6b11de8b4d91a35e952e97567fce504936f44b",
+      "message_id": "1481072668730982574",
+      "posted": true,
+      "posted_at": "2026-03-11T08:33:47.502226+09:00",
+      "source_title": "K-DEVCON 3월 DevB∞st 밋업",
+      "tags": [
+        "오프라인",
+        "AI",
+        "컨퍼런스/세미나"
+      ],
+      "thread_id": "1481072668730982574"
     },
     "c955d3f5068d2710fc127b0983b59ba8835df06b3a65682fd2f675d890f8d643": {
       "canonical_url": "https://kipfa.or.kr/Seminar/SeminarReView.aspx?eduSeqNo=1512",
