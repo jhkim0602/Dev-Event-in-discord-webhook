@@ -379,6 +379,20 @@
       ],
       "thread_id": "1480224166849548453"
     },
+    "a9203d6353e3edca1e089958c758572734c465f91313faf433cb38126c69ec11": {
+      "canonical_url": "https://ticketa.co/event/nv2atyow",
+      "event_id": "a9203d6353e3edca1e089958c758572734c465f91313faf433cb38126c69ec11",
+      "message_id": "1482522216284557412",
+      "posted": true,
+      "posted_at": "2026-03-15T08:33:57.544686+09:00",
+      "source_title": "Flutter Incheon Monthly Meetup",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "교육/부트캠프"
+      ],
+      "thread_id": "1482522216284557412"
+    },
     "afa854af684f5258a54983850c40ea2f03c9c4bcae3a4d5c3bd49f55d9d67b08": {
       "canonical_url": "https://lp.jetbrains.com/intellij-idea-conf-2026",
       "event_id": "afa854af684f5258a54983850c40ea2f03c9c4bcae3a4d5c3bd49f55d9d67b08",
@@ -426,6 +440,20 @@
       "source_title": "2026 월드IT쇼",
       "tags": [],
       "thread_id": null
+    },
+    "c2fad63a799349d0396e25e83d4f502a3e624f204274fe85253dedc8a667b1ed": {
+      "canonical_url": "https://github.com/ts-backend-meetup-ts/meetup",
+      "event_id": "c2fad63a799349d0396e25e83d4f502a3e624f204274fe85253dedc8a667b1ed",
+      "message_id": "1482522230524088334",
+      "posted": true,
+      "posted_at": "2026-03-15T08:33:57.544686+09:00",
+      "source_title": "TypeScript Backend Meetup",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "커리어"
+      ],
+      "thread_id": "1482522230524088334"
     },
     "c590d375ebb9bf0d5785f81ab53c2bd0b894babed57c10615343440e4e15f701": {
       "canonical_url": "https://event-us.kr/powerplatform/event/121503",
@@ -475,6 +503,20 @@
       "tags": [],
       "thread_id": null
     },
+    "dbeb8fcd741a0bcc319200ee3c1656b88ecf237fd3a23863970a43e46d9d9ba0": {
+      "canonical_url": "https://luma.com/kxoq82yq",
+      "event_id": "dbeb8fcd741a0bcc319200ee3c1656b88ecf237fd3a23863970a43e46d9d9ba0",
+      "message_id": "1482522239554424883",
+      "posted": true,
+      "posted_at": "2026-03-15T08:33:57.544686+09:00",
+      "source_title": "Ralphthon @SF sponsored by OpenAI",
+      "tags": [
+        "오프라인",
+        "공모전/대회",
+        "AI"
+      ],
+      "thread_id": "1482522239554424883"
+    },
     "e222c59c4cb740ee2037b20786f6a44b84cb25b4886cf680493acd936340b59c": {
       "canonical_url": "https://meetup.com/awskrug/events/313352636",
       "event_id": "e222c59c4cb740ee2037b20786f6a44b84cb25b4886cf680493acd936340b59c",
@@ -488,6 +530,20 @@
         "컨퍼런스/세미나"
       ],
       "thread_id": "1480224200789594192"
+    },
+    "f779ede8562c148b5423579b125884892c481297ae9147d241c44966f849dddb": {
+      "canonical_url": "https://biz.modulabs.co.kr/event/425",
+      "event_id": "f779ede8562c148b5423579b125884892c481297ae9147d241c44966f849dddb",
+      "message_id": "1482522250455420988",
+      "posted": true,
+      "posted_at": "2026-03-15T08:33:57.544686+09:00",
+      "source_title": "모두의 AI Agent: 실험 과정을 듣다",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1482522250455420988"
     }
   },
   "version": 1
