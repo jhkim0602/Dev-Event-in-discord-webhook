@@ -24,6 +24,20 @@
       "tags": [],
       "thread_id": null
     },
+    "061663bb97b68f5a3001c73aa674bf043c0b7d8fc82deafde852c38d1511d499": {
+      "canonical_url": "https://events.teams.microsoft.com/event/b1532464-68b5-4997-825d-bc3430d621a3@97f42f55-f1db-4804-b1eb-08db083efd4f",
+      "event_id": "061663bb97b68f5a3001c73aa674bf043c0b7d8fc82deafde852c38d1511d499",
+      "message_id": "1483972115383455906",
+      "posted": true,
+      "posted_at": "2026-03-19T08:35:21.633142+09:00",
+      "source_title": "Type비즈니스 리더를 위한 Agent Hackathon",
+      "tags": [
+        "온라인",
+        "해커톤",
+        "AI"
+      ],
+      "thread_id": "1483972115383455906"
+    },
     "09bf4024e0d059ee13e5cfa0f885a6729cd5a611177f367d2d0c9c01d9352db2": {
       "canonical_url": "https://event-us.kr/naekyehs/event/120945",
       "event_id": "09bf4024e0d059ee13e5cfa0f885a6729cd5a611177f367d2d0c9c01d9352db2",
@@ -188,6 +202,20 @@
       ],
       "thread_id": "1480224125846032546"
     },
+    "3cf6adbd1518d5f5f10f64ae93f827646edf5f9dc9b2ec3e77087964770243e8": {
+      "canonical_url": "https://2026datacontest.co.kr/",
+      "event_id": "3cf6adbd1518d5f5f10f64ae93f827646edf5f9dc9b2ec3e77087964770243e8",
+      "message_id": "1483972235403464805",
+      "posted": true,
+      "posted_at": "2026-03-19T08:35:21.633142+09:00",
+      "source_title": "제5회 고용노동 공공데이터·AI 활용 공모전",
+      "tags": [
+        "오프라인",
+        "공모전/대회",
+        "AI"
+      ],
+      "thread_id": "1483972235403464805"
+    },
     "457f64606ed89bebbf185396eeac869050dd2d82bc17cdcdf7cc17e4d28b1f72": {
       "canonical_url": "https://ktcloud-techup.com/fullstack",
       "event_id": "457f64606ed89bebbf185396eeac869050dd2d82bc17cdcdf7cc17e4d28b1f72",
@@ -285,6 +313,20 @@
       ],
       "thread_id": "1480224324165046454"
     },
+    "626903afbf63a947fc9413378e1a99eaa3ad86f2125a758f21a8dbdd7a5b480c": {
+      "canonical_url": "http://koreaitac.com/2025/landing/vibe_coding.asp",
+      "event_id": "626903afbf63a947fc9413378e1a99eaa3ad86f2125a758f21a8dbdd7a5b480c",
+      "message_id": "1483972174971666512",
+      "posted": true,
+      "posted_at": "2026-03-19T08:35:21.633142+09:00",
+      "source_title": "바이브코딩 공모전",
+      "tags": [
+        "온라인",
+        "공모전/대회",
+        "해커톤"
+      ],
+      "thread_id": "1483972174971666512"
+    },
     "7023b3e617924aa23ae6f0122dfedd0f0361064f470bba9ef7541a4725d7d1e9": {
       "canonical_url": "https://ticketa.co/event/8gaujr23",
       "event_id": "7023b3e617924aa23ae6f0122dfedd0f0361064f470bba9ef7541a4725d7d1e9",
@@ -364,6 +406,20 @@
       "source_title": "STK 스마트테크 코리아",
       "tags": [],
       "thread_id": null
+    },
+    "89e145f5aa5c09412529cb03e32ad2e80baf8e5f9946d43665a9e31bffd104c5": {
+      "canonical_url": "https://meetup.com/awskrug/events/313809952",
+      "event_id": "89e145f5aa5c09412529cb03e32ad2e80baf8e5f9946d43665a9e31bffd104c5",
+      "message_id": "1483972216793338007",
+      "posted": true,
+      "posted_at": "2026-03-19T08:35:21.633142+09:00",
+      "source_title": "AWSKRUG 서버리스 #Serverless 모임",
+      "tags": [
+        "오프라인",
+        "클라우드",
+        "컨퍼런스/세미나"
+      ],
+      "thread_id": "1483972216793338007"
     },
     "8abba11c32b9330537b826611dc7959c0b694adb3ff991c848ddb9362585b49b": {
       "canonical_url": "https://swmaestro.ai/sw/main/notifyMentee.do?menuNo=200091",
@@ -487,6 +543,20 @@
       ],
       "thread_id": "1481072625957470511"
     },
+    "bcc53c2c8e39a748e5df35c0dbeb83aff996c0011d5203466e3279bbf9ebcd73": {
+      "canonical_url": "https://meetup.com/awskrug/events/313714446",
+      "event_id": "bcc53c2c8e39a748e5df35c0dbeb83aff996c0011d5203466e3279bbf9ebcd73",
+      "message_id": "1483972184069247089",
+      "posted": true,
+      "posted_at": "2026-03-19T08:35:21.633142+09:00",
+      "source_title": "AWSKRUG #을지로 소모임",
+      "tags": [
+        "오프라인",
+        "AI",
+        "클라우드"
+      ],
+      "thread_id": "1483972184069247089"
+    },
     "c27422889148ab74ad560cee6f5baad274d1afe3992ddc16180d78e622b347b9": {
       "canonical_url": "https://worlditshow.co.kr/introduce/01.php",
       "event_id": "c27422889148ab74ad560cee6f5baad274d1afe3992ddc16180d78e622b347b9",
@@ -510,6 +580,20 @@
         "커리어"
       ],
       "thread_id": "1482522230524088334"
+    },
+    "c402da977610803ff21e7f0e1a8ef2484dedef98eb876859d66e8a16b2cfe816": {
+      "canonical_url": "https://meetup.com/awskrug/events/313831600",
+      "event_id": "c402da977610803ff21e7f0e1a8ef2484dedef98eb876859d66e8a16b2cfe816",
+      "message_id": "1483972193091194901",
+      "posted": true,
+      "posted_at": "2026-03-19T08:35:21.633142+09:00",
+      "source_title": "AWSKRUG #AIEngineering 소모임 - AWS 환경에서 비디오 인텔리전스 구현하기",
+      "tags": [
+        "오프라인",
+        "AI",
+        "클라우드"
+      ],
+      "thread_id": "1483972193091194901"
     },
     "c590d375ebb9bf0d5785f81ab53c2bd0b894babed57c10615343440e4e15f701": {
       "canonical_url": "https://event-us.kr/powerplatform/event/121503",
@@ -548,6 +632,20 @@
       "source_title": "2026 인터넷서비스 트렌드 컨퍼런스",
       "tags": [],
       "thread_id": null
+    },
+    "c9df077adcf6779c358bb89ccef6739280c832bb93fd1e979155ba9f20ab9b4c": {
+      "canonical_url": "https://meetup.com/awskrug/events/313678685",
+      "event_id": "c9df077adcf6779c358bb89ccef6739280c832bb93fd1e979155ba9f20ab9b4c",
+      "message_id": "1483972204713611487",
+      "posted": true,
+      "posted_at": "2026-03-19T08:35:21.633142+09:00",
+      "source_title": "AWSKRUG 아키텍처 #PlatformEngineering 플랫폼엔지니어링 소모임",
+      "tags": [
+        "오프라인",
+        "클라우드",
+        "컨퍼런스/세미나"
+      ],
+      "thread_id": "1483972204713611487"
     },
     "d85fc2fb07c66e67690ae70444a7766c97f3ca70e17165a3f60fc80340129d83": {
       "canonical_url": "https://onoffmix.com/event/336585",
