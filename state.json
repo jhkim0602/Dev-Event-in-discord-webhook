@@ -313,6 +313,20 @@
       ],
       "thread_id": "1480224324165046454"
     },
+    "61fd89d2c7e0554311faebd5b4a53909f8370e0c6009ddcbb0aa475d40237efc": {
+      "canonical_url": "https://pathfinder.camp/event-details/12wol-ui-paeseuwodeu-1-1",
+      "event_id": "61fd89d2c7e0554311faebd5b4a53909f8370e0c6009ddcbb0aa475d40237efc",
+      "message_id": "1485058314223095848",
+      "posted": true,
+      "posted_at": "2026-03-22T08:31:30.089985+09:00",
+      "source_title": "인공지능 활용(AI-assisted) 뮤직 프로듀싱의 실제: 워크숍 Part.2 (SUNO 기반)",
+      "tags": [
+        "오프라인",
+        "AI",
+        "교육/부트캠프"
+      ],
+      "thread_id": "1485058314223095848"
+    },
     "626903afbf63a947fc9413378e1a99eaa3ad86f2125a758f21a8dbdd7a5b480c": {
       "canonical_url": "http://koreaitac.com/2025/landing/vibe_coding.asp",
       "event_id": "626903afbf63a947fc9413378e1a99eaa3ad86f2125a758f21a8dbdd7a5b480c",
@@ -476,6 +490,20 @@
         "컨퍼런스/세미나"
       ],
       "thread_id": "1480224166849548453"
+    },
+    "a709f433fada743aa379ec02d8e7238fd34d6a840cb20ce8a9c89f429a0ffe36": {
+      "canonical_url": "https://ticketa.co/event/871axvkx",
+      "event_id": "a709f433fada743aa379ec02d8e7238fd34d6a840cb20ce8a9c89f429a0ffe36",
+      "message_id": "1485058367872569475",
+      "posted": true,
+      "posted_at": "2026-03-22T08:31:30.089985+09:00",
+      "source_title": "２０２６ Build with AI Golang Korea",
+      "tags": [
+        "오프라인",
+        "AI",
+        "컨퍼런스/세미나"
+      ],
+      "thread_id": "1485058367872569475"
     },
     "a9203d6353e3edca1e089958c758572734c465f91313faf433cb38126c69ec11": {
       "canonical_url": "https://ticketa.co/event/nv2atyow",
@@ -647,6 +675,34 @@
       ],
       "thread_id": "1483972204713611487"
     },
+    "cd548f3f4b12a1a41e352266dd9f21bf9e662aed9b8386bd3d921d887e82932c": {
+      "canonical_url": "https://event.wanted.co.kr/WATN",
+      "event_id": "cd548f3f4b12a1a41e352266dd9f21bf9e662aed9b8386bd3d921d887e82932c",
+      "message_id": "1485058331222474923",
+      "posted": true,
+      "posted_at": "2026-03-22T08:31:30.089985+09:00",
+      "source_title": "Wanted AI Tech Night",
+      "tags": [
+        "오프라인",
+        "AI",
+        "커리어"
+      ],
+      "thread_id": "1485058331222474923"
+    },
+    "d1110b217910b84bc53b591c99fb8dcf6aa8da27f66b0b6f522fec4b51ac1317": {
+      "canonical_url": "https://rocketpunch.com/event/8V7auSHYUe",
+      "event_id": "d1110b217910b84bc53b591c99fb8dcf6aa8da27f66b0b6f522fec4b51ac1317",
+      "message_id": "1485058347622469735",
+      "posted": true,
+      "posted_at": "2026-03-22T08:31:30.089985+09:00",
+      "source_title": "Claude Code 실전 활용 밋업 - AI 코딩의 새로운 패러다임",
+      "tags": [
+        "오프라인",
+        "AI",
+        "컨퍼런스/세미나"
+      ],
+      "thread_id": "1485058347622469735"
+    },
     "d85fc2fb07c66e67690ae70444a7766c97f3ca70e17165a3f60fc80340129d83": {
       "canonical_url": "https://onoffmix.com/event/336585",
       "event_id": "d85fc2fb07c66e67690ae70444a7766c97f3ca70e17165a3f60fc80340129d83",
@@ -685,6 +741,20 @@
       ],
       "thread_id": "1480224200789594192"
     },
+    "edb45d0e541faa9529a7024270fae7851074395285766cb409b0953fe6e5f706": {
+      "canonical_url": "https://mongodb.com/ko-kr/events/mongodb-local/seoul",
+      "event_id": "edb45d0e541faa9529a7024270fae7851074395285766cb409b0953fe6e5f706",
+      "message_id": "1485058384788197386",
+      "posted": true,
+      "posted_at": "2026-03-22T08:31:30.089985+09:00",
+      "source_title": "MongoDB .local Seoul",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "클라우드"
+      ],
+      "thread_id": "1485058384788197386"
+    },
     "f779ede8562c148b5423579b125884892c481297ae9147d241c44966f849dddb": {
       "canonical_url": "https://biz.modulabs.co.kr/event/425",
       "event_id": "f779ede8562c148b5423579b125884892c481297ae9147d241c44966f849dddb",
@@ -698,6 +768,20 @@
         "AI"
       ],
       "thread_id": "1482522250455420988"
+    },
+    "fbcd018ad2d2a93191b4b39eedf65a02b96d3cb819ee7f646b6743e9c08b2692": {
+      "canonical_url": "https://snowflake.com/snowflake-hackathon-2026-korea",
+      "event_id": "fbcd018ad2d2a93191b4b39eedf65a02b96d3cb819ee7f646b6743e9c08b2692",
+      "message_id": "1485058355725734070",
+      "posted": true,
+      "posted_at": "2026-03-22T08:31:30.089985+09:00",
+      "source_title": "SNOWFLAKE Hackathon 2026",
+      "tags": [
+        "오프라인",
+        "해커톤",
+        "AI"
+      ],
+      "thread_id": "1485058355725734070"
     }
   },
   "version": 1
