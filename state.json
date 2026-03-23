@@ -52,6 +52,20 @@
       ],
       "thread_id": "1480224243596791980"
     },
+    "0dea980cabea7110b8217274d0f229d0283df4c06454a7722acc886d60696e2b": {
+      "canonical_url": "https://receptive-timpani-972.notion.site/STACK-UP-5-35e8c015421b83acb87d81477dbcab2d",
+      "event_id": "0dea980cabea7110b8217274d0f229d0283df4c06454a7722acc886d60696e2b",
+      "message_id": "1485784935045529783",
+      "posted": true,
+      "posted_at": "2026-03-24T08:38:45.398820+09:00",
+      "source_title": "STACK-UP 서울 코딩 연합 동아리 부트캠프 멤버모집",
+      "tags": [
+        "오프라인",
+        "교육/부트캠프",
+        "커리어"
+      ],
+      "thread_id": "1485784935045529783"
+    },
     "0f7f5bc608f47103668bbf391f1497f01bc33a8ad221c4c9d49c69369c3c4f48": {
       "canonical_url": "https://dev-korea.com/ko/events/dev-korea-7-march-2026",
       "event_id": "0f7f5bc608f47103668bbf391f1497f01bc33a8ad221c4c9d49c69369c3c4f48",
@@ -243,6 +257,20 @@
       ],
       "thread_id": "1481072696543547554"
     },
+    "4c2854934319d132c8345d8658a4d5aa72ee1f19e3f33c3261932c10282e32de": {
+      "canonical_url": "https://rocketpunch.com/event/jXv3f6Ri5f",
+      "event_id": "4c2854934319d132c8345d8658a4d5aa72ee1f19e3f33c3261932c10282e32de",
+      "message_id": "1485784954439864360",
+      "posted": true,
+      "posted_at": "2026-03-24T08:38:45.398820+09:00",
+      "source_title": "AI Agent Night — Claude Code(클로드 코드) 실전 바이브 코딩",
+      "tags": [
+        "오프라인",
+        "AI",
+        "컨퍼런스/세미나"
+      ],
+      "thread_id": "1485784954439864360"
+    },
     "503b640aee794fdc3223e8ae9efa4c75199eb32e19ee1b36e26a00333e31e0ef": {
       "canonical_url": "https://ktcloud-techup.com/backend",
       "event_id": "503b640aee794fdc3223e8ae9efa4c75199eb32e19ee1b36e26a00333e31e0ef",
@@ -270,6 +298,20 @@
         "커리어"
       ],
       "thread_id": "1480224059206799473"
+    },
+    "557c03de7ac0635f446243c3dd77fa1717493a99becf32cf7927389604127635": {
+      "canonical_url": "https://rocketpunch.com/event/qpEDqb19Ey",
+      "event_id": "557c03de7ac0635f446243c3dd77fa1717493a99becf32cf7927389604127635",
+      "message_id": "1485784945111601154",
+      "posted": true,
+      "posted_at": "2026-03-24T08:38:45.398820+09:00",
+      "source_title": "AI Agent Night — OpenClaw 핸즈온 워크숍",
+      "tags": [
+        "오프라인",
+        "AI",
+        "교육/부트캠프"
+      ],
+      "thread_id": "1485784945111601154"
     },
     "55813d60d6f632c609648e02e9c105e3b4c700232aaf17ee0b59df0d1af31ffc": {
       "canonical_url": "https://aitop100.org/",
@@ -354,6 +396,34 @@
         "교육/부트캠프"
       ],
       "thread_id": "1481072711689044190"
+    },
+    "7645031899004047841a194a99d7b20bf5ba7c9055831c7239c765868a60e09e": {
+      "canonical_url": "https://meetup.com/awskrug/events/313714237",
+      "event_id": "7645031899004047841a194a99d7b20bf5ba7c9055831c7239c765868a60e09e",
+      "message_id": "1485784924651917392",
+      "posted": true,
+      "posted_at": "2026-03-24T08:38:45.398820+09:00",
+      "source_title": "AWSKRUG 아키텍처 #architecture x 플랫폼엔지니어링 #PlatformEngineering",
+      "tags": [
+        "오프라인",
+        "클라우드",
+        "컨퍼런스/세미나"
+      ],
+      "thread_id": "1485784924651917392"
+    },
+    "777fcef3057d33dc7aa7ae27b55109047856a8509312d557680883b29161475c": {
+      "canonical_url": "https://msevents.microsoft.com/event?id=20263385430908",
+      "event_id": "777fcef3057d33dc7aa7ae27b55109047856a8509312d557680883b29161475c",
+      "message_id": "1485784913276964967",
+      "posted": true,
+      "posted_at": "2026-03-24T08:38:45.398820+09:00",
+      "source_title": "Microsoft Startup Connection 2026",
+      "tags": [
+        "오프라인",
+        "AI",
+        "컨퍼런스/세미나"
+      ],
+      "thread_id": "1485784913276964967"
     },
     "7de2c2cf2707e660c2c46dcc69207fa1ae596a99fd80207cc4f20d6600cd01d7": {
       "canonical_url": "https://luma.com/4scwh5tv",
