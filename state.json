@@ -174,6 +174,34 @@
       ],
       "thread_id": "1481072737261977828"
     },
+    "1d1a2ecb6341d738fc1dbfb22dfb28cc4c0ad824fc5bca67bcee1161c2258d7b": {
+      "canonical_url": "https://dev-korea.com/events/design-korea-0-april-2026",
+      "event_id": "1d1a2ecb6341d738fc1dbfb22dfb28cc4c0ad824fc5bca67bcee1161c2258d7b",
+      "message_id": "1486510365868298280",
+      "posted": true,
+      "posted_at": "2026-03-26T08:41:09.275578+09:00",
+      "source_title": "Design Korea #0 with Figma",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "커리어"
+      ],
+      "thread_id": "1486510365868298280"
+    },
+    "1ff8691b2c4c7f7ddcd5faa20a96891506afe75129bbc94a4f2a8f1a4b42fda8": {
+      "canonical_url": "https://meetup.com/awskrug/events/313880043",
+      "event_id": "1ff8691b2c4c7f7ddcd5faa20a96891506afe75129bbc94a4f2a8f1a4b42fda8",
+      "message_id": "1486510335962648606",
+      "posted": true,
+      "posted_at": "2026-03-26T08:41:09.275578+09:00",
+      "source_title": "AWSKRUG 구로디지털 #gudi 소모임",
+      "tags": [
+        "오프라인",
+        "클라우드",
+        "AI"
+      ],
+      "thread_id": "1486510335962648606"
+    },
     "2b13c477a81db81420422a7e5ac0f8518d86a649f6a56aa38542ab12d0d504bc": {
       "canonical_url": "https://daker.ai/public/hackathons/vibe-coding-improvement-ai-idea-competition",
       "event_id": "2b13c477a81db81420422a7e5ac0f8518d86a649f6a56aa38542ab12d0d504bc",
@@ -411,6 +439,20 @@
       ],
       "thread_id": "1485784924651917392"
     },
+    "76d61b6e97f0fc41784dd2b403bf59d719ee616d53393560c9121bd5c527769a": {
+      "canonical_url": "https://ticketa.co/event/dyaiayw5",
+      "event_id": "76d61b6e97f0fc41784dd2b403bf59d719ee616d53393560c9121bd5c527769a",
+      "message_id": "1486510346515517611",
+      "posted": true,
+      "posted_at": "2026-03-26T08:41:09.275578+09:00",
+      "source_title": "GitHub Copilot Dev Days | Seoul",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1486510346515517611"
+    },
     "777fcef3057d33dc7aa7ae27b55109047856a8509312d557680883b29161475c": {
       "canonical_url": "https://msevents.microsoft.com/event?id=20263385430908",
       "event_id": "777fcef3057d33dc7aa7ae27b55109047856a8509312d557680883b29161475c",
@@ -452,6 +494,20 @@
         "컨퍼런스/세미나"
       ],
       "thread_id": "1483247687103938723"
+    },
+    "81b1100aeb6c63dc7ffa8dac9d5289f26a2a23197c77205c2e2035972144a062": {
+      "canonical_url": "https://ticketa.co/event/6jmbrcab",
+      "event_id": "81b1100aeb6c63dc7ffa8dac9d5289f26a2a23197c77205c2e2035972144a062",
+      "message_id": "1486510304023019660",
+      "posted": true,
+      "posted_at": "2026-03-26T08:41:09.275578+09:00",
+      "source_title": "Build with AI 2026 - GDG Korea Android",
+      "tags": [
+        "오프라인",
+        "AI",
+        "컨퍼런스/세미나"
+      ],
+      "thread_id": "1486510304023019660"
     },
     "85dff067d94ab9a6a3a91506fc44237f1764d6145b277619ab0b4b2f2ece8741": {
       "canonical_url": "https://vedacademy.co.kr/",
@@ -773,6 +829,20 @@
       ],
       "thread_id": "1485058347622469735"
     },
+    "d53b1a8318312e31a9bc3f24c02726f8d2ad60a2fdd3cbb3d5c730489f3dc309": {
+      "canonical_url": "https://devmento.co.kr/seminas/agentic2026.html",
+      "event_id": "d53b1a8318312e31a9bc3f24c02726f8d2ad60a2fdd3cbb3d5c730489f3dc309",
+      "message_id": "1486510291880513657",
+      "posted": true,
+      "posted_at": "2026-03-26T08:41:09.275578+09:00",
+      "source_title": "Agentic Workflow 2026: AI 에이전트 주도 개발 실전 컨퍼런스",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1486510291880513657"
+    },
     "d85fc2fb07c66e67690ae70444a7766c97f3ca70e17165a3f60fc80340129d83": {
       "canonical_url": "https://onoffmix.com/event/336585",
       "event_id": "d85fc2fb07c66e67690ae70444a7766c97f3ca70e17165a3f60fc80340129d83",
@@ -797,6 +867,20 @@
       ],
       "thread_id": "1482522239554424883"
     },
+    "df3c1ea407a790736d013c9a132e07515068889680473c0c26a29ba5fe1f5606": {
+      "canonical_url": "https://ticketa.co/event/dtdi6msi",
+      "event_id": "df3c1ea407a790736d013c9a132e07515068889680473c0c26a29ba5fe1f5606",
+      "message_id": "1486510317444923455",
+      "posted": true,
+      "posted_at": "2026-03-26T08:41:09.275578+09:00",
+      "source_title": "Grafana & Friends Seoul #1: AI 시대의 SRE와 모니터링",
+      "tags": [
+        "오프라인",
+        "AI",
+        "컨퍼런스/세미나"
+      ],
+      "thread_id": "1486510317444923455"
+    },
     "e222c59c4cb740ee2037b20786f6a44b84cb25b4886cf680493acd936340b59c": {
       "canonical_url": "https://meetup.com/awskrug/events/313352636",
       "event_id": "e222c59c4cb740ee2037b20786f6a44b84cb25b4886cf680493acd936340b59c",
@@ -810,6 +894,19 @@
         "컨퍼런스/세미나"
       ],
       "thread_id": "1480224200789594192"
+    },
+    "e8c847566038e5d82d96a055b14bc83e564f05e44188fdea2ba50ed63b342ad1": {
+      "canonical_url": "https://ticketa.co/event/taitwvzz",
+      "event_id": "e8c847566038e5d82d96a055b14bc83e564f05e44188fdea2ba50ed63b342ad1",
+      "message_id": "1486510379554050071",
+      "posted": true,
+      "posted_at": "2026-03-26T08:41:09.275578+09:00",
+      "source_title": "Ubuntu 26.04 LTS Release Party & InstallFest @Daejeon",
+      "tags": [
+        "오프라인",
+        "온라인"
+      ],
+      "thread_id": "1486510379554050071"
     },
     "edb45d0e541faa9529a7024270fae7851074395285766cb409b0953fe6e5f706": {
       "canonical_url": "https://mongodb.com/ko-kr/events/mongodb-local/seoul",
