@@ -313,6 +313,20 @@
       ],
       "thread_id": "1485784954439864360"
     },
+    "4ebd6dc4b9b1119e84ef632e7ac0a34e00e84318d44dccd09e7a9fd69a2b5115": {
+      "canonical_url": "https://sites.google.com/view/2026-study-jams/h1-study-jam",
+      "event_id": "4ebd6dc4b9b1119e84ef632e7ac0a34e00e84318d44dccd09e7a9fd69a2b5115",
+      "message_id": "1488322244311781447",
+      "posted": true,
+      "posted_at": "2026-03-31T08:41:12.751556+09:00",
+      "source_title": "2026 구글 클라우드 스터디잼",
+      "tags": [
+        "온라인",
+        "교육/부트캠프",
+        "클라우드"
+      ],
+      "thread_id": "1488322244311781447"
+    },
     "503b640aee794fdc3223e8ae9efa4c75199eb32e19ee1b36e26a00333e31e0ef": {
       "canonical_url": "https://ktcloud-techup.com/backend",
       "event_id": "503b640aee794fdc3223e8ae9efa4c75199eb32e19ee1b36e26a00333e31e0ef",
@@ -466,6 +480,20 @@
         "교육/부트캠프"
       ],
       "thread_id": "1481072711689044190"
+    },
+    "7166f156fa999e34c7d0077191d90672a8f9faafc14f98196d560a95521fafd3": {
+      "canonical_url": "https://xn--hrd-5b7m58oe6hhrj.kr/ideachallenge",
+      "event_id": "7166f156fa999e34c7d0077191d90672a8f9faafc14f98196d560a95521fafd3",
+      "message_id": "1488322301228351629",
+      "posted": true,
+      "posted_at": "2026-03-31T08:41:12.751556+09:00",
+      "source_title": "HRD 미래산업인재혁신박람회 AI 아이디어 챌린지",
+      "tags": [
+        "온라인",
+        "공모전/대회",
+        "AI"
+      ],
+      "thread_id": "1488322301228351629"
     },
     "739c86592827a6f9b63c7e80ec631aa67b5aa9bc95e8742b7401a82f015f2bff": {
       "canonical_url": "https://fe.woowahan.com/surveys/web-frontend-ai-meetup",
@@ -770,6 +798,20 @@
       ],
       "thread_id": "1487596554146545776"
     },
+    "aeb94afea5689b8f6381faec6d7480b01c41bcd9c83588a10f58714031935ead": {
+      "canonical_url": "https://wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=viewok&gp=1&ix=105710",
+      "event_id": "aeb94afea5689b8f6381faec6d7480b01c41bcd9c83588a10f58714031935ead",
+      "message_id": "1488322330064195584",
+      "posted": true,
+      "posted_at": "2026-03-31T08:41:12.751556+09:00",
+      "source_title": "2026 성남시 공공데이터 활용 시각화 경진대회",
+      "tags": [
+        "온라인",
+        "공모전/대회",
+        "AI"
+      ],
+      "thread_id": "1488322330064195584"
+    },
     "afa854af684f5258a54983850c40ea2f03c9c4bcae3a4d5c3bd49f55d9d67b08": {
       "canonical_url": "https://lp.jetbrains.com/intellij-idea-conf-2026",
       "event_id": "afa854af684f5258a54983850c40ea2f03c9c4bcae3a4d5c3bd49f55d9d67b08",
@@ -1047,6 +1089,20 @@
       ],
       "thread_id": "1485058384788197386"
     },
+    "f00568ceb192463f0bfaf0bdc007650245f571717ad9553c2ebd7fa6e71bab04": {
+      "canonical_url": "https://luma.com/d6xzrnyk",
+      "event_id": "f00568ceb192463f0bfaf0bdc007650245f571717ad9553c2ebd7fa6e71bab04",
+      "message_id": "1488322257272180848",
+      "posted": true,
+      "posted_at": "2026-03-31T08:41:12.751556+09:00",
+      "source_title": "localhost:web3 Open Lounge #1",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "커리어"
+      ],
+      "thread_id": "1488322257272180848"
+    },
     "f779ede8562c148b5423579b125884892c481297ae9147d241c44966f849dddb": {
       "canonical_url": "https://biz.modulabs.co.kr/event/425",
       "event_id": "f779ede8562c148b5423579b125884892c481297ae9147d241c44966f849dddb",
@@ -1060,6 +1116,20 @@
         "AI"
       ],
       "thread_id": "1482522250455420988"
+    },
+    "f80b3079e890194f515a1a65e40aedcfaaa81e226ebae4b2653a6a822a16f304": {
+      "canonical_url": "https://event-us.kr/kdf/event/122063",
+      "event_id": "f80b3079e890194f515a1a65e40aedcfaaa81e226ebae4b2653a6a822a16f304",
+      "message_id": "1488322287991128197",
+      "posted": true,
+      "posted_at": "2026-03-31T08:41:12.751556+09:00",
+      "source_title": "F.A.I.L 2026 (First Attempt In Learning)",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "커리어"
+      ],
+      "thread_id": "1488322287991128197"
     },
     "fbcd018ad2d2a93191b4b39eedf65a02b96d3cb819ee7f646b6743e9c08b2692": {
       "canonical_url": "https://snowflake.com/snowflake-hackathon-2026-korea",
