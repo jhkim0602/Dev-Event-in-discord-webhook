@@ -258,6 +258,20 @@
       ],
       "thread_id": "1480224125846032546"
     },
+    "3283f97b9a33332725c95b1b3a815b457484d995d23d5c1690419cd008a00112": {
+      "canonical_url": "https://meetup.com/awskrug/events/314034548",
+      "event_id": "3283f97b9a33332725c95b1b3a815b457484d995d23d5c1690419cd008a00112",
+      "message_id": "1490496411551137944",
+      "posted": true,
+      "posted_at": "2026-04-06T08:40:09.849717+09:00",
+      "source_title": "Kiro 한국 사용자 모임 (2026-04)",
+      "tags": [
+        "오프라인",
+        "AI",
+        "클라우드"
+      ],
+      "thread_id": "1490496411551137944"
+    },
     "3cf6adbd1518d5f5f10f64ae93f827646edf5f9dc9b2ec3e77087964770243e8": {
       "canonical_url": "https://2026datacontest.co.kr/",
       "event_id": "3cf6adbd1518d5f5f10f64ae93f827646edf5f9dc9b2ec3e77087964770243e8",
@@ -453,6 +467,20 @@
       ],
       "thread_id": "1483972174971666512"
     },
+    "6b9215ba133c0ebf386fcc48037b22fa3ac072b103f7c2ab5ac772e35d6afb46": {
+      "canonical_url": "https://meetup.com/awskrug/events/314064008",
+      "event_id": "6b9215ba133c0ebf386fcc48037b22fa3ac072b103f7c2ab5ac772e35d6afb46",
+      "message_id": "1490496423324815430",
+      "posted": true,
+      "posted_at": "2026-04-06T08:40:09.849717+09:00",
+      "source_title": "AWSKRUG #magok 마곡 소모임 (4월 28일)",
+      "tags": [
+        "오프라인",
+        "클라우드",
+        "컨퍼런스/세미나"
+      ],
+      "thread_id": "1490496423324815430"
+    },
     "6ddba8e831dd6cb2d1fa23ee3ac65d093de9ebe0770b00a0e9b7e1a3235b6c85": {
       "canonical_url": "https://ai-champion.or.kr/",
       "event_id": "6ddba8e831dd6cb2d1fa23ee3ac65d093de9ebe0770b00a0e9b7e1a3235b6c85",
@@ -495,6 +523,20 @@
       ],
       "thread_id": "1488322301228351629"
     },
+    "725cc23eebdebbefcf500e3985b4fdcefb8f9ea42e46fc4899773be376ca98e5": {
+      "canonical_url": "https://luma.com/8nzr1zec",
+      "event_id": "725cc23eebdebbefcf500e3985b4fdcefb8f9ea42e46fc4899773be376ca98e5",
+      "message_id": "1490496332362944672",
+      "posted": true,
+      "posted_at": "2026-04-06T08:40:09.849717+09:00",
+      "source_title": "AI/InfraCon",
+      "tags": [
+        "오프라인",
+        "AI",
+        "컨퍼런스/세미나"
+      ],
+      "thread_id": "1490496332362944672"
+    },
     "739c86592827a6f9b63c7e80ec631aa67b5aa9bc95e8742b7401a82f015f2bff": {
       "canonical_url": "https://fe.woowahan.com/surveys/web-frontend-ai-meetup",
       "event_id": "739c86592827a6f9b63c7e80ec631aa67b5aa9bc95e8742b7401a82f015f2bff",
@@ -508,6 +550,20 @@
         "컨퍼런스/세미나"
       ],
       "thread_id": "1487596659868303360"
+    },
+    "73ff476aedb21039b0c4bfb111b69ef0cd4276394fdf635b768abe4a06a0a6e9": {
+      "canonical_url": "https://meetup.com/awskrug/events/314014265",
+      "event_id": "73ff476aedb21039b0c4bfb111b69ef0cd4276394fdf635b768abe4a06a0a6e9",
+      "message_id": "1490496353321746544",
+      "posted": true,
+      "posted_at": "2026-04-06T08:40:09.849717+09:00",
+      "source_title": "AWSKRUG 데브옵스 #DevOps 소모임 22번째 밋업",
+      "tags": [
+        "오프라인",
+        "클라우드",
+        "컨퍼런스/세미나"
+      ],
+      "thread_id": "1490496353321746544"
     },
     "7645031899004047841a194a99d7b20bf5ba7c9055831c7239c765868a60e09e": {
       "canonical_url": "https://meetup.com/awskrug/events/313714237",
@@ -550,6 +606,34 @@
         "컨퍼런스/세미나"
       ],
       "thread_id": "1485784913276964967"
+    },
+    "77e9e35d71233de64ff68b21fb0e6cf56087348570a75b444ed25280ad1e798e": {
+      "canonical_url": "https://luma.com/64ztqype",
+      "event_id": "77e9e35d71233de64ff68b21fb0e6cf56087348570a75b444ed25280ad1e798e",
+      "message_id": "1490496309856174100",
+      "posted": true,
+      "posted_at": "2026-04-06T08:40:09.849717+09:00",
+      "source_title": "코드를 짜는 AI 말고, 일하는 AI 이야기",
+      "tags": [
+        "오프라인",
+        "AI",
+        "컨퍼런스/세미나"
+      ],
+      "thread_id": "1490496309856174100"
+    },
+    "7c3346e3704148ebea6372a825fdbb598a55bb4e37fd5da2067e7c581662e242": {
+      "canonical_url": "https://luma.com/j06jbiks",
+      "event_id": "7c3346e3704148ebea6372a825fdbb598a55bb4e37fd5da2067e7c581662e242",
+      "message_id": "1490496364591841472",
+      "posted": true,
+      "posted_at": "2026-04-06T08:40:09.849717+09:00",
+      "source_title": "Seoul | Claude Code FDE Night",
+      "tags": [
+        "오프라인",
+        "AI",
+        "컨퍼런스/세미나"
+      ],
+      "thread_id": "1490496364591841472"
     },
     "7de2c2cf2707e660c2c46dcc69207fa1ae596a99fd80207cc4f20d6600cd01d7": {
       "canonical_url": "https://luma.com/4scwh5tv",
@@ -714,6 +798,20 @@
       ],
       "thread_id": "1480224268301369558"
     },
+    "a3edf00e320cbe210755f38b7de48fcf39412972a83065ded2370c3bad74d082": {
+      "canonical_url": "https://api.visitkorea.or.kr/",
+      "event_id": "a3edf00e320cbe210755f38b7de48fcf39412972a83065ded2370c3bad74d082",
+      "message_id": "1490496438625374400",
+      "posted": true,
+      "posted_at": "2026-04-06T08:40:09.849717+09:00",
+      "source_title": "2026 관광데이터 활용 공모전",
+      "tags": [
+        "온라인",
+        "공모전/대회",
+        "해커톤"
+      ],
+      "thread_id": "1490496438625374400"
+    },
     "a699790c5048add130cdebf17f4d468d91f82beb6386cf366cbf35ce4295a2d0": {
       "canonical_url": "https://rocketpunch.com/event/jsnrpnY24Q",
       "event_id": "a699790c5048add130cdebf17f4d468d91f82beb6386cf366cbf35ce4295a2d0",
@@ -770,6 +868,20 @@
       ],
       "thread_id": "1487596706383270111"
     },
+    "aa3ddc88fa17ccf377e59800cb697969b953adb0f4408dd72a8bfeaa44c7d5c6": {
+      "canonical_url": "https://meetup.com/awskrug/events/313959510",
+      "event_id": "aa3ddc88fa17ccf377e59800cb697969b953adb0f4408dd72a8bfeaa44c7d5c6",
+      "message_id": "1490496404202983454",
+      "posted": true,
+      "posted_at": "2026-04-06T08:40:09.849717+09:00",
+      "source_title": "AWSKRUG #container 🐳 소모임 - 4월 23일",
+      "tags": [
+        "오프라인",
+        "AI",
+        "클라우드"
+      ],
+      "thread_id": "1490496404202983454"
+    },
     "ab4101c330e600158312af8aeb2ec13289afd433b8a44e812b5472dc13ffbf34": {
       "canonical_url": "https://event-us.kr/FKH3nHkjmPGh/event/122301",
       "event_id": "ab4101c330e600158312af8aeb2ec13289afd433b8a44e812b5472dc13ffbf34",
@@ -821,6 +933,20 @@
       "source_title": "IntelliJ IDEA Conf 2026",
       "tags": [],
       "thread_id": null
+    },
+    "b82e85af4aefe7516de52af7865fa80d0e302bf3ef94d4a8c252f1d68ca2d14e": {
+      "canonical_url": "https://slashconnect.co.kr/webinar",
+      "event_id": "b82e85af4aefe7516de52af7865fa80d0e302bf3ef94d4a8c252f1d68ca2d14e",
+      "message_id": "1490496319582638123",
+      "posted": true,
+      "posted_at": "2026-04-06T08:40:09.849717+09:00",
+      "source_title": "슬래시커넥트 웨비나 — SLASH CONNECT",
+      "tags": [
+        "온라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1490496319582638123"
     },
     "b9b706bd62e53a07a5a9cba44f386454d1dd9122fabac2e02d36d0c1d1a7caf2": {
       "canonical_url": "https://meetup.com/awskrug/events/313475105",
@@ -916,6 +1042,20 @@
       ],
       "thread_id": "1480224294129893518"
     },
+    "c6957a8325b4c5cb5c1126177d62e6643a49214fb8621d8f4b28d3ad5da78976": {
+      "canonical_url": "https://luma.com/BuidlHack2026_FinalPitch",
+      "event_id": "c6957a8325b4c5cb5c1126177d62e6643a49214fb8621d8f4b28d3ad5da78976",
+      "message_id": "1490496376050811031",
+      "posted": true,
+      "posted_at": "2026-04-06T08:40:09.849717+09:00",
+      "source_title": "Buidl Hack 2026: Final Pitch",
+      "tags": [
+        "오프라인",
+        "공모전/대회",
+        "보안"
+      ],
+      "thread_id": "1490496376050811031"
+    },
     "c7dfb4fc864b8f92f3d409c9bf6b11de8b4d91a35e952e97567fce504936f44b": {
       "canonical_url": "https://ticketa.co/event/gy6ybl8f",
       "event_id": "c7dfb4fc864b8f92f3d409c9bf6b11de8b4d91a35e952e97567fce504936f44b",
@@ -996,6 +1136,20 @@
       ],
       "thread_id": "1486510291880513657"
     },
+    "d69fcb930ff2b955d9970ee1964ed8c302a839429579e07ca280fa81497596c4": {
+      "canonical_url": "https://meetup.com/awskrug/events/314038823",
+      "event_id": "d69fcb930ff2b955d9970ee1964ed8c302a839429579e07ca280fa81497596c4",
+      "message_id": "1490496391816941839",
+      "posted": true,
+      "posted_at": "2026-04-06T08:40:09.849717+09:00",
+      "source_title": "AWSKRUG IoT 소모임 \"Strands Agents 시작하기\" Hands-on Lab",
+      "tags": [
+        "오프라인",
+        "AI",
+        "클라우드"
+      ],
+      "thread_id": "1490496391816941839"
+    },
     "d85fc2fb07c66e67690ae70444a7766c97f3ca70e17165a3f60fc80340129d83": {
       "canonical_url": "https://onoffmix.com/event/336585",
       "event_id": "d85fc2fb07c66e67690ae70444a7766c97f3ca70e17165a3f60fc80340129d83",
@@ -1019,6 +1173,20 @@
         "AI"
       ],
       "thread_id": "1482522239554424883"
+    },
+    "ddc3ab63cd68b02abbe23917165a2cef3c7cd5835b3e87e0dce989fa8cd83775": {
+      "canonical_url": "https://meetup.com/seoul-ios-meetup/events/314103311",
+      "event_id": "ddc3ab63cd68b02abbe23917165a2cef3c7cd5835b3e87e0dce989fa8cd83775",
+      "message_id": "1490496343418867826",
+      "posted": true,
+      "posted_at": "2026-04-06T08:40:09.849717+09:00",
+      "source_title": "에이전트 기반 코딩 with Xcode & Gemini",
+      "tags": [
+        "오프라인",
+        "AI",
+        "교육/부트캠프"
+      ],
+      "thread_id": "1490496343418867826"
     },
     "df3c1ea407a790736d013c9a132e07515068889680473c0c26a29ba5fe1f5606": {
       "canonical_url": "https://ticketa.co/event/dtdi6msi",
@@ -1102,6 +1270,20 @@
         "커리어"
       ],
       "thread_id": "1488322257272180848"
+    },
+    "f585c4960917dc52c0d23393103a8850b2f8aafcfe18e0c1ec48e224dd4eb4ab": {
+      "canonical_url": "https://ictcocpiuda.imweb.me/",
+      "event_id": "f585c4960917dc52c0d23393103a8850b2f8aafcfe18e0c1ec48e224dd4eb4ab",
+      "message_id": "1490496455188676629",
+      "posted": true,
+      "posted_at": "2026-04-06T08:40:09.849717+09:00",
+      "source_title": "제16회 글로벌 피우다프로젝트 (한국·일본 노인돌봄 ICT솔루션 개발)",
+      "tags": [
+        "온라인",
+        "공모전/대회",
+        "해커톤"
+      ],
+      "thread_id": "1490496455188676629"
     },
     "f779ede8562c148b5423579b125884892c481297ae9147d241c44966f849dddb": {
       "canonical_url": "https://biz.modulabs.co.kr/event/425",
