@@ -38,6 +38,19 @@
       ],
       "thread_id": "1483972115383455906"
     },
+    "081b806ffc5f91d189c9acecc9d8c0e76c27b869733c18816b1623c2868ba41f": {
+      "canonical_url": "https://checkin-gwanak.or.kr/core?cid=58&role=programvopn&pSeq=1185&tab=",
+      "event_id": "081b806ffc5f91d189c9acecc9d8c0e76c27b869733c18816b1623c2868ba41f",
+      "message_id": "1492671005733421300",
+      "posted": true,
+      "posted_at": "2026-04-12T08:41:37.717862+09:00",
+      "source_title": "IT직무프리뷰 — AI/머신러닝 엔지니어편",
+      "tags": [
+        "온라인",
+        "AI"
+      ],
+      "thread_id": "1492671005733421300"
+    },
     "09bf4024e0d059ee13e5cfa0f885a6729cd5a611177f367d2d0c9c01d9352db2": {
       "canonical_url": "https://event-us.kr/naekyehs/event/120945",
       "event_id": "09bf4024e0d059ee13e5cfa0f885a6729cd5a611177f367d2d0c9c01d9352db2",
@@ -216,6 +229,20 @@
       ],
       "thread_id": "1487596695746252830"
     },
+    "24bd364f421e8a9f676cc9e0f2959c6723f098010ef08241189530468c763420": {
+      "canonical_url": "https://ticketa.co/event/rshxbzui",
+      "event_id": "24bd364f421e8a9f676cc9e0f2959c6723f098010ef08241189530468c763420",
+      "message_id": "1492671055611953337",
+      "posted": true,
+      "posted_at": "2026-04-12T08:41:37.717862+09:00",
+      "source_title": "미쳐라, 만들어라, 증명하라: Build with AI Hackathon 2026 in Daejeon",
+      "tags": [
+        "오프라인",
+        "해커톤",
+        "AI"
+      ],
+      "thread_id": "1492671055611953337"
+    },
     "2b13c477a81db81420422a7e5ac0f8518d86a649f6a56aa38542ab12d0d504bc": {
       "canonical_url": "https://daker.ai/public/hackathons/vibe-coding-improvement-ai-idea-competition",
       "event_id": "2b13c477a81db81420422a7e5ac0f8518d86a649f6a56aa38542ab12d0d504bc",
@@ -229,6 +256,20 @@
         "AI"
       ],
       "thread_id": "1480223996271136838"
+    },
+    "2d6e1b690a154387fa79fbdb8cba3d7557d770281f708ffd03a21c6eb160d7b0": {
+      "canonical_url": "https://ticketa.co/event/6u6vfsn9",
+      "event_id": "2d6e1b690a154387fa79fbdb8cba3d7557d770281f708ffd03a21c6eb160d7b0",
+      "message_id": "1492671043318579220",
+      "posted": true,
+      "posted_at": "2026-04-12T08:41:37.717862+09:00",
+      "source_title": "Build with AI x GDG Busan 2026 - AI Hackathon",
+      "tags": [
+        "오프라인",
+        "해커톤",
+        "AI"
+      ],
+      "thread_id": "1492671043318579220"
     },
     "2f73ac8e19eb07ff61c5d709508e35809a71a184fd1910de260458a1d018ea42": {
       "canonical_url": "https://ssafy.com/ksp/jsp/swp/apply/swpApplyProcess.jsp?_gl=1%2A1rntetw%2A_gcl_au%2AMjkyMDA5OTQyLjE3NzM2NjUyODE.",
@@ -257,6 +298,20 @@
         "AI"
       ],
       "thread_id": "1480224125846032546"
+    },
+    "31ef0640f04bc9727561b0f2a4553a4c72d478d0b4d578b23743f46cbb7848db": {
+      "canonical_url": "https://meetup.com/awskrug/events/314209332",
+      "event_id": "31ef0640f04bc9727561b0f2a4553a4c72d478d0b4d578b23743f46cbb7848db",
+      "message_id": "1492671050000105513",
+      "posted": true,
+      "posted_at": "2026-04-12T08:41:37.717862+09:00",
+      "source_title": "AWSKRUG 보안 #Security 소모임: Terraform 시크릿 관리 실습",
+      "tags": [
+        "오프라인",
+        "클라우드",
+        "보안"
+      ],
+      "thread_id": "1492671050000105513"
     },
     "3283f97b9a33332725c95b1b3a815b457484d995d23d5c1690419cd008a00112": {
       "canonical_url": "https://meetup.com/awskrug/events/314034548",
@@ -934,6 +989,20 @@
       "tags": [],
       "thread_id": null
     },
+    "b3bf2d7423e4c566625d630c99bae35a3597bfe8a55fa3b888a838c82f43b17e": {
+      "canonical_url": "https://notion.so/3348c2a6385f801ebb24d2d8cad6a8d5",
+      "event_id": "b3bf2d7423e4c566625d630c99bae35a3597bfe8a55fa3b888a838c82f43b17e",
+      "message_id": "1492671028642578492",
+      "posted": true,
+      "posted_at": "2026-04-12T08:41:37.717862+09:00",
+      "source_title": "일상을 지키는 디지털 정보보호 세미나 '온앤安'",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "보안"
+      ],
+      "thread_id": "1492671028642578492"
+    },
     "b82e85af4aefe7516de52af7865fa80d0e302bf3ef94d4a8c252f1d68ca2d14e": {
       "canonical_url": "https://slashconnect.co.kr/webinar",
       "event_id": "b82e85af4aefe7516de52af7865fa80d0e302bf3ef94d4a8c252f1d68ca2d14e",
@@ -1284,6 +1353,20 @@
         "커리어"
       ],
       "thread_id": "1488322257272180848"
+    },
+    "f1c1e036ab7fa54d10e07c0f2f8414e89e66d12515477d5d2b86c57587ce8609": {
+      "canonical_url": "https://ticketa.co/event/ycbz77ae",
+      "event_id": "f1c1e036ab7fa54d10e07c0f2f8414e89e66d12515477d5d2b86c57587ce8609",
+      "message_id": "1492671034468601878",
+      "posted": true,
+      "posted_at": "2026-04-12T08:41:37.717862+09:00",
+      "source_title": "Flutter Seoul Meetup 바이브코딩 해커톤",
+      "tags": [
+        "오프라인",
+        "해커톤",
+        "AI"
+      ],
+      "thread_id": "1492671034468601878"
     },
     "f585c4960917dc52c0d23393103a8850b2f8aafcfe18e0c1ec48e224dd4eb4ab": {
       "canonical_url": "https://ictcocpiuda.imweb.me/",
