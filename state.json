@@ -14,6 +14,20 @@
       "tags": [],
       "thread_id": null
     },
+    "03963d283c9d28e0bb3ff65f883777c5642a831743c9487a32f55400530dc364": {
+      "canonical_url": "https://pages.awscloud.com/aws-summit-seoul-2026-registration.html",
+      "event_id": "03963d283c9d28e0bb3ff65f883777c5642a831743c9487a32f55400530dc364",
+      "message_id": "1493760422908661872",
+      "posted": true,
+      "posted_at": "2026-04-15T08:50:20.886432+09:00",
+      "source_title": "AWS Summit Seoul 2026",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "클라우드"
+      ],
+      "thread_id": "1493760422908661872"
+    },
     "049e63de633cb48fe5f7edb8d22bb6e7b1bfaa24eb15202febed1170d0a8ee6d": {
       "canonical_url": "https://event.wanted.co.kr/preopen_highfive2026",
       "event_id": "049e63de633cb48fe5f7edb8d22bb6e7b1bfaa24eb15202febed1170d0a8ee6d",
@@ -187,6 +201,19 @@
       ],
       "thread_id": "1481072737261977828"
     },
+    "19e550aea6257278ff3ffb49bd551150b5dbe2e7473c9a6f97347b6a78099794": {
+      "canonical_url": "https://luma.com/tzobcks8",
+      "event_id": "19e550aea6257278ff3ffb49bd551150b5dbe2e7473c9a6f97347b6a78099794",
+      "message_id": "1493760409482821756",
+      "posted": true,
+      "posted_at": "2026-04-15T08:50:20.886432+09:00",
+      "source_title": "Pangyo | Claude Code for Developers",
+      "tags": [
+        "오프라인",
+        "AI"
+      ],
+      "thread_id": "1493760409482821756"
+    },
     "1d1a2ecb6341d738fc1dbfb22dfb28cc4c0ad824fc5bca67bcee1161c2258d7b": {
       "canonical_url": "https://dev-korea.com/events/design-korea-0-april-2026",
       "event_id": "1d1a2ecb6341d738fc1dbfb22dfb28cc4c0ad824fc5bca67bcee1161c2258d7b",
@@ -242,6 +269,19 @@
         "AI"
       ],
       "thread_id": "1492671055611953337"
+    },
+    "24e56482e635aa81ea2e4ba0279cadad73bfff548fc08df643095426ecdd5d66": {
+      "canonical_url": "https://luma.com/1cwwvh0p",
+      "event_id": "24e56482e635aa81ea2e4ba0279cadad73bfff548fc08df643095426ecdd5d66",
+      "message_id": "1493760416042717185",
+      "posted": true,
+      "posted_at": "2026-04-15T08:50:20.886432+09:00",
+      "source_title": "Hermes Agent Community Meetup @ Seoul",
+      "tags": [
+        "오프라인",
+        "AI"
+      ],
+      "thread_id": "1493760416042717185"
     },
     "2b13c477a81db81420422a7e5ac0f8518d86a649f6a56aa38542ab12d0d504bc": {
       "canonical_url": "https://daker.ai/public/hackathons/vibe-coding-improvement-ai-idea-competition",
@@ -409,6 +449,19 @@
         "클라우드"
       ],
       "thread_id": "1480224189720957119"
+    },
+    "50ee5fb235e28a4e229f7c6e83f1d2631f97e473383965110c52b6726bbf2120": {
+      "canonical_url": "https://luma.com/0c78q15u",
+      "event_id": "50ee5fb235e28a4e229f7c6e83f1d2631f97e473383965110c52b6726bbf2120",
+      "message_id": "1493760389316612279",
+      "posted": true,
+      "posted_at": "2026-04-15T08:50:20.886432+09:00",
+      "source_title": "The 2nd OmOCon Seoul with Hashed",
+      "tags": [
+        "오프라인",
+        "AI"
+      ],
+      "thread_id": "1493760389316612279"
     },
     "53be24e951c4ea2c186d7739b1f17f460bc6854877a98dae6f1a94e1f332d90b": {
       "canonical_url": "https://inf.run/9zmtr",
@@ -760,6 +813,19 @@
       ],
       "thread_id": "1481072682073198723"
     },
+    "86145fc65df9b26eccf7271a62c24889226f89d872a4b648a6f72a84ddb6bad0": {
+      "canonical_url": "https://ticketa.co/event/kea392rm",
+      "event_id": "86145fc65df9b26eccf7271a62c24889226f89d872a4b648a6f72a84ddb6bad0",
+      "message_id": "1493760373260816520",
+      "posted": true,
+      "posted_at": "2026-04-15T08:50:20.886432+09:00",
+      "source_title": "제1회 클래스메소드코리아 Claude 오프라인 밋업",
+      "tags": [
+        "오프라인",
+        "AI"
+      ],
+      "thread_id": "1493760373260816520"
+    },
     "86e8b340a6869f76fb2d9a0f8553260ea3c66a5e2bc7af326ca7405da0c916c0": {
       "canonical_url": "https://cossmoss.vercel.app/",
       "event_id": "86e8b340a6869f76fb2d9a0f8553260ea3c66a5e2bc7af326ca7405da0c916c0",
@@ -852,6 +918,19 @@
         "AI"
       ],
       "thread_id": "1480224268301369558"
+    },
+    "a2575706c0be794ceb58f932d086dc373d268efaf82f9a0983bc7a5faac7a017": {
+      "canonical_url": "https://tech.goorm.io/2604_commit",
+      "event_id": "a2575706c0be794ceb58f932d086dc373d268efaf82f9a0983bc7a5faac7a017",
+      "message_id": "1493760362263216299",
+      "posted": true,
+      "posted_at": "2026-04-15T08:50:20.886432+09:00",
+      "source_title": "AI를 제품에 적용한다는 것 — Goorm Commit",
+      "tags": [
+        "오프라인",
+        "AI"
+      ],
+      "thread_id": "1493760362263216299"
     },
     "a3edf00e320cbe210755f38b7de48fcf39412972a83065ded2370c3bad74d082": {
       "canonical_url": "https://api.visitkorea.or.kr/",
@@ -1002,6 +1081,20 @@
         "보안"
       ],
       "thread_id": "1492671028642578492"
+    },
+    "b4297f88223c41dc87c9145060273f147e26fd8d39fc14a3eda44522200f0dac": {
+      "canonical_url": "https://luma.com/zun4wf73",
+      "event_id": "b4297f88223c41dc87c9145060273f147e26fd8d39fc14a3eda44522200f0dac",
+      "message_id": "1493760399508635760",
+      "posted": true,
+      "posted_at": "2026-04-15T08:50:20.886432+09:00",
+      "source_title": "CMUX x AIM 해커톤",
+      "tags": [
+        "오프라인",
+        "해커톤",
+        "AI"
+      ],
+      "thread_id": "1493760399508635760"
     },
     "b82e85af4aefe7516de52af7865fa80d0e302bf3ef94d4a8c252f1d68ca2d14e": {
       "canonical_url": "https://slashconnect.co.kr/webinar",
@@ -1256,6 +1349,18 @@
         "AI"
       ],
       "thread_id": "1482522239554424883"
+    },
+    "dc682285aa814c2caa74f01cbe4cfc6f424be8737f654f00bc3bd906ae80f23f": {
+      "canonical_url": "https://meetup.com/mongodb-usergroup-seoul/events/314210138",
+      "event_id": "dc682285aa814c2caa74f01cbe4cfc6f424be8737f654f00bc3bd906ae80f23f",
+      "message_id": "1493760404722028554",
+      "posted": true,
+      "posted_at": "2026-04-15T08:50:20.886432+09:00",
+      "source_title": "Seoul MongoDB User Group Meetup #3",
+      "tags": [
+        "오프라인"
+      ],
+      "thread_id": "1493760404722028554"
     },
     "ddc3ab63cd68b02abbe23917165a2cef3c7cd5835b3e87e0dce989fa8cd83775": {
       "canonical_url": "https://meetup.com/seoul-ios-meetup/events/314103311",
