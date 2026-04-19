@@ -52,6 +52,18 @@
       ],
       "thread_id": "1483972115383455906"
     },
+    "06e102fd0c1874d161ea8339ba89e5825c1b51a380d55d1d35cd47862313bc46": {
+      "canonical_url": "https://tally.so/r/2EvE5g",
+      "event_id": "06e102fd0c1874d161ea8339ba89e5825c1b51a380d55d1d35cd47862313bc46",
+      "message_id": "1495570692974968983",
+      "posted": true,
+      "posted_at": "2026-04-20T08:43:58.284006+09:00",
+      "source_title": "스위프 앱 4기 데모데이 & 네트워킹",
+      "tags": [
+        "오프라인"
+      ],
+      "thread_id": "1495570692974968983"
+    },
     "081b806ffc5f91d189c9acecc9d8c0e76c27b869733c18816b1623c2868ba41f": {
       "canonical_url": "https://checkin-gwanak.or.kr/core?cid=58&role=programvopn&pSeq=1185&tab=",
       "event_id": "081b806ffc5f91d189c9acecc9d8c0e76c27b869733c18816b1623c2868ba41f",
@@ -241,6 +253,20 @@
         "AI"
       ],
       "thread_id": "1486510335962648606"
+    },
+    "24229abbd82bd0a57fe6de27e9691e0fff859fd129d14ae641483472a72167a3": {
+      "canonical_url": "https://cerebralvalley.ai/e/built-with-4-7-hackathon",
+      "event_id": "24229abbd82bd0a57fe6de27e9691e0fff859fd129d14ae641483472a72167a3",
+      "message_id": "1495570702940504157",
+      "posted": true,
+      "posted_at": "2026-04-20T08:43:58.284006+09:00",
+      "source_title": "Built with Opus 4.7: a Claude Code hackathon",
+      "tags": [
+        "온라인",
+        "해커톤",
+        "AI"
+      ],
+      "thread_id": "1495570702940504157"
     },
     "2466b72af033e403567abb8df2e9433ab84251687db2cfb253f4b60db752467a": {
       "canonical_url": "https://aichallenge4all.or.kr/competitions/ai-education",
@@ -546,6 +572,20 @@
         "교육/부트캠프"
       ],
       "thread_id": "1480224324165046454"
+    },
+    "61f6a33c4cffcbb5fd186e41d5dc5307d2934c6d059d980476b4a7f58b8efa72": {
+      "canonical_url": "https://kipfa.or.kr/Seminar/SeminarReView.aspx?eduSeqNo=1513",
+      "event_id": "61f6a33c4cffcbb5fd186e41d5dc5307d2934c6d059d980476b4a7f58b8efa72",
+      "message_id": "1495570715209105488",
+      "posted": true,
+      "posted_at": "2026-04-20T08:43:58.284006+09:00",
+      "source_title": "2026 AI서비스 트렌드 컨퍼런스",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1495570715209105488"
     },
     "61fd89d2c7e0554311faebd5b4a53909f8370e0c6009ddcbb0aa475d40237efc": {
       "canonical_url": "https://pathfinder.camp/event-details/12wol-ui-paeseuwodeu-1-1",
@@ -946,6 +986,19 @@
       ],
       "thread_id": "1490496438625374400"
     },
+    "a4dda9f242280ce335f56b9fe507ccd57cddb2e3c1991d7c597c4aff3b88c208": {
+      "canonical_url": "https://meetup.com/awskrug/events/314325528",
+      "event_id": "a4dda9f242280ce335f56b9fe507ccd57cddb2e3c1991d7c597c4aff3b88c208",
+      "message_id": "1495570699417288814",
+      "posted": true,
+      "posted_at": "2026-04-20T08:43:58.284006+09:00",
+      "source_title": "AWSKRUG 자격증 소모임: SAP 자격증 취득!",
+      "tags": [
+        "오프라인",
+        "클라우드"
+      ],
+      "thread_id": "1495570699417288814"
+    },
     "a699790c5048add130cdebf17f4d468d91f82beb6386cf366cbf35ce4295a2d0": {
       "canonical_url": "https://rocketpunch.com/event/jsnrpnY24Q",
       "event_id": "a699790c5048add130cdebf17f4d468d91f82beb6386cf366cbf35ce4295a2d0",
@@ -1095,6 +1148,20 @@
         "AI"
       ],
       "thread_id": "1493760399508635760"
+    },
+    "b51d96081af6e8e610774a6c878f83a9bead9255cf00ee88eb8feb6ed12ce56f": {
+      "canonical_url": "https://event-us.kr/selectstar/event/124315",
+      "event_id": "b51d96081af6e8e610774a6c878f83a9bead9255cf00ee88eb8feb6ed12ce56f",
+      "message_id": "1495570724960866427",
+      "posted": true,
+      "posted_at": "2026-04-20T08:43:58.284006+09:00",
+      "source_title": "[웨비나] AI Safety의 격차를 만드는 데이터",
+      "tags": [
+        "온라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1495570724960866427"
     },
     "b82e85af4aefe7516de52af7865fa80d0e302bf3ef94d4a8c252f1d68ca2d14e": {
       "canonical_url": "https://slashconnect.co.kr/webinar",
@@ -1390,6 +1457,20 @@
       ],
       "thread_id": "1486510317444923455"
     },
+    "dfcdd89963c66f4d70368dcad17caf4afc376dff54d3d4a41a604cf6e281dcfd": {
+      "canonical_url": "https://aws.amazon.com/ko/events/summits/seoul",
+      "event_id": "dfcdd89963c66f4d70368dcad17caf4afc376dff54d3d4a41a604cf6e281dcfd",
+      "message_id": "1495570751627989124",
+      "posted": true,
+      "posted_at": "2026-04-20T08:43:58.284006+09:00",
+      "source_title": "AWS Summit Seoul 2026",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "클라우드"
+      ],
+      "thread_id": "1495570751627989124"
+    },
     "e222c59c4cb740ee2037b20786f6a44b84cb25b4886cf680493acd936340b59c": {
       "canonical_url": "https://meetup.com/awskrug/events/313352636",
       "event_id": "e222c59c4cb740ee2037b20786f6a44b84cb25b4886cf680493acd936340b59c",
@@ -1444,6 +1525,19 @@
         "클라우드"
       ],
       "thread_id": "1485058384788197386"
+    },
+    "ee482aa0f16a5f0074752ac9ba12136dc90e422359588f076c741a7e6d9d2365": {
+      "canonical_url": "https://rocketpunch.com/event/MOwYYHZ1a6",
+      "event_id": "ee482aa0f16a5f0074752ac9ba12136dc90e422359588f076c741a7e6d9d2365",
+      "message_id": "1495570745370083441",
+      "posted": true,
+      "posted_at": "2026-04-20T08:43:58.284006+09:00",
+      "source_title": "OpenAI GPT-5.4 & Codex Builders Meetup — OpenClaw · Hermes 실전 활용",
+      "tags": [
+        "오프라인",
+        "AI"
+      ],
+      "thread_id": "1495570745370083441"
     },
     "f00568ceb192463f0bfaf0bdc007650245f571717ad9553c2ebd7fa6e71bab04": {
       "canonical_url": "https://luma.com/d6xzrnyk",
