@@ -91,6 +91,31 @@
       ],
       "thread_id": "1480224243596791980"
     },
+    "0afa5163c0046365742a4a676d05c1e0c9d47e19191e63af2024f50a05039ca6": {
+      "canonical_url": "https://event-us.kr/pythonkorea/event/122855",
+      "event_id": "0afa5163c0046365742a4a676d05c1e0c9d47e19191e63af2024f50a05039ca6",
+      "message_id": "1496294732970721405",
+      "posted": true,
+      "posted_at": "2026-04-22T08:40:40.711481+09:00",
+      "source_title": "파이콘 부산 2026 (PyCon Busan 2026)",
+      "tags": [
+        "오프라인"
+      ],
+      "thread_id": "1496294732970721405"
+    },
+    "0cfd6e0169bcdc69337e8101bfea1de80b2cf7a41dc37704989cd92c451de5ca": {
+      "canonical_url": "https://event-us.kr/m/122871/53061",
+      "event_id": "0cfd6e0169bcdc69337e8101bfea1de80b2cf7a41dc37704989cd92c451de5ca",
+      "message_id": "1496294702461489253",
+      "posted": true,
+      "posted_at": "2026-04-22T08:40:40.711481+09:00",
+      "source_title": "2026 Build with AI: Hands-on Campus",
+      "tags": [
+        "오프라인",
+        "AI"
+      ],
+      "thread_id": "1496294702461489253"
+    },
     "0dea980cabea7110b8217274d0f229d0283df4c06454a7722acc886d60696e2b": {
       "canonical_url": "https://receptive-timpani-972.notion.site/STACK-UP-5-35e8c015421b83acb87d81477dbcab2d",
       "event_id": "0dea980cabea7110b8217274d0f229d0283df4c06454a7722acc886d60696e2b",
@@ -225,6 +250,18 @@
         "AI"
       ],
       "thread_id": "1493760409482821756"
+    },
+    "1c0ed5008cc32e71509a8285fb1082e0517a42e1566a1e0142eaf0f4bff9ce01": {
+      "canonical_url": "https://luma.com/4u5dq8o7",
+      "event_id": "1c0ed5008cc32e71509a8285fb1082e0517a42e1566a1e0142eaf0f4bff9ce01",
+      "message_id": "1496294654407217152",
+      "posted": true,
+      "posted_at": "2026-04-22T08:40:40.711481+09:00",
+      "source_title": "CHANNEL DEVMEETUP",
+      "tags": [
+        "오프라인"
+      ],
+      "thread_id": "1496294654407217152"
     },
     "1d1a2ecb6341d738fc1dbfb22dfb28cc4c0ad824fc5bca67bcee1161c2258d7b": {
       "canonical_url": "https://dev-korea.com/events/design-korea-0-april-2026",
@@ -433,6 +470,45 @@
         "컨퍼런스/세미나"
       ],
       "thread_id": "1481072696543547554"
+    },
+    "48825e9dfa9568ff017f6f2a7d64fe6fb907e3ad577f856dfc943feee6feed77": {
+      "canonical_url": "http://kibwa.org/board/board_view?code=notice&no=1194",
+      "event_id": "48825e9dfa9568ff017f6f2a7d64fe6fb907e3ad577f856dfc943feee6feed77",
+      "message_id": "1496294718408101908",
+      "posted": true,
+      "posted_at": "2026-04-22T08:40:40.711481+09:00",
+      "source_title": "2026년 차세대 ICT여성리더 육성 - 협업 프로젝트 지원 사업 참여팀 모집 공고",
+      "tags": [
+        "오프라인",
+        "공모전/대회"
+      ],
+      "thread_id": "1496294718408101908"
+    },
+    "48ab7089936546132159435468aa7547d18378a1136f137f247ded9c7a63e48c": {
+      "canonical_url": "https://luma.com/8w9eo0qy",
+      "event_id": "48ab7089936546132159435468aa7547d18378a1136f137f247ded9c7a63e48c",
+      "message_id": "1496294645829734490",
+      "posted": true,
+      "posted_at": "2026-04-22T08:40:40.711481+09:00",
+      "source_title": "SF x KR : AI Native GTM Meetup",
+      "tags": [
+        "오프라인",
+        "AI"
+      ],
+      "thread_id": "1496294645829734490"
+    },
+    "4ae77062f00727d2ce59b1337468b78c3eba211c1c3c88c827b92f90149bc0fe": {
+      "canonical_url": "https://luma.com/haoh7sla",
+      "event_id": "4ae77062f00727d2ce59b1337468b78c3eba211c1c3c88c827b92f90149bc0fe",
+      "message_id": "1496294650338873506",
+      "posted": true,
+      "posted_at": "2026-04-22T08:40:40.711481+09:00",
+      "source_title": "Seoul | Claude Bloom × AB180",
+      "tags": [
+        "오프라인",
+        "AI"
+      ],
+      "thread_id": "1496294650338873506"
     },
     "4c2854934319d132c8345d8658a4d5aa72ee1f19e3f33c3261932c10282e32de": {
       "canonical_url": "https://rocketpunch.com/event/jXv3f6Ri5f",
@@ -1163,6 +1239,19 @@
       ],
       "thread_id": "1495570724960866427"
     },
+    "b7183c08ff78fed99960d08cc90f1bc6a6e7ab14e9c8ce68e726e5d43f5c0a09": {
+      "canonical_url": "https://event-us.kr/2026bcmd/event/124319",
+      "event_id": "b7183c08ff78fed99960d08cc90f1bc6a6e7ab14e9c8ce68e726e5d43f5c0a09",
+      "message_id": "1496294668873502761",
+      "posted": true,
+      "posted_at": "2026-04-22T08:40:40.711481+09:00",
+      "source_title": "2026 블록체인 밋업데이 (2회차)",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나"
+      ],
+      "thread_id": "1496294668873502761"
+    },
     "b82e85af4aefe7516de52af7865fa80d0e302bf3ef94d4a8c252f1d68ca2d14e": {
       "canonical_url": "https://slashconnect.co.kr/webinar",
       "event_id": "b82e85af4aefe7516de52af7865fa80d0e302bf3ef94d4a8c252f1d68ca2d14e",
@@ -1471,6 +1560,18 @@
       ],
       "thread_id": "1495570751627989124"
     },
+    "e18cd2af2f486fdcbac388c633d0548310c86fed6b7de64cccff73a26d9bae1d": {
+      "canonical_url": "https://2026.pycon.kr/",
+      "event_id": "e18cd2af2f486fdcbac388c633d0548310c86fed6b7de64cccff73a26d9bae1d",
+      "message_id": "1496294754932097084",
+      "posted": true,
+      "posted_at": "2026-04-22T08:40:40.711481+09:00",
+      "source_title": "PyCon Korea 2026",
+      "tags": [
+        "오프라인"
+      ],
+      "thread_id": "1496294754932097084"
+    },
     "e222c59c4cb740ee2037b20786f6a44b84cb25b4886cf680493acd936340b59c": {
       "canonical_url": "https://meetup.com/awskrug/events/313352636",
       "event_id": "e222c59c4cb740ee2037b20786f6a44b84cb25b4886cf680493acd936340b59c",
@@ -1622,6 +1723,20 @@
         "AI"
       ],
       "thread_id": "1485058355725734070"
+    },
+    "ff6c183c203257145a1bf29807ef787fd8a2af58748b1f167246552dc66e483f": {
+      "canonical_url": "https://m.jobkorea.co.kr/help/notice/view?B_No=15041",
+      "event_id": "ff6c183c203257145a1bf29807ef787fd8a2af58748b1f167246552dc66e483f",
+      "message_id": "1496294641736356011",
+      "posted": true,
+      "posted_at": "2026-04-22T08:40:40.711481+09:00",
+      "source_title": "JOBKOREA DEVCON — AI 시대, 개발자 고민 완전 정복",
+      "tags": [
+        "온라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1496294641736356011"
     }
   },
   "version": 1
