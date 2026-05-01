@@ -143,6 +143,19 @@
       ],
       "thread_id": "1485784935045529783"
     },
+    "0f29421f1f06302ac351699780d40291ae89870b663df37861e836875f1313cc": {
+      "canonical_url": "https://meetup.com/awskrug/events/314521612",
+      "event_id": "0f29421f1f06302ac351699780d40291ae89870b663df37861e836875f1313cc",
+      "message_id": "1499922423406137375",
+      "posted": true,
+      "posted_at": "2026-05-02T08:55:59.335160+09:00",
+      "source_title": "AWSKRUG 집현전 #jiphyeonjeon 온라인 소모임",
+      "tags": [
+        "온라인",
+        "클라우드"
+      ],
+      "thread_id": "1499922423406137375"
+    },
     "0f7f5bc608f47103668bbf391f1497f01bc33a8ad221c4c9d49c69369c3c4f48": {
       "canonical_url": "https://dev-korea.com/ko/events/dev-korea-7-march-2026",
       "event_id": "0f7f5bc608f47103668bbf391f1497f01bc33a8ad221c4c9d49c69369c3c4f48",
@@ -251,6 +264,20 @@
       ],
       "thread_id": "1481072737261977828"
     },
+    "19785b2b48982aafa28822390ead312cecc38914046af5f73340638145a3368e": {
+      "canonical_url": "https://onoffmix.com/event/339468",
+      "event_id": "19785b2b48982aafa28822390ead312cecc38914046af5f73340638145a3368e",
+      "message_id": "1499922485435699261",
+      "posted": true,
+      "posted_at": "2026-05-02T08:55:59.335160+09:00",
+      "source_title": "GAME AiCON Seoul 2026",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1499922485435699261"
+    },
     "19e550aea6257278ff3ffb49bd551150b5dbe2e7473c9a6f97347b6a78099794": {
       "canonical_url": "https://luma.com/tzobcks8",
       "event_id": "19e550aea6257278ff3ffb49bd551150b5dbe2e7473c9a6f97347b6a78099794",
@@ -316,6 +343,32 @@
         "AI"
       ],
       "thread_id": "1486510335962648606"
+    },
+    "20339a08a1f8165676c885f69ea5e0f40eca4b73b6b6af0b909c079d39127709": {
+      "canonical_url": "https://ticketa.co/event/8h16iumh",
+      "event_id": "20339a08a1f8165676c885f69ea5e0f40eca4b73b6b6af0b909c079d39127709",
+      "message_id": "1499922379172872324",
+      "posted": true,
+      "posted_at": "2026-05-02T08:55:59.335160+09:00",
+      "source_title": "Apple 디벨로퍼 아카데미 로드쇼 인 서울 @ 역삼, 오전 세션",
+      "tags": [
+        "오프라인",
+        "교육/부트캠프"
+      ],
+      "thread_id": "1499922379172872324"
+    },
+    "220734b03743fdccf0bd6d4e66f4dcac62e172c667dd552283d7b25e30ee2327": {
+      "canonical_url": "https://meetup.com/awskrug/events/314517171",
+      "event_id": "220734b03743fdccf0bd6d4e66f4dcac62e172c667dd552283d7b25e30ee2327",
+      "message_id": "1499922434659455059",
+      "posted": true,
+      "posted_at": "2026-05-02T08:55:59.335160+09:00",
+      "source_title": "AWSKRUG 네트워크 #network 소모임",
+      "tags": [
+        "오프라인",
+        "클라우드"
+      ],
+      "thread_id": "1499922434659455059"
     },
     "24229abbd82bd0a57fe6de27e9691e0fff859fd129d14ae641483472a72167a3": {
       "canonical_url": "https://cerebralvalley.ai/e/built-with-4-7-hackathon",
@@ -455,6 +508,19 @@
         "클라우드"
       ],
       "thread_id": "1490496411551137944"
+    },
+    "34bcd47c8844aa3eae470841937262e43a7302c6804e23f2922df7c6e53e0438": {
+      "canonical_url": "https://ticketa.co/event/sgiqj99g",
+      "event_id": "34bcd47c8844aa3eae470841937262e43a7302c6804e23f2922df7c6e53e0438",
+      "message_id": "1499922438798966805",
+      "posted": true,
+      "posted_at": "2026-05-02T08:55:59.335160+09:00",
+      "source_title": "Kprintf 2026",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나"
+      ],
+      "thread_id": "1499922438798966805"
     },
     "3cf6adbd1518d5f5f10f64ae93f827646edf5f9dc9b2ec3e77087964770243e8": {
       "canonical_url": "https://2026datacontest.co.kr/",
@@ -675,6 +741,19 @@
       ],
       "thread_id": "1480224324165046454"
     },
+    "61f31b4165173ab96614fb687532418219e461e3ce36026d442e2111349aa2c4": {
+      "canonical_url": "https://ticketa.co/event/mauqdg4j",
+      "event_id": "61f31b4165173ab96614fb687532418219e461e3ce36026d442e2111349aa2c4",
+      "message_id": "1499922400676937809",
+      "posted": true,
+      "posted_at": "2026-05-02T08:55:59.335160+09:00",
+      "source_title": "Apple 디벨로퍼 아카데미 로드쇼 인 서울 @ 역삼, 오후 세션",
+      "tags": [
+        "오프라인",
+        "교육/부트캠프"
+      ],
+      "thread_id": "1499922400676937809"
+    },
     "61f6a33c4cffcbb5fd186e41d5dc5307d2934c6d059d980476b4a7f58b8efa72": {
       "canonical_url": "https://kipfa.or.kr/Seminar/SeminarReView.aspx?eduSeqNo=1513",
       "event_id": "61f6a33c4cffcbb5fd186e41d5dc5307d2934c6d059d980476b4a7f58b8efa72",
@@ -730,6 +809,20 @@
         "컨퍼런스/세미나"
       ],
       "thread_id": "1490496423324815430"
+    },
+    "6d70843a57bab730a8164462a7fe4755717b44ec19e852601ccb084b450e04b3": {
+      "canonical_url": "https://event-us.kr/khpseminar/event/123681",
+      "event_id": "6d70843a57bab730a8164462a7fe4755717b44ec19e852601ccb084b450e04b3",
+      "message_id": "1499922453466579034",
+      "posted": true,
+      "posted_at": "2026-05-02T08:55:59.335160+09:00",
+      "source_title": "SK텔레콤 AI 세미나",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1499922453466579034"
     },
     "6ddba8e831dd6cb2d1fa23ee3ac65d093de9ebe0770b00a0e9b7e1a3235b6c85": {
       "canonical_url": "https://ai-champion.or.kr/",
@@ -1126,6 +1219,20 @@
       ],
       "thread_id": "1493760362263216299"
     },
+    "a3475cbdbbdfaf60d132870ebedd5778b0bb1338d9b805eeeb31834d7b649b9d": {
+      "canonical_url": "https://cometrue.ai/index.php/con_260519",
+      "event_id": "a3475cbdbbdfaf60d132870ebedd5778b0bb1338d9b805eeeb31834d7b649b9d",
+      "message_id": "1499922470528880700",
+      "posted": true,
+      "posted_at": "2026-05-02T08:55:59.335160+09:00",
+      "source_title": "생성형 AI 보안과 정보보호 컨퍼런스",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1499922470528880700"
+    },
     "a3edf00e320cbe210755f38b7de48fcf39412972a83065ded2370c3bad74d082": {
       "canonical_url": "https://api.visitkorea.or.kr/",
       "event_id": "a3edf00e320cbe210755f38b7de48fcf39412972a83065ded2370c3bad74d082",
@@ -1237,6 +1344,19 @@
       ],
       "thread_id": "1483247721627390064"
     },
+    "abe3b3541e065edc32d58ace33d9c4ec31879bcc486508ae0751354c3106f5c8": {
+      "canonical_url": "https://smarttechkorea.com/aibigdatashow",
+      "event_id": "abe3b3541e065edc32d58ace33d9c4ec31879bcc486508ae0751354c3106f5c8",
+      "message_id": "1499922506104967278",
+      "posted": true,
+      "posted_at": "2026-05-02T08:55:59.335160+09:00",
+      "source_title": "2026 인공지능 & 빅데이터쇼",
+      "tags": [
+        "오프라인",
+        "AI"
+      ],
+      "thread_id": "1499922506104967278"
+    },
     "acd4885019ea7b42fa4a9f596007c7843e8db4d54913a1cc658824ef7ce865e3": {
       "canonical_url": "https://ticketa.co/event/g5ksilrk",
       "event_id": "acd4885019ea7b42fa4a9f596007c7843e8db4d54913a1cc658824ef7ce865e3",
@@ -1302,6 +1422,20 @@
         "AI"
       ],
       "thread_id": "1493760399508635760"
+    },
+    "b4939eb01c44bb85efb212d6d9e3976f427416750f168acf433b2b4753b1281a": {
+      "canonical_url": "https://meetup.com/awskrug/events/314414230",
+      "event_id": "b4939eb01c44bb85efb212d6d9e3976f427416750f168acf433b2b4753b1281a",
+      "message_id": "1499922371056898078",
+      "posted": true,
+      "posted_at": "2026-05-02T08:55:59.335160+09:00",
+      "source_title": "AWSKRUG #AIEngineering 소모임 - 와글와글 AI Coding",
+      "tags": [
+        "오프라인",
+        "AI",
+        "클라우드"
+      ],
+      "thread_id": "1499922371056898078"
     },
     "b51d96081af6e8e610774a6c878f83a9bead9255cf00ee88eb8feb6ed12ce56f": {
       "canonical_url": "https://event-us.kr/selectstar/event/124315",
@@ -1464,6 +1598,19 @@
       ],
       "thread_id": "1490496376050811031"
     },
+    "c6d3c599b8bfbf599c5d181b472a5491f26ecdc8508dfa3e8844049cff09b84e": {
+      "canonical_url": "https://rocketpunch.com/event/eJRHiRWWwe",
+      "event_id": "c6d3c599b8bfbf599c5d181b472a5491f26ecdc8508dfa3e8844049cff09b84e",
+      "message_id": "1499922374869389423",
+      "posted": true,
+      "posted_at": "2026-05-02T08:55:59.335160+09:00",
+      "source_title": "SOLANA 글로벌 온라인 해커톤: 프론티어",
+      "tags": [
+        "온라인",
+        "해커톤"
+      ],
+      "thread_id": "1499922374869389423"
+    },
     "c7dfb4fc864b8f92f3d409c9bf6b11de8b4d91a35e952e97567fce504936f44b": {
       "canonical_url": "https://ticketa.co/event/gy6ybl8f",
       "event_id": "c7dfb4fc864b8f92f3d409c9bf6b11de8b4d91a35e952e97567fce504936f44b",
@@ -1542,6 +1689,19 @@
       ],
       "thread_id": "1485058331222474923"
     },
+    "cf742b1be900b9ffab31dfbb75d0ba57bc966438bb35a6ed50f2c54714c17757": {
+      "canonical_url": "https://ticketa.co/event/7fm5o8fo",
+      "event_id": "cf742b1be900b9ffab31dfbb75d0ba57bc966438bb35a6ed50f2c54714c17757",
+      "message_id": "1499922510819491980",
+      "posted": true,
+      "posted_at": "2026-05-02T08:55:59.335160+09:00",
+      "source_title": "UbuCon Korea X MiniDebConf Korea 2026",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나"
+      ],
+      "thread_id": "1499922510819491980"
+    },
     "d1110b217910b84bc53b591c99fb8dcf6aa8da27f66b0b6f522fec4b51ac1317": {
       "canonical_url": "https://rocketpunch.com/event/8V7auSHYUe",
       "event_id": "d1110b217910b84bc53b591c99fb8dcf6aa8da27f66b0b6f522fec4b51ac1317",
@@ -1555,6 +1715,33 @@
         "컨퍼런스/세미나"
       ],
       "thread_id": "1485058347622469735"
+    },
+    "d1b0769bd59f16e1e9b9fe42d18795c3271087b117efcaeb28125a80176d37fc": {
+      "canonical_url": "https://agent-era.ai/",
+      "event_id": "d1b0769bd59f16e1e9b9fe42d18795c3271087b117efcaeb28125a80176d37fc",
+      "message_id": "1499922428409942219",
+      "posted": true,
+      "posted_at": "2026-05-02T08:55:59.335160+09:00",
+      "source_title": "Vibe Coding HACKATHON",
+      "tags": [
+        "오프라인",
+        "해커톤",
+        "AI"
+      ],
+      "thread_id": "1499922428409942219"
+    },
+    "d44c312acf8b8543cb7cdfb936c0ba6b4ab9eae92d973edf083f114c46aebd92": {
+      "canonical_url": "https://event-us.kr/iqnnhuzl/event/124199",
+      "event_id": "d44c312acf8b8543cb7cdfb936c0ba6b4ab9eae92d973edf083f114c46aebd92",
+      "message_id": "1499922413952041141",
+      "posted": true,
+      "posted_at": "2026-05-02T08:55:59.335160+09:00",
+      "source_title": "2026 판교 퇴근길 밋업 2회차",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나"
+      ],
+      "thread_id": "1499922413952041141"
     },
     "d53b1a8318312e31a9bc3f24c02726f8d2ad60a2fdd3cbb3d5c730489f3dc309": {
       "canonical_url": "https://devmento.co.kr/seminas/agentic2026.html",
