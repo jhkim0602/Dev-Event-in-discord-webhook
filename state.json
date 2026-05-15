@@ -1034,6 +1034,19 @@
       ],
       "thread_id": "1488322301228351629"
     },
+    "723fd1f9450ba4b6033c122057b44e771e0f537e215f1c6cf45413fb801f3a75": {
+      "canonical_url": "https://rocketpunch.com/event/wLXO4XRrXO",
+      "event_id": "723fd1f9450ba4b6033c122057b44e771e0f537e215f1c6cf45413fb801f3a75",
+      "message_id": "1504996240067264562",
+      "posted": true,
+      "posted_at": "2026-05-16T08:57:43.375084+09:00",
+      "source_title": "Beauty x AI Builders Meetup — AI 에이전트 시대, 뷰티 서비스를 다시 상상하다",
+      "tags": [
+        "오프라인",
+        "AI"
+      ],
+      "thread_id": "1504996240067264562"
+    },
     "725cc23eebdebbefcf500e3985b4fdcefb8f9ea42e46fc4899773be376ca98e5": {
       "canonical_url": "https://luma.com/8nzr1zec",
       "event_id": "725cc23eebdebbefcf500e3985b4fdcefb8f9ea42e46fc4899773be376ca98e5",
@@ -1047,6 +1060,20 @@
         "컨퍼런스/세미나"
       ],
       "thread_id": "1490496332362944672"
+    },
+    "7345e36d95e5f8900bfeab5ef83620f48e3e35dbcc9bbbce605c7b27808a37c2": {
+      "canonical_url": "https://rocketpunch.com/event/iOVlW3GlEr",
+      "event_id": "7345e36d95e5f8900bfeab5ef83620f48e3e35dbcc9bbbce605c7b27808a37c2",
+      "message_id": "1504996235872964609",
+      "posted": true,
+      "posted_at": "2026-05-16T08:57:43.375084+09:00",
+      "source_title": "멋사 클라우드 엔지니어링 7기 설명회 - AWS·DevOps 커리어 시작하기",
+      "tags": [
+        "오프라인",
+        "커리어",
+        "클라우드"
+      ],
+      "thread_id": "1504996235872964609"
     },
     "7346ac9287c08822cdafcadf5815fee88ba0b11307b11d677741ff04e17fc301": {
       "canonical_url": "https://meetup.com/awskrug/events/314655727",
@@ -1950,6 +1977,20 @@
         "컨퍼런스/세미나"
       ],
       "thread_id": "1485058347622469735"
+    },
+    "d19e0b8b81457dddce8e0311ef317c7067271d373aed5bd305d8eaa71673dac9": {
+      "canonical_url": "https://rocketpunch.com/event/JFXFMmBVfo",
+      "event_id": "d19e0b8b81457dddce8e0311ef317c7067271d373aed5bd305d8eaa71673dac9",
+      "message_id": "1504996237529710642",
+      "posted": true,
+      "posted_at": "2026-05-16T08:57:43.375084+09:00",
+      "source_title": "AI Agent 개발 실전 세미나 - 나만의 AI Agent 만들기",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1504996237529710642"
     },
     "d1b0769bd59f16e1e9b9fe42d18795c3271087b117efcaeb28125a80176d37fc": {
       "canonical_url": "https://agent-era.ai/",
