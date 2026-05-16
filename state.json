@@ -64,6 +64,19 @@
       ],
       "thread_id": "1483972115383455906"
     },
+    "06ca2de136ad5ca609b4454306337dfe69ef4b21b4378a3083ee4a1449044aca": {
+      "canonical_url": "https://meetup.com/mongodb-usergroup-seoul/events/314765122",
+      "event_id": "06ca2de136ad5ca609b4454306337dfe69ef4b21b4378a3083ee4a1449044aca",
+      "message_id": "1505358857478602782",
+      "posted": true,
+      "posted_at": "2026-05-17T08:58:36.692603+09:00",
+      "source_title": "[MUG x GDG] 하루 만에 끝내는 로컬 RAG 프로토타이핑",
+      "tags": [
+        "오프라인",
+        "AI"
+      ],
+      "thread_id": "1505358857478602782"
+    },
     "06e102fd0c1874d161ea8339ba89e5825c1b51a380d55d1d35cd47862313bc46": {
       "canonical_url": "https://tally.so/r/2EvE5g",
       "event_id": "06e102fd0c1874d161ea8339ba89e5825c1b51a380d55d1d35cd47862313bc46",
@@ -2205,6 +2218,20 @@
         "컨퍼런스/세미나"
       ],
       "thread_id": "1480224200789594192"
+    },
+    "e7ccaa30e20af02e8392a09736427e5a670a7ab4b7224ef1fa261ccaf5f9e298": {
+      "canonical_url": "https://seoulwomen.or.kr/sfwf/contents/sfwf-worklifebalance.do?schOpt3=care&schM=view&act=UPDATE&page=1&viewCount=10&id=31058&schBdcode=&schGroupCode=",
+      "event_id": "e7ccaa30e20af02e8392a09736427e5a670a7ab4b7224ef1fa261ccaf5f9e298",
+      "message_id": "1505358853074718730",
+      "posted": true,
+      "posted_at": "2026-05-17T08:58:36.692603+09:00",
+      "source_title": "우먼잇츠 AX 세미나 5월 프로그램",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1505358853074718730"
     },
     "e8c847566038e5d82d96a055b14bc83e564f05e44188fdea2ba50ed63b342ad1": {
       "canonical_url": "https://ticketa.co/event/taitwvzz",
