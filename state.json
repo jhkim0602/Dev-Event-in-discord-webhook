@@ -421,6 +421,19 @@
       ],
       "thread_id": "1497745446381027328"
     },
+    "1ed95fc1d8853f4be923f8d8df08305202045ec797fa94ffc63ce59b07a6c937": {
+      "canonical_url": "https://meetup.com/awskrug/events/314830108",
+      "event_id": "1ed95fc1d8853f4be923f8d8df08305202045ec797fa94ffc63ce59b07a6c937",
+      "message_id": "1506087399854178354",
+      "posted": true,
+      "posted_at": "2026-05-19T09:13:30.378878+09:00",
+      "source_title": "AWSKRUG 플랫폼엔지니어링 모임",
+      "tags": [
+        "오프라인",
+        "클라우드"
+      ],
+      "thread_id": "1506087399854178354"
+    },
     "1ff8691b2c4c7f7ddcd5faa20a96891506afe75129bbc94a4f2a8f1a4b42fda8": {
       "canonical_url": "https://meetup.com/awskrug/events/313880043",
       "event_id": "1ff8691b2c4c7f7ddcd5faa20a96891506afe75129bbc94a4f2a8f1a4b42fda8",
@@ -856,6 +869,20 @@
       ],
       "thread_id": "1480224181986656339"
     },
+    "58baa435f07e0d1d71540b8c65718fa6574cbf73853b8db91ff4529d0b1ec0a3": {
+      "canonical_url": "https://megazonesoft.com/260521_next-26-recap-webinar",
+      "event_id": "58baa435f07e0d1d71540b8c65718fa6574cbf73853b8db91ff4529d0b1ec0a3",
+      "message_id": "1506087377477570570",
+      "posted": true,
+      "posted_at": "2026-05-19T09:13:30.378878+09:00",
+      "source_title": "Google Cloud Next '26 Recap Webinar with MegazoneSoft",
+      "tags": [
+        "온라인",
+        "컨퍼런스/세미나",
+        "클라우드"
+      ],
+      "thread_id": "1506087377477570570"
+    },
     "5c838d9ffea7b2a2003203f25a1b898ca94142b7447340f0609a4cb2ab3942a2": {
       "canonical_url": "https://rocketpunch.com/event/ARNj09DPdv",
       "event_id": "5c838d9ffea7b2a2003203f25a1b898ca94142b7447340f0609a4cb2ab3942a2",
@@ -1006,6 +1033,19 @@
         "AI"
       ],
       "thread_id": "1487596682307698698"
+    },
+    "6fa60e5f805c9a0a1a477b3436ffe9c15b68dc9e7d4e525fc45672da0bebd7ff": {
+      "canonical_url": "https://codetree.ai/ko/no-free-lunch-2026",
+      "event_id": "6fa60e5f805c9a0a1a477b3436ffe9c15b68dc9e7d4e525fc45672da0bebd7ff",
+      "message_id": "1506087410277154907",
+      "posted": true,
+      "posted_at": "2026-05-19T09:13:30.378878+09:00",
+      "source_title": "코드트리 청약 통장 챌린지 (무료 이용 이벤트)",
+      "tags": [
+        "온라인",
+        "공모전/대회"
+      ],
+      "thread_id": "1506087410277154907"
     },
     "7023b3e617924aa23ae6f0122dfedd0f0361064f470bba9ef7541a4725d7d1e9": {
       "canonical_url": "https://ticketa.co/event/8gaujr23",
@@ -1348,6 +1388,19 @@
       ],
       "thread_id": "1487596604054831114"
     },
+    "88a6320bd1fd8882b9ee3bbe8c6ef12e3e1feb92baa28ae3164bbb3cc4db0687": {
+      "canonical_url": "https://ticketa.co/event/yjp015vu",
+      "event_id": "88a6320bd1fd8882b9ee3bbe8c6ef12e3e1feb92baa28ae3164bbb3cc4db0687",
+      "message_id": "1506087415855452272",
+      "posted": true,
+      "posted_at": "2026-05-19T09:13:30.378878+09:00",
+      "source_title": "Microsoft Build //localhost:Daegu",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나"
+      ],
+      "thread_id": "1506087415855452272"
+    },
     "89bc947aaf126b5f54a25d1b02a2826547988f0050c32df95437a4e440656e07": {
       "canonical_url": "https://smarttechkorea.com/Main",
       "event_id": "89bc947aaf126b5f54a25d1b02a2826547988f0050c32df95437a4e440656e07",
@@ -1427,6 +1480,20 @@
       ],
       "thread_id": "1497383480332521504"
     },
+    "913227a5abb352a923a8b008ea862146560b53ff1e58e692f2dcd3695f0d21f4": {
+      "canonical_url": "https://oss.kr/pages/10/4511?page=1&pageSize=10&searchKeyword=&searchType=",
+      "event_id": "913227a5abb352a923a8b008ea862146560b53ff1e58e692f2dcd3695f0d21f4",
+      "message_id": "1506087407219511297",
+      "posted": true,
+      "posted_at": "2026-05-19T09:13:30.378878+09:00",
+      "source_title": "(Open UP) '26년도 오픈소스 컨트리뷰션 아카데미 [참여형] 멘티 모집(~6.14)",
+      "tags": [
+        "온라인",
+        "공모전/대회",
+        "AI"
+      ],
+      "thread_id": "1506087407219511297"
+    },
     "9153603d7ad98b8242909adf45e3561362e03fdc7649fdb848d973d07669b5ed": {
       "canonical_url": "https://event-us.kr/axcamp/event/121831",
       "event_id": "9153603d7ad98b8242909adf45e3561362e03fdc7649fdb848d973d07669b5ed",
@@ -1439,6 +1506,20 @@
         "교육/부트캠프"
       ],
       "thread_id": "1503911001463062558"
+    },
+    "96e9c5902c6181b0e4530c900204f9e8cc3deb9ca3f3cf575629714ac3ffa3ca": {
+      "canonical_url": "https://tech.goorm.io/2605_commit",
+      "event_id": "96e9c5902c6181b0e4530c900204f9e8cc3deb9ca3f3cf575629714ac3ffa3ca",
+      "message_id": "1506087385325109388",
+      "posted": true,
+      "posted_at": "2026-05-19T09:13:30.378878+09:00",
+      "source_title": "COMMIT — 속도가 이해를 추월할 때: AI 시대의 인지 부채",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1506087385325109388"
     },
     "97af9f6617f163ed5ffaf8d1ae82c3555c26b54d58668a260e61a40b3ac87aa2": {
       "canonical_url": "https://ticketa.co/event/smu6uxm5",
@@ -1819,6 +1900,18 @@
       ],
       "thread_id": "1482522230524088334"
     },
+    "c33303b0c720837c8ce2803e083579e4cb884f49e48ddc2dd6853d9fc77d6df7": {
+      "canonical_url": "https://github.registration.goldcast.io/events/6dc10b2c-f650-48b2-b3c7-aa66937e774c",
+      "event_id": "c33303b0c720837c8ce2803e083579e4cb884f49e48ddc2dd6853d9fc77d6df7",
+      "message_id": "1506087393361531091",
+      "posted": true,
+      "posted_at": "2026-05-19T09:13:30.378878+09:00",
+      "source_title": "GitHub After Dark - Seoul",
+      "tags": [
+        "오프라인"
+      ],
+      "thread_id": "1506087393361531091"
+    },
     "c402da977610803ff21e7f0e1a8ef2484dedef98eb876859d66e8a16b2cfe816": {
       "canonical_url": "https://meetup.com/awskrug/events/313831600",
       "event_id": "c402da977610803ff21e7f0e1a8ef2484dedef98eb876859d66e8a16b2cfe816",
@@ -2097,6 +2190,20 @@
         "보안"
       ],
       "thread_id": "1492308636301656124"
+    },
+    "d9fc45182e696f693c03dc860b148b8a82d1cf780ff7271bedba99e207517273": {
+      "canonical_url": "https://rocketpunch.com/event/lA16A0Ghwd",
+      "event_id": "d9fc45182e696f693c03dc860b148b8a82d1cf780ff7271bedba99e207517273",
+      "message_id": "1506087395299295377",
+      "posted": true,
+      "posted_at": "2026-05-19T09:13:30.378878+09:00",
+      "source_title": "맨틀 AI 서울 해커하우스 : Mantle AI Hacker House in Seoul",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1506087395299295377"
     },
     "dbeb8fcd741a0bcc319200ee3c1656b88ecf237fd3a23863970a43e46d9d9ba0": {
       "canonical_url": "https://luma.com/kxoq82yq",
