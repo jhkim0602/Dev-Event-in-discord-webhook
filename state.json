@@ -208,6 +208,19 @@
       ],
       "thread_id": "1496294702461489253"
     },
+    "0d906345439d81b2ecafd731dbfc24c27f7153ce5a601d7f99f5e9dfb47000b7": {
+      "canonical_url": "https://meetup.com/awskrug/events/314907229",
+      "event_id": "0d906345439d81b2ecafd731dbfc24c27f7153ce5a601d7f99f5e9dfb47000b7",
+      "message_id": "1507536450357297213",
+      "posted": true,
+      "posted_at": "2026-05-23T09:11:28.354625+09:00",
+      "source_title": "AWSKRUG 구로디지털 #gudi 소모임 - 06월 11일 (목)",
+      "tags": [
+        "오프라인",
+        "클라우드"
+      ],
+      "thread_id": "1507536450357297213"
+    },
     "0dea980cabea7110b8217274d0f229d0283df4c06454a7722acc886d60696e2b": {
       "canonical_url": "https://receptive-timpani-972.notion.site/STACK-UP-5-35e8c015421b83acb87d81477dbcab2d",
       "event_id": "0dea980cabea7110b8217274d0f229d0283df4c06454a7722acc886d60696e2b",
@@ -328,6 +341,20 @@
         "교육/부트캠프"
       ],
       "thread_id": "1480224070413979648"
+    },
+    "1625f861e5c43cf186f9597de4496777242f822f842fb3f23ea26837badadce1": {
+      "canonical_url": "https://megazonesoft.com/gcp_fundamentals_core_infra_20260504",
+      "event_id": "1625f861e5c43cf186f9597de4496777242f822f842fb3f23ea26837badadce1",
+      "message_id": "1507536417956560896",
+      "posted": true,
+      "posted_at": "2026-05-23T09:11:28.354625+09:00",
+      "source_title": "Google Cloud Fundamentals : Core Infrastructure",
+      "tags": [
+        "온라인",
+        "컨퍼런스/세미나",
+        "클라우드"
+      ],
+      "thread_id": "1507536417956560896"
     },
     "1643a7f8517fe6cb0d76c3e36695003970c9f24f1ee7d471ccc853908f8b3e7c": {
       "canonical_url": "https://oss.kr/pages/10/4459?page=1&pageSize=10&searchKeyword=&searchType=",
@@ -922,6 +949,19 @@
         "오프라인"
       ],
       "thread_id": "1501371615567417374"
+    },
+    "5f72a7e49910caaa51f1c54d128df63934940adeb75cae2e24c1bc8704a5ab7b": {
+      "canonical_url": "https://ticketa.co/event/tufmarzt",
+      "event_id": "5f72a7e49910caaa51f1c54d128df63934940adeb75cae2e24c1bc8704a5ab7b",
+      "message_id": "1507536427473440901",
+      "posted": true,
+      "posted_at": "2026-05-23T09:11:28.354625+09:00",
+      "source_title": "스프링캠프 2026",
+      "tags": [
+        "오프라인",
+        "교육/부트캠프"
+      ],
+      "thread_id": "1507536427473440901"
     },
     "61f31b4165173ab96614fb687532418219e461e3ce36026d442e2111349aa2c4": {
       "canonical_url": "https://ticketa.co/event/mauqdg4j",
@@ -1530,6 +1570,20 @@
         "AI"
       ],
       "thread_id": "1506087385325109388"
+    },
+    "96eaa9e2f4d7927b38e01395efcfbf51dee315c2a4bb78cb3aa4183ff0cf0ae1": {
+      "canonical_url": "https://ticketa.co/event/z49uyhx8",
+      "event_id": "96eaa9e2f4d7927b38e01395efcfbf51dee315c2a4bb78cb3aa4183ff0cf0ae1",
+      "message_id": "1507536435463454781",
+      "posted": true,
+      "posted_at": "2026-05-23T09:11:28.354625+09:00",
+      "source_title": "천하제일 입코딩 대회",
+      "tags": [
+        "오프라인",
+        "공모전/대회",
+        "AI"
+      ],
+      "thread_id": "1507536435463454781"
     },
     "97af9f6617f163ed5ffaf8d1ae82c3555c26b54d58668a260e61a40b3ac87aa2": {
       "canonical_url": "https://ticketa.co/event/smu6uxm5",
