@@ -116,6 +116,18 @@
       ],
       "thread_id": "1492671005733421300"
     },
+    "08b9faf82b153558c7216a5752634a77a114505bc1d6760a559f75948671e8ea": {
+      "canonical_url": "https://event-us.kr/kusitsm/event/126748",
+      "event_id": "08b9faf82b153558c7216a5752634a77a114505bc1d6760a559f75948671e8ea",
+      "message_id": "1510073556216713267",
+      "posted": true,
+      "posted_at": "2026-05-30T09:13:08.763249+09:00",
+      "source_title": "KUSITMS 33기 Meet-up Exhibition",
+      "tags": [
+        "오프라인"
+      ],
+      "thread_id": "1510073556216713267"
+    },
     "08c7d5a1db4d505e446ca8bc1aefc4d38dabd9ab9a572dd2ed95f399893f4def": {
       "canonical_url": "https://ticketa.co/event/dttikon7",
       "event_id": "08c7d5a1db4d505e446ca8bc1aefc4d38dabd9ab9a572dd2ed95f399893f4def",
@@ -180,6 +192,20 @@
         "오프라인"
       ],
       "thread_id": "1496294732970721405"
+    },
+    "0b218ae91167b9192fbaa67dd7b215281a0200b1e58e24edb4fc9daa94f0d922": {
+      "canonical_url": "https://cmit.pnuh.or.kr/cmit/notice/medical-hack.do?mode=view&articleNo=76171&article.offset=0&articleLimit=10",
+      "event_id": "0b218ae91167b9192fbaa67dd7b215281a0200b1e58e24edb4fc9daa94f0d922",
+      "message_id": "1510073663100031209",
+      "posted": true,
+      "posted_at": "2026-05-30T09:13:08.763249+09:00",
+      "source_title": "제10회 디지털 헬스케어 MEDICAL HACK 2026",
+      "tags": [
+        "오프라인",
+        "공모전/대회",
+        "보안"
+      ],
+      "thread_id": "1510073663100031209"
     },
     "0baea362c00585045a8d6ba9c98cda6de4250087ce131c47e36b9a319cae2b74": {
       "canonical_url": "https://event-us.kr/datayanolja2020/event/124270",
@@ -665,6 +691,20 @@
         "컨퍼런스/세미나"
       ],
       "thread_id": "1499922438798966805"
+    },
+    "35cfee7c482943d73f7c3d48e42dfed604a8fb5cff07bac4676d8590dcbe39fe": {
+      "canonical_url": "https://event-us.kr/axarena/event/125135",
+      "event_id": "35cfee7c482943d73f7c3d48e42dfed604a8fb5cff07bac4676d8590dcbe39fe",
+      "message_id": "1510073591725817856",
+      "posted": true,
+      "posted_at": "2026-05-30T09:13:08.763249+09:00",
+      "source_title": "제1회 기업 실전 AX Arena",
+      "tags": [
+        "오프라인",
+        "공모전/대회",
+        "AI"
+      ],
+      "thread_id": "1510073591725817856"
     },
     "3cf6adbd1518d5f5f10f64ae93f827646edf5f9dc9b2ec3e77087964770243e8": {
       "canonical_url": "https://2026datacontest.co.kr/",
@@ -2539,6 +2579,46 @@
       ],
       "thread_id": "1492671034468601878"
     },
+    "f2fa5ff86347b8dab6525047441f18fb4b4ead5f30c83ab65a7acf9f85e9d14f": {
+      "canonical_url": "https://event-us.kr/Pentacle/event/124637",
+      "event_id": "f2fa5ff86347b8dab6525047441f18fb4b4ead5f30c83ab65a7acf9f85e9d14f",
+      "message_id": "1510073632636932328",
+      "posted": true,
+      "posted_at": "2026-05-30T09:13:08.763249+09:00",
+      "source_title": "2026년 산림 공공데이터·AI 활용 창업경진대회",
+      "tags": [
+        "온라인",
+        "공모전/대회",
+        "AI"
+      ],
+      "thread_id": "1510073632636932328"
+    },
+    "f395eb0493d9da977aa3db1d32eea21116557ea2537671d6b8c57608d19b8afd": {
+      "canonical_url": "https://event-us.kr/skintellixhackathon/event/125194",
+      "event_id": "f395eb0493d9da977aa3db1d32eea21116557ea2537671d6b8c57608d19b8afd",
+      "message_id": "1510073615830220810",
+      "posted": true,
+      "posted_at": "2026-05-30T09:13:08.763249+09:00",
+      "source_title": "2nd 나무엑스 Hackathon",
+      "tags": [
+        "오프라인",
+        "해커톤"
+      ],
+      "thread_id": "1510073615830220810"
+    },
+    "f54980f6b8321d9ee289ccb44eb4da02a5925190bd14a170aeb75dee070b278a": {
+      "canonical_url": "https://meetup.com/awskrug/events/314979179",
+      "event_id": "f54980f6b8321d9ee289ccb44eb4da02a5925190bd14a170aeb75dee070b278a",
+      "message_id": "1510073580355063908",
+      "posted": true,
+      "posted_at": "2026-05-30T09:13:08.763249+09:00",
+      "source_title": "AWSKRUG #을지로 소모임 (6월 10일, 수요일)",
+      "tags": [
+        "오프라인",
+        "클라우드"
+      ],
+      "thread_id": "1510073580355063908"
+    },
     "f585c4960917dc52c0d23393103a8850b2f8aafcfe18e0c1ec48e224dd4eb4ab": {
       "canonical_url": "https://ictcocpiuda.imweb.me/",
       "event_id": "f585c4960917dc52c0d23393103a8850b2f8aafcfe18e0c1ec48e224dd4eb4ab",
@@ -2608,6 +2688,20 @@
         "AI"
       ],
       "thread_id": "1485058355725734070"
+    },
+    "fc9e66e1380f517827fdf7867991a77da5f4aa530a49d5a901997f89cabe6e33": {
+      "canonical_url": "https://meetup.com/awskrug/events/315009322",
+      "event_id": "fc9e66e1380f517827fdf7867991a77da5f4aa530a49d5a901997f89cabe6e33",
+      "message_id": "1510073604694610100",
+      "posted": true,
+      "posted_at": "2026-05-30T09:13:08.763249+09:00",
+      "source_title": "AWSKRUG #AIEngineering 소모임 - 터미널부터 엣지까지 (6월 22일)",
+      "tags": [
+        "오프라인",
+        "AI",
+        "클라우드"
+      ],
+      "thread_id": "1510073604694610100"
     },
     "ff6c183c203257145a1bf29807ef787fd8a2af58748b1f167246552dc66e483f": {
       "canonical_url": "https://m.jobkorea.co.kr/help/notice/view?B_No=15041",
