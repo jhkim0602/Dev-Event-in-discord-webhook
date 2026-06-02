@@ -880,6 +880,19 @@
       ],
       "thread_id": "1493760389316612279"
     },
+    "530ad7f5db6045874bdcafaa4214175bfb0ddf01070016de879836e58a27858c": {
+      "canonical_url": "https://meetup.com/awskrug/events/315050299",
+      "event_id": "530ad7f5db6045874bdcafaa4214175bfb0ddf01070016de879836e58a27858c",
+      "message_id": "1511161965651951670",
+      "posted": true,
+      "posted_at": "2026-06-02T09:18:07.754272+09:00",
+      "source_title": "AWSKRUG #magok 마곡 소모임 (6월 23일)",
+      "tags": [
+        "오프라인",
+        "클라우드"
+      ],
+      "thread_id": "1511161965651951670"
+    },
     "53be24e951c4ea2c186d7739b1f17f460bc6854877a98dae6f1a94e1f332d90b": {
       "canonical_url": "https://inf.run/9zmtr",
       "event_id": "53be24e951c4ea2c186d7739b1f17f460bc6854877a98dae6f1a94e1f332d90b",
@@ -1650,6 +1663,20 @@
         "컨퍼런스/세미나"
       ],
       "thread_id": "1497383537358143558"
+    },
+    "9e4ed6f06ea12942af2bb1333fde20d5f3bd8da2cd6e1904e2d73c13a7cb5e62": {
+      "canonical_url": "https://dxchallenge.co.kr/dive-2026",
+      "event_id": "9e4ed6f06ea12942af2bb1333fde20d5f3bd8da2cd6e1904e2d73c13a7cb5e62",
+      "message_id": "1511161973826392125",
+      "posted": true,
+      "posted_at": "2026-06-02T09:18:07.754272+09:00",
+      "source_title": "DIVE 2026",
+      "tags": [
+        "오프라인",
+        "공모전/대회",
+        "AI"
+      ],
+      "thread_id": "1511161973826392125"
     },
     "a155fdce6848662dd4c317d517bc240efaac550b38811831bef24dd09190302a": {
       "canonical_url": "https://kakaotechbootcamp.com/",
@@ -2660,6 +2687,20 @@
         "커리어"
       ],
       "thread_id": "1488322287991128197"
+    },
+    "f84db952fc559bf078dc0a889474f18dc1c65c16b2bb69d5facf973bb4d3b6ed": {
+      "canonical_url": "https://eduhancom.com/codegate",
+      "event_id": "f84db952fc559bf078dc0a889474f18dc1c65c16b2bb69d5facf973bb4d3b6ed",
+      "message_id": "1511161984190644245",
+      "posted": true,
+      "posted_at": "2026-06-02T09:18:07.754272+09:00",
+      "source_title": "2026 코드게이트 AI 스타트업 해커톤",
+      "tags": [
+        "오프라인",
+        "해커톤",
+        "AI"
+      ],
+      "thread_id": "1511161984190644245"
     },
     "f98e57e5239a386aee4798f7cefd51186f0ad46995a0677f35bddfd165645862": {
       "canonical_url": "https://dorahacks.io/hackathon/mantleturingtesthackathon2026/detail",
