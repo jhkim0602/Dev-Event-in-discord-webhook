@@ -1651,6 +1651,20 @@
       ],
       "thread_id": "1507536435463454781"
     },
+    "970bc7af263ff13ade245e167f5732095e620110edc869a6c72a5cda9046db25": {
+      "canonical_url": "https://rocketpunch.com/event/258y9oMGIK",
+      "event_id": "970bc7af263ff13ade245e167f5732095e620110edc869a6c72a5cda9046db25",
+      "message_id": "1511545693184196689",
+      "posted": true,
+      "posted_at": "2026-06-03T10:42:53.427397+09:00",
+      "source_title": "삼성전자 협력회사 채용관 — AI 반도체 시대의 커리어 기회",
+      "tags": [
+        "오프라인",
+        "커리어",
+        "AI"
+      ],
+      "thread_id": "1511545693184196689"
+    },
     "97af9f6617f163ed5ffaf8d1ae82c3555c26b54d58668a260e61a40b3ac87aa2": {
       "canonical_url": "https://ticketa.co/event/smu6uxm5",
       "event_id": "97af9f6617f163ed5ffaf8d1ae82c3555c26b54d58668a260e61a40b3ac87aa2",
@@ -2146,6 +2160,19 @@
       "source_title": "2026 인터넷서비스 트렌드 컨퍼런스",
       "tags": [],
       "thread_id": null
+    },
+    "c9b2e34ed41456d91850a3176b8ef2414a7a53e9038d38469ede88e02bb04f78": {
+      "canonical_url": "https://meetup.com/ko-KR/awskrug/events/315039832",
+      "event_id": "c9b2e34ed41456d91850a3176b8ef2414a7a53e9038d38469ede88e02bb04f78",
+      "message_id": "1511545689971101817",
+      "posted": true,
+      "posted_at": "2026-06-03T10:42:53.427397+09:00",
+      "source_title": "AUSG Public BIGCHAT",
+      "tags": [
+        "오프라인",
+        "클라우드"
+      ],
+      "thread_id": "1511545689971101817"
     },
     "c9df077adcf6779c358bb89ccef6739280c832bb93fd1e979155ba9f20ab9b4c": {
       "canonical_url": "https://meetup.com/awskrug/events/313678685",
