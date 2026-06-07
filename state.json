@@ -14,6 +14,19 @@
       "tags": [],
       "thread_id": null
     },
+    "032e551b6e50761458d643d1643ca389cc43da02b367ae29f714261ff5b66d3a": {
+      "canonical_url": "https://maplestoryworlds.nexon.com/events/ko/2026globalcontest",
+      "event_id": "032e551b6e50761458d643d1643ca389cc43da02b367ae29f714261ff5b66d3a",
+      "message_id": "1512971952128786492",
+      "posted": true,
+      "posted_at": "2026-06-07T09:10:06.849962+09:00",
+      "source_title": "MapleStory Worlds 글로벌 개발 콘테스트 2026",
+      "tags": [
+        "온라인",
+        "공모전/대회"
+      ],
+      "thread_id": "1512971952128786492"
+    },
     "03963d283c9d28e0bb3ff65f883777c5642a831743c9487a32f55400530dc364": {
       "canonical_url": "https://pages.awscloud.com/aws-summit-seoul-2026-registration.html",
       "event_id": "03963d283c9d28e0bb3ff65f883777c5642a831743c9487a32f55400530dc364",
@@ -353,6 +366,19 @@
         "AI"
       ],
       "thread_id": "1480224077372457161"
+    },
+    "141fc44e496d9047457598369bd4096c847444f1b2c0536d464d7226924a3338": {
+      "canonical_url": "https://meetup.com/awskrug/events/315068090",
+      "event_id": "141fc44e496d9047457598369bd4096c847444f1b2c0536d464d7226924a3338",
+      "message_id": "1512971919987708066",
+      "posted": true,
+      "posted_at": "2026-06-07T09:10:06.849962+09:00",
+      "source_title": "AWSKRUG 집현전 #jiphyeonjeon 온라인 소모임 - 6월 20일(토)",
+      "tags": [
+        "온라인",
+        "클라우드"
+      ],
+      "thread_id": "1512971919987708066"
     },
     "1425d3c9a47faa80332c6624272b1b53fb1229f818f88db324290a7067d679af": {
       "canonical_url": "https://docs.google.com/forms/d/e/1FAIpQLScnV-QNERiZfe3dVbHVloNAm0F0B8A6Ac_sziSpWZ4KijXBbw/viewform",
@@ -1098,6 +1124,20 @@
       ],
       "thread_id": "1509346462083973210"
     },
+    "6b86e28a984d7eb96b94004374219c9684526b08ee49e10ed85a1907e8df5eca": {
+      "canonical_url": "https://meetup.com/awskrug/events/315069046",
+      "event_id": "6b86e28a984d7eb96b94004374219c9684526b08ee49e10ed85a1907e8df5eca",
+      "message_id": "1512971928665718934",
+      "posted": true,
+      "posted_at": "2026-06-07T09:10:06.849962+09:00",
+      "source_title": "AWSKRUG 보안 #Security 소모임 /w Beaver Dam - 6월 25일 (목)",
+      "tags": [
+        "오프라인",
+        "클라우드",
+        "보안"
+      ],
+      "thread_id": "1512971928665718934"
+    },
     "6b9215ba133c0ebf386fcc48037b22fa3ac072b103f7c2ab5ac772e35d6afb46": {
       "canonical_url": "https://meetup.com/awskrug/events/314064008",
       "event_id": "6b9215ba133c0ebf386fcc48037b22fa3ac072b103f7c2ab5ac772e35d6afb46",
@@ -1507,6 +1547,19 @@
       ],
       "thread_id": "1506087415855452272"
     },
+    "892720572c4276ceb27c3d919fa6d991c4e5b4d7e76e5afb95771b91fa536d7f": {
+      "canonical_url": "https://meetup.com/awskrug/events/315099275",
+      "event_id": "892720572c4276ceb27c3d919fa6d991c4e5b4d7e76e5afb95771b91fa536d7f",
+      "message_id": "1512971915277373511",
+      "posted": true,
+      "posted_at": "2026-06-07T09:10:06.849962+09:00",
+      "source_title": "AWSKRUG #Beginner 모임 (6월 16일)",
+      "tags": [
+        "오프라인",
+        "클라우드"
+      ],
+      "thread_id": "1512971915277373511"
+    },
     "89bc947aaf126b5f54a25d1b02a2826547988f0050c32df95437a4e440656e07": {
       "canonical_url": "https://smarttechkorea.com/Main",
       "event_id": "89bc947aaf126b5f54a25d1b02a2826547988f0050c32df95437a4e440656e07",
@@ -1691,6 +1744,20 @@
         "AI"
       ],
       "thread_id": "1511161973826392125"
+    },
+    "a062299b0c1eaa61b4b685de99a640da839fc2264ded4a5dfb46181d0e589697": {
+      "canonical_url": "https://megazonesoft.com/gcp_fundamentals_core_infra_20260616",
+      "event_id": "a062299b0c1eaa61b4b685de99a640da839fc2264ded4a5dfb46181d0e589697",
+      "message_id": "1512971904741408822",
+      "posted": true,
+      "posted_at": "2026-06-07T09:10:06.849962+09:00",
+      "source_title": "Google Cloud Fundamentals: Core Infrastructure",
+      "tags": [
+        "온라인",
+        "컨퍼런스/세미나",
+        "클라우드"
+      ],
+      "thread_id": "1512971904741408822"
     },
     "a155fdce6848662dd4c317d517bc240efaac550b38811831bef24dd09190302a": {
       "canonical_url": "https://kakaotechbootcamp.com/",
@@ -2006,6 +2073,19 @@
       ],
       "thread_id": "1480224034301018142"
     },
+    "bb08de0755d9c54036ae8484bd9a6487d8297b0c3195e69828bcda9c194952ad": {
+      "canonical_url": "https://pvs-studio.com/en/webinar/30",
+      "event_id": "bb08de0755d9c54036ae8484bd9a6487d8297b0c3195e69828bcda9c194952ad",
+      "message_id": "1512971946525069403",
+      "posted": true,
+      "posted_at": "2026-06-07T09:10:06.849962+09:00",
+      "source_title": "Let's make a programming language. AST",
+      "tags": [
+        "온라인",
+        "컨퍼런스/세미나"
+      ],
+      "thread_id": "1512971946525069403"
+    },
     "bb5ad22703dd706d311724dcc93e79245ff18fa0d51f5691e493643795c8ef46": {
       "canonical_url": "https://tech.goorm.io/2603_commit",
       "event_id": "bb5ad22703dd706d311724dcc93e79245ff18fa0d51f5691e493643795c8ef46",
@@ -2083,6 +2163,20 @@
         "클라우드"
       ],
       "thread_id": "1483972193091194901"
+    },
+    "c50cbf08f5ff44c5fa9e0c70abd4d627b8e8959bb7382b2c377dc83d2da7b0b8": {
+      "canonical_url": "https://meetup.com/awskrug/events/315082322",
+      "event_id": "c50cbf08f5ff44c5fa9e0c70abd4d627b8e8959bb7382b2c377dc83d2da7b0b8",
+      "message_id": "1512971924219887777",
+      "posted": true,
+      "posted_at": "2026-06-07T09:10:06.849962+09:00",
+      "source_title": "AWSKRUG Women In Cloud 20th: 코드보다 먼저 바꿔야 할 것 — AI 시대 말하기의 과학",
+      "tags": [
+        "온라인",
+        "AI",
+        "클라우드"
+      ],
+      "thread_id": "1512971924219887777"
     },
     "c590d375ebb9bf0d5785f81ab53c2bd0b894babed57c10615343440e4e15f701": {
       "canonical_url": "https://event-us.kr/powerplatform/event/121503",
@@ -2240,6 +2334,18 @@
         "컨퍼런스/세미나"
       ],
       "thread_id": "1499922510819491980"
+    },
+    "d0dc346446f62aa53b110d719f9a782e7008655eff872c1559686556f7c213af": {
+      "canonical_url": "https://ticketa.co/event/qihrrgnk",
+      "event_id": "d0dc346446f62aa53b110d719f9a782e7008655eff872c1559686556f7c213af",
+      "message_id": "1512971891814564030",
+      "posted": true,
+      "posted_at": "2026-06-07T09:10:06.849962+09:00",
+      "source_title": "🌊 After Tech Club: vol 1. WWDC26 Recap",
+      "tags": [
+        "오프라인"
+      ],
+      "thread_id": "1512971891814564030"
     },
     "d1110b217910b84bc53b591c99fb8dcf6aa8da27f66b0b6f522fec4b51ac1317": {
       "canonical_url": "https://rocketpunch.com/event/8V7auSHYUe",
@@ -2496,6 +2602,19 @@
         "컨퍼런스/세미나"
       ],
       "thread_id": "1480224200789594192"
+    },
+    "e6bf743d4f6dcb6948a16b4a8eeae17daee430cdd7cf7905420d9fb0d0435efc": {
+      "canonical_url": "https://ticketa.co/event/m8adkbnl",
+      "event_id": "e6bf743d4f6dcb6948a16b4a8eeae17daee430cdd7cf7905420d9fb0d0435efc",
+      "message_id": "1512971936374849746",
+      "posted": true,
+      "posted_at": "2026-06-07T09:10:06.849962+09:00",
+      "source_title": "Microsoft Build //localhost:Seoul",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나"
+      ],
+      "thread_id": "1512971936374849746"
     },
     "e7ccaa30e20af02e8392a09736427e5a670a7ab4b7224ef1fa261ccaf5f9e298": {
       "canonical_url": "https://seoulwomen.or.kr/sfwf/contents/sfwf-worklifebalance.do?schOpt3=care&schM=view&act=UPDATE&page=1&viewCount=10&id=31058&schBdcode=&schGroupCode=",
