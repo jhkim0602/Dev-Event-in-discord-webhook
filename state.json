@@ -678,6 +678,19 @@
       ],
       "thread_id": "1483247748068282465"
     },
+    "30307d7231a1fd3995be2a553028bad7add3453705f1309345f872fd990f9981": {
+      "canonical_url": "https://new.nypc.co.kr/ko",
+      "event_id": "30307d7231a1fd3995be2a553028bad7add3453705f1309345f872fd990f9981",
+      "message_id": "1515509586843406457",
+      "posted": true,
+      "posted_at": "2026-06-14T09:13:43.845956+09:00",
+      "source_title": "NYPC 2026",
+      "tags": [
+        "온라인",
+        "공모전/대회"
+      ],
+      "thread_id": "1515509586843406457"
+    },
     "3087af080996096aec4d1fd4d236f4116178cf682f550b0fc5225359b4632d9a": {
       "canonical_url": "https://event-us.kr/bcmckisa/event/119309",
       "event_id": "3087af080996096aec4d1fd4d236f4116178cf682f550b0fc5225359b4632d9a",
@@ -960,6 +973,20 @@
         "커리어"
       ],
       "thread_id": "1480224059206799473"
+    },
+    "53e7bf10c04123756ec23b02de425c701e27dddb69cdf077360daae4cbdaadd4": {
+      "canonical_url": "https://event-us.kr/kaag/event/125832",
+      "event_id": "53e7bf10c04123756ec23b02de425c701e27dddb69cdf077360daae4cbdaadd4",
+      "message_id": "1515509521454465067",
+      "posted": true,
+      "posted_at": "2026-06-14T09:13:43.845956+09:00",
+      "source_title": "Build 2026 Recap and Hands on lab",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1515509521454465067"
     },
     "557c03de7ac0635f446243c3dd77fa1717493a99becf32cf7927389604127635": {
       "canonical_url": "https://rocketpunch.com/event/qpEDqb19Ey",
@@ -1735,6 +1762,19 @@
       ],
       "thread_id": "1480224224529485905"
     },
+    "8c3bc3ac4f826b3899505fe2f12c645a0bc29d793439e2d81c38295ddbdade92": {
+      "canonical_url": "https://event-us.kr/powerplatform/event/126291",
+      "event_id": "8c3bc3ac4f826b3899505fe2f12c645a0bc29d793439e2d81c38295ddbdade92",
+      "message_id": "1515509551447674970",
+      "posted": true,
+      "posted_at": "2026-06-14T09:13:43.845956+09:00",
+      "source_title": "Build //localhost Seoul(Power Platform)",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나"
+      ],
+      "thread_id": "1515509551447674970"
+    },
     "8fad0d4eb36743e596c7340e5e2570a12ebbf016ed362b9a53f40eab6c2a598a": {
       "canonical_url": "https://ticketa.co/event/nzsib6wn",
       "event_id": "8fad0d4eb36743e596c7340e5e2570a12ebbf016ed362b9a53f40eab6c2a598a",
@@ -1784,6 +1824,20 @@
       "source_title": "DND 15기 모집",
       "tags": [],
       "thread_id": "1506811762895355904"
+    },
+    "9618a8b8c7cd78081f55b0d4b01180c515caa10413db58dbb56b22319e187ad3": {
+      "canonical_url": "https://dicia.or.kr/sub.do?menuIdx=MENU_000000000000056&contentSubMode=view&nttIdx=6qE90w62B1miq4AigeY%2BKyYhx%2FXypYchsFAqnyPCFFs%3D",
+      "event_id": "9618a8b8c7cd78081f55b0d4b01180c515caa10413db58dbb56b22319e187ad3",
+      "message_id": "1515509599367729184",
+      "posted": true,
+      "posted_at": "2026-06-14T09:13:43.845956+09:00",
+      "source_title": "2026년 물류데이터·AI 활용 및 분석 아이디어 공모전",
+      "tags": [
+        "온라인",
+        "공모전/대회",
+        "AI"
+      ],
+      "thread_id": "1515509599367729184"
     },
     "96e9c5902c6181b0e4530c900204f9e8cc3deb9ca3f3cf575629714ac3ffa3ca": {
       "canonical_url": "https://tech.goorm.io/2605_commit",
@@ -2417,6 +2471,19 @@
       ],
       "thread_id": "1497745468686602371"
     },
+    "cc83c8f50eaca2555d171c673240bd35afa4757c4cb7966874e24fe0e9e7fdae": {
+      "canonical_url": "https://event-us.kr/tangunsoft/event/125617",
+      "event_id": "cc83c8f50eaca2555d171c673240bd35afa4757c4cb7966874e24fe0e9e7fdae",
+      "message_id": "1515509568862687323",
+      "posted": true,
+      "posted_at": "2026-06-14T09:13:43.845956+09:00",
+      "source_title": "JetBrains GameDev Meetup Korea 2026",
+      "tags": [
+        "오프라인",
+        "AI"
+      ],
+      "thread_id": "1515509568862687323"
+    },
     "cd548f3f4b12a1a41e352266dd9f21bf9e662aed9b8386bd3d921d887e82932c": {
       "canonical_url": "https://event.wanted.co.kr/WATN",
       "event_id": "cd548f3f4b12a1a41e352266dd9f21bf9e662aed9b8386bd3d921d887e82932c",
@@ -2602,6 +2669,20 @@
         "AI"
       ],
       "thread_id": "1506087395299295377"
+    },
+    "da6d9701216391b152ee35ed03864ee2a467c3909ec6d855236f0492052095de": {
+      "canonical_url": "https://boostcamp-wm.notion.site/AI-Agent-Challenge-35ab9dd86abe809db232f9d2f5e3f521",
+      "event_id": "da6d9701216391b152ee35ed03864ee2a467c3909ec6d855236f0492052095de",
+      "message_id": "1515509578949853194",
+      "posted": true,
+      "posted_at": "2026-06-14T09:13:43.845956+09:00",
+      "source_title": "AI Agent Challenge",
+      "tags": [
+        "온라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1515509578949853194"
     },
     "dbeb8fcd741a0bcc319200ee3c1656b88ecf237fd3a23863970a43e46d9d9ba0": {
       "canonical_url": "https://luma.com/kxoq82yq",
