@@ -77,6 +77,20 @@
       ],
       "thread_id": "1483972115383455906"
     },
+    "062d44f91f1569ea9294312e8ca991a55d1bc45c7d23af6ffa220cf83275a99f": {
+      "canonical_url": "https://event-us.kr/asbg/event/126886",
+      "event_id": "062d44f91f1569ea9294312e8ca991a55d1bc45c7d23af6ffa220cf83275a99f",
+      "message_id": "1515873001319432273",
+      "posted": true,
+      "posted_at": "2026-06-15T09:18:04.178746+09:00",
+      "source_title": "AWS Student Community Day 2026",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "클라우드"
+      ],
+      "thread_id": "1515873001319432273"
+    },
     "0649742202d4d6f8fe800c178d8185d79e031e1014f1a939bbb442c190eaca55": {
       "canonical_url": "https://rocketpunch.com/event/6olOYNWsOR",
       "event_id": "0649742202d4d6f8fe800c178d8185d79e031e1014f1a939bbb442c190eaca55",
@@ -1518,6 +1532,20 @@
       ],
       "thread_id": "1490496364591841472"
     },
+    "7c56a6d575cf7834c7d9da61cf3430c6cd9a4b8268138dbfe2530ff4695076d4": {
+      "canonical_url": "https://acpc2026.codetree.ai/",
+      "event_id": "7c56a6d575cf7834c7d9da61cf3430c6cd9a4b8268138dbfe2530ff4695076d4",
+      "message_id": "1515873018466009203",
+      "posted": true,
+      "posted_at": "2026-06-15T09:18:04.178746+09:00",
+      "source_title": "ACPC 2026 · AWS × 코드트리 대학생 프로그래밍 경진대회",
+      "tags": [
+        "온라인",
+        "공모전/대회",
+        "클라우드"
+      ],
+      "thread_id": "1515873018466009203"
+    },
     "7de2c2cf2707e660c2c46dcc69207fa1ae596a99fd80207cc4f20d6600cd01d7": {
       "canonical_url": "https://luma.com/4scwh5tv",
       "event_id": "7de2c2cf2707e660c2c46dcc69207fa1ae596a99fd80207cc4f20d6600cd01d7",
@@ -1814,6 +1842,18 @@
         "교육/부트캠프"
       ],
       "thread_id": "1503911001463062558"
+    },
+    "940e91e5fbbf860f1dd3e6254db2c6a6a162df7867b96160c6e81596c160bdef": {
+      "canonical_url": "https://forms.gle/Jp5or1t1tohCerdX8",
+      "event_id": "940e91e5fbbf860f1dd3e6254db2c6a6a162df7867b96160c6e81596c160bdef",
+      "message_id": "1515873013294170254",
+      "posted": true,
+      "posted_at": "2026-06-15T09:18:04.178746+09:00",
+      "source_title": "SUSC 여름방학 교류활동 참가자 모집",
+      "tags": [
+        "온라인"
+      ],
+      "thread_id": "1515873013294170254"
     },
     "95ca3f09eb85c55a3bc3cac07ea5d3d0f294ea3555c6236f165e0c26528c2531": {
       "canonical_url": "https://dnd.ac/",
