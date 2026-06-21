@@ -478,6 +478,19 @@
       ],
       "thread_id": "1481072737261977828"
     },
+    "189b701fbe6396752a94f20c2be82c752782368e31f550abc9b81d064ed2e798": {
+      "canonical_url": "https://aicampus.goorm.io/",
+      "event_id": "189b701fbe6396752a94f20c2be82c752782368e31f550abc9b81d064ed2e798",
+      "message_id": "1518046181534470277",
+      "posted": true,
+      "posted_at": "2026-06-21T09:13:27.705185+09:00",
+      "source_title": "구름 AI 캠퍼스 Prism",
+      "tags": [
+        "온라인",
+        "AI"
+      ],
+      "thread_id": "1518046181534470277"
+    },
     "19785b2b48982aafa28822390ead312cecc38914046af5f73340638145a3368e": {
       "canonical_url": "https://onoffmix.com/event/339468",
       "event_id": "19785b2b48982aafa28822390ead312cecc38914046af5f73340638145a3368e",
@@ -1275,6 +1288,20 @@
       ],
       "thread_id": "1499922453466579034"
     },
+    "6d8891e8ab095f3b3f9afe410138dae961f41d8abd8e1cf1788439575361dd56": {
+      "canonical_url": "https://rocketpunch.com/event/T42oNQmVqq",
+      "event_id": "6d8891e8ab095f3b3f9afe410138dae961f41d8abd8e1cf1788439575361dd56",
+      "message_id": "1518046198416805989",
+      "posted": true,
+      "posted_at": "2026-06-21T09:13:27.705185+09:00",
+      "source_title": "AXIS 2026 (Asia eXperience & Innovation Summit)",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1518046198416805989"
+    },
     "6ddba8e831dd6cb2d1fa23ee3ac65d093de9ebe0770b00a0e9b7e1a3235b6c85": {
       "canonical_url": "https://ai-champion.or.kr/",
       "event_id": "6ddba8e831dd6cb2d1fa23ee3ac65d093de9ebe0770b00a0e9b7e1a3235b6c85",
@@ -1463,6 +1490,19 @@
         "컨퍼런스/세미나"
       ],
       "thread_id": "1485784924651917392"
+    },
+    "76ab293e7fb1dba187cb6696ace533f1d65952f2e1cb9864ec1cbb24bfd7ff98": {
+      "canonical_url": "https://meetup.com/awskrug/events/315222389",
+      "event_id": "76ab293e7fb1dba187cb6696ace533f1d65952f2e1cb9864ec1cbb24bfd7ff98",
+      "message_id": "1518046175360454821",
+      "posted": true,
+      "posted_at": "2026-06-21T09:13:27.705185+09:00",
+      "source_title": "AWSKRUG 서버리스 #Serverless 소모임 (7월 14일)",
+      "tags": [
+        "오프라인",
+        "클라우드"
+      ],
+      "thread_id": "1518046175360454821"
     },
     "76d61b6e97f0fc41784dd2b403bf59d719ee616d53393560c9121bd5c527769a": {
       "canonical_url": "https://ticketa.co/event/dyaiayw5",
@@ -2409,6 +2449,20 @@
       ],
       "thread_id": "1480224294129893518"
     },
+    "c5d5082be2aeee088cb3c3eb6eba55c3ce22f813fb5884225e31a49d018686a2": {
+      "canonical_url": "https://biz.modulabs.co.kr/event/480",
+      "event_id": "c5d5082be2aeee088cb3c3eb6eba55c3ce22f813fb5884225e31a49d018686a2",
+      "message_id": "1518046168532259057",
+      "posted": true,
+      "posted_at": "2026-06-21T09:13:27.705185+09:00",
+      "source_title": "모두의 CVPR: Faculty와 함께하는 연구 트렌드와 논문",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1518046168532259057"
+    },
     "c60d6167a71e17cffd54a08c4a02f014313ba28da73bf7204c60c4bcc827ed66": {
       "canonical_url": "https://luma.com/cf9nsaef",
       "event_id": "c60d6167a71e17cffd54a08c4a02f014313ba28da73bf7204c60c4bcc827ed66",
@@ -2925,6 +2979,20 @@
       ],
       "thread_id": "1508986482981998653"
     },
+    "ecf22531ad44d8e9fa9bdd43519a0e78c992e2f454572e5e2b5dae29cc2ebb35": {
+      "canonical_url": "https://kpaix.kr/page/Invitation",
+      "event_id": "ecf22531ad44d8e9fa9bdd43519a0e78c992e2f454572e5e2b5dae29cc2ebb35",
+      "message_id": "1518046164245680229",
+      "posted": true,
+      "posted_at": "2026-06-21T09:13:27.705185+09:00",
+      "source_title": "2026 공공 AI 박람회 및 제9회 전자정부의 날 기념식",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1518046164245680229"
+    },
     "ed3f6df1b5149401a744ef86d9a7d3acc4f7a19749f7c1dadf18e4e3d0b00939": {
       "canonical_url": "https://luma.com/luuilxvp",
       "event_id": "ed3f6df1b5149401a744ef86d9a7d3acc4f7a19749f7c1dadf18e4e3d0b00939",
@@ -3116,6 +3184,19 @@
         "AI"
       ],
       "thread_id": "1511161984190644245"
+    },
+    "f90392432326149c6d0982cb56e598362ffa2506389ce678cedfb6cd833daab2": {
+      "canonical_url": "https://luma.com/xej0o2jr",
+      "event_id": "f90392432326149c6d0982cb56e598362ffa2506389ce678cedfb6cd833daab2",
+      "message_id": "1518046190589968416",
+      "posted": true,
+      "posted_at": "2026-06-21T09:13:27.705185+09:00",
+      "source_title": "Hugging Face Seoul Meetup",
+      "tags": [
+        "오프라인",
+        "AI"
+      ],
+      "thread_id": "1518046190589968416"
     },
     "f98e57e5239a386aee4798f7cefd51186f0ad46995a0677f35bddfd165645862": {
       "canonical_url": "https://dorahacks.io/hackathon/mantleturingtesthackathon2026/detail",
