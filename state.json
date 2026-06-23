@@ -1246,6 +1246,19 @@
       ],
       "thread_id": "1509346462083973210"
     },
+    "69c8dc19f79cfe825b9b479f6fc57150d0f979515cbdf64a01fe27f12e97cda5": {
+      "canonical_url": "https://meetup.com/awskrug/events/315352674",
+      "event_id": "69c8dc19f79cfe825b9b479f6fc57150d0f979515cbdf64a01fe27f12e97cda5",
+      "message_id": "1518770953314762797",
+      "posted": true,
+      "posted_at": "2026-06-23T09:13:31.585119+09:00",
+      "source_title": "AWSKRUG Women In Cloud 21th(온라인) | 주니어 여성엔지니어의 AWS SHE Builders&ABW 후기",
+      "tags": [
+        "온라인",
+        "클라우드"
+      ],
+      "thread_id": "1518770953314762797"
+    },
     "6b86e28a984d7eb96b94004374219c9684526b08ee49e10ed85a1907e8df5eca": {
       "canonical_url": "https://meetup.com/awskrug/events/315069046",
       "event_id": "6b86e28a984d7eb96b94004374219c9684526b08ee49e10ed85a1907e8df5eca",
@@ -2195,6 +2208,19 @@
       ],
       "thread_id": "1499922506104967278"
     },
+    "acbe1f7df5bcf475cbf7e7a7cdd8a93d27b9605051a84ab2554bf7950bfedbb7": {
+      "canonical_url": "https://luma.com/2js3bisk",
+      "event_id": "acbe1f7df5bcf475cbf7e7a7cdd8a93d27b9605051a84ab2554bf7950bfedbb7",
+      "message_id": "1518770992585900127",
+      "posted": true,
+      "posted_at": "2026-06-23T09:13:31.585119+09:00",
+      "source_title": "ICML Happy Hour 🍺🍕 Liner x VESSL AI: Research to Scale",
+      "tags": [
+        "오프라인",
+        "AI"
+      ],
+      "thread_id": "1518770992585900127"
+    },
     "acd4885019ea7b42fa4a9f596007c7843e8db4d54913a1cc658824ef7ce865e3": {
       "canonical_url": "https://ticketa.co/event/g5ksilrk",
       "event_id": "acd4885019ea7b42fa4a9f596007c7843e8db4d54913a1cc658824ef7ce865e3",
@@ -2371,6 +2397,20 @@
       ],
       "thread_id": "1483972184069247089"
     },
+    "bfc9f3f6311433676a5a6fd4ff1ea153c81926056c2769afeef72ac3460cce69": {
+      "canonical_url": "https://xai.kaist.ac.kr/AI-Factory-Capability-Seminar/2026",
+      "event_id": "bfc9f3f6311433676a5a6fd4ff1ea153c81926056c2769afeef72ac3460cce69",
+      "message_id": "1518770981748084787",
+      "posted": true,
+      "posted_at": "2026-06-23T09:13:31.585119+09:00",
+      "source_title": "AI팩토리 역량 강화 세미나 2026",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1518770981748084787"
+    },
     "c27422889148ab74ad560cee6f5baad274d1afe3992ddc16180d78e622b347b9": {
       "canonical_url": "https://worlditshow.co.kr/introduce/01.php",
       "event_id": "c27422889148ab74ad560cee6f5baad274d1afe3992ddc16180d78e622b347b9",
@@ -2525,6 +2565,20 @@
       "source_title": "2026 인터넷서비스 트렌드 컨퍼런스",
       "tags": [],
       "thread_id": null
+    },
+    "c99650f147ac671f6bfa9f7bd8a81ebbf6df9b3f49ce39c155ec16fe1c214525": {
+      "canonical_url": "https://weatherhackathon.kr/",
+      "event_id": "c99650f147ac671f6bfa9f7bd8a81ebbf6df9b3f49ce39c155ec16fe1c214525",
+      "message_id": "1518770987024388177",
+      "posted": true,
+      "posted_at": "2026-06-23T09:13:31.585119+09:00",
+      "source_title": "기상·기후 AI 해커톤 경진대회 2026",
+      "tags": [
+        "온라인",
+        "해커톤",
+        "AI"
+      ],
+      "thread_id": "1518770987024388177"
     },
     "c9b2e34ed41456d91850a3176b8ef2414a7a53e9038d38469ede88e02bb04f78": {
       "canonical_url": "https://meetup.com/ko-KR/awskrug/events/315039832",
@@ -2913,6 +2967,20 @@
       ],
       "thread_id": "1480224200789594192"
     },
+    "e406040862932097d082bc22e8a2fdbcf38b058e90e9436ad9dddde1bc3fac08": {
+      "canonical_url": "https://honam-is-hackathon.com/",
+      "event_id": "e406040862932097d082bc22e8a2fdbcf38b058e90e9436ad9dddde1bc3fac08",
+      "message_id": "1518770964853428245",
+      "posted": true,
+      "posted_at": "2026-06-23T09:13:31.585119+09:00",
+      "source_title": "2026 호남IS해커톤",
+      "tags": [
+        "온라인",
+        "해커톤",
+        "AI"
+      ],
+      "thread_id": "1518770964853428245"
+    },
     "e6bf743d4f6dcb6948a16b4a8eeae17daee430cdd7cf7905420d9fb0d0435efc": {
       "canonical_url": "https://ticketa.co/event/m8adkbnl",
       "event_id": "e6bf743d4f6dcb6948a16b4a8eeae17daee430cdd7cf7905420d9fb0d0435efc",
@@ -3047,6 +3115,19 @@
         "커리어"
       ],
       "thread_id": "1488322257272180848"
+    },
+    "f05a34db23dc7adad3cb6af8e1cdd2fa8e49e9170361dc5429521a4cf8cd3878": {
+      "canonical_url": "https://oss.kr/pages/2",
+      "event_id": "f05a34db23dc7adad3cb6af8e1cdd2fa8e49e9170361dc5429521a4cf8cd3878",
+      "message_id": "1518771002497175655",
+      "posted": true,
+      "posted_at": "2026-06-23T09:13:31.585119+09:00",
+      "source_title": "2026 오픈소스 개발자대회",
+      "tags": [
+        "온라인",
+        "공모전/대회"
+      ],
+      "thread_id": "1518771002497175655"
     },
     "f12b7b63e7827335991fcc6c2ea20cbfadcfe6a358d32280672ec79fc339fd21": {
       "canonical_url": "https://fastcampus.co.kr/gysan_security_infra",
