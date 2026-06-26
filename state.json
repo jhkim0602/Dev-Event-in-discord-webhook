@@ -367,6 +367,19 @@
       "tags": [],
       "thread_id": null
     },
+    "118c5c439adc487fc52da88fc399d632af5b1625890bf9041498987d717ae2b3": {
+      "canonical_url": "https://ticketa.co/event/zbj22eqq",
+      "event_id": "118c5c439adc487fc52da88fc399d632af5b1625890bf9041498987d717ae2b3",
+      "message_id": "1519858504645611662",
+      "posted": true,
+      "posted_at": "2026-06-26T09:14:55.542156+09:00",
+      "source_title": "FOSS for All 7월 Unconference",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나"
+      ],
+      "thread_id": "1519858504645611662"
+    },
     "123d4c0cb1e5b7222c18587bc9564ec7467b643634ccebf039a6c90ba0978925": {
       "canonical_url": "https://linkareer.com/activity/307318",
       "event_id": "123d4c0cb1e5b7222c18587bc9564ec7467b643634ccebf039a6c90ba0978925",
@@ -676,6 +689,20 @@
         "AI"
       ],
       "thread_id": "1493760416042717185"
+    },
+    "266b5ddc24de2839886f57a88ac40a34dfb78d268a7602620770d60e4b7c51af": {
+      "canonical_url": "https://event-us.kr/FKH3nHkjmPGh/event/127632",
+      "event_id": "266b5ddc24de2839886f57a88ac40a34dfb78d268a7602620770d60e4b7c51af",
+      "message_id": "1519858474778104063",
+      "posted": true,
+      "posted_at": "2026-06-26T09:14:55.542156+09:00",
+      "source_title": "월간 AX: 6월",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1519858474778104063"
     },
     "2b13c477a81db81420422a7e5ac0f8518d86a649f6a56aa38542ab12d0d504bc": {
       "canonical_url": "https://daker.ai/public/hackathons/vibe-coding-improvement-ai-idea-competition",
@@ -1109,6 +1136,20 @@
         "컨퍼런스/세미나"
       ],
       "thread_id": "1514424364974735451"
+    },
+    "58842b675a162bc6a7481eccd52c1927d4821eea67d11c3e92d1770f37983a24": {
+      "canonical_url": "https://hackathon.jocodingax.ai/",
+      "event_id": "58842b675a162bc6a7481eccd52c1927d4821eea67d11c3e92d1770f37983a24",
+      "message_id": "1519858514938302686",
+      "posted": true,
+      "posted_at": "2026-06-26T09:14:55.542156+09:00",
+      "source_title": "AX 인재전쟁 2026",
+      "tags": [
+        "온라인",
+        "공모전/대회",
+        "AI"
+      ],
+      "thread_id": "1519858514938302686"
     },
     "58baa435f07e0d1d71540b8c65718fa6574cbf73853b8db91ff4529d0b1ec0a3": {
       "canonical_url": "https://megazonesoft.com/260521_next-26-recap-webinar",
@@ -1597,6 +1638,19 @@
         "컨퍼런스/세미나"
       ],
       "thread_id": "1490496309856174100"
+    },
+    "783cb6b171ef7a0ae5fb2112c4ce2dd29057b85e293a25aa7c1345e5ea14d530": {
+      "canonical_url": "https://meetup.com/awskrug/events/315380582",
+      "event_id": "783cb6b171ef7a0ae5fb2112c4ce2dd29057b85e293a25aa7c1345e5ea14d530",
+      "message_id": "1519858496294748201",
+      "posted": true,
+      "posted_at": "2026-06-26T09:14:55.542156+09:00",
+      "source_title": "AWSKRUG 플랫폼엔지니어링 모임 - 7월 2일(목)",
+      "tags": [
+        "오프라인",
+        "클라우드"
+      ],
+      "thread_id": "1519858496294748201"
     },
     "7c3346e3704148ebea6372a825fdbb598a55bb4e37fd5da2067e7c581662e242": {
       "canonical_url": "https://luma.com/j06jbiks",
@@ -2299,6 +2353,20 @@
         "AI"
       ],
       "thread_id": "1493760399508635760"
+    },
+    "b444f9757a3f06e24d60b49a4a251022038dadc457d6b847d8910cfe6b715e71": {
+      "canonical_url": "https://aisummit.co.kr/",
+      "event_id": "b444f9757a3f06e24d60b49a4a251022038dadc457d6b847d8910cfe6b715e71",
+      "message_id": "1519858520659329068",
+      "posted": true,
+      "posted_at": "2026-06-26T09:14:55.542156+09:00",
+      "source_title": "AI Summit Seoul & Expo 2026",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1519858520659329068"
     },
     "b4939eb01c44bb85efb212d6d9e3976f427416750f168acf433b2b4753b1281a": {
       "canonical_url": "https://meetup.com/awskrug/events/314414230",
