@@ -814,6 +814,19 @@
       ],
       "thread_id": "1503911039186632714"
     },
+    "34ae7e4ce285a6a7c2999d60154201f3685a44b97342f8889714bad787c2b160": {
+      "canonical_url": "https://ticketa.co/event/j6qfe3id",
+      "event_id": "34ae7e4ce285a6a7c2999d60154201f3685a44b97342f8889714bad787c2b160",
+      "message_id": "1521307006038835241",
+      "posted": true,
+      "posted_at": "2026-06-30T09:10:52.311749+09:00",
+      "source_title": "맞다AI가 7월 밋업 - 하네스 엔지니어링의 모든 것",
+      "tags": [
+        "오프라인",
+        "AI"
+      ],
+      "thread_id": "1521307006038835241"
+    },
     "34bcd47c8844aa3eae470841937262e43a7302c6804e23f2922df7c6e53e0438": {
       "canonical_url": "https://ticketa.co/event/sgiqj99g",
       "event_id": "34bcd47c8844aa3eae470841937262e43a7302c6804e23f2922df7c6e53e0438",
@@ -1312,6 +1325,20 @@
         "클라우드"
       ],
       "thread_id": "1518770953314762797"
+    },
+    "6af8b3d530d8f13e38e53e25dd62667eef05f4c5a2727ac9b893b94fb2e88005": {
+      "canonical_url": "https://allforyoung.com/posts/83834",
+      "event_id": "6af8b3d530d8f13e38e53e25dd62667eef05f4c5a2727ac9b893b94fb2e88005",
+      "message_id": "1521307034207912057",
+      "posted": true,
+      "posted_at": "2026-06-30T09:10:52.311749+09:00",
+      "source_title": "2026 Big Data 활용 대회",
+      "tags": [
+        "온라인",
+        "공모전/대회",
+        "AI"
+      ],
+      "thread_id": "1521307034207912057"
     },
     "6b86e28a984d7eb96b94004374219c9684526b08ee49e10ed85a1907e8df5eca": {
       "canonical_url": "https://meetup.com/awskrug/events/315069046",
@@ -2396,6 +2423,20 @@
       ],
       "thread_id": "1495570724960866427"
     },
+    "b5e77123ecddaea5da280a40757f61f6df4255ac26c14793a9050af3ebc465a6": {
+      "canonical_url": "https://am-expo.co.kr/sub-5-1",
+      "event_id": "b5e77123ecddaea5da280a40757f61f6df4255ac26c14793a9050af3ebc465a6",
+      "message_id": "1521307021453037610",
+      "posted": true,
+      "posted_at": "2026-06-30T09:10:52.311749+09:00",
+      "source_title": "자율주행모빌리티산업전(AME) 2026 컨퍼런스",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1521307021453037610"
+    },
     "b7183c08ff78fed99960d08cc90f1bc6a6e7ab14e9c8ce68e726e5d43f5c0a09": {
       "canonical_url": "https://event-us.kr/2026bcmd/event/124319",
       "event_id": "b7183c08ff78fed99960d08cc90f1bc6a6e7ab14e9c8ce68e726e5d43f5c0a09",
@@ -2527,6 +2568,19 @@
         "오프라인"
       ],
       "thread_id": "1506087393361531091"
+    },
+    "c3be0e01600bf96d4b70a83ed7ba0bb8416b15653ffbd05f0bfdb60c1ec101cd": {
+      "canonical_url": "https://ticketa.co/event/26hfzu4p",
+      "event_id": "c3be0e01600bf96d4b70a83ed7ba0bb8416b15653ffbd05f0bfdb60c1ec101cd",
+      "message_id": "1521307025202483211",
+      "posted": true,
+      "posted_at": "2026-06-30T09:10:52.311749+09:00",
+      "source_title": "2026년 제5회 QA 코리아 컨퍼런스",
+      "tags": [
+        "온라인",
+        "컨퍼런스/세미나"
+      ],
+      "thread_id": "1521307025202483211"
     },
     "c402da977610803ff21e7f0e1a8ef2484dedef98eb876859d66e8a16b2cfe816": {
       "canonical_url": "https://meetup.com/awskrug/events/313831600",
@@ -2952,6 +3006,20 @@
         "오프라인"
       ],
       "thread_id": "1493760404722028554"
+    },
+    "ddc05cb60983a4c67edfb2dd2507ea828a23c50e69b4dddd0acbe1a701a666d4": {
+      "canonical_url": "https://allforyoung.com/posts/83827",
+      "event_id": "ddc05cb60983a4c67edfb2dd2507ea828a23c50e69b4dddd0acbe1a701a666d4",
+      "message_id": "1521307001173573686",
+      "posted": true,
+      "posted_at": "2026-06-30T09:10:52.311749+09:00",
+      "source_title": "One-Punch 랄프톤 in Busan",
+      "tags": [
+        "오프라인",
+        "공모전/대회",
+        "AI"
+      ],
+      "thread_id": "1521307001173573686"
     },
     "ddc3ab63cd68b02abbe23917165a2cef3c7cd5835b3e87e0dce989fa8cd83775": {
       "canonical_url": "https://meetup.com/seoul-ios-meetup/events/314103311",
