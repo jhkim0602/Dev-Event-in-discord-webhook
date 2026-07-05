@@ -518,6 +518,20 @@
       ],
       "thread_id": "1499922485435699261"
     },
+    "19a27051480008683c47e4a0f6ee8c17d20e1aed5bfd082e8eacb973325fc337": {
+      "canonical_url": "https://ticketa.co/event/4abv3eo7",
+      "event_id": "19a27051480008683c47e4a0f6ee8c17d20e1aed5bfd082e8eacb973325fc337",
+      "message_id": "1523117546906062880",
+      "posted": true,
+      "posted_at": "2026-07-05T09:05:18.438443+09:00",
+      "source_title": "AX 시대를 위한 AWS AI 활용 전략: 서버리스 아키텍처와 AI 보안 실전 가이드",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1523117546906062880"
+    },
     "19e550aea6257278ff3ffb49bd551150b5dbe2e7473c9a6f97347b6a78099794": {
       "canonical_url": "https://luma.com/tzobcks8",
       "event_id": "19e550aea6257278ff3ffb49bd551150b5dbe2e7473c9a6f97347b6a78099794",
@@ -987,6 +1001,20 @@
         "클라우드"
       ],
       "thread_id": "1488322244311781447"
+    },
+    "4f21d5ccf5a0bb8a8f08cfa7ea90e97264dff09250b7db8ed6e524797042a637": {
+      "canonical_url": "https://biz.modulabs.co.kr/event/487",
+      "event_id": "4f21d5ccf5a0bb8a8f08cfa7ea90e97264dff09250b7db8ed6e524797042a637",
+      "message_id": "1523117539679539362",
+      "posted": true,
+      "posted_at": "2026-07-05T09:05:18.438443+09:00",
+      "source_title": "모두의 ICML: 저자들과 함께하는 논문리뷰 & 비하인드",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1523117539679539362"
     },
     "4fba4c239e7f3d878a8229f6f4c6d82de31afd0c6c65dd81101e3742bb9f29bb": {
       "canonical_url": "https://wevity.com/index.php?c=find&s=1&gbn=viewok&gp=1&ix=107135",
