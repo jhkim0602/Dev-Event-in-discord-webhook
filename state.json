@@ -105,6 +105,20 @@
       ],
       "thread_id": "1514424325124391033"
     },
+    "06b7a6f03be7f079e28208cffdb0b3fa9949a3c3e2b0f6e005c7fc280d950bd3": {
+      "canonical_url": "https://nerd.aviss.kr/archive/5",
+      "event_id": "06b7a6f03be7f079e28208cffdb0b3fa9949a3c3e2b0f6e005c7fc280d950bd3",
+      "message_id": "1524569885089202298",
+      "posted": true,
+      "posted_at": "2026-07-09T09:16:20.987646+09:00",
+      "source_title": "제5회 너드콘 - AI와 현업노하우",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1524569885089202298"
+    },
     "06ca2de136ad5ca609b4454306337dfe69ef4b21b4378a3083ee4a1449044aca": {
       "canonical_url": "https://meetup.com/mongodb-usergroup-seoul/events/314765122",
       "event_id": "06ca2de136ad5ca609b4454306337dfe69ef4b21b4378a3083ee4a1449044aca",
@@ -1163,6 +1177,20 @@
         "AI"
       ],
       "thread_id": "1515509521454465067"
+    },
+    "5494a4009aec9ec5110354c5a71bd583288d38898936725f7a19dafff385f7a7": {
+      "canonical_url": "https://crowdacademyofc.imweb.me/ai-expert",
+      "event_id": "5494a4009aec9ec5110354c5a71bd583288d38898936725f7a19dafff385f7a7",
+      "message_id": "1524569881515786362",
+      "posted": true,
+      "posted_at": "2026-07-09T09:16:20.987646+09:00",
+      "source_title": "NIPA 지원사업 건설기계 데이터 기반 AI 융합 전문가 무료교육 모집",
+      "tags": [
+        "오프라인",
+        "교육/부트캠프",
+        "AI"
+      ],
+      "thread_id": "1524569881515786362"
     },
     "557c03de7ac0635f446243c3dd77fa1717493a99becf32cf7927389604127635": {
       "canonical_url": "https://rocketpunch.com/event/qpEDqb19Ey",
