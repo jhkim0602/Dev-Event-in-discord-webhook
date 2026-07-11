@@ -583,6 +583,19 @@
       ],
       "thread_id": "1496294654407217152"
     },
+    "1ca226db55e2c9478c26eb5f0dc46a28413c247f59510d3c88245ee73a82f0e8": {
+      "canonical_url": "https://ticketa.co/event/vcp5wmp4",
+      "event_id": "1ca226db55e2c9478c26eb5f0dc46a28413c247f59510d3c88245ee73a82f0e8",
+      "message_id": "1525291370703487118",
+      "posted": true,
+      "posted_at": "2026-07-11T09:03:05.231627+09:00",
+      "source_title": "2026 Google I/O Extended - GDG Korea Android",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나"
+      ],
+      "thread_id": "1525291370703487118"
+    },
     "1d1a2ecb6341d738fc1dbfb22dfb28cc4c0ad824fc5bca67bcee1161c2258d7b": {
       "canonical_url": "https://dev-korea.com/events/design-korea-0-april-2026",
       "event_id": "1d1a2ecb6341d738fc1dbfb22dfb28cc4c0ad824fc5bca67bcee1161c2258d7b",
@@ -1422,6 +1435,20 @@
       ],
       "thread_id": "1501371587075772476"
     },
+    "641ed78ed814cead0be62d419412760ffceca02d379fcbb5cdad4285023f7c19": {
+      "canonical_url": "https://cofathon.getcofa.com/",
+      "event_id": "641ed78ed814cead0be62d419412760ffceca02d379fcbb5cdad4285023f7c19",
+      "message_id": "1525291305813545002",
+      "posted": true,
+      "posted_at": "2026-07-11T09:03:05.231627+09:00",
+      "source_title": "코파톤 Cofathon - 크래프톤 × 올리브영 AI Native 해커톤",
+      "tags": [
+        "오프라인",
+        "해커톤",
+        "AI"
+      ],
+      "thread_id": "1525291305813545002"
+    },
     "686242e8a3124dead58fd61019bff58dc0e89acda73dbc6f7965f2e502d3846a": {
       "canonical_url": "https://meetup.com/awskrug/events/314931400",
       "event_id": "686242e8a3124dead58fd61019bff58dc0e89acda73dbc6f7965f2e502d3846a",
@@ -1955,6 +1982,20 @@
       ],
       "thread_id": "1487596582995234936"
     },
+    "8406c27b26662d75d403691e07a68af7097b4d8cb0bbb9fcd77a1669e8270d6c": {
+      "canonical_url": "https://event-us.kr/incunext/event/130440",
+      "event_id": "8406c27b26662d75d403691e07a68af7097b4d8cb0bbb9fcd77a1669e8270d6c",
+      "message_id": "1525291319805612154",
+      "posted": true,
+      "posted_at": "2026-07-11T09:03:05.231627+09:00",
+      "source_title": "멋쟁이사자처럼 x 고용노동부 Campus AX Ton",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1525291319805612154"
+    },
     "84604cf0f7e9682d2600378c023ad5740cba4cdde1ee2c20a1bec2dcaff7f0cf": {
       "canonical_url": "https://rocketpunch.com/event/nN9JLuRdbi",
       "event_id": "84604cf0f7e9682d2600378c023ad5740cba4cdde1ee2c20a1bec2dcaff7f0cf",
@@ -2180,6 +2221,20 @@
       ],
       "thread_id": "1515873013294170254"
     },
+    "94c3f75634e5ae064a0587dd78799c666d84aa475a0f13356dcba07b6fc18801": {
+      "canonical_url": "https://seoulwomen.or.kr/sfwf/contents/sfwf-event.do?schM=view&id=31236",
+      "event_id": "94c3f75634e5ae064a0587dd78799c666d84aa475a0f13356dcba07b6fc18801",
+      "message_id": "1525291347282497622",
+      "posted": true,
+      "posted_at": "2026-07-11T09:03:05.231627+09:00",
+      "source_title": "우먼잇츠 AX 세미나 7월 프로그램 : AI시대의 문제 해결 역량",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1525291347282497622"
+    },
     "95ca3f09eb85c55a3bc3cac07ea5d3d0f294ea3555c6236f165e0c26528c2531": {
       "canonical_url": "https://dnd.ac/",
       "event_id": "95ca3f09eb85c55a3bc3cac07ea5d3d0f294ea3555c6236f165e0c26528c2531",
@@ -2203,6 +2258,19 @@
         "AI"
       ],
       "thread_id": "1515509599367729184"
+    },
+    "96617f68a592ef02aa12e348c12521bf3b0e88f84fe9c0464bd95938eed3dbfc": {
+      "canonical_url": "https://meetup.com/awskrug/events/315607999",
+      "event_id": "96617f68a592ef02aa12e348c12521bf3b0e88f84fe9c0464bd95938eed3dbfc",
+      "message_id": "1525291367377404038",
+      "posted": true,
+      "posted_at": "2026-07-11T09:03:05.231627+09:00",
+      "source_title": "AWSKRUG 아키텍처 #architecture 57번째 소모임 (7월 23일)",
+      "tags": [
+        "오프라인",
+        "클라우드"
+      ],
+      "thread_id": "1525291367377404038"
     },
     "96e9c5902c6181b0e4530c900204f9e8cc3deb9ca3f3cf575629714ac3ffa3ca": {
       "canonical_url": "https://tech.goorm.io/2605_commit",
@@ -2517,6 +2585,33 @@
       "tags": [],
       "thread_id": null
     },
+    "b18374b12adc6ba5d3aa0fa01029df407947e5e6551c33454ce85e55f06e8740": {
+      "canonical_url": "https://meetup.com/awskrug/events/315611077",
+      "event_id": "b18374b12adc6ba5d3aa0fa01029df407947e5e6551c33454ce85e55f06e8740",
+      "message_id": "1525291358603182244",
+      "posted": true,
+      "posted_at": "2026-07-11T09:03:05.231627+09:00",
+      "source_title": "AWSKRUG #Beginner 모임 (7월 22일)",
+      "tags": [
+        "오프라인",
+        "클라우드"
+      ],
+      "thread_id": "1525291358603182244"
+    },
+    "b1a49de50868e207c62d97791e7d7ced2d6a6d0988954a8db9785f4f375064f7": {
+      "canonical_url": "https://nan2026.nhn.com/",
+      "event_id": "b1a49de50868e207c62d97791e7d7ced2d6a6d0988954a8db9785f4f375064f7",
+      "message_id": "1525291378970591353",
+      "posted": true,
+      "posted_at": "2026-07-11T09:03:05.231627+09:00",
+      "source_title": "NAN 2026 - NHN Game × AI Hackathon",
+      "tags": [
+        "오프라인",
+        "해커톤",
+        "AI"
+      ],
+      "thread_id": "1525291378970591353"
+    },
     "b3bf2d7423e4c566625d630c99bae35a3597bfe8a55fa3b888a838c82f43b17e": {
       "canonical_url": "https://notion.so/3348c2a6385f801ebb24d2d8cad6a8d5",
       "event_id": "b3bf2d7423e4c566625d630c99bae35a3597bfe8a55fa3b888a838c82f43b17e",
@@ -2572,6 +2667,19 @@
         "클라우드"
       ],
       "thread_id": "1499922371056898078"
+    },
+    "b4f9e882a707bb5d794703d7e7e4ccc19badc58664123800cfeee5aca3797713": {
+      "canonical_url": "https://meetup.com/awskrug/events/315596565",
+      "event_id": "b4f9e882a707bb5d794703d7e7e4ccc19badc58664123800cfeee5aca3797713",
+      "message_id": "1525291354740228172",
+      "posted": true,
+      "posted_at": "2026-07-11T09:03:05.231627+09:00",
+      "source_title": "AWSKRUG #magok 마곡 소모임 (7월 21일)",
+      "tags": [
+        "오프라인",
+        "클라우드"
+      ],
+      "thread_id": "1525291354740228172"
     },
     "b51d96081af6e8e610774a6c878f83a9bead9255cf00ee88eb8feb6ed12ce56f": {
       "canonical_url": "https://event-us.kr/selectstar/event/124315",
@@ -3402,6 +3510,19 @@
         "컨퍼런스/세미나"
       ],
       "thread_id": "1487596628301971508"
+    },
+    "ebe01aafe08f4a209f80c69943fbb00c86136ffd48149365617b4b830a0eb9c9": {
+      "canonical_url": "https://meetup.com/awskrug/events/315596174",
+      "event_id": "ebe01aafe08f4a209f80c69943fbb00c86136ffd48149365617b4b830a0eb9c9",
+      "message_id": "1525291363321643111",
+      "posted": true,
+      "posted_at": "2026-07-11T09:03:05.231627+09:00",
+      "source_title": "AWSKRUG 데브옵스 #DevOps 소모임 24번째 밋업 (7월 23일)",
+      "tags": [
+        "오프라인",
+        "클라우드"
+      ],
+      "thread_id": "1525291363321643111"
     },
     "ec62ad6d0af5f5ecf2aba02c25218a360d7ff6170b0e2059a766d7e0b590e72a": {
       "canonical_url": "https://dev-korea.com/events/dev-korea-9-june-2026",
