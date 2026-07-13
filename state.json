@@ -436,6 +436,19 @@
       ],
       "thread_id": "1480224077372457161"
     },
+    "13b176b3b6eba645ba517bf74a814bcaaf88c3ce2cd9acc5555616ec3973bd5f": {
+      "canonical_url": "https://developeracademy.postech.ac.kr/event/ideaplayground",
+      "event_id": "13b176b3b6eba645ba517bf74a814bcaaf88c3ce2cd9acc5555616ec3973bd5f",
+      "message_id": "1526377105494114337",
+      "posted": true,
+      "posted_at": "2026-07-14T08:57:30.630561+09:00",
+      "source_title": "Apple 디벨로퍼 아카데미 - 아이디어 플레이그라운드 @ 올리브영N 성수",
+      "tags": [
+        "오프라인",
+        "교육/부트캠프"
+      ],
+      "thread_id": "1526377105494114337"
+    },
     "141fc44e496d9047457598369bd4096c847444f1b2c0536d464d7226924a3338": {
       "canonical_url": "https://meetup.com/awskrug/events/315068090",
       "event_id": "141fc44e496d9047457598369bd4096c847444f1b2c0536d464d7226924a3338",
@@ -786,6 +799,19 @@
       ],
       "thread_id": "1480223996271136838"
     },
+    "2c705fd5ea9468af80677e66629b387394b95ac2044a303a3c0eb0d7a11cd778": {
+      "canonical_url": "https://meetup.com/awskrug/events/315649011",
+      "event_id": "2c705fd5ea9468af80677e66629b387394b95ac2044a303a3c0eb0d7a11cd778",
+      "message_id": "1526377068328390848",
+      "posted": true,
+      "posted_at": "2026-07-14T08:57:30.630561+09:00",
+      "source_title": "AWSKRUG 집현전 #jiphyeonjeon 온라인 소모임 - 7월 18일(토)",
+      "tags": [
+        "온라인",
+        "클라우드"
+      ],
+      "thread_id": "1526377068328390848"
+    },
     "2d6e1b690a154387fa79fbdb8cba3d7557d770281f708ffd03a21c6eb160d7b0": {
       "canonical_url": "https://ticketa.co/event/6u6vfsn9",
       "event_id": "2d6e1b690a154387fa79fbdb8cba3d7557d770281f708ffd03a21c6eb160d7b0",
@@ -1054,6 +1080,20 @@
         "컨퍼런스/세미나"
       ],
       "thread_id": "1485784954439864360"
+    },
+    "4cd64d9f16f5d0d80a5a91614fcf212b1d7ff14bd043c46b43398ba2d94bbdc5": {
+      "canonical_url": "https://daker.ai/public/hackathons/4th-jump-ai-agentic-drug-challenge",
+      "event_id": "4cd64d9f16f5d0d80a5a91614fcf212b1d7ff14bd043c46b43398ba2d94bbdc5",
+      "message_id": "1526377119288918087",
+      "posted": true,
+      "posted_at": "2026-07-14T08:57:30.630561+09:00",
+      "source_title": "제4회 인공지능(AI) 신약개발 경진대회 (4th JUMP AI) 예선",
+      "tags": [
+        "온라인",
+        "공모전/대회",
+        "AI"
+      ],
+      "thread_id": "1526377119288918087"
     },
     "4ebd6dc4b9b1119e84ef632e7ac0a34e00e84318d44dccd09e7a9fd69a2b5115": {
       "canonical_url": "https://sites.google.com/view/2026-study-jams/h1-study-jam",
@@ -1341,6 +1381,19 @@
       ],
       "thread_id": "1480224324165046454"
     },
+    "5e051eb5444f18c14a69d696ee656cd7385bfbd2a55d18f32b40fc7310cd2172": {
+      "canonical_url": "https://pvs-studio.com/en/webinar/31",
+      "event_id": "5e051eb5444f18c14a69d696ee656cd7385bfbd2a55d18f32b40fc7310cd2172",
+      "message_id": "1526377100297375776",
+      "posted": true,
+      "posted_at": "2026-07-14T08:57:30.630561+09:00",
+      "source_title": "Let's make a programming language. Variables",
+      "tags": [
+        "온라인",
+        "컨퍼런스/세미나"
+      ],
+      "thread_id": "1526377100297375776"
+    },
     "5f52c77a32f2b68de860dc3e9e46fa4fee7fe3b4c7c6ff353e323227b6be0e44": {
       "canonical_url": "https://ticketa.co/event/qpye8cf5",
       "event_id": "5f52c77a32f2b68de860dc3e9e46fa4fee7fe3b4c7c6ff353e323227b6be0e44",
@@ -1365,6 +1418,20 @@
         "교육/부트캠프"
       ],
       "thread_id": "1507536427473440901"
+    },
+    "5fc967359e92cbd2e80d0eff13c5716e228ae402daecbf056091ebbd01e1ef01": {
+      "canonical_url": "https://event-us.kr/nccf/event/129466",
+      "event_id": "5fc967359e92cbd2e80d0eff13c5716e228ae402daecbf056091ebbd01e1ef01",
+      "message_id": "1526377082119262259",
+      "posted": true,
+      "posted_at": "2026-07-14T08:57:30.630561+09:00",
+      "source_title": "시니어와 AI 기술, 우리의 미래를 보다",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1526377082119262259"
     },
     "61f31b4165173ab96614fb687532418219e461e3ce36026d442e2111349aa2c4": {
       "canonical_url": "https://ticketa.co/event/mauqdg4j",
@@ -1898,6 +1965,19 @@
       ],
       "thread_id": "1515873018466009203"
     },
+    "7ca0534bb18b8e1e30c932395e47e0f98e44c56c15525937a8f444a23aea6f15": {
+      "canonical_url": "https://ticketa.co/event/f5dgdhms",
+      "event_id": "7ca0534bb18b8e1e30c932395e47e0f98e44c56c15525937a8f444a23aea6f15",
+      "message_id": "1526377111068082299",
+      "posted": true,
+      "posted_at": "2026-07-14T08:57:30.630561+09:00",
+      "source_title": "K-DEVCON x C++ Korea - DEVCORE | THE LEGEND : Beyond the code",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나"
+      ],
+      "thread_id": "1526377111068082299"
+    },
     "7de2c2cf2707e660c2c46dcc69207fa1ae596a99fd80207cc4f20d6600cd01d7": {
       "canonical_url": "https://luma.com/4scwh5tv",
       "event_id": "7de2c2cf2707e660c2c46dcc69207fa1ae596a99fd80207cc4f20d6600cd01d7",
@@ -2009,6 +2089,20 @@
         "AI"
       ],
       "thread_id": "1514424316551495790"
+    },
+    "8526f24591017096ca6b91498f518a7e8c3ffb2053eb7c6190f1022c797c639b": {
+      "canonical_url": "https://daker.ai/public/hackathons/2026-finance-ai-challenge",
+      "event_id": "8526f24591017096ca6b91498f518a7e8c3ffb2053eb7c6190f1022c797c639b",
+      "message_id": "1526377148812886108",
+      "posted": true,
+      "posted_at": "2026-07-14T08:57:30.630561+09:00",
+      "source_title": "2026 금융 AI Challenge",
+      "tags": [
+        "온라인",
+        "공모전/대회",
+        "AI"
+      ],
+      "thread_id": "1526377148812886108"
     },
     "85dff067d94ab9a6a3a91506fc44237f1764d6145b277619ab0b4b2f2ece8741": {
       "canonical_url": "https://vedacademy.co.kr/",
@@ -3148,6 +3242,20 @@
       ],
       "thread_id": "1499922428409942219"
     },
+    "d1c8ddec6e6f4186253a36ef12e5533cc9a4d80b0acc5e0bb97fd1183bdf0ff5": {
+      "canonical_url": "https://event-us.kr/zigzag/event/129917",
+      "event_id": "d1c8ddec6e6f4186253a36ef12e5533cc9a4d80b0acc5e0bb97fd1183bdf0ff5",
+      "message_id": "1526377135462289510",
+      "posted": true,
+      "posted_at": "2026-07-14T08:57:30.630561+09:00",
+      "source_title": "지그재그 세미나 5회 - 온톨로지로 만나는 휴먼 네트워킹",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1526377135462289510"
+    },
     "d2f9ec9dcab5cda552443e1fa0784b623edb31d6c8f680bdff22ee2dcf02db28": {
       "canonical_url": "https://ticketa.co/event/jxxdbwmn",
       "event_id": "d2f9ec9dcab5cda552443e1fa0784b623edb31d6c8f680bdff22ee2dcf02db28",
@@ -3725,6 +3833,20 @@
         "AI"
       ],
       "thread_id": "1514424336608526397"
+    },
+    "f738afb4ccfa455e6902169c37472ebc1f063aca5d6409439edaf33b7c5e4102": {
+      "canonical_url": "https://meetup.com/awskrug/events/315639045",
+      "event_id": "f738afb4ccfa455e6902169c37472ebc1f063aca5d6409439edaf33b7c5e4102",
+      "message_id": "1526377072547594281",
+      "posted": true,
+      "posted_at": "2026-07-14T08:57:30.630561+09:00",
+      "source_title": "AWSKRUG 보안 #Security 소모임 /w Beaver Dam - 7월 21일 (화)",
+      "tags": [
+        "오프라인",
+        "클라우드",
+        "보안"
+      ],
+      "thread_id": "1526377072547594281"
     },
     "f779ede8562c148b5423579b125884892c481297ae9147d241c44966f849dddb": {
       "canonical_url": "https://biz.modulabs.co.kr/event/425",
