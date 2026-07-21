@@ -800,6 +800,20 @@
       ],
       "thread_id": "1519858474778104063"
     },
+    "27f3cf47de09691450e24cd5177cb24a64a52f7b5cf10ec24126085856fcd059": {
+      "canonical_url": "https://ticketa.co/event/c99wxzdg",
+      "event_id": "27f3cf47de09691450e24cd5177cb24a64a52f7b5cf10ec24126085856fcd059",
+      "message_id": "1529276460890853448",
+      "posted": true,
+      "posted_at": "2026-07-22T08:58:38.062227+09:00",
+      "source_title": "멀티 에이전트 워크샵 with GitHub Copilot",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1529276460890853448"
+    },
     "2a5fbb2370673404ab035627d82972672a0b8b3962ef2454c5b54bb4cce0737f": {
       "canonical_url": "https://okky.kr/articles/1560073",
       "event_id": "2a5fbb2370673404ab035627d82972672a0b8b3962ef2454c5b54bb4cce0737f",
@@ -1924,6 +1938,19 @@
       ],
       "thread_id": "1485784913276964967"
     },
+    "77887fef2e83b198d2ce532aa722b72c37645c58938a854e9607649432ba63a3": {
+      "canonical_url": "https://meetup.com/awskrug/events/315744192",
+      "event_id": "77887fef2e83b198d2ce532aa722b72c37645c58938a854e9607649432ba63a3",
+      "message_id": "1529276456985690174",
+      "posted": true,
+      "posted_at": "2026-07-22T08:58:38.062227+09:00",
+      "source_title": "AWSKRUG 집현전 #jiphyeonjeon 온라인 소모임 - 7월 25일(토)",
+      "tags": [
+        "온라인",
+        "클라우드"
+      ],
+      "thread_id": "1529276456985690174"
+    },
     "77c2cfd00a6d1ca788588e2b4f69265ad516f3b17883c8e66f9ae9065f793744": {
       "canonical_url": "https://rocketpunch.com/event/evx8Yo8jus",
       "event_id": "77c2cfd00a6d1ca788588e2b4f69265ad516f3b17883c8e66f9ae9065f793744",
@@ -2939,6 +2966,20 @@
         "클라우드"
       ],
       "thread_id": "1483972184069247089"
+    },
+    "be0a60e34743434d484d28ffd3dff3c7c86ad849a987a6b5f07fa7e171406369": {
+      "canonical_url": "https://luma.com/gcp-solana-tech-session",
+      "event_id": "be0a60e34743434d484d28ffd3dff3c7c86ad849a987a6b5f07fa7e171406369",
+      "message_id": "1529276452795715595",
+      "posted": true,
+      "posted_at": "2026-07-22T08:58:38.062227+09:00",
+      "source_title": "Kickoff & Tech Session: Google Cloud X Solana AI Agentic Hackathon",
+      "tags": [
+        "온라인",
+        "해커톤",
+        "AI"
+      ],
+      "thread_id": "1529276452795715595"
     },
     "bfc9f3f6311433676a5a6fd4ff1ea153c81926056c2769afeef72ac3460cce69": {
       "canonical_url": "https://xai.kaist.ac.kr/AI-Factory-Capability-Seminar/2026",
