@@ -2332,6 +2332,20 @@
       ],
       "thread_id": "1515509551447674970"
     },
+    "8c58149ed630883e00d97fc0e295feba55d375a40568d665fd6ad083caff1596": {
+      "canonical_url": "https://snowflake.com/ko/world-tour/seoul",
+      "event_id": "8c58149ed630883e00d97fc0e295feba55d375a40568d665fd6ad083caff1596",
+      "message_id": "1529640266963877948",
+      "posted": true,
+      "posted_at": "2026-07-23T09:04:16.868044+09:00",
+      "source_title": "Snowflake World Tour 2026 – 서울",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1529640266963877948"
+    },
     "8fad0d4eb36743e596c7340e5e2570a12ebbf016ed362b9a53f40eab6c2a598a": {
       "canonical_url": "https://ticketa.co/event/nzsib6wn",
       "event_id": "8fad0d4eb36743e596c7340e5e2570a12ebbf016ed362b9a53f40eab6c2a598a",
@@ -3646,6 +3660,19 @@
         "AI"
       ],
       "thread_id": "1518770964853428245"
+    },
+    "e4858e30fb1b29d9c9dc0a8ec0c6c919c27e93d2756b60bbcd8630838a0c3b17": {
+      "canonical_url": "https://giwa.io/gasok",
+      "event_id": "e4858e30fb1b29d9c9dc0a8ec0c6c919c27e93d2756b60bbcd8630838a0c3b17",
+      "message_id": "1529640264543764684",
+      "posted": true,
+      "posted_at": "2026-07-23T09:04:16.868044+09:00",
+      "source_title": "GIWA GASOK — Web3 빌더 성장 지원 프로그램",
+      "tags": [
+        "온라인",
+        "공모전/대회"
+      ],
+      "thread_id": "1529640264543764684"
     },
     "e6bf743d4f6dcb6948a16b4a8eeae17daee430cdd7cf7905420d9fb0d0435efc": {
       "canonical_url": "https://ticketa.co/event/m8adkbnl",
