@@ -841,6 +841,19 @@
       ],
       "thread_id": "1480223996271136838"
     },
+    "2bd0f550578e40739a82d52fcb01487a65b3243e22e95303995709619fc0c636": {
+      "canonical_url": "https://vibecodingclub.kr/vibe-code-rush",
+      "event_id": "2bd0f550578e40739a82d52fcb01487a65b3243e22e95303995709619fc0c636",
+      "message_id": "1530366139366904009",
+      "posted": true,
+      "posted_at": "2026-07-25T09:08:38.190755+09:00",
+      "source_title": "[온라인] 7월 바이브 코드 러시",
+      "tags": [
+        "온라인",
+        "AI"
+      ],
+      "thread_id": "1530366139366904009"
+    },
     "2c705fd5ea9468af80677e66629b387394b95ac2044a303a3c0eb0d7a11cd778": {
       "canonical_url": "https://meetup.com/awskrug/events/315649011",
       "event_id": "2c705fd5ea9468af80677e66629b387394b95ac2044a303a3c0eb0d7a11cd778",
@@ -936,6 +949,20 @@
         "클라우드"
       ],
       "thread_id": "1490496411551137944"
+    },
+    "34083102d5fdbe00cec8207db6c8ff57b1393ed5bfd24620e7426c25a5075867": {
+      "canonical_url": "https://rocketpunch.com/event/76I5aVzEu8",
+      "event_id": "34083102d5fdbe00cec8207db6c8ff57b1393ed5bfd24620e7426c25a5075867",
+      "message_id": "1530366151035715615",
+      "posted": true,
+      "posted_at": "2026-07-25T09:08:38.190755+09:00",
+      "source_title": "[Google Cloud X Solana] AI 에이전틱 해커톤",
+      "tags": [
+        "온라인",
+        "해커톤",
+        "AI"
+      ],
+      "thread_id": "1530366151035715615"
     },
     "34815188a95259807f4477bffaecc16b582930feedf6a590538d32fa326b9886": {
       "canonical_url": "https://daker.ai/public/hackathons/monthly-hackathon-web-minigame-challenge",
@@ -3365,6 +3392,19 @@
         "AI"
       ],
       "thread_id": "1526377135462289510"
+    },
+    "d29282cf217c877a316ab7fb09a315e1214b664b363c5f908ef8ebcc28411157": {
+      "canonical_url": "https://rocketpunch.com/event/wzOlIQ62n1",
+      "event_id": "d29282cf217c877a316ab7fb09a315e1214b664b363c5f908ef8ebcc28411157",
+      "message_id": "1530366145016758315",
+      "posted": true,
+      "posted_at": "2026-07-25T09:08:38.190755+09:00",
+      "source_title": "2026 AI SPARK in Yonsei",
+      "tags": [
+        "오프라인",
+        "AI"
+      ],
+      "thread_id": "1530366145016758315"
     },
     "d2f9ec9dcab5cda552443e1fa0784b623edb31d6c8f680bdff22ee2dcf02db28": {
       "canonical_url": "https://ticketa.co/event/jxxdbwmn",
