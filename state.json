@@ -1084,6 +1084,20 @@
       ],
       "thread_id": "1480224174390644788"
     },
+    "45a4134b235b21726cebe9452e53867e33b4995c6ef465da028f5c8c550f486c": {
+      "canonical_url": "https://kcloud.or.kr/board/read.php?M2_IDX=25869&B_IDX=178743",
+      "event_id": "45a4134b235b21726cebe9452e53867e33b4995c6ef465da028f5c8c550f486c",
+      "message_id": "1531813995109945475",
+      "posted": true,
+      "posted_at": "2026-07-29T09:01:42.548656+09:00",
+      "source_title": "[NIPA] 2026년도 SaaS 전환지원센터 제6회 세미나 - AI SaaS 도입, 어떻게 활용하고 통제할 것인가?",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1531813995109945475"
+    },
     "469acc526e3f213b04c9074d8c2358aefa866d0e14d28c23b5b64dd245048d9d": {
       "canonical_url": "https://onoffmix.com/event/339234",
       "event_id": "469acc526e3f213b04c9074d8c2358aefa866d0e14d28c23b5b64dd245048d9d",
@@ -1476,6 +1490,20 @@
         "컨퍼런스/세미나"
       ],
       "thread_id": "1526377100297375776"
+    },
+    "5f1db3f38fae42af01b2dcbd5b6d0aec4c97053240f29ed924f0aab428619441": {
+      "canonical_url": "https://campuspick.com/contest/view?id=35221",
+      "event_id": "5f1db3f38fae42af01b2dcbd5b6d0aec4c97053240f29ed924f0aab428619441",
+      "message_id": "1531813947987067043",
+      "posted": true,
+      "posted_at": "2026-07-29T09:01:42.548656+09:00",
+      "source_title": "[코레일X인천국제공항공사] 내일路(로) 해커톤 2026",
+      "tags": [
+        "온라인",
+        "해커톤",
+        "AI"
+      ],
+      "thread_id": "1531813947987067043"
     },
     "5f52c77a32f2b68de860dc3e9e46fa4fee7fe3b4c7c6ff353e323227b6be0e44": {
       "canonical_url": "https://ticketa.co/event/qpye8cf5",
@@ -2386,6 +2414,19 @@
       ],
       "thread_id": "1497383480332521504"
     },
+    "9021a46507a4a6e2e2dc8b4917d73edb9ef16e3d04215db0634f698da1342f81": {
+      "canonical_url": "https://ticketa.co/event/ic97nj1c",
+      "event_id": "9021a46507a4a6e2e2dc8b4917d73edb9ef16e3d04215db0634f698da1342f81",
+      "message_id": "1531813982795726891",
+      "posted": true,
+      "posted_at": "2026-07-29T09:01:42.548656+09:00",
+      "source_title": "KotlinConf Extended South Korea",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나"
+      ],
+      "thread_id": "1531813982795726891"
+    },
     "913227a5abb352a923a8b008ea862146560b53ff1e58e692f2dcd3695f0d21f4": {
       "canonical_url": "https://oss.kr/pages/10/4511?page=1&pageSize=10&searchKeyword=&searchType=",
       "event_id": "913227a5abb352a923a8b008ea862146560b53ff1e58e692f2dcd3695f0d21f4",
@@ -2614,6 +2655,19 @@
       ],
       "thread_id": "1490496438625374400"
     },
+    "a4b75829c471e1b8ed1c309c8c61f9a10b4daf68d8922aa2845d98fde00d0c85": {
+      "canonical_url": "https://meetup.com/awskrug/events/315869898",
+      "event_id": "a4b75829c471e1b8ed1c309c8c61f9a10b4daf68d8922aa2845d98fde00d0c85",
+      "message_id": "1531814014957649981",
+      "posted": true,
+      "posted_at": "2026-07-29T09:01:42.548656+09:00",
+      "source_title": "AWSKRUG 아키텍처 #architecture 58번째 소모임 8월 26일 (목)",
+      "tags": [
+        "오프라인",
+        "클라우드"
+      ],
+      "thread_id": "1531814014957649981"
+    },
     "a4dda9f242280ce335f56b9fe507ccd57cddb2e3c1991d7c597c4aff3b88c208": {
       "canonical_url": "https://meetup.com/awskrug/events/314325528",
       "event_id": "a4dda9f242280ce335f56b9fe507ccd57cddb2e3c1991d7c597c4aff3b88c208",
@@ -2682,6 +2736,19 @@
         "AI"
       ],
       "thread_id": "1487596706383270111"
+    },
+    "a9af4dd7703feccbd5cf4e3d84e8f7a625236da06b9ad6a2f05b2361af796484": {
+      "canonical_url": "https://meetup.com/awskrug/events/315828955",
+      "event_id": "a9af4dd7703feccbd5cf4e3d84e8f7a625236da06b9ad6a2f05b2361af796484",
+      "message_id": "1531813942912090285",
+      "posted": true,
+      "posted_at": "2026-07-29T09:01:42.548656+09:00",
+      "source_title": "AWSKRUG 집현전 #jiphyeonjeon 온라인 소모임 - 8월 1일(토)",
+      "tags": [
+        "온라인",
+        "클라우드"
+      ],
+      "thread_id": "1531813942912090285"
     },
     "aa3ddc88fa17ccf377e59800cb697969b953adb0f4408dd72a8bfeaa44c7d5c6": {
       "canonical_url": "https://meetup.com/awskrug/events/313959510",
@@ -3351,6 +3418,20 @@
       ],
       "thread_id": "1485058347622469735"
     },
+    "d16c868d1ffe697141d0919e34ba810316e849be183fd8feb7af4d5f67bc809e": {
+      "canonical_url": "https://dacon.io/competitions/official/236727/overview",
+      "event_id": "d16c868d1ffe697141d0919e34ba810316e849be183fd8feb7af4d5f67bc809e",
+      "message_id": "1531813961715028092",
+      "posted": true,
+      "posted_at": "2026-07-29T09:01:42.548656+09:00",
+      "source_title": "제3회 풍력발전량 예측 AI 경진대회 - BARAM 2026",
+      "tags": [
+        "온라인",
+        "공모전/대회",
+        "AI"
+      ],
+      "thread_id": "1531813961715028092"
+    },
     "d19e0b8b81457dddce8e0311ef317c7067271d373aed5bd305d8eaa71673dac9": {
       "canonical_url": "https://rocketpunch.com/event/JFXFMmBVfo",
       "event_id": "d19e0b8b81457dddce8e0311ef317c7067271d373aed5bd305d8eaa71673dac9",
@@ -3509,6 +3590,19 @@
       "source_title": "국내 최대 규모의 인공지능 전문 전시회, AI EXPO KOREA 2026",
       "tags": [],
       "thread_id": null
+    },
+    "d979fa3502ebaea90cc6228c75d90e9edf248e21f758223448bed46fe55ff830": {
+      "canonical_url": "https://ticketa.co/event/qenoc6he",
+      "event_id": "d979fa3502ebaea90cc6228c75d90e9edf248e21f758223448bed46fe55ff830",
+      "message_id": "1531814003527913493",
+      "posted": true,
+      "posted_at": "2026-07-29T09:01:42.548656+09:00",
+      "source_title": "GDG Busan Google I/O Extended 2026 - Builder & Maker Networking",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나"
+      ],
+      "thread_id": "1531814003527913493"
     },
     "d9be071317b732a4f1a42a95f95553bf56d95648c8028215c609112221e9b067": {
       "canonical_url": "https://biz.modulabs.co.kr/event/433",
