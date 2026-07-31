@@ -476,6 +476,18 @@
       ],
       "thread_id": "1480224070413979648"
     },
+    "14b9f143de260be6bebf285c816492802e596683e7b11b6ba252894efdcfc2ff": {
+      "canonical_url": "https://dev-korea.com/events/dev-korea-12-august-2026",
+      "event_id": "14b9f143de260be6bebf285c816492802e596683e7b11b6ba252894efdcfc2ff",
+      "message_id": "1532540062783242242",
+      "posted": true,
+      "posted_at": "2026-07-31T09:07:02.529931+09:00",
+      "source_title": "Dev Korea #12",
+      "tags": [
+        "오프라인"
+      ],
+      "thread_id": "1532540062783242242"
+    },
     "14d6f0b839c864ec20f715cbcb16cedf8881e4ca43efa1750fdac7d8ecd57661": {
       "canonical_url": "https://inflearn.com/challenge/free-live-a-story-of",
       "event_id": "14d6f0b839c864ec20f715cbcb16cedf8881e4ca43efa1750fdac7d8ecd57661",
@@ -1764,6 +1776,19 @@
         "AI"
       ],
       "thread_id": "1487596682307698698"
+    },
+    "6de22a205eb89fbce0a0e198851ef53b911b7571b75ffa3d31b315d87bb44c7c": {
+      "canonical_url": "https://dev-korea.com/events/dev-korea-13-august-2026",
+      "event_id": "6de22a205eb89fbce0a0e198851ef53b911b7571b75ffa3d31b315d87bb44c7c",
+      "message_id": "1532540071377506415",
+      "posted": true,
+      "posted_at": "2026-07-31T09:07:02.529931+09:00",
+      "source_title": "Qwen Meetup Seoul #4 (Dev Korea #13)",
+      "tags": [
+        "오프라인",
+        "AI"
+      ],
+      "thread_id": "1532540071377506415"
     },
     "6f8faa3a9928e6c3aad306c8b0deb63f86f2eb56086a94e30d03dd08da44216b": {
       "canonical_url": "https://meetup.com/awskrug/events/312616848",
