@@ -476,6 +476,20 @@
       ],
       "thread_id": "1480224070413979648"
     },
+    "145b0b3a222dbd3f70be88d949fdde39171137de91d934da9a473541a9f0adec": {
+      "canonical_url": "https://rocketpunch.com/event/y6tbqnew0e",
+      "event_id": "145b0b3a222dbd3f70be88d949fdde39171137de91d934da9a473541a9f0adec",
+      "message_id": "1532901789609758863",
+      "posted": true,
+      "posted_at": "2026-08-01T09:04:24.607190+09:00",
+      "source_title": "코드프레소 [AX 실전] : 비개발자 AI 입문 5기",
+      "tags": [
+        "온라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1532901789609758863"
+    },
     "14b9f143de260be6bebf285c816492802e596683e7b11b6ba252894efdcfc2ff": {
       "canonical_url": "https://dev-korea.com/events/dev-korea-12-august-2026",
       "event_id": "14b9f143de260be6bebf285c816492802e596683e7b11b6ba252894efdcfc2ff",
@@ -1555,6 +1569,20 @@
         "AI"
       ],
       "thread_id": "1526377082119262259"
+    },
+    "6113633d19b124813ef70ad0e4fc276a66b9db900dc34de1dddc6773fd66444d": {
+      "canonical_url": "https://hack2skill.com/event/cococlihack",
+      "event_id": "6113633d19b124813ef70ad0e4fc276a66b9db900dc34de1dddc6773fd66444d",
+      "message_id": "1532901801240690825",
+      "posted": true,
+      "posted_at": "2026-08-01T09:04:24.607190+09:00",
+      "source_title": "Snowflake CoCo CLI Hackathon 2026",
+      "tags": [
+        "온라인",
+        "해커톤",
+        "AI"
+      ],
+      "thread_id": "1532901801240690825"
     },
     "61f31b4165173ab96614fb687532418219e461e3ce36026d442e2111349aa2c4": {
       "canonical_url": "https://ticketa.co/event/mauqdg4j",
