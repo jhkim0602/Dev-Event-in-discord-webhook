@@ -1043,6 +1043,19 @@
       ],
       "thread_id": "1510073591725817856"
     },
+    "363f64fd7070979188c38f2f23e0c127b6c10394a89dd5dcca5ad89142ad16bd": {
+      "canonical_url": "https://luma.com/og0pgr5v",
+      "event_id": "363f64fd7070979188c38f2f23e0c127b6c10394a89dd5dcca5ad89142ad16bd",
+      "message_id": "1534352578534703225",
+      "posted": true,
+      "posted_at": "2026-08-05T09:09:04.002481+09:00",
+      "source_title": "AX Meetup #3 - AX의 다음 챕터",
+      "tags": [
+        "오프라인",
+        "AI"
+      ],
+      "thread_id": "1534352578534703225"
+    },
     "38174c1587ce333d9b579243d67d2024fe7afe16af9c140245f5da589fbe8457": {
       "canonical_url": "https://event-us.kr/sipe/event/128290",
       "event_id": "38174c1587ce333d9b579243d67d2024fe7afe16af9c140245f5da589fbe8457",
@@ -1189,6 +1202,20 @@
         "AI"
       ],
       "thread_id": "1496294650338873506"
+    },
+    "4b95878a707ad0b7fa856fdf49188a56f54a986dc1ec293eecf3c62f0e61c6bb": {
+      "canonical_url": "https://biz.modulabs.co.kr/event/491",
+      "event_id": "4b95878a707ad0b7fa856fdf49188a56f54a986dc1ec293eecf3c62f0e61c6bb",
+      "message_id": "1534352594858676317",
+      "posted": true,
+      "posted_at": "2026-08-05T09:09:04.002481+09:00",
+      "source_title": "마케터를 위한 AX 실전: 아는 만큼 누리는 API와 MCP, 지표 정의부터 대시보드 자동화까지",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1534352594858676317"
     },
     "4c2854934319d132c8345d8658a4d5aa72ee1f19e3f33c3261932c10282e32de": {
       "canonical_url": "https://rocketpunch.com/event/jXv3f6Ri5f",
@@ -1408,6 +1435,19 @@
         "공모전/대회"
       ],
       "thread_id": "1514424399607107735"
+    },
+    "5766cf8aa0c7e0d3914a312bfd75fe13b41fb385534a3490b9dcd394bc4b3c85": {
+      "canonical_url": "https://meetup.com/awskrug/events/315946905",
+      "event_id": "5766cf8aa0c7e0d3914a312bfd75fe13b41fb385534a3490b9dcd394bc4b3c85",
+      "message_id": "1534352606204526734",
+      "posted": true,
+      "posted_at": "2026-08-05T09:09:04.002481+09:00",
+      "source_title": "AWSKRUG 구로디지털 #gudi 소모임 - 09월 03일 (목)",
+      "tags": [
+        "오프라인",
+        "클라우드"
+      ],
+      "thread_id": "1534352606204526734"
     },
     "578483c4ce54b86f6f096fb434548836a9909ff061d796a2c8df7b7a5f8a7135": {
       "canonical_url": "https://ktcloud-techup.com/frontend",
@@ -2385,6 +2425,19 @@
       ],
       "thread_id": "1483972216793338007"
     },
+    "8a9a3012555d85b333041f9a0f7c8ea8c01e4cee662a5fc29d93d68dc347bce9": {
+      "canonical_url": "https://event-us.kr/prometheus0513/event/130839",
+      "event_id": "8a9a3012555d85b333041f9a0f7c8ea8c01e4cee662a5fc29d93d68dc347bce9",
+      "message_id": "1534352521932308573",
+      "posted": true,
+      "posted_at": "2026-08-05T09:09:04.002481+09:00",
+      "source_title": "Prometheus 5th Demo Day: 프메의 숲",
+      "tags": [
+        "오프라인",
+        "AI"
+      ],
+      "thread_id": "1534352521932308573"
+    },
     "8abba11c32b9330537b826611dc7959c0b694adb3ff991c848ddb9362585b49b": {
       "canonical_url": "https://swmaestro.ai/sw/main/notifyMentee.do?menuNo=200091",
       "event_id": "8abba11c32b9330537b826611dc7959c0b694adb3ff991c848ddb9362585b49b",
@@ -2453,6 +2506,18 @@
         "AI"
       ],
       "thread_id": "1529640266963877948"
+    },
+    "8ef1f6b863ab8d2af0a5120a350ef2b3dcd5fc483613d1a463bf35a89ab3e4fb": {
+      "canonical_url": "https://pvs-studio.com/en/webinar/32",
+      "event_id": "8ef1f6b863ab8d2af0a5120a350ef2b3dcd5fc483613d1a463bf35a89ab3e4fb",
+      "message_id": "1534352583030739038",
+      "posted": true,
+      "posted_at": "2026-08-05T09:09:04.002481+09:00",
+      "source_title": "Let's make a programming language. Functions",
+      "tags": [
+        "온라인"
+      ],
+      "thread_id": "1534352583030739038"
     },
     "8fad0d4eb36743e596c7340e5e2570a12ebbf016ed362b9a53f40eab6c2a598a": {
       "canonical_url": "https://ticketa.co/event/nzsib6wn",
@@ -2858,6 +2923,18 @@
       ],
       "thread_id": "1499922506104967278"
     },
+    "acba6bde6e97d54fcf75f1257e331022407bf290220f337880d24825fce1ace1": {
+      "canonical_url": "https://meetup.com/grafana-friends-seoul/events/315663768",
+      "event_id": "acba6bde6e97d54fcf75f1257e331022407bf290220f337880d24825fce1ace1",
+      "message_id": "1534352601070436473",
+      "posted": true,
+      "posted_at": "2026-08-05T09:09:04.002481+09:00",
+      "source_title": "Grafana & Friends Seoul #2",
+      "tags": [
+        "오프라인"
+      ],
+      "thread_id": "1534352601070436473"
+    },
     "acbe1f7df5bcf475cbf7e7a7cdd8a93d27b9605051a84ab2554bf7950bfedbb7": {
       "canonical_url": "https://luma.com/2js3bisk",
       "event_id": "acbe1f7df5bcf475cbf7e7a7cdd8a93d27b9605051a84ab2554bf7950bfedbb7",
@@ -2898,6 +2975,19 @@
         "AI"
       ],
       "thread_id": "1488322330064195584"
+    },
+    "af7a4fb3cb719f742b6ccb9ae3ffd389737f6012d89bcfc8a73f3910f1813bc5": {
+      "canonical_url": "https://event-us.kr/hyundaiautoever/event/130543",
+      "event_id": "af7a4fb3cb719f742b6ccb9ae3ffd389737f6012d89bcfc8a73f3910f1813bc5",
+      "message_id": "1534352556581720175",
+      "posted": true,
+      "posted_at": "2026-08-05T09:09:04.002481+09:00",
+      "source_title": "mobilgene 26",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나"
+      ],
+      "thread_id": "1534352556581720175"
     },
     "afa854af684f5258a54983850c40ea2f03c9c4bcae3a4d5c3bd49f55d9d67b08": {
       "canonical_url": "https://lp.jetbrains.com/intellij-idea-conf-2026",
@@ -3418,6 +3508,20 @@
       ],
       "thread_id": "1485058331222474923"
     },
+    "ce0f111040297eb2f8d3ee0f5ddc51d0bdb1bf2c30aac6a4f3dde95f1290fece": {
+      "canonical_url": "https://meetup.com/awskrug/events/315786451",
+      "event_id": "ce0f111040297eb2f8d3ee0f5ddc51d0bdb1bf2c30aac6a4f3dde95f1290fece",
+      "message_id": "1534352542098784277",
+      "posted": true,
+      "posted_at": "2026-08-05T09:09:04.002481+09:00",
+      "source_title": "AWSKRUG #AIEngineering 소모임 - OpenClaw on AWS Workshop [8월 20일]",
+      "tags": [
+        "오프라인",
+        "AI",
+        "클라우드"
+      ],
+      "thread_id": "1534352542098784277"
+    },
     "cf742b1be900b9ffab31dfbb75d0ba57bc966438bb35a6ed50f2c54714c17757": {
       "canonical_url": "https://ticketa.co/event/7fm5o8fo",
       "event_id": "cf742b1be900b9ffab31dfbb75d0ba57bc966438bb35a6ed50f2c54714c17757",
@@ -3619,6 +3723,19 @@
         "커리어"
       ],
       "thread_id": "1524204042656678019"
+    },
+    "d7da901ce383f1c9d2efb8970de2b822dc71dc183abc319cea1ab6ea103496e7": {
+      "canonical_url": "https://meetup.com/awskrug/events/315941240",
+      "event_id": "d7da901ce383f1c9d2efb8970de2b822dc71dc183abc319cea1ab6ea103496e7",
+      "message_id": "1534352568979951707",
+      "posted": true,
+      "posted_at": "2026-08-05T09:09:04.002481+09:00",
+      "source_title": "AWSKRUG 데브옵스 #DevOps 소모임 25번째 밋업 - 8월 19일 (수)",
+      "tags": [
+        "오프라인",
+        "클라우드"
+      ],
+      "thread_id": "1534352568979951707"
     },
     "d849cc4a7e1042c6164afb24e64d778b4c41b53ab134ffa34d6d33bcb2f921e1": {
       "canonical_url": "https://luma.com/ai9yfq4w",
@@ -4116,6 +4233,19 @@
         "컨퍼런스/세미나"
       ],
       "thread_id": "1530727305218097203"
+    },
+    "f5123899ff07ea1958bf3cda2bb3e2e3225d58baf99d5072eded3f77ec7d33c0": {
+      "canonical_url": "https://meetup.com/awskrug/events/315954361",
+      "event_id": "f5123899ff07ea1958bf3cda2bb3e2e3225d58baf99d5072eded3f77ec7d33c0",
+      "message_id": "1534352508930232351",
+      "posted": true,
+      "posted_at": "2026-08-05T09:09:04.002481+09:00",
+      "source_title": "AWSKRUG 집현전 #jiphyeonjeon 온라인 소모임 - 8월 8일(토)",
+      "tags": [
+        "온라인",
+        "클라우드"
+      ],
+      "thread_id": "1534352508930232351"
     },
     "f54980f6b8321d9ee289ccb44eb4da02a5925190bd14a170aeb75dee070b278a": {
       "canonical_url": "https://meetup.com/awskrug/events/314979179",
