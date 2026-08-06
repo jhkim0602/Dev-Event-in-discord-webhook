@@ -840,6 +840,20 @@
       ],
       "thread_id": "1529276460890853448"
     },
+    "28af49b2b8d44a9b12f2547979114d7685865c73b3c046935b0ff4a0258a98dd": {
+      "canonical_url": "https://cce.cstec.kr/",
+      "event_id": "28af49b2b8d44a9b12f2547979114d7685865c73b3c046935b0ff4a0258a98dd",
+      "message_id": "1534713405133557834",
+      "posted": true,
+      "posted_at": "2026-08-06T09:03:07.267095+09:00",
+      "source_title": "2026 사이버공격방어대회 (CCE)",
+      "tags": [
+        "온라인",
+        "공모전/대회",
+        "보안"
+      ],
+      "thread_id": "1534713405133557834"
+    },
     "2a5fbb2370673404ab035627d82972672a0b8b3962ef2454c5b54bb4cce0737f": {
       "canonical_url": "https://okky.kr/articles/1560073",
       "event_id": "2a5fbb2370673404ab035627d82972672a0b8b3962ef2454c5b54bb4cce0737f",
@@ -4004,6 +4018,20 @@
         "AI"
       ],
       "thread_id": "1522032611093123304"
+    },
+    "e794ebcd2593256786b100fc21257c6c8b425901e5f4dc85ca672b0eb38ad0ca": {
+      "canonical_url": "https://tech-meetup.jnpmedi.com/2026",
+      "event_id": "e794ebcd2593256786b100fc21257c6c8b425901e5f4dc85ca672b0eb38ad0ca",
+      "message_id": "1534713413190680729",
+      "posted": true,
+      "posted_at": "2026-08-06T09:03:07.267095+09:00",
+      "source_title": "JNPMEDI Tech Meetup 2026",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1534713413190680729"
     },
     "e7ccaa30e20af02e8392a09736427e5a670a7ab4b7224ef1fa261ccaf5f9e298": {
       "canonical_url": "https://seoulwomen.or.kr/sfwf/contents/sfwf-worklifebalance.do?schOpt3=care&schM=view&act=UPDATE&page=1&viewCount=10&id=31058&schBdcode=&schGroupCode=",
