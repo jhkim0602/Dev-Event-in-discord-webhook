@@ -343,6 +343,19 @@
       ],
       "thread_id": "1499922423406137375"
     },
+    "0f7247a907987c035c9102469207a16f1e871d33ad84d8d97fb5f79191580fcf": {
+      "canonical_url": "https://luma.com/r5zuc03f",
+      "event_id": "0f7247a907987c035c9102469207a16f1e871d33ad84d8d97fb5f79191580fcf",
+      "message_id": "1536519407419924541",
+      "posted": true,
+      "posted_at": "2026-08-11T08:39:32.870066+09:00",
+      "source_title": "x402 on XRPL: AI Builders Night Korea",
+      "tags": [
+        "오프라인",
+        "AI"
+      ],
+      "thread_id": "1536519407419924541"
+    },
     "0f7f5bc608f47103668bbf391f1497f01bc33a8ad221c4c9d49c69369c3c4f48": {
       "canonical_url": "https://dev-korea.com/ko/events/dev-korea-7-march-2026",
       "event_id": "0f7f5bc608f47103668bbf391f1497f01bc33a8ad221c4c9d49c69369c3c4f48",
@@ -715,6 +728,20 @@
         "교육/부트캠프"
       ],
       "thread_id": "1499922379172872324"
+    },
+    "20ccc6ec3e9e82fecfbc627832eecf70e9561d2f9abbe3b079e36f7d6374cbd3": {
+      "canonical_url": "https://ai4scikorea.org/",
+      "event_id": "20ccc6ec3e9e82fecfbc627832eecf70e9561d2f9abbe3b079e36f7d6374cbd3",
+      "message_id": "1536519523564519436",
+      "posted": true,
+      "posted_at": "2026-08-11T08:39:32.870066+09:00",
+      "source_title": "2026 NAIS AI 해커톤 (AI4Sci Korea 2026)",
+      "tags": [
+        "오프라인",
+        "해커톤",
+        "AI"
+      ],
+      "thread_id": "1536519523564519436"
     },
     "220734b03743fdccf0bd6d4e66f4dcac62e172c667dd552283d7b25e30ee2327": {
       "canonical_url": "https://meetup.com/awskrug/events/314517171",
@@ -2265,6 +2292,20 @@
       ],
       "thread_id": "1514424384704479393"
     },
+    "816d5a527833e9c86ac8f3102ae7619e12de5c827e50825a5ecd03c1d386cee3": {
+      "canonical_url": "https://codex-community-korea.skysplit.chatgpt.site/hackathon/seoul-2026",
+      "event_id": "816d5a527833e9c86ac8f3102ae7619e12de5c827e50825a5ecd03c1d386cee3",
+      "message_id": "1536519456132567101",
+      "posted": true,
+      "posted_at": "2026-08-11T08:39:32.870066+09:00",
+      "source_title": "Codex Community Hackathon - Seoul for Students",
+      "tags": [
+        "오프라인",
+        "해커톤",
+        "AI"
+      ],
+      "thread_id": "1536519456132567101"
+    },
     "81b1100aeb6c63dc7ffa8dac9d5289f26a2a23197c77205c2e2035972144a062": {
       "canonical_url": "https://ticketa.co/event/6jmbrcab",
       "event_id": "81b1100aeb6c63dc7ffa8dac9d5289f26a2a23197c77205c2e2035972144a062",
@@ -2718,6 +2759,19 @@
       ],
       "thread_id": "1511161973826392125"
     },
+    "9fbb95aa9ec06dc49504d52775ae0df12e4aca5ddf382e185a9aea54e25f4374": {
+      "canonical_url": "https://meetup.com/awskrug/events/316053582",
+      "event_id": "9fbb95aa9ec06dc49504d52775ae0df12e4aca5ddf382e185a9aea54e25f4374",
+      "message_id": "1536519411605708951",
+      "posted": true,
+      "posted_at": "2026-08-11T08:39:32.870066+09:00",
+      "source_title": "AWSKRUG 집현전 #jiphyeonjeon 온라인 소모임 - 8월 15일(토)",
+      "tags": [
+        "온라인",
+        "클라우드"
+      ],
+      "thread_id": "1536519411605708951"
+    },
     "a062299b0c1eaa61b4b685de99a640da839fc2264ded4a5dfb46181d0e589697": {
       "canonical_url": "https://megazonesoft.com/gcp_fundamentals_core_infra_20260616",
       "event_id": "a062299b0c1eaa61b4b685de99a640da839fc2264ded4a5dfb46181d0e589697",
@@ -2745,6 +2799,18 @@
         "AI"
       ],
       "thread_id": "1480224268301369558"
+    },
+    "a195860d282390858a8bcef2a6918eddc8d9215798ed32498cd88b9eb2b3c310": {
+      "canonical_url": "https://ticketa.co/event/ee3aykrj",
+      "event_id": "a195860d282390858a8bcef2a6918eddc8d9215798ed32498cd88b9eb2b3c310",
+      "message_id": "1536519504484376667",
+      "posted": true,
+      "posted_at": "2026-08-11T08:39:32.870066+09:00",
+      "source_title": "Dot4 밋업 8월 27일 @마이크로소프트코리아",
+      "tags": [
+        "오프라인"
+      ],
+      "thread_id": "1536519504484376667"
     },
     "a2575706c0be794ceb58f932d086dc373d268efaf82f9a0983bc7a5faac7a017": {
       "canonical_url": "https://tech.goorm.io/2604_commit",
@@ -2813,6 +2879,20 @@
       ],
       "thread_id": "1495570699417288814"
     },
+    "a54535380e6fe828e125eccb5099214fd2abb212a8ffc735b202ac809ca1516c": {
+      "canonical_url": "https://luma.com/jjd10nb6",
+      "event_id": "a54535380e6fe828e125eccb5099214fd2abb212a8ffc735b202ac809ca1516c",
+      "message_id": "1536519466366664755",
+      "posted": true,
+      "posted_at": "2026-08-11T08:39:32.870066+09:00",
+      "source_title": "Kiro 한국 사용자 모임 (2026-08)",
+      "tags": [
+        "오프라인",
+        "AI",
+        "클라우드"
+      ],
+      "thread_id": "1536519466366664755"
+    },
     "a699790c5048add130cdebf17f4d468d91f82beb6386cf366cbf35ce4295a2d0": {
       "canonical_url": "https://rocketpunch.com/event/jsnrpnY24Q",
       "event_id": "a699790c5048add130cdebf17f4d468d91f82beb6386cf366cbf35ce4295a2d0",
@@ -2840,6 +2920,20 @@
         "컨퍼런스/세미나"
       ],
       "thread_id": "1485058367872569475"
+    },
+    "a75477367d72d86a86b324a0ec62b64d979bbcfb416714344ac0426f5e8cbfaf": {
+      "canonical_url": "https://event-us.kr/gdgcampuskorea/event/131744",
+      "event_id": "a75477367d72d86a86b324a0ec62b64d979bbcfb416714344ac0426f5e8cbfaf",
+      "message_id": "1536519494095081583",
+      "posted": true,
+      "posted_at": "2026-08-11T08:39:32.870066+09:00",
+      "source_title": "2026 I/O Extended: Hack the Beat",
+      "tags": [
+        "오프라인",
+        "공모전/대회",
+        "AI"
+      ],
+      "thread_id": "1536519494095081583"
     },
     "a9203d6353e3edca1e089958c758572734c465f91313faf433cb38126c69ec11": {
       "canonical_url": "https://ticketa.co/event/nv2atyow",
@@ -3404,6 +3498,19 @@
       ],
       "thread_id": "1499922374869389423"
     },
+    "c762848ade8009ff7b5d634fea26e28fa24964f434520d3611202fafae31138a": {
+      "canonical_url": "https://luma.com/18vxh2cy",
+      "event_id": "c762848ade8009ff7b5d634fea26e28fa24964f434520d3611202fafae31138a",
+      "message_id": "1536519462977802253",
+      "posted": true,
+      "posted_at": "2026-08-11T08:39:32.870066+09:00",
+      "source_title": "DynamoDB Tech Talk",
+      "tags": [
+        "오프라인",
+        "클라우드"
+      ],
+      "thread_id": "1536519462977802253"
+    },
     "c7dfb4fc864b8f92f3d409c9bf6b11de8b4d91a35e952e97567fce504936f44b": {
       "canonical_url": "https://ticketa.co/event/gy6ybl8f",
       "event_id": "c7dfb4fc864b8f92f3d409c9bf6b11de8b4d91a35e952e97567fce504936f44b",
@@ -3939,6 +4046,20 @@
       ],
       "thread_id": "1495570751627989124"
     },
+    "e09e540fe919657173b6df8f17817b7a704ca9c8f49a8a0d1ca16eb70d668985": {
+      "canonical_url": "https://event-us.kr/webinar/event/131559",
+      "event_id": "e09e540fe919657173b6df8f17817b7a704ca9c8f49a8a0d1ca16eb70d668985",
+      "message_id": "1536519475103277058",
+      "posted": true,
+      "posted_at": "2026-08-11T08:39:32.870066+09:00",
+      "source_title": "비용 통제부터 사내 에이전트까지, 멀티 AI 운영 전략 웨비나",
+      "tags": [
+        "온라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1536519475103277058"
+    },
     "e18cd2af2f486fdcbac388c633d0548310c86fed6b7de64cccff73a26d9bae1d": {
       "canonical_url": "https://2026.pycon.kr/",
       "event_id": "e18cd2af2f486fdcbac388c633d0548310c86fed6b7de64cccff73a26d9bae1d",
@@ -4153,6 +4274,20 @@
         "AI"
       ],
       "thread_id": "1495570745370083441"
+    },
+    "eeac322dd6a337bac3423f2871935e2db63c2c2242c99cf9d9fcc787bfcd27a6": {
+      "canonical_url": "https://ticketa.co/event/xzch6c1g",
+      "event_id": "eeac322dd6a337bac3423f2871935e2db63c2c2242c99cf9d9fcc787bfcd27a6",
+      "message_id": "1536519529205731399",
+      "posted": true,
+      "posted_at": "2026-08-11T08:39:32.870066+09:00",
+      "source_title": "GitHub Copilot Dev Days | Seoul",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1536519529205731399"
     },
     "eed764f86f107b1ec7fd691c601ef9ee964950ec0089fccf9e200407a342d0f1": {
       "canonical_url": "https://meetup.com/awskrug/events/315582897",
@@ -4412,6 +4547,19 @@
       ],
       "thread_id": "1501371638212591787"
     },
+    "faef89647a7b72b15fa587c33da294f70099d9307273bdbcbc2604b161f3e746": {
+      "canonical_url": "https://meetup.com/awskrug/events/316051935",
+      "event_id": "faef89647a7b72b15fa587c33da294f70099d9307273bdbcbc2604b161f3e746",
+      "message_id": "1536519519047123047",
+      "posted": true,
+      "posted_at": "2026-08-11T08:39:32.870066+09:00",
+      "source_title": "AWSKRUG #partner 소모임 1번째 - AWSKRUG x Ambassadors Meetup - 9월 10일 (목)",
+      "tags": [
+        "오프라인",
+        "클라우드"
+      ],
+      "thread_id": "1536519519047123047"
+    },
     "fbcd018ad2d2a93191b4b39eedf65a02b96d3cb819ee7f646b6743e9c08b2692": {
       "canonical_url": "https://snowflake.com/snowflake-hackathon-2026-korea",
       "event_id": "fbcd018ad2d2a93191b4b39eedf65a02b96d3cb819ee7f646b6743e9c08b2692",
@@ -4465,6 +4613,20 @@
         "AI"
       ],
       "thread_id": "1496294641736356011"
+    },
+    "ffaf878c703c936a3bcd0edc6c2b007e1ffedd106fcbdf929efde424ab54bc88": {
+      "canonical_url": "https://luma.com/y5zmk4mo",
+      "event_id": "ffaf878c703c936a3bcd0edc6c2b007e1ffedd106fcbdf929efde424ab54bc88",
+      "message_id": "1536519458728714351",
+      "posted": true,
+      "posted_at": "2026-08-11T08:39:32.870066+09:00",
+      "source_title": "Qwen AI Build Day in Seoul with TFM",
+      "tags": [
+        "오프라인",
+        "AI",
+        "클라우드"
+      ],
+      "thread_id": "1536519458728714351"
     }
   },
   "version": 1
