@@ -1272,6 +1272,20 @@
       ],
       "thread_id": "1485784954439864360"
     },
+    "4c405324b75d6e0fc49ddb3ba9bca8fc04602e9be9367c6a8942261cff1800a0": {
+      "canonical_url": "https://rocketpunch.com/event/8A2KPAjh3O",
+      "event_id": "4c405324b75d6e0fc49ddb3ba9bca8fc04602e9be9367c6a8942261cff1800a0",
+      "message_id": "1536884047681425509",
+      "posted": true,
+      "posted_at": "2026-08-12T08:48:30.299567+09:00",
+      "source_title": "Open AGI 빌더스 데이 at KDD",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1536884047681425509"
+    },
     "4cd64d9f16f5d0d80a5a91614fcf212b1d7ff14bd043c46b43398ba2d94bbdc5": {
       "canonical_url": "https://daker.ai/public/hackathons/4th-jump-ai-agentic-drug-challenge",
       "event_id": "4cd64d9f16f5d0d80a5a91614fcf212b1d7ff14bd043c46b43398ba2d94bbdc5",
@@ -2811,6 +2825,16 @@
         "오프라인"
       ],
       "thread_id": "1536519504484376667"
+    },
+    "a21e85f866671e56ae3e21306f2510d153824f0206de51e2675ea4b9ab5bc4b7": {
+      "canonical_url": "https://2026.ausg.me/",
+      "event_id": "a21e85f866671e56ae3e21306f2510d153824f0206de51e2675ea4b9ab5bc4b7",
+      "message_id": "1536884050759782441",
+      "posted": true,
+      "posted_at": "2026-08-12T08:48:30.299567+09:00",
+      "source_title": "AUSGCON 2026",
+      "tags": [],
+      "thread_id": "1536884050759782441"
     },
     "a2575706c0be794ceb58f932d086dc373d268efaf82f9a0983bc7a5faac7a017": {
       "canonical_url": "https://tech.goorm.io/2604_commit",
