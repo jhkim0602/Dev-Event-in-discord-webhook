@@ -14,6 +14,19 @@
       "tags": [],
       "thread_id": null
     },
+    "02b81d58056149e911e875e1c89bba894b00dcb702d0f956085bc8c365981848": {
+      "canonical_url": "https://meetup.com/awskrug/events/316079433",
+      "event_id": "02b81d58056149e911e875e1c89bba894b00dcb702d0f956085bc8c365981848",
+      "message_id": "1538327732495057080",
+      "posted": true,
+      "posted_at": "2026-08-16T08:24:47.802060+09:00",
+      "source_title": "AWSKRUG #부산 지역 소모임 - 8월 28일 (금)",
+      "tags": [
+        "오프라인",
+        "클라우드"
+      ],
+      "thread_id": "1538327732495057080"
+    },
     "032e551b6e50761458d643d1643ca389cc43da02b367ae29f714261ff5b66d3a": {
       "canonical_url": "https://maplestoryworlds.nexon.com/events/ko/2026globalcontest",
       "event_id": "032e551b6e50761458d643d1643ca389cc43da02b367ae29f714261ff5b66d3a",
@@ -449,6 +462,19 @@
       ],
       "thread_id": "1480224077372457161"
     },
+    "13674b568937d7dce13a0934bfe8001eabf63f21b294f1ff5e7c56dd60d56f61": {
+      "canonical_url": "https://buidl.creditcoin.org/",
+      "event_id": "13674b568937d7dce13a0934bfe8001eabf63f21b294f1ff5e7c56dd60d56f61",
+      "message_id": "1538327743421481103",
+      "posted": true,
+      "posted_at": "2026-08-16T08:24:47.802060+09:00",
+      "source_title": "Build for the Real World (BUIDL CTC 2026 Fall)",
+      "tags": [
+        "온라인",
+        "공모전/대회"
+      ],
+      "thread_id": "1538327743421481103"
+    },
     "13b176b3b6eba645ba517bf74a814bcaaf88c3ce2cd9acc5555616ec3973bd5f": {
       "canonical_url": "https://developeracademy.postech.ac.kr/event/ideaplayground",
       "event_id": "13b176b3b6eba645ba517bf74a814bcaaf88c3ce2cd9acc5555616ec3973bd5f",
@@ -556,6 +582,19 @@
         "교육/부트캠프"
       ],
       "thread_id": "1481072737261977828"
+    },
+    "166f3875a831314ebc6fd6420f8a8e25c12232f490cf2819574cf46d97c4970e": {
+      "canonical_url": "https://event-us.kr/pytorchkr/event/132012",
+      "event_id": "166f3875a831314ebc6fd6420f8a8e25c12232f490cf2819574cf46d97c4970e",
+      "message_id": "1538327693165207593",
+      "posted": true,
+      "posted_at": "2026-08-16T08:24:47.802060+09:00",
+      "source_title": "vLLM.KR Community Meetup 2026/08",
+      "tags": [
+        "오프라인",
+        "AI"
+      ],
+      "thread_id": "1538327693165207593"
     },
     "189b701fbe6396752a94f20c2be82c752782368e31f550abc9b81d064ed2e798": {
       "canonical_url": "https://aicampus.goorm.io/",
@@ -1016,6 +1055,20 @@
         "클라우드"
       ],
       "thread_id": "1490496411551137944"
+    },
+    "3365056ee07ed0602fe46193f4690694e18cf36edee6ad37feba320ead6d59dd": {
+      "canonical_url": "https://community2.cncf.io/events/details/cncf-kcd-south-korea-presents-kcd-x-ceph-x-openinfra-day-korea-2026",
+      "event_id": "3365056ee07ed0602fe46193f4690694e18cf36edee6ad37feba320ead6d59dd",
+      "message_id": "1538327739352748046",
+      "posted": true,
+      "posted_at": "2026-08-16T08:24:47.802060+09:00",
+      "source_title": "KCD x Ceph x OpenInfra Day Korea 2026",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "클라우드"
+      ],
+      "thread_id": "1538327739352748046"
     },
     "34083102d5fdbe00cec8207db6c8ff57b1393ed5bfd24620e7426c25a5075867": {
       "canonical_url": "https://rocketpunch.com/event/76I5aVzEu8",
@@ -2494,6 +2547,20 @@
       ],
       "thread_id": "1483972216793338007"
     },
+    "8a6180659dd6cc1f9c7213af82dccf4dfe8f39d6ae5158e040ddc59ced3d57c7": {
+      "canonical_url": "https://event-us.kr/mdsit/event/131366",
+      "event_id": "8a6180659dd6cc1f9c7213af82dccf4dfe8f39d6ae5158e040ddc59ced3d57c7",
+      "message_id": "1538327753810780171",
+      "posted": true,
+      "posted_at": "2026-08-16T08:24:47.802060+09:00",
+      "source_title": "(서울)AI와 Digital Engineering으로 완성하는 Mission-Critical Software 개발 전략 세미나",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1538327753810780171"
+    },
     "8a9a3012555d85b333041f9a0f7c8ea8c01e4cee662a5fc29d93d68dc347bce9": {
       "canonical_url": "https://event-us.kr/prometheus0513/event/130839",
       "event_id": "8a9a3012555d85b333041f9a0f7c8ea8c01e4cee662a5fc29d93d68dc347bce9",
@@ -3158,6 +3225,20 @@
       ],
       "thread_id": "1525291378970591353"
     },
+    "b36c7aff74aefaa08e3874eedfeacea64a34aa5abdd38abc274aba9c3041e1a4": {
+      "canonical_url": "https://meetup.com/awskrug/events/316081956",
+      "event_id": "b36c7aff74aefaa08e3874eedfeacea64a34aa5abdd38abc274aba9c3041e1a4",
+      "message_id": "1538327719081807915",
+      "posted": true,
+      "posted_at": "2026-08-16T08:24:47.802060+09:00",
+      "source_title": "AWSKRUG 보안 #Security 소모임 - 8월 27일 (목)",
+      "tags": [
+        "오프라인",
+        "클라우드",
+        "보안"
+      ],
+      "thread_id": "1538327719081807915"
+    },
     "b3bf2d7423e4c566625d630c99bae35a3597bfe8a55fa3b888a838c82f43b17e": {
       "canonical_url": "https://notion.so/3348c2a6385f801ebb24d2d8cad6a8d5",
       "event_id": "b3bf2d7423e4c566625d630c99bae35a3597bfe8a55fa3b888a838c82f43b17e",
@@ -3309,6 +3390,19 @@
       ],
       "thread_id": "1480224034301018142"
     },
+    "bac381966a206fbe2690c37c4a79b9fdf17d91bb85dd5a47236cc204e639335f": {
+      "canonical_url": "https://event-us.kr/findy/event/131589",
+      "event_id": "bac381966a206fbe2690c37c4a79b9fdf17d91bb85dd5a47236cc204e639335f",
+      "message_id": "1538327640883200109",
+      "posted": true,
+      "posted_at": "2026-08-16T08:24:47.802060+09:00",
+      "source_title": "[네트워킹] 개인 툴에서 조직 표준으로: 시리즈 D CTO의 3단계 AI 개발 토대 구축법",
+      "tags": [
+        "오프라인",
+        "AI"
+      ],
+      "thread_id": "1538327640883200109"
+    },
     "bb08de0755d9c54036ae8484bd9a6487d8297b0c3195e69828bcda9c194952ad": {
       "canonical_url": "https://pvs-studio.com/en/webinar/30",
       "event_id": "bb08de0755d9c54036ae8484bd9a6487d8297b0c3195e69828bcda9c194952ad",
@@ -3349,6 +3443,20 @@
         "클라우드"
       ],
       "thread_id": "1483972184069247089"
+    },
+    "bd26adf39104237e08b332b96872b947b521bebdda7c380ca202e92382ce4b7e": {
+      "canonical_url": "https://event-us.kr/mfitlab/event/131854",
+      "event_id": "bd26adf39104237e08b332b96872b947b521bebdda7c380ca202e92382ce4b7e",
+      "message_id": "1538327658398613615",
+      "posted": true,
+      "posted_at": "2026-08-16T08:24:47.802060+09:00",
+      "source_title": "처음 만나는 믹스패널 MCP: 대화로 시작하는 데이터 분석",
+      "tags": [
+        "온라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1538327658398613615"
     },
     "be0a60e34743434d484d28ffd3dff3c7c86ad849a987a6b5f07fa7e171406369": {
       "canonical_url": "https://luma.com/gcp-solana-tech-session",
@@ -3413,6 +3521,20 @@
         "오프라인"
       ],
       "thread_id": "1506087393361531091"
+    },
+    "c36eff0374eb43be253cf5041ab9e2d35f0efe6c44fa3f8cb73267a94039d61f": {
+      "canonical_url": "https://pathfinder.camp/event-details/survival-talkshow",
+      "event_id": "c36eff0374eb43be253cf5041ab9e2d35f0efe6c44fa3f8cb73267a94039d61f",
+      "message_id": "1538327723208998984",
+      "posted": true,
+      "posted_at": "2026-08-16T08:24:47.802060+09:00",
+      "source_title": "개발자 생존 토크쇼: AI Agent로 만드는 나의 첫 비즈니스",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1538327723208998984"
     },
     "c3be0e01600bf96d4b70a83ed7ba0bb8416b15653ffbd05f0bfdb60c1ec101cd": {
       "canonical_url": "https://ticketa.co/event/26hfzu4p",
@@ -3803,6 +3925,20 @@
       ],
       "thread_id": "1524204132750327849"
     },
+    "d3db8ac81a64087a771ebd538f448b8f7a0267d5d55959ecd8a825d63c28ef5b": {
+      "canonical_url": "https://openaigame2026.com/",
+      "event_id": "d3db8ac81a64087a771ebd538f448b8f7a0267d5d55959ecd8a825d63c28ef5b",
+      "message_id": "1538327726581350451",
+      "posted": true,
+      "posted_at": "2026-08-16T08:24:47.802060+09:00",
+      "source_title": "OpenAI Game Builders Seoul",
+      "tags": [
+        "온라인",
+        "공모전/대회",
+        "AI"
+      ],
+      "thread_id": "1538327726581350451"
+    },
     "d44c312acf8b8543cb7cdfb936c0ba6b4ab9eae92d973edf083f114c46aebd92": {
       "canonical_url": "https://event-us.kr/iqnnhuzl/event/124199",
       "event_id": "d44c312acf8b8543cb7cdfb936c0ba6b4ab9eae92d973edf083f114c46aebd92",
@@ -3975,6 +4111,19 @@
       ],
       "thread_id": "1482522239554424883"
     },
+    "dbee8947891e4e82850907ed92560a1b4e1f52e20600292ed3add0722d2c48d1": {
+      "canonical_url": "https://event-us.kr/neordinaryfestival/event/132023",
+      "event_id": "dbee8947891e4e82850907ed92560a1b4e1f52e20600292ed3add0722d2c48d1",
+      "message_id": "1538327676132130897",
+      "posted": true,
+      "posted_at": "2026-08-16T08:24:47.802060+09:00",
+      "source_title": "[AI로 세상을 바꾸다] 제4회 부산 너디너리 페스티벌",
+      "tags": [
+        "오프라인",
+        "AI"
+      ],
+      "thread_id": "1538327676132130897"
+    },
     "dc682285aa814c2caa74f01cbe4cfc6f424be8737f654f00bc3bd906ae80f23f": {
       "canonical_url": "https://meetup.com/mongodb-usergroup-seoul/events/314210138",
       "event_id": "dc682285aa814c2caa74f01cbe4cfc6f424be8737f654f00bc3bd906ae80f23f",
@@ -4095,6 +4244,19 @@
         "오프라인"
       ],
       "thread_id": "1496294754932097084"
+    },
+    "e1984bb4ca091f43b30045112224852a945e834b4a1d6662773e21b60443135c": {
+      "canonical_url": "https://meetup.com/awskrug/events/316081735",
+      "event_id": "e1984bb4ca091f43b30045112224852a945e834b4a1d6662773e21b60443135c",
+      "message_id": "1538327714216411136",
+      "posted": true,
+      "posted_at": "2026-08-16T08:24:47.802060+09:00",
+      "source_title": "AWSKRUG 인천 지역 #incheon 소모임 - 08월 24일 (월)",
+      "tags": [
+        "오프라인",
+        "클라우드"
+      ],
+      "thread_id": "1538327714216411136"
     },
     "e222c59c4cb740ee2037b20786f6a44b84cb25b4886cf680493acd936340b59c": {
       "canonical_url": "https://meetup.com/awskrug/events/313352636",
