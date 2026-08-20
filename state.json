@@ -66,6 +66,19 @@
       ],
       "thread_id": "1502821253780734072"
     },
+    "043543d5b2f91b23c8d0b7730a388165d003895592661d7b4ed0d75941500f87": {
+      "canonical_url": "https://ticketa.co/event/196djvgj",
+      "event_id": "043543d5b2f91b23c8d0b7730a388165d003895592661d7b4ed0d75941500f87",
+      "message_id": "1540141437427912835",
+      "posted": true,
+      "posted_at": "2026-08-21T08:30:14.856412+09:00",
+      "source_title": "Docker Community 9월 밋업",
+      "tags": [
+        "오프라인",
+        "클라우드"
+      ],
+      "thread_id": "1540141437427912835"
+    },
     "049e63de633cb48fe5f7edb8d22bb6e7b1bfaa24eb15202febed1170d0a8ee6d": {
       "canonical_url": "https://event.wanted.co.kr/preopen_highfive2026",
       "event_id": "049e63de633cb48fe5f7edb8d22bb6e7b1bfaa24eb15202febed1170d0a8ee6d",
@@ -156,6 +169,20 @@
         "오프라인"
       ],
       "thread_id": "1495570692974968983"
+    },
+    "07b5b105d57588c4540575048aca7cf82d93c3030676b55382af91b90ccecaa9": {
+      "canonical_url": "https://event-us.kr/chosunbiz/event/130679",
+      "event_id": "07b5b105d57588c4540575048aca7cf82d93c3030676b55382af91b90ccecaa9",
+      "message_id": "1540141113850208368",
+      "posted": true,
+      "posted_at": "2026-08-21T08:30:14.856412+09:00",
+      "source_title": "스마트클라우드쇼 2026",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1540141113850208368"
     },
     "07c8178c1f19a4ed104df5b7e95f887b5c92354e9851ec06b9108beccddd251e": {
       "canonical_url": "https://biz.modulabs.co.kr/event/437",
@@ -434,6 +461,19 @@
       ],
       "thread_id": "1481072648296599572"
     },
+    "12c3522e0fc7038d9dc70931ff13f2ac07756a56dc3a7fc106641d7d8ca949ee": {
+      "canonical_url": "https://meetup.com/awskrug/events/316167655",
+      "event_id": "12c3522e0fc7038d9dc70931ff13f2ac07756a56dc3a7fc106641d7d8ca949ee",
+      "message_id": "1540141277452963841",
+      "posted": true,
+      "posted_at": "2026-08-21T08:30:14.856412+09:00",
+      "source_title": "AWSKRUG 주니어 #junior 첫 번째 밋업 - 9월 3일 (목)",
+      "tags": [
+        "오프라인",
+        "클라우드"
+      ],
+      "thread_id": "1540141277452963841"
+    },
     "133242f80d4317e5bc269da57a6cb79429e2e095ac9169ff759b760d044df635": {
       "canonical_url": "https://ttalkkakthon.vibecodingclub.kr/",
       "event_id": "133242f80d4317e5bc269da57a6cb79429e2e095ac9169ff759b760d044df635",
@@ -688,6 +728,20 @@
       ],
       "thread_id": "1539415374397710399"
     },
+    "1c93c68cd71c48b1eab4b6a5ee206799594b2d35ff64f99b352fbf6c8fc6dc5f": {
+      "canonical_url": "https://event-us.kr/datanet/event/131919",
+      "event_id": "1c93c68cd71c48b1eab4b6a5ee206799594b2d35ff64f99b352fbf6c8fc6dc5f",
+      "message_id": "1540141068463513742",
+      "posted": true,
+      "posted_at": "2026-08-21T08:30:14.856412+09:00",
+      "source_title": "에이전틱 엔지니어링 핸즈온 : AI 주도 개발 실습 A to Z",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1540141068463513742"
+    },
     "1ca226db55e2c9478c26eb5f0dc46a28413c247f59510d3c88245ee73a82f0e8": {
       "canonical_url": "https://ticketa.co/event/vcp5wmp4",
       "event_id": "1ca226db55e2c9478c26eb5f0dc46a28413c247f59510d3c88245ee73a82f0e8",
@@ -906,6 +960,20 @@
       ],
       "thread_id": "1519858474778104063"
     },
+    "2731e4bb5c39bfb0099b8e2d5ad4cabdb7e559597ff8b9b58527616ff229d712": {
+      "canonical_url": "https://event-us.kr/dtf2026/event/130951",
+      "event_id": "2731e4bb5c39bfb0099b8e2d5ad4cabdb7e559597ff8b9b58527616ff229d712",
+      "message_id": "1540141030576365581",
+      "posted": true,
+      "posted_at": "2026-08-21T08:30:14.856412+09:00",
+      "source_title": "델 테크놀로지스 포럼 2026",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1540141030576365581"
+    },
     "27f3cf47de09691450e24cd5177cb24a64a52f7b5cf10ec24126085856fcd059": {
       "canonical_url": "https://ticketa.co/event/c99wxzdg",
       "event_id": "27f3cf47de09691450e24cd5177cb24a64a52f7b5cf10ec24126085856fcd059",
@@ -919,6 +987,20 @@
         "AI"
       ],
       "thread_id": "1529276460890853448"
+    },
+    "286fddc82f575e70eeaa95da351b033dacb1b0fee82b51190fbfd38d692fbf27": {
+      "canonical_url": "https://events.openai.com/devdayexchange2026",
+      "event_id": "286fddc82f575e70eeaa95da351b033dacb1b0fee82b51190fbfd38d692fbf27",
+      "message_id": "1540141415269531700",
+      "posted": true,
+      "posted_at": "2026-08-21T08:30:14.856412+09:00",
+      "source_title": "OpenAI DevDay Exchange 2026 - 서울",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1540141415269531700"
     },
     "28af49b2b8d44a9b12f2547979114d7685865c73b3c046935b0ff4a0258a98dd": {
       "canonical_url": "https://cce.cstec.kr/",
@@ -1191,6 +1273,33 @@
       ],
       "thread_id": "1483972235403464805"
     },
+    "3d5b0cbd8c8e3af56fdf6bf1db45d8dece725ff5479cf3c56b4b882c41fc1b22": {
+      "canonical_url": "https://event-us.kr/etnewsinternet/event/131521",
+      "event_id": "3d5b0cbd8c8e3af56fdf6bf1db45d8dece725ff5479cf3c56b4b882c41fc1b22",
+      "message_id": "1540141163661623349",
+      "posted": true,
+      "posted_at": "2026-08-21T08:30:14.856412+09:00",
+      "source_title": "성과를 만드는 AI 에이전트 운영 전략 및 사례",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1540141163661623349"
+    },
+    "3ef23a84b79d5d2367d3c95d56ce55e6d7ce0ee8e389537457016c5697c45d6f": {
+      "canonical_url": "https://event-us.kr/ConventionSOOP/event/131013",
+      "event_id": "3ef23a84b79d5d2367d3c95d56ce55e6d7ce0ee8e389537457016c5697c45d6f",
+      "message_id": "1540141229876969634",
+      "posted": true,
+      "posted_at": "2026-08-21T08:30:14.856412+09:00",
+      "source_title": "2026 대구 블록체인 밋업데이 [1회차 블록체인 과정]",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나"
+      ],
+      "thread_id": "1540141229876969634"
+    },
     "40d6493f1ec934c193fdbbb74990397af50ea99a68af428c438556134729b062": {
       "canonical_url": "https://meetup.com/awskrug/events/315581938",
       "event_id": "40d6493f1ec934c193fdbbb74990397af50ea99a68af428c438556134729b062",
@@ -1203,6 +1312,20 @@
         "클라우드"
       ],
       "thread_id": "1524204122742587524"
+    },
+    "41070e5b9268bb2e92019a97ac34e0bc129ff66b8b8ed161d2908bbf55cecadf": {
+      "canonical_url": "https://event-us.kr/mabc2026/event/130808",
+      "event_id": "41070e5b9268bb2e92019a97ac34e0bc129ff66b8b8ed161d2908bbf55cecadf",
+      "message_id": "1540141291155755030",
+      "posted": true,
+      "posted_at": "2026-08-21T08:30:14.856412+09:00",
+      "source_title": "MABC 2026 (Making AI Beneficial Challenge)",
+      "tags": [
+        "온라인",
+        "공모전/대회",
+        "AI"
+      ],
+      "thread_id": "1540141291155755030"
     },
     "41a4cf71cdbc07d88d65e49609bdd436e41987454d78375cc31dbf91daf897f2": {
       "canonical_url": "https://event-us.kr/squeezebits/event/124421",
@@ -1558,6 +1681,19 @@
       ],
       "thread_id": "1515509521454465067"
     },
+    "5405c34110f0b4a0cfc1f4effe0e4a19af31bcb86e3905cdd4a80d9a551353f3": {
+      "canonical_url": "https://event-us.kr/2026bcmd/event/129781",
+      "event_id": "5405c34110f0b4a0cfc1f4effe0e4a19af31bcb86e3905cdd4a80d9a551353f3",
+      "message_id": "1540141391433310220",
+      "posted": true,
+      "posted_at": "2026-08-21T08:30:14.856412+09:00",
+      "source_title": "2026 블록체인 밋업데이 (20회차)",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나"
+      ],
+      "thread_id": "1540141391433310220"
+    },
     "5494a4009aec9ec5110354c5a71bd583288d38898936725f7a19dafff385f7a7": {
       "canonical_url": "https://crowdacademyofc.imweb.me/ai-expert",
       "event_id": "5494a4009aec9ec5110354c5a71bd583288d38898936725f7a19dafff385f7a7",
@@ -1571,6 +1707,20 @@
         "AI"
       ],
       "thread_id": "1524569881515786362"
+    },
+    "54ef67e57309cafaca5b1d6f9da12c82724ccfb5ac40f44b1bbd53c30a7d2c3a": {
+      "canonical_url": "https://event-us.kr/aimairisk/event/132861",
+      "event_id": "54ef67e57309cafaca5b1d6f9da12c82724ccfb5ac40f44b1bbd53c30a7d2c3a",
+      "message_id": "1540141374681260083",
+      "posted": true,
+      "posted_at": "2026-08-21T08:30:14.856412+09:00",
+      "source_title": "AI Risk Conference Seoul 2026",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1540141374681260083"
     },
     "557c03de7ac0635f446243c3dd77fa1717493a99becf32cf7927389604127635": {
       "canonical_url": "https://rocketpunch.com/event/qpEDqb19Ey",
@@ -1681,6 +1831,20 @@
       ],
       "thread_id": "1506087377477570570"
     },
+    "5a9806fed1dd10bc9df08e72896a3f8e7ad423c47f14bb1d1e740d94fc12d28b": {
+      "canonical_url": "https://ticketa.co/event/xnhamniu",
+      "event_id": "5a9806fed1dd10bc9df08e72896a3f8e7ad423c47f14bb1d1e740d94fc12d28b",
+      "message_id": "1540141419769897042",
+      "posted": true,
+      "posted_at": "2026-08-21T08:30:14.856412+09:00",
+      "source_title": "Agent Field Trip 2026: Incheon",
+      "tags": [
+        "오프라인",
+        "공모전/대회",
+        "AI"
+      ],
+      "thread_id": "1540141419769897042"
+    },
     "5c838d9ffea7b2a2003203f25a1b898ca94142b7447340f0609a4cb2ab3942a2": {
       "canonical_url": "https://rocketpunch.com/event/ARNj09DPdv",
       "event_id": "5c838d9ffea7b2a2003203f25a1b898ca94142b7447340f0609a4cb2ab3942a2",
@@ -1720,6 +1884,20 @@
         "교육/부트캠프"
       ],
       "thread_id": "1480224324165046454"
+    },
+    "5dfcb0e7407880384be530a7df672ade35aa501558bf422d5278261c0236f91c": {
+      "canonical_url": "https://event-us.kr/itsman/event/132367",
+      "event_id": "5dfcb0e7407880384be530a7df672ade35aa501558bf422d5278261c0236f91c",
+      "message_id": "1540141144300851235",
+      "posted": true,
+      "posted_at": "2026-08-21T08:30:14.856412+09:00",
+      "source_title": "AI 시대에 하드 드라이브 바로 알기 : 씨게이트가 제시하는 차세대 스토리지 인클로저",
+      "tags": [
+        "온라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1540141144300851235"
     },
     "5e051eb5444f18c14a69d696ee656cd7385bfbd2a55d18f32b40fc7310cd2172": {
       "canonical_url": "https://pvs-studio.com/en/webinar/31",
@@ -1911,6 +2089,18 @@
       ],
       "thread_id": "1539415291061080077"
     },
+    "6853d7f60bf9cf5fd0890f261ae333bd2171fc120d69f2dd572d596d978ca745": {
+      "canonical_url": "https://event-us.kr/iqnnhuzl/event/133189",
+      "event_id": "6853d7f60bf9cf5fd0890f261ae333bd2171fc120d69f2dd572d596d978ca745",
+      "message_id": "1540141355165024297",
+      "posted": true,
+      "posted_at": "2026-08-21T08:30:14.856412+09:00",
+      "source_title": "2026 판교 퇴근길밋업 7회차",
+      "tags": [
+        "오프라인"
+      ],
+      "thread_id": "1540141355165024297"
+    },
     "686242e8a3124dead58fd61019bff58dc0e89acda73dbc6f7965f2e502d3846a": {
       "canonical_url": "https://meetup.com/awskrug/events/314931400",
       "event_id": "686242e8a3124dead58fd61019bff58dc0e89acda73dbc6f7965f2e502d3846a",
@@ -1923,6 +2113,20 @@
         "클라우드"
       ],
       "thread_id": "1509346462083973210"
+    },
+    "692ffc03d384bf1f1560bf2009397d7aeb7316602ffa877d4cd73531a1f81ee5": {
+      "canonical_url": "https://event-us.kr/gsneotek/event/132338",
+      "event_id": "692ffc03d384bf1f1560bf2009397d7aeb7316602ffa877d4cd73531a1f81ee5",
+      "message_id": "1540141334999076927",
+      "posted": true,
+      "posted_at": "2026-08-21T08:30:14.856412+09:00",
+      "source_title": "re:Build your Data 차세대 Data Platform 운영 전략 세미나",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1540141334999076927"
     },
     "69c8dc19f79cfe825b9b479f6fc57150d0f979515cbdf64a01fe27f12e97cda5": {
       "canonical_url": "https://meetup.com/awskrug/events/315352674",
@@ -2223,6 +2427,34 @@
       ],
       "thread_id": "1501371592876490832"
     },
+    "7470d6688e01066e966fae3473bc2555de96e4d39dd7dc40e0b58e7e3661c288": {
+      "canonical_url": "https://event-us.kr/schift/event/132139",
+      "event_id": "7470d6688e01066e966fae3473bc2555de96e4d39dd7dc40e0b58e7e3661c288",
+      "message_id": "1540140953266823279",
+      "posted": true,
+      "posted_at": "2026-08-21T08:30:14.856412+09:00",
+      "source_title": "AX 다음 — 구독은 했는데 아무도 말 안 해준 5가지",
+      "tags": [
+        "온라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1540140953266823279"
+    },
+    "752c3878b0f48263e8f2c41e217d0a64e38d6432457c48450bb0b5e72b937562": {
+      "canonical_url": "https://event-us.kr/ax/event/131858",
+      "event_id": "752c3878b0f48263e8f2c41e217d0a64e38d6432457c48450bb0b5e72b937562",
+      "message_id": "1540140997433098331",
+      "posted": true,
+      "posted_at": "2026-08-21T08:30:14.856412+09:00",
+      "source_title": "[무료·발표자료 제공] 정책부터 Physical AI까지, 기업 AX 실행전략 웨비나",
+      "tags": [
+        "온라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1540140997433098331"
+    },
     "7645031899004047841a194a99d7b20bf5ba7c9055831c7239c765868a60e09e": {
       "canonical_url": "https://meetup.com/awskrug/events/313714237",
       "event_id": "7645031899004047841a194a99d7b20bf5ba7c9055831c7239c765868a60e09e",
@@ -2357,6 +2589,20 @@
         "AI"
       ],
       "thread_id": "1522032595066425455"
+    },
+    "7955217378a227a2212f071e034d88060c311444e46866ba894d8ff1fa130716": {
+      "canonical_url": "https://event-us.kr/advantechseminar/event/132284",
+      "event_id": "7955217378a227a2212f071e034d88060c311444e46866ba894d8ff1fa130716",
+      "message_id": "1540141182917681163",
+      "posted": true,
+      "posted_at": "2026-08-21T08:30:14.856412+09:00",
+      "source_title": "Physical AI 시연을 넘어, 운영으로 — Physical AI 실전 전략",
+      "tags": [
+        "온라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1540141182917681163"
     },
     "7c3346e3704148ebea6372a825fdbb598a55bb4e37fd5da2067e7c581662e242": {
       "canonical_url": "https://luma.com/j06jbiks",
@@ -2696,6 +2942,20 @@
       ],
       "thread_id": "1480224092660699339"
     },
+    "8adcdfa6af3bb989008ecbe3cbdb52a7d25ab51d0398a27faba20bc225d4454e": {
+      "canonical_url": "https://rocketpunch.com/event/eLOJKAPZKP",
+      "event_id": "8adcdfa6af3bb989008ecbe3cbdb52a7d25ab51d0398a27faba20bc225d4454e",
+      "message_id": "1540141425503506444",
+      "posted": true,
+      "posted_at": "2026-08-21T08:30:14.856412+09:00",
+      "source_title": "AI와 Digital Engineering으로 완성하는 Mission-Critical Software 개발 전략 세미나 (대전)",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1540141425503506444"
+    },
     "8bbdca84702ab8df265fb6c352e4f3c2eebe639a6baa586703aade7de2fd6831": {
       "canonical_url": "https://meetup.com/awskrug/events/314686543",
       "event_id": "8bbdca84702ab8df265fb6c352e4f3c2eebe639a6baa586703aade7de2fd6831",
@@ -2709,6 +2969,20 @@
         "클라우드"
       ],
       "thread_id": "1502821257635172594"
+    },
+    "8bcc33161fb7a819638bbba8291fa7a4c0d42c5c7a2cc505f01410a1745689f5": {
+      "canonical_url": "https://event-us.kr/careerlikelion/event/132121",
+      "event_id": "8bcc33161fb7a819638bbba8291fa7a4c0d42c5c7a2cc505f01410a1745689f5",
+      "message_id": "1540140969830125680",
+      "posted": true,
+      "posted_at": "2026-08-21T08:30:14.856412+09:00",
+      "source_title": "[멋쟁이사자처럼] AI 바이브톤",
+      "tags": [
+        "오프라인",
+        "공모전/대회",
+        "AI"
+      ],
+      "thread_id": "1540140969830125680"
     },
     "8c223a6a61c0b596f29ab45316b0c6cc9c255ac48ffc456972e7c3a97de9f0c4": {
       "canonical_url": "https://luma.com/pb000fua",
@@ -2947,6 +3221,20 @@
         "AI"
       ],
       "thread_id": "1539415342005231708"
+    },
+    "9df663c5be6901def8863315eb9ec107f321e2c0d956d43d2cd42ec38a57742a": {
+      "canonical_url": "https://meetup.com/awskrug/events/316192838",
+      "event_id": "9df663c5be6901def8863315eb9ec107f321e2c0d956d43d2cd42ec38a57742a",
+      "message_id": "1540141364094828645",
+      "posted": true,
+      "posted_at": "2026-08-21T08:30:14.856412+09:00",
+      "source_title": "AWSKRUG 자격증 소모임 9월 2일 AIF 자격증 취득!",
+      "tags": [
+        "오프라인",
+        "AI",
+        "클라우드"
+      ],
+      "thread_id": "1540141364094828645"
     },
     "9e4ed6f06ea12942af2bb1333fde20d5f3bd8da2cd6e1904e2d73c13a7cb5e62": {
       "canonical_url": "https://dxchallenge.co.kr/dive-2026",
@@ -3415,6 +3703,19 @@
         "AI"
       ],
       "thread_id": "1519858520659329068"
+    },
+    "b448237eb25854c8cc78676f02424a55f539dd7dabbfd3eb3f2660af3540f0ac": {
+      "canonical_url": "https://event-us.kr/2026bcmd/event/129777",
+      "event_id": "b448237eb25854c8cc78676f02424a55f539dd7dabbfd3eb3f2660af3540f0ac",
+      "message_id": "1540141201489920181",
+      "posted": true,
+      "posted_at": "2026-08-21T08:30:14.856412+09:00",
+      "source_title": "2026 블록체인 밋업데이 (19회차)",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나"
+      ],
+      "thread_id": "1540141201489920181"
     },
     "b4939eb01c44bb85efb212d6d9e3976f427416750f168acf433b2b4753b1281a": {
       "canonical_url": "https://meetup.com/awskrug/events/314414230",
@@ -4033,6 +4334,19 @@
       ],
       "thread_id": "1526377135462289510"
     },
+    "d1e28ec845a65fa2731bdf5e76c3fd0d8938215bf6dc1393b3851ff3c96cf7ae": {
+      "canonical_url": "https://event-us.kr/infograb/event/131501",
+      "event_id": "d1e28ec845a65fa2731bdf5e76c3fd0d8938215bf6dc1393b3851ff3c96cf7ae",
+      "message_id": "1540141306796572773",
+      "posted": true,
+      "posted_at": "2026-08-21T08:30:14.856412+09:00",
+      "source_title": "[인포그랩] 3rd 유저 컨퍼런스 Next Delivery Stack 2026",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나"
+      ],
+      "thread_id": "1540141306796572773"
+    },
     "d29282cf217c877a316ab7fb09a315e1214b664b363c5f908ef8ebcc28411157": {
       "canonical_url": "https://rocketpunch.com/event/wzOlIQ62n1",
       "event_id": "d29282cf217c877a316ab7fb09a315e1214b664b363c5f908ef8ebcc28411157",
@@ -4152,6 +4466,20 @@
         "클라우드"
       ],
       "thread_id": "1534352568979951707"
+    },
+    "d7fd3e108c3e7ba09e14257765dc88351c8e6078087f7e51deae017852eb7a35": {
+      "canonical_url": "https://event-us.kr/makinarocks/event/132375",
+      "event_id": "d7fd3e108c3e7ba09e14257765dc88351c8e6078087f7e51deae017852eb7a35",
+      "message_id": "1540141255994908725",
+      "posted": true,
+      "posted_at": "2026-08-21T08:30:14.856412+09:00",
+      "source_title": "ATTENTION 2026",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1540141255994908725"
     },
     "d849cc4a7e1042c6164afb24e64d778b4c41b53ab134ffa34d6d33bcb2f921e1": {
       "canonical_url": "https://luma.com/ai9yfq4w",
@@ -4448,6 +4776,19 @@
       ],
       "thread_id": "1529640264543764684"
     },
+    "e6219c2271da3e3ec956502412ca409264881a1ec25f47b0e65db20a06b11119": {
+      "canonical_url": "https://meetup.com/awskrug/events/316175545",
+      "event_id": "e6219c2271da3e3ec956502412ca409264881a1ec25f47b0e65db20a06b11119",
+      "message_id": "1540140982111309916",
+      "posted": true,
+      "posted_at": "2026-08-21T08:30:14.856412+09:00",
+      "source_title": "AWSKRUG 집현전 #jiphyeonjeon 온라인 소모임 - 8월 22일(토)",
+      "tags": [
+        "온라인",
+        "클라우드"
+      ],
+      "thread_id": "1540140982111309916"
+    },
     "e6bf743d4f6dcb6948a16b4a8eeae17daee430cdd7cf7905420d9fb0d0435efc": {
       "canonical_url": "https://ticketa.co/event/m8adkbnl",
       "event_id": "e6bf743d4f6dcb6948a16b4a8eeae17daee430cdd7cf7905420d9fb0d0435efc",
@@ -4502,6 +4843,20 @@
         "AI"
       ],
       "thread_id": "1505358853074718730"
+    },
+    "e7de5b66b613085b20c7ba603595e8f3691c61ffcc609b9154661c5265ff18bc": {
+      "canonical_url": "https://event-us.kr/vesslai/event/132200",
+      "event_id": "e7de5b66b613085b20c7ba603595e8f3691c61ffcc609b9154661c5265ff18bc",
+      "message_id": "1540141085643505705",
+      "posted": true,
+      "posted_at": "2026-08-21T08:30:14.856412+09:00",
+      "source_title": "[VESSL AI 웨비나] 2027년 GPU 예산, 품의서를 통과하는 TCO 설계법",
+      "tags": [
+        "온라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1540141085643505705"
     },
     "e8c847566038e5d82d96a055b14bc83e564f05e44188fdea2ba50ed63b342ad1": {
       "canonical_url": "https://ticketa.co/event/taitwvzz",
@@ -4771,6 +5126,19 @@
         "클라우드"
       ],
       "thread_id": "1510073580355063908"
+    },
+    "f5572160511fc844149a2c7121f5055bc73639b947a1b7570f1ce116e7784113": {
+      "canonical_url": "https://event-us.kr/itsman/event/131764",
+      "event_id": "f5572160511fc844149a2c7121f5055bc73639b947a1b7570f1ce116e7784113",
+      "message_id": "1540141048393633943",
+      "posted": true,
+      "posted_at": "2026-08-21T08:30:14.856412+09:00",
+      "source_title": "탈(脫) 오라클, 고객 가치를 실현하는 맞춤형 마이그레이션 전략",
+      "tags": [
+        "온라인",
+        "컨퍼런스/세미나"
+      ],
+      "thread_id": "1540141048393633943"
     },
     "f585c4960917dc52c0d23393103a8850b2f8aafcfe18e0c1ec48e224dd4eb4ab": {
       "canonical_url": "https://ictcocpiuda.imweb.me/",
