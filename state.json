@@ -27,6 +27,20 @@
       ],
       "thread_id": "1538327732495057080"
     },
+    "02ca0522b4e73380c996ce8fba80be8d62d5f042635644ad182448404822c8f5": {
+      "canonical_url": "https://luma.com/daytonaseoul",
+      "event_id": "02ca0522b4e73380c996ce8fba80be8d62d5f042635644ad182448404822c8f5",
+      "message_id": "1540864683286728765",
+      "posted": true,
+      "posted_at": "2026-08-23T08:25:29.241228+09:00",
+      "source_title": "Daytona HackSprint Seoul 해커톤",
+      "tags": [
+        "오프라인",
+        "해커톤",
+        "AI"
+      ],
+      "thread_id": "1540864683286728765"
+    },
     "032e551b6e50761458d643d1643ca389cc43da02b367ae29f714261ff5b66d3a": {
       "canonical_url": "https://maplestoryworlds.nexon.com/events/ko/2026globalcontest",
       "event_id": "032e551b6e50761458d643d1643ca389cc43da02b367ae29f714261ff5b66d3a",
@@ -328,6 +342,20 @@
         "AI"
       ],
       "thread_id": "1496294702461489253"
+    },
+    "0d0e768cde412b7b779febe9e030ce4d2237e9c31d83c342e1eecbc8ec0d350e": {
+      "canonical_url": "https://event-us.kr/FKH3nHkjmPGh/event/131554",
+      "event_id": "0d0e768cde412b7b779febe9e030ce4d2237e9c31d83c342e1eecbc8ec0d350e",
+      "message_id": "1540864673145167873",
+      "posted": true,
+      "posted_at": "2026-08-23T08:25:29.241228+09:00",
+      "source_title": "<클로드 코드 마스터> 저자 세미나 : 바이브 코딩에서 검증된 코딩으로",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1540864673145167873"
     },
     "0d906345439d81b2ecafd731dbfc24c27f7153ce5a601d7f99f5e9dfb47000b7": {
       "canonical_url": "https://meetup.com/awskrug/events/314907229",
@@ -1097,6 +1125,20 @@
       ],
       "thread_id": "1483247748068282465"
     },
+    "2f81ede7af08077747304c62c05d859f5dd72a2e51cca7bba9ba1cf81f2489da": {
+      "canonical_url": "https://pattern.musinsa.com/",
+      "event_id": "2f81ede7af08077747304c62c05d859f5dd72a2e51cca7bba9ba1cf81f2489da",
+      "message_id": "1540864525027385376",
+      "posted": true,
+      "posted_at": "2026-08-23T08:25:29.241228+09:00",
+      "source_title": "무신사 패턴 '26 테크 컨퍼런스",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1540864525027385376"
+    },
     "30307d7231a1fd3995be2a553028bad7add3453705f1309345f872fd990f9981": {
       "canonical_url": "https://new.nypc.co.kr/ko",
       "event_id": "30307d7231a1fd3995be2a553028bad7add3453705f1309345f872fd990f9981",
@@ -1831,6 +1873,20 @@
       ],
       "thread_id": "1506087377477570570"
     },
+    "593ef0f1eab8bc069ef94316b3b88e7ce53c0f9dda86ff97942e5aaa34c7d64e": {
+      "canonical_url": "https://dacon.io/competitions/official/236756/overview/description",
+      "event_id": "593ef0f1eab8bc069ef94316b3b88e7ce53c0f9dda86ff97942e5aaa34c7d64e",
+      "message_id": "1540864573509468231",
+      "posted": true,
+      "posted_at": "2026-08-23T08:25:29.241228+09:00",
+      "source_title": "2026 AI 에너지전환 컨퍼런스 & 제3회 풍력발전량 예측 AI 경진대회 시상식",
+      "tags": [
+        "오프라인",
+        "공모전/대회",
+        "AI"
+      ],
+      "thread_id": "1540864573509468231"
+    },
     "5a9806fed1dd10bc9df08e72896a3f8e7ad423c47f14bb1d1e740d94fc12d28b": {
       "canonical_url": "https://ticketa.co/event/xnhamniu",
       "event_id": "5a9806fed1dd10bc9df08e72896a3f8e7ad423c47f14bb1d1e740d94fc12d28b",
@@ -1844,6 +1900,20 @@
         "AI"
       ],
       "thread_id": "1540141419769897042"
+    },
+    "5aac8cfbd049dd93d7d3d56c3e6fb360189cff67c7f0f0aa96776771b5004462": {
+      "canonical_url": "https://event-us.kr/etnewsinternet/event/130316",
+      "event_id": "5aac8cfbd049dd93d7d3d56c3e6fb360189cff67c7f0f0aa96776771b5004462",
+      "message_id": "1540864653419216999",
+      "posted": true,
+      "posted_at": "2026-08-23T08:25:29.241228+09:00",
+      "source_title": "AICC & CX Insight 2026",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1540864653419216999"
     },
     "5c838d9ffea7b2a2003203f25a1b898ca94142b7447340f0609a4cb2ab3942a2": {
       "canonical_url": "https://rocketpunch.com/event/ARNj09DPdv",
@@ -2604,6 +2674,18 @@
       ],
       "thread_id": "1540141182917681163"
     },
+    "7bf8ab71d38858f642f5d82ae5b08ebc3572d21929baf9d1372ccaedeabad9fd": {
+      "canonical_url": "https://event-us.kr/ject/event/133407",
+      "event_id": "7bf8ab71d38858f642f5d82ae5b08ebc3572d21929baf9d1372ccaedeabad9fd",
+      "message_id": "1540864614131175525",
+      "posted": true,
+      "posted_at": "2026-08-23T08:25:29.241228+09:00",
+      "source_title": "[IT동아리 젝트] 5기 모집",
+      "tags": [
+        "오프라인"
+      ],
+      "thread_id": "1540864614131175525"
+    },
     "7c3346e3704148ebea6372a825fdbb598a55bb4e37fd5da2067e7c581662e242": {
       "canonical_url": "https://luma.com/j06jbiks",
       "event_id": "7c3346e3704148ebea6372a825fdbb598a55bb4e37fd5da2067e7c581662e242",
@@ -2699,6 +2781,20 @@
       ],
       "thread_id": "1483247687103938723"
     },
+    "7ff81ce62d7b7934c56870f11156e8bb9a295c51a9b00ffba394ac6076e38958": {
+      "canonical_url": "https://aim-airisk.com/",
+      "event_id": "7ff81ce62d7b7934c56870f11156e8bb9a295c51a9b00ffba394ac6076e38958",
+      "message_id": "1540864586188591115",
+      "posted": true,
+      "posted_at": "2026-08-23T08:25:29.241228+09:00",
+      "source_title": "AI Risk Conference Seoul 2026",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1540864586188591115"
+    },
     "816362e2f34a44bec12f3238003dd176c13c288041f829b8830de5babb1fd409": {
       "canonical_url": "https://cyberguardians-cmx.kr/",
       "event_id": "816362e2f34a44bec12f3238003dd176c13c288041f829b8830de5babb1fd409",
@@ -2754,6 +2850,20 @@
         "컨퍼런스/세미나"
       ],
       "thread_id": "1487596582995234936"
+    },
+    "82e6cc7e67209df9af9e80e99f8ac1fd12f5e2439427d20f941955161992f765": {
+      "canonical_url": "https://ticketa.co/event/rfl8sqa9",
+      "event_id": "82e6cc7e67209df9af9e80e99f8ac1fd12f5e2439427d20f941955161992f765",
+      "message_id": "1540864702295576597",
+      "posted": true,
+      "posted_at": "2026-08-23T08:25:29.241228+09:00",
+      "source_title": "GitHub Copilot Dev Days | Daegu",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1540864702295576597"
     },
     "8406c27b26662d75d403691e07a68af7097b4d8cb0bbb9fcd77a1669e8270d6c": {
       "canonical_url": "https://event-us.kr/incunext/event/130440",
@@ -3089,6 +3199,18 @@
         "교육/부트캠프"
       ],
       "thread_id": "1503911001463062558"
+    },
+    "91fe52d4fa77b29328855b10d6ae873f9a2d16a8a28234bf5c2d3b651d5d1bfe": {
+      "canonical_url": "https://event-us.kr/doverunner/event/131565",
+      "event_id": "91fe52d4fa77b29328855b10d6ae873f9a2d16a8a28234bf5c2d3b651d5d1bfe",
+      "message_id": "1540864546049097770",
+      "posted": true,
+      "posted_at": "2026-08-23T08:25:29.241228+09:00",
+      "source_title": "게임인(人)을 위한 네트워킹 파티 '2026년 구구야(99夜)'",
+      "tags": [
+        "오프라인"
+      ],
+      "thread_id": "1540864546049097770"
     },
     "940e91e5fbbf860f1dd3e6254db2c6a6a162df7867b96160c6e81596c160bdef": {
       "canonical_url": "https://forms.gle/Jp5or1t1tohCerdX8",
@@ -3448,6 +3570,19 @@
         "컨퍼런스/세미나"
       ],
       "thread_id": "1539415274808148069"
+    },
+    "a90291ba57f776c024057b87c1f27b2eab00c5f3b81385a7f63937043f5378eb": {
+      "canonical_url": "https://event-us.kr/datapopcorn/event/133004",
+      "event_id": "a90291ba57f776c024057b87c1f27b2eab00c5f3b81385a7f63937043f5378eb",
+      "message_id": "1540864595953197067",
+      "posted": true,
+      "posted_at": "2026-08-23T08:25:29.241228+09:00",
+      "source_title": "n8n Seoul Meetup 3rd - After-Work Networking",
+      "tags": [
+        "오프라인",
+        "AI"
+      ],
+      "thread_id": "1540864595953197067"
     },
     "a9203d6353e3edca1e089958c758572734c465f91313faf433cb38126c69ec11": {
       "canonical_url": "https://ticketa.co/event/nv2atyow",
@@ -3866,6 +4001,20 @@
       ],
       "thread_id": "1481072625957470511"
     },
+    "bc46e0ce5dc346487d03c3604aa1abfbcc6872427b5cc3615e3f372fa27a0d4c": {
+      "canonical_url": "https://event-us.kr/jongin/event/132364",
+      "event_id": "bc46e0ce5dc346487d03c3604aa1abfbcc6872427b5cc3615e3f372fa27a0d4c",
+      "message_id": "1540864633110401105",
+      "posted": true,
+      "posted_at": "2026-08-23T08:25:29.241228+09:00",
+      "source_title": "e4ds Tech Day 2026",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1540864633110401105"
+    },
     "bcc53c2c8e39a748e5df35c0dbeb83aff996c0011d5203466e3279bbf9ebcd73": {
       "canonical_url": "https://meetup.com/awskrug/events/313714446",
       "event_id": "bcc53c2c8e39a748e5df35c0dbeb83aff996c0011d5203466e3279bbf9ebcd73",
@@ -4224,6 +4373,20 @@
         "클라우드"
       ],
       "thread_id": "1534352542098784277"
+    },
+    "ce5ed4204a8f2db2bad744e609c164294195d5eed5364f6e35bcaa6875a7923a": {
+      "canonical_url": "https://ticketa.co/event/d4fha6wt",
+      "event_id": "ce5ed4204a8f2db2bad744e609c164294195d5eed5364f6e35bcaa6875a7923a",
+      "message_id": "1540864691600097494",
+      "posted": true,
+      "posted_at": "2026-08-23T08:25:29.241228+09:00",
+      "source_title": "GitHub Copilot Dev Days | Busan",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1540864691600097494"
     },
     "cf742b1be900b9ffab31dfbb75d0ba57bc966438bb35a6ed50f2c54714c17757": {
       "canonical_url": "https://ticketa.co/event/7fm5o8fo",
