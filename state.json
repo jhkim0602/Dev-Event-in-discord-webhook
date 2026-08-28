@@ -1342,6 +1342,20 @@
       ],
       "thread_id": "1534352578534703225"
     },
+    "379d1de8c8f59af93854b7edc4560b80d6e3752987aab767ec38e2c88bd44d32": {
+      "canonical_url": "https://github.registration.goldcast.io/events/a41c10fa-4c10-4ff5-8954-cd7a1daff6fe",
+      "event_id": "379d1de8c8f59af93854b7edc4560b80d6e3752987aab767ec38e2c88bd44d32",
+      "message_id": "1542788273552756787",
+      "posted": true,
+      "posted_at": "2026-08-28T15:49:45.169066+09:00",
+      "source_title": "GitHub Copilot 최신 업데이트",
+      "tags": [
+        "온라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1542788273552756787"
+    },
     "38174c1587ce333d9b579243d67d2024fe7afe16af9c140245f5da589fbe8457": {
       "canonical_url": "https://event-us.kr/sipe/event/128290",
       "event_id": "38174c1587ce333d9b579243d67d2024fe7afe16af9c140245f5da589fbe8457",
@@ -3624,6 +3638,19 @@
       ],
       "thread_id": "1493760362263216299"
     },
+    "a31634c22a51d3c5b946f20baf2fc8886986921c7915e73e2cb7483b38a3691c": {
+      "canonical_url": "https://nexon-tutorial.com/",
+      "event_id": "a31634c22a51d3c5b946f20baf2fc8886986921c7915e73e2cb7483b38a3691c",
+      "message_id": "1542788265826848850",
+      "posted": true,
+      "posted_at": "2026-08-28T15:49:45.169066+09:00",
+      "source_title": "2026 넥토리얼 For Game Programmer",
+      "tags": [
+        "온라인",
+        "교육/부트캠프"
+      ],
+      "thread_id": "1542788265826848850"
+    },
     "a3475cbdbbdfaf60d132870ebedd5778b0bb1338d9b805eeeb31834d7b649b9d": {
       "canonical_url": "https://cometrue.ai/index.php/con_260519",
       "event_id": "a3475cbdbbdfaf60d132870ebedd5778b0bb1338d9b805eeeb31834d7b649b9d",
@@ -4562,6 +4589,20 @@
         "커리어"
       ],
       "thread_id": "1485058331222474923"
+    },
+    "cd8c1a9315bd849efeca986c8fbbdeeb551266eb6f9dda7d24c2b47e30b59cd1": {
+      "canonical_url": "https://event.wanted.co.kr/ai-championship/2026",
+      "event_id": "cd8c1a9315bd849efeca986c8fbbdeeb551266eb6f9dda7d24c2b47e30b59cd1",
+      "message_id": "1542788280888856667",
+      "posted": true,
+      "posted_at": "2026-08-28T15:49:45.169066+09:00",
+      "source_title": "원티드 AI Championship 2026",
+      "tags": [
+        "온라인",
+        "공모전/대회",
+        "AI"
+      ],
+      "thread_id": "1542788280888856667"
     },
     "ce0f111040297eb2f8d3ee0f5ddc51d0bdb1bf2c30aac6a4f3dde95f1290fece": {
       "canonical_url": "https://meetup.com/awskrug/events/315786451",
