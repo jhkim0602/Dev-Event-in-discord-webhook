@@ -1193,6 +1193,20 @@
       ],
       "thread_id": "1540864525027385376"
     },
+    "302854c7e40ed117c9103abb99bca768e1788022f3ecf1ac1589a4cc684e122e": {
+      "canonical_url": "https://event-us.kr/lablup/event/133741",
+      "event_id": "302854c7e40ed117c9103abb99bca768e1788022f3ecf1ac1589a4cc684e122e",
+      "message_id": "1544161022842241047",
+      "posted": true,
+      "posted_at": "2026-09-01T10:44:12.345967+09:00",
+      "source_title": "lab | up > /conf/6",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1544161022842241047"
+    },
     "30307d7231a1fd3995be2a553028bad7add3453705f1309345f872fd990f9981": {
       "canonical_url": "https://new.nypc.co.kr/ko",
       "event_id": "30307d7231a1fd3995be2a553028bad7add3453705f1309345f872fd990f9981",
@@ -1233,6 +1247,19 @@
         "보안"
       ],
       "thread_id": "1492671050000105513"
+    },
+    "324b725216494ec1547f993a6298f1431b70a849a3aa7420db78aeb0a7a495e4": {
+      "canonical_url": "https://tech.channel.io/kr/articles/ai-product-frontiers-fba8c7be",
+      "event_id": "324b725216494ec1547f993a6298f1431b70a849a3aa7420db78aeb0a7a495e4",
+      "message_id": "1544160980173328425",
+      "posted": true,
+      "posted_at": "2026-09-01T10:44:12.345967+09:00",
+      "source_title": "AI Product Frontiers: AI 시대, 최전선에서 방향을 만드는 사람들",
+      "tags": [
+        "온라인",
+        "AI"
+      ],
+      "thread_id": "1544160980173328425"
     },
     "3283f97b9a33332725c95b1b3a815b457484d995d23d5c1690419cd008a00112": {
       "canonical_url": "https://meetup.com/awskrug/events/314034548",
@@ -1355,6 +1382,19 @@
         "AI"
       ],
       "thread_id": "1542788273552756787"
+    },
+    "37a6f398da500305b48a602e65f6b2c77819c46702288f3db2ef021bd4149df0": {
+      "canonical_url": "https://event-us.kr/pytorchkr/event/133718",
+      "event_id": "37a6f398da500305b48a602e65f6b2c77819c46702288f3db2ef021bd4149df0",
+      "message_id": "1544161061480046673",
+      "posted": true,
+      "posted_at": "2026-09-01T10:44:12.345967+09:00",
+      "source_title": "KVCache Meetup Korea",
+      "tags": [
+        "오프라인",
+        "AI"
+      ],
+      "thread_id": "1544161061480046673"
     },
     "38174c1587ce333d9b579243d67d2024fe7afe16af9c140245f5da589fbe8457": {
       "canonical_url": "https://event-us.kr/sipe/event/128290",
@@ -2349,6 +2389,18 @@
       ],
       "thread_id": "1522032623621378080"
     },
+    "6ab45f6c0b8f3a19394820d0a044a48570ac799ba465708ee5e7dad4c249b372": {
+      "canonical_url": "https://dev-korea.com/events/dev-korea-14-september-2026",
+      "event_id": "6ab45f6c0b8f3a19394820d0a044a48570ac799ba465708ee5e7dad4c249b372",
+      "message_id": "1544161048158801941",
+      "posted": true,
+      "posted_at": "2026-09-01T10:44:12.345967+09:00",
+      "source_title": "Shipaton 2026: Seoul (Dev Korea #14)",
+      "tags": [
+        "오프라인"
+      ],
+      "thread_id": "1544161048158801941"
+    },
     "6af8b3d530d8f13e38e53e25dd62667eef05f4c5a2727ac9b893b94fb2e88005": {
       "canonical_url": "https://allforyoung.com/posts/83834",
       "event_id": "6af8b3d530d8f13e38e53e25dd62667eef05f4c5a2727ac9b893b94fb2e88005",
@@ -2460,6 +2512,19 @@
       ],
       "thread_id": "1542389855642845265"
     },
+    "6e44e30ff6461f398a8434974b11c0d446ac8e731b70a187dafdd538310cfcd6": {
+      "canonical_url": "https://event-us.kr/mdsteches/event/132896",
+      "event_id": "6e44e30ff6461f398a8434974b11c0d446ac8e731b70a187dafdd538310cfcd6",
+      "message_id": "1544160958526787667",
+      "posted": true,
+      "posted_at": "2026-09-01T10:44:12.345967+09:00",
+      "source_title": "Taste of Splunk for Game Company",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나"
+      ],
+      "thread_id": "1544160958526787667"
+    },
     "6f8faa3a9928e6c3aad306c8b0deb63f86f2eb56086a94e30d03dd08da44216b": {
       "canonical_url": "https://meetup.com/awskrug/events/312616848",
       "event_id": "6f8faa3a9928e6c3aad306c8b0deb63f86f2eb56086a94e30d03dd08da44216b",
@@ -2525,6 +2590,19 @@
         "AI"
       ],
       "thread_id": "1488322301228351629"
+    },
+    "7166f8fd94c1618dcbf1ab54c9275f42fa3000b09c00d3a6fa192a980407879c": {
+      "canonical_url": "https://luma.com/sa692amj",
+      "event_id": "7166f8fd94c1618dcbf1ab54c9275f42fa3000b09c00d3a6fa192a980407879c",
+      "message_id": "1544160971323342960",
+      "posted": true,
+      "posted_at": "2026-09-01T10:44:12.345967+09:00",
+      "source_title": "AAIF Seoul Chapter Event",
+      "tags": [
+        "오프라인",
+        "AI"
+      ],
+      "thread_id": "1544160971323342960"
     },
     "723fd1f9450ba4b6033c122057b44e771e0f537e215f1c6cf45413fb801f3a75": {
       "canonical_url": "https://rocketpunch.com/event/wLXO4XRrXO",
@@ -2620,6 +2698,19 @@
         "AI"
       ],
       "thread_id": "1501371592876490832"
+    },
+    "743721d74c71087211ad2f68847775ee934d2ea9a445d45624b78ed71c297e73": {
+      "canonical_url": "https://meetup.com/awskrug/events/316307770",
+      "event_id": "743721d74c71087211ad2f68847775ee934d2ea9a445d45624b78ed71c297e73",
+      "message_id": "1544160924913635410",
+      "posted": true,
+      "posted_at": "2026-09-01T10:44:12.345967+09:00",
+      "source_title": "AWSKRUG 네트워크 #network 소모임 - (9월 8일)",
+      "tags": [
+        "오프라인",
+        "클라우드"
+      ],
+      "thread_id": "1544160924913635410"
     },
     "7470d6688e01066e966fae3473bc2555de96e4d39dd7dc40e0b58e7e3661c288": {
       "canonical_url": "https://event-us.kr/schift/event/132139",
@@ -2769,6 +2860,20 @@
         "클라우드"
       ],
       "thread_id": "1519858496294748201"
+    },
+    "788b76207869d64d1b8668416aaebcb9e095bc7ab137c3ded700368233bc4230": {
+      "canonical_url": "https://meetup.com/awskrug/events/316306742",
+      "event_id": "788b76207869d64d1b8668416aaebcb9e095bc7ab137c3ded700368233bc4230",
+      "message_id": "1544161010334703627",
+      "posted": true,
+      "posted_at": "2026-09-01T10:44:12.345967+09:00",
+      "source_title": "AWSKRUG 데이터 모임 X Apache Airflow 한국 사용자 모임",
+      "tags": [
+        "오프라인",
+        "AI",
+        "클라우드"
+      ],
+      "thread_id": "1544161010334703627"
     },
     "788f2883af0c7215ce3a8f05649203e95c7ba1c33e341b79bcb981bde1f090b5": {
       "canonical_url": "https://jungle.krafton.com/schedule/all",
@@ -3814,6 +3919,19 @@
         "AI"
       ],
       "thread_id": "1487596706383270111"
+    },
+    "a93d61b713a993f8407ee9df66c50c72fec533e915f1b2973c802c0a749a589b": {
+      "canonical_url": "https://ticketa.co/event/5g8dos43",
+      "event_id": "a93d61b713a993f8407ee9df66c50c72fec533e915f1b2973c802c0a749a589b",
+      "message_id": "1544160931511017473",
+      "posted": true,
+      "posted_at": "2026-09-01T10:44:12.345967+09:00",
+      "source_title": "안드로이드 소소밋업: 국내/외 개발자들은 AI를 어떻게 활용하고 있을까?",
+      "tags": [
+        "오프라인",
+        "AI"
+      ],
+      "thread_id": "1544160931511017473"
     },
     "a9af4dd7703feccbd5cf4e3d84e8f7a625236da06b9ad6a2f05b2361af796484": {
       "canonical_url": "https://meetup.com/awskrug/events/315828955",
@@ -5237,6 +5355,20 @@
       ],
       "thread_id": "1522032611093123304"
     },
+    "e6ec1412985b349a96051ec859a7cd13ec241c02aa00e9c620a64296a45bce9e": {
+      "canonical_url": "https://event-us.kr/classmethod/event/133986",
+      "event_id": "e6ec1412985b349a96051ec859a7cd13ec241c02aa00e9c620a64296a45bce9e",
+      "message_id": "1544160999634903093",
+      "posted": true,
+      "posted_at": "2026-09-01T10:44:12.345967+09:00",
+      "source_title": "[웨비나]다양한 AWS・IT기술 정보를 발신하는 \"IAM클라쓰DAY#04\"",
+      "tags": [
+        "온라인",
+        "컨퍼런스/세미나",
+        "클라우드"
+      ],
+      "thread_id": "1544160999634903093"
+    },
     "e794ebcd2593256786b100fc21257c6c8b425901e5f4dc85ca672b0eb38ad0ca": {
       "canonical_url": "https://tech-meetup.jnpmedi.com/2026",
       "event_id": "e794ebcd2593256786b100fc21257c6c8b425901e5f4dc85ca672b0eb38ad0ca",
@@ -5509,6 +5641,20 @@
         "AI"
       ],
       "thread_id": "1510073632636932328"
+    },
+    "f390170bb4f95883c72d643a05c2871eeb24dd2bb0ebd9034fe344a57c8f023a": {
+      "canonical_url": "https://megazonesoft.com/gcp-fundamentals_20260908",
+      "event_id": "f390170bb4f95883c72d643a05c2871eeb24dd2bb0ebd9034fe344a57c8f023a",
+      "message_id": "1544160943179563059",
+      "posted": true,
+      "posted_at": "2026-09-01T10:44:12.345967+09:00",
+      "source_title": "[무료 웨비나] Google Cloud 기반 LLM 애플리케이션 개발",
+      "tags": [
+        "온라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1544160943179563059"
     },
     "f395eb0493d9da977aa3db1d32eea21116557ea2537671d6b8c57608d19b8afd": {
       "canonical_url": "https://event-us.kr/skintellixhackathon/event/125194",
