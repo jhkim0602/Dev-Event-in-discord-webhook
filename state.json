@@ -974,6 +974,20 @@
       ],
       "thread_id": "1487596695746252830"
     },
+    "2494296983bc5bdeef2c3d84c4e772ec2e22033777fdb6650fd25059ad4277f1": {
+      "canonical_url": "https://event-us.kr/cloudconference/event/133064",
+      "event_id": "2494296983bc5bdeef2c3d84c4e772ec2e22033777fdb6650fd25059ad4277f1",
+      "message_id": "1545235113590128681",
+      "posted": true,
+      "posted_at": "2026-09-04T09:52:35.882814+09:00",
+      "source_title": "2026 클라우드 컨퍼런스 ｜2026 CLOUD CONFERENCE",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "클라우드"
+      ],
+      "thread_id": "1545235113590128681"
+    },
     "24bd364f421e8a9f676cc9e0f2959c6723f098010ef08241189530468c763420": {
       "canonical_url": "https://ticketa.co/event/rshxbzui",
       "event_id": "24bd364f421e8a9f676cc9e0f2959c6723f098010ef08241189530468c763420",
@@ -1274,6 +1288,19 @@
         "클라우드"
       ],
       "thread_id": "1490496411551137944"
+    },
+    "32a03e987b0a73bc088441b611886cf8b963ac038712a3337ad05974e0e3d2b6": {
+      "canonical_url": "https://event-us.kr/gdgocgachon/event/133845",
+      "event_id": "32a03e987b0a73bc088441b611886cf8b963ac038712a3337ad05974e0e3d2b6",
+      "message_id": "1545235224286199879",
+      "posted": true,
+      "posted_at": "2026-09-04T09:52:35.882814+09:00",
+      "source_title": "GDGoC Gachon Tech MeetUp: AI에이전트 활용 노하우",
+      "tags": [
+        "오프라인",
+        "AI"
+      ],
+      "thread_id": "1545235224286199879"
     },
     "3365056ee07ed0602fe46193f4690694e18cf36edee6ad37feba320ead6d59dd": {
       "canonical_url": "https://community2.cncf.io/events/details/cncf-kcd-south-korea-presents-kcd-x-ceph-x-openinfra-day-korea-2026",
@@ -2064,6 +2091,20 @@
         "AI"
       ],
       "thread_id": "1540864653419216999"
+    },
+    "5bf2ba60ca8864b847994767cb6a425161621d10df9f6a645d42ba3d785636bc": {
+      "canonical_url": "https://ticketa.co/event/ql1tygi5",
+      "event_id": "5bf2ba60ca8864b847994767cb6a425161621d10df9f6a645d42ba3d785636bc",
+      "message_id": "1545235243647373413",
+      "posted": true,
+      "posted_at": "2026-09-04T09:52:35.882814+09:00",
+      "source_title": "GitHub Copilot Dev Days | Jeju",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1545235243647373413"
     },
     "5c838d9ffea7b2a2003203f25a1b898ca94142b7447340f0609a4cb2ab3942a2": {
       "canonical_url": "https://rocketpunch.com/event/ARNj09DPdv",
@@ -2996,6 +3037,20 @@
       ],
       "thread_id": "1497745448721711186"
     },
+    "7e3c45a60cbb50949842a42c3840b8baa21d04c11064e46a5e287df5fceedd15": {
+      "canonical_url": "https://luma.com/jpmm44n1",
+      "event_id": "7e3c45a60cbb50949842a42c3840b8baa21d04c11064e46a5e287df5fceedd15",
+      "message_id": "1545235212156538932",
+      "posted": true,
+      "posted_at": "2026-09-04T09:52:35.882814+09:00",
+      "source_title": "우주에서의 AI 활용 - Beyond Earth Observation | \"AI for Science/Engineering\" Series",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1545235212156538932"
+    },
     "7ebf6adbe38c9cef1b052fbdb8d07dc69137f56067b97bbc7faa035de64ccfa6": {
       "canonical_url": "https://eventreg.oracle.com/profile/web/index.cfm?PKwebID=0x957012abcd",
       "event_id": "7ebf6adbe38c9cef1b052fbdb8d07dc69137f56067b97bbc7faa035de64ccfa6",
@@ -3079,6 +3134,20 @@
         "컨퍼런스/세미나"
       ],
       "thread_id": "1487596582995234936"
+    },
+    "82a61dda5069a58555e89344e58bf15e8f2fa28a770da93ab2e5cf2ab7aad4ea": {
+      "canonical_url": "https://ticketa.co/event/izi3e7pl",
+      "event_id": "82a61dda5069a58555e89344e58bf15e8f2fa28a770da93ab2e5cf2ab7aad4ea",
+      "message_id": "1545235239054606348",
+      "posted": true,
+      "posted_at": "2026-09-04T09:52:35.882814+09:00",
+      "source_title": "GitHub Copilot Dev Days | Pohang",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1545235239054606348"
     },
     "82e6cc7e67209df9af9e80e99f8ac1fd12f5e2439427d20f941955161992f765": {
       "canonical_url": "https://ticketa.co/event/rfl8sqa9",
@@ -4604,6 +4673,19 @@
       ],
       "thread_id": "1481072668730982574"
     },
+    "c89d5313dadf19a4138498d799e6966007e0f194a3539c20d47dd4e6172f4a65": {
+      "canonical_url": "https://luma.com/0a4zc5a6",
+      "event_id": "c89d5313dadf19a4138498d799e6966007e0f194a3539c20d47dd4e6172f4a65",
+      "message_id": "1545235233413144607",
+      "posted": true,
+      "posted_at": "2026-09-04T09:52:35.882814+09:00",
+      "source_title": "Ethereum Korea One Genesis - Build Beyond the Narrative",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나"
+      ],
+      "thread_id": "1545235233413144607"
+    },
     "c955d3f5068d2710fc127b0983b59ba8835df06b3a65682fd2f675d890f8d643": {
       "canonical_url": "https://kipfa.or.kr/Seminar/SeminarReView.aspx?eduSeqNo=1512",
       "event_id": "c955d3f5068d2710fc127b0983b59ba8835df06b3a65682fd2f675d890f8d643",
@@ -4926,6 +5008,33 @@
       ],
       "thread_id": "1499922413952041141"
     },
+    "d47d6375ef0af9a239911b03d15c874cb9e2df7c425a0ca9ca7a29a23501bb8d": {
+      "canonical_url": "https://ticketa.co/event/6hsfup2t",
+      "event_id": "d47d6375ef0af9a239911b03d15c874cb9e2df7c425a0ca9ca7a29a23501bb8d",
+      "message_id": "1545235100751499284",
+      "posted": true,
+      "posted_at": "2026-09-04T09:52:35.882814+09:00",
+      "source_title": "Vibe Dive Online Webinar",
+      "tags": [
+        "온라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1545235100751499284"
+    },
+    "d4985c7cf1999a8b8cb1b5d5f30226d3558c5ce11db7add5de6f337d3adb11c1": {
+      "canonical_url": "https://techtalktalk.tossinvest.com/2026-09-10",
+      "event_id": "d4985c7cf1999a8b8cb1b5d5f30226d3558c5ce11db7add5de6f337d3adb11c1",
+      "message_id": "1545235201293025341",
+      "posted": true,
+      "posted_at": "2026-09-04T09:52:35.882814+09:00",
+      "source_title": "Tech Talk Talk - Server Developer",
+      "tags": [
+        "온라인",
+        "컨퍼런스/세미나"
+      ],
+      "thread_id": "1545235201293025341"
+    },
     "d53b1a8318312e31a9bc3f24c02726f8d2ad60a2fdd3cbb3d5c730489f3dc309": {
       "canonical_url": "https://devmento.co.kr/seminas/agentic2026.html",
       "event_id": "d53b1a8318312e31a9bc3f24c02726f8d2ad60a2fdd3cbb3d5c730489f3dc309",
@@ -4939,6 +5048,20 @@
         "AI"
       ],
       "thread_id": "1486510291880513657"
+    },
+    "d5641cdfa9f0e84afcc5404ac8a57a9e94b82625da4b3b5f0c1252311f52a04d": {
+      "canonical_url": "https://event-us.kr/talkit/event/134235",
+      "event_id": "d5641cdfa9f0e84afcc5404ac8a57a9e94b82625da4b3b5f0c1252311f52a04d",
+      "message_id": "1545235141176074271",
+      "posted": true,
+      "posted_at": "2026-09-04T09:52:35.882814+09:00",
+      "source_title": "AI 에이전트 시대, 애플리케이션·인프라·보안을 다시 설계하라",
+      "tags": [
+        "온라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1545235141176074271"
     },
     "d6288d964c63739b8a844d8c3233cfe4a67d1c48356b01d53ddc8b7553076122": {
       "canonical_url": "https://event-us.kr/2026bcmd/event/124375",
@@ -5273,6 +5396,20 @@
         "컨퍼런스/세미나"
       ],
       "thread_id": "1480224200789594192"
+    },
+    "e3a4036dabf434c258e4c78fff7007b4ed568a5e498bfa41fd9d6f3a9bdd7c70": {
+      "canonical_url": "https://event-us.kr/mdsit/event/131386",
+      "event_id": "e3a4036dabf434c258e4c78fff7007b4ed568a5e498bfa41fd9d6f3a9bdd7c70",
+      "message_id": "1545235169588281397",
+      "posted": true,
+      "posted_at": "2026-09-04T09:52:35.882814+09:00",
+      "source_title": "(대전)AI와 Digital Engineering으로 완성하는 Mission-Critical Software 개발 전략 세미나",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1545235169588281397"
     },
     "e406040862932097d082bc22e8a2fdbcf38b058e90e9436ad9dddde1bc3fac08": {
       "canonical_url": "https://honam-is-hackathon.com/",
@@ -5913,6 +6050,19 @@
         "클라우드"
       ],
       "thread_id": "1510073604694610100"
+    },
+    "fe325e56964e1c909fe8e36dfb6eebd7576704f6541613289e576b638e578a16": {
+      "canonical_url": "https://meetup.com/awskrug/events/316366209",
+      "event_id": "fe325e56964e1c909fe8e36dfb6eebd7576704f6541613289e576b638e578a16",
+      "message_id": "1545235207026642986",
+      "posted": true,
+      "posted_at": "2026-09-04T09:52:35.882814+09:00",
+      "source_title": "AWSKRUG 데브옵스 #DevOps 소모임 26번째 밋업 - 9월 15일 (화)",
+      "tags": [
+        "오프라인",
+        "클라우드"
+      ],
+      "thread_id": "1545235207026642986"
     },
     "fe6c8d2f66d327d85ea2cd12ff5ef6f457dfebf18ca409c814497878fa5879f4": {
       "canonical_url": "https://ticketa.co/event/d9l39gwt",
