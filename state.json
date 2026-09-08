@@ -14,6 +14,20 @@
       "tags": [],
       "thread_id": null
     },
+    "02b4c106ceb5f04e5350a82f9b54015e2962183822e877f4534579298f6e7e87": {
+      "canonical_url": "https://partner.skala.co.kr/front/main.html",
+      "event_id": "02b4c106ceb5f04e5350a82f9b54015e2962183822e877f4534579298f6e7e87",
+      "message_id": "1546687461214650429",
+      "posted": true,
+      "posted_at": "2026-09-08T10:03:02.502080+09:00",
+      "source_title": "SK AX 상생아카데미",
+      "tags": [
+        "오프라인",
+        "교육/부트캠프",
+        "AI"
+      ],
+      "thread_id": "1546687461214650429"
+    },
     "02b81d58056149e911e875e1c89bba894b00dcb702d0f956085bc8c365981848": {
       "canonical_url": "https://meetup.com/awskrug/events/316079433",
       "event_id": "02b81d58056149e911e875e1c89bba894b00dcb702d0f956085bc8c365981848",
@@ -1356,6 +1370,20 @@
       ],
       "thread_id": "1521307006038835241"
     },
+    "34b66f41420ac7ee36fe98c5c1ad176bce5da06b5ba371bb0e5f7f7c5a0e40bc": {
+      "canonical_url": "https://event-us.kr/eventdatasafetyzone/event/134171",
+      "event_id": "34b66f41420ac7ee36fe98c5c1ad176bce5da06b5ba371bb0e5f7f7c5a0e40bc",
+      "message_id": "1546687438980915262",
+      "posted": true,
+      "posted_at": "2026-09-08T10:03:02.502080+09:00",
+      "source_title": "데이터안심구역 경진대회",
+      "tags": [
+        "온라인",
+        "공모전/대회",
+        "AI"
+      ],
+      "thread_id": "1546687438980915262"
+    },
     "34bcd47c8844aa3eae470841937262e43a7302c6804e23f2922df7c6e53e0438": {
       "canonical_url": "https://ticketa.co/event/sgiqj99g",
       "event_id": "34bcd47c8844aa3eae470841937262e43a7302c6804e23f2922df7c6e53e0438",
@@ -1395,6 +1423,20 @@
         "AI"
       ],
       "thread_id": "1534352578534703225"
+    },
+    "3676deea33c810c79536b8f272d35823eba39cf4304cacaab1ff2451e9002fb4": {
+      "canonical_url": "https://event-us.kr/itsman/event/133700",
+      "event_id": "3676deea33c810c79536b8f272d35823eba39cf4304cacaab1ff2451e9002fb4",
+      "message_id": "1546687332940517448",
+      "posted": true,
+      "posted_at": "2026-09-08T10:03:02.502080+09:00",
+      "source_title": "포스트 미토스 시대, AI 공격에 맞서는 보안의 골든타임 전략",
+      "tags": [
+        "온라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1546687332940517448"
     },
     "379d1de8c8f59af93854b7edc4560b80d6e3752987aab767ec38e2c88bd44d32": {
       "canonical_url": "https://github.registration.goldcast.io/events/a41c10fa-4c10-4ff5-8954-cd7a1daff6fe",
@@ -1777,6 +1819,20 @@
         "AI"
       ],
       "thread_id": "1539415363320553503"
+    },
+    "4f9a7cb608f9e8cd6ac47630cb136cd35e0aae0b4143a05e83243079ed20de0d": {
+      "canonical_url": "https://event-us.kr/seminar0918/event/133302",
+      "event_id": "4f9a7cb608f9e8cd6ac47630cb136cd35e0aae0b4143a05e83243079ed20de0d",
+      "message_id": "1546687347809067091",
+      "posted": true,
+      "posted_at": "2026-09-08T10:03:02.502080+09:00",
+      "source_title": "AI, Now on AZ3 - 메가존소프트 X 알리바바 클라우드 AI 세미나",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1546687347809067091"
     },
     "4fba4c239e7f3d878a8229f6f4c6d82de31afd0c6c65dd81101e3742bb9f29bb": {
       "canonical_url": "https://wevity.com/index.php?c=find&s=1&gbn=viewok&gp=1&ix=107135",
@@ -2186,6 +2242,19 @@
         "AI"
       ],
       "thread_id": "1531813947987067043"
+    },
+    "5f30ee108ff3a47a2be2c701ad46bcb7d40745995b7a1496cfddf641f84178b0": {
+      "canonical_url": "https://luma.com/s2uzy2ge",
+      "event_id": "5f30ee108ff3a47a2be2c701ad46bcb7d40745995b7a1496cfddf641f84178b0",
+      "message_id": "1546687296508526593",
+      "posted": true,
+      "posted_at": "2026-09-08T10:03:02.502080+09:00",
+      "source_title": "Astra Commons: Korea",
+      "tags": [
+        "오프라인",
+        "AI"
+      ],
+      "thread_id": "1546687296508526593"
     },
     "5f52c77a32f2b68de860dc3e9e46fa4fee7fe3b4c7c6ff353e323227b6be0e44": {
       "canonical_url": "https://ticketa.co/event/qpye8cf5",
@@ -2997,6 +3066,20 @@
       ],
       "thread_id": "1526377111068082299"
     },
+    "7d04f64725e647b44443ac6a5031741f65f14908a152b8bb0b3c105188ced758": {
+      "canonical_url": "https://event-us.kr/pathfinder/event/134629",
+      "event_id": "7d04f64725e647b44443ac6a5031741f65f14908a152b8bb0b3c105188ced758",
+      "message_id": "1546687313340534835",
+      "posted": true,
+      "posted_at": "2026-09-08T10:03:02.502080+09:00",
+      "source_title": "원펀치 랄프톤 in Busan 시즌 2",
+      "tags": [
+        "오프라인",
+        "공모전/대회",
+        "AI"
+      ],
+      "thread_id": "1546687313340534835"
+    },
     "7d9796de72bac4fc9600ba8c6473e7651d1b313713711de2479ee8358c45e80e": {
       "canonical_url": "https://event-us.kr/loopers/event/131848",
       "event_id": "7d9796de72bac4fc9600ba8c6473e7651d1b313713711de2479ee8358c45e80e",
@@ -3433,6 +3516,20 @@
       ],
       "thread_id": "1529640266963877948"
     },
+    "8ccd9cf50cc3dc661ec4260468087477e794281e14c112ca718c0089b75eeb28": {
+      "canonical_url": "https://event-us.kr/seoulairobotshow/event/134390",
+      "event_id": "8ccd9cf50cc3dc661ec4260468087477e794281e14c112ca718c0089b75eeb28",
+      "message_id": "1546687367199457311",
+      "posted": true,
+      "posted_at": "2026-09-08T10:03:02.502080+09:00",
+      "source_title": "2026 서울 AI 로봇쇼 피지컬 AI 포럼",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1546687367199457311"
+    },
     "8e23603b2c5fa8a5c0536d27832f818ca7492aefd4d096df548bb7184849719d": {
       "canonical_url": "https://event-us.kr/2026bcmd/event/129786",
       "event_id": "8e23603b2c5fa8a5c0536d27832f818ca7492aefd4d096df548bb7184849719d",
@@ -3445,6 +3542,20 @@
         "컨퍼런스/세미나"
       ],
       "thread_id": "1542390032684294207"
+    },
+    "8e38a00445a1856202e862ab66055d89e02b4eb5dadaba52d05e40e6c60f1934": {
+      "canonical_url": "https://ticketa.co/event/796zfanx",
+      "event_id": "8e38a00445a1856202e862ab66055d89e02b4eb5dadaba52d05e40e6c60f1934",
+      "message_id": "1546687290343030876",
+      "posted": true,
+      "posted_at": "2026-09-08T10:03:02.502080+09:00",
+      "source_title": "Modern Work Conference Seoul 2026",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1546687290343030876"
     },
     "8ef1f6b863ab8d2af0a5120a350ef2b3dcd5fc483613d1a463bf35a89ab3e4fb": {
       "canonical_url": "https://pvs-studio.com/en/webinar/32",
@@ -3799,6 +3910,19 @@
       ],
       "thread_id": "1542389818930102293"
     },
+    "a24d3fe957a1befa049205368077998701414f22fe87d359cfaab7d4fda4fb9a": {
+      "canonical_url": "https://luma.com/2pnv2fwk",
+      "event_id": "a24d3fe957a1befa049205368077998701414f22fe87d359cfaab7d4fda4fb9a",
+      "message_id": "1546687386103185439",
+      "posted": true,
+      "posted_at": "2026-09-08T10:03:02.502080+09:00",
+      "source_title": "Midnight Korea Hackathon 2026",
+      "tags": [
+        "온라인",
+        "해커톤"
+      ],
+      "thread_id": "1546687386103185439"
+    },
     "a2575706c0be794ceb58f932d086dc373d268efaf82f9a0983bc7a5faac7a017": {
       "canonical_url": "https://tech.goorm.io/2604_commit",
       "event_id": "a2575706c0be794ceb58f932d086dc373d268efaf82f9a0983bc7a5faac7a017",
@@ -4029,6 +4153,20 @@
       ],
       "thread_id": "1490496404202983454"
     },
+    "ab0a6862a209b853fee7e4f01fb4105a35855854a889cd1562d7e723ac9f6144": {
+      "canonical_url": "https://meetup.com/awskrug/events/316405144",
+      "event_id": "ab0a6862a209b853fee7e4f01fb4105a35855854a889cd1562d7e723ac9f6144",
+      "message_id": "1546687380482953276",
+      "posted": true,
+      "posted_at": "2026-09-08T10:03:02.502080+09:00",
+      "source_title": "AWSKRUG #AIEngineering 소모임 - AWS 인프라와 AI 워크로드의 통합 모니터링 [9월 29일]",
+      "tags": [
+        "오프라인",
+        "AI",
+        "클라우드"
+      ],
+      "thread_id": "1546687380482953276"
+    },
     "ab4101c330e600158312af8aeb2ec13289afd433b8a44e812b5472dc13ffbf34": {
       "canonical_url": "https://event-us.kr/FKH3nHkjmPGh/event/122301",
       "event_id": "ab4101c330e600158312af8aeb2ec13289afd433b8a44e812b5472dc13ffbf34",
@@ -4069,6 +4207,20 @@
         "AI"
       ],
       "thread_id": "1499922506104967278"
+    },
+    "ac539f032b9b1012755bbf3ec075aac93afd4dd01eb5f5507045c9114817d8e6": {
+      "canonical_url": "https://keystonellc.kr/sap/2026/0909_SAP_Connect_Day_for_Busan/0909_SAP_Connect_Day_for_Busan_eDM.html",
+      "event_id": "ac539f032b9b1012755bbf3ec075aac93afd4dd01eb5f5507045c9114817d8e6",
+      "message_id": "1546687284554764371",
+      "posted": true,
+      "posted_at": "2026-09-08T10:03:02.502080+09:00",
+      "source_title": "SAP Connect Day for Busan : AI 시대, 기업 경쟁력의 새로운 기준",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1546687284554764371"
     },
     "acba6bde6e97d54fcf75f1257e331022407bf290220f337880d24825fce1ace1": {
       "canonical_url": "https://meetup.com/grafana-friends-seoul/events/315663768",
@@ -4145,6 +4297,20 @@
       "source_title": "IntelliJ IDEA Conf 2026",
       "tags": [],
       "thread_id": null
+    },
+    "b07d1702936ae1d07f926dc139497ad64fcc4ea998902620fde272193c11cc58": {
+      "canonical_url": "https://event-us.kr/hso/event/132381",
+      "event_id": "b07d1702936ae1d07f926dc139497ad64fcc4ea998902620fde272193c11cc58",
+      "message_id": "1546687419070418954",
+      "posted": true,
+      "posted_at": "2026-09-08T10:03:02.502080+09:00",
+      "source_title": "Chat With Your Data in a Day: 하루만에 끝내는 Microsoft 통합 분석 환경",
+      "tags": [
+        "온라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1546687419070418954"
     },
     "b11ca77eaa26113b3ab2e1c402486b15e028ccd054b58b09e24f1f06da574e52": {
       "canonical_url": "https://event-us.kr/ConventionSOOP/event/132554",
@@ -4954,6 +5120,19 @@
       ],
       "thread_id": "1540141306796572773"
     },
+    "d26ebe8dfa93c97d02412f2f73c6ada8acd52ed55ecceedf870a1c3eb1117cdc": {
+      "canonical_url": "https://codetree.ai/ko/sheep-sheep-sheep",
+      "event_id": "d26ebe8dfa93c97d02412f2f73c6ada8acd52ed55ecceedf870a1c3eb1117cdc",
+      "message_id": "1546687450737410130",
+      "posted": true,
+      "posted_at": "2026-09-08T10:03:02.502080+09:00",
+      "source_title": "코드트리 양떼 목장 (4주 코테 습관 만들기)",
+      "tags": [
+        "온라인",
+        "공모전/대회"
+      ],
+      "thread_id": "1546687450737410130"
+    },
     "d29282cf217c877a316ab7fb09a315e1214b664b363c5f908ef8ebcc28411157": {
       "canonical_url": "https://rocketpunch.com/event/wzOlIQ62n1",
       "event_id": "d29282cf217c877a316ab7fb09a315e1214b664b363c5f908ef8ebcc28411157",
@@ -5547,6 +5726,20 @@
         "AI"
       ],
       "thread_id": "1540141085643505705"
+    },
+    "e7f57215553d50fc98c09cdf204ac4d7723b68566357ae4bdaf14f021d171675": {
+      "canonical_url": "https://event-us.kr/woongjin/event/134801",
+      "event_id": "e7f57215553d50fc98c09cdf204ac4d7723b68566357ae4bdaf14f021d171675",
+      "message_id": "1546687399739002892",
+      "posted": true,
+      "posted_at": "2026-09-08T10:03:02.502080+09:00",
+      "source_title": "[웅진x에스원] 보안에서 재해복구까지, 멈추지 않는 비즈니스를 위한 클라우드 운영 전략",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "클라우드"
+      ],
+      "thread_id": "1546687399739002892"
     },
     "e8c847566038e5d82d96a055b14bc83e564f05e44188fdea2ba50ed63b342ad1": {
       "canonical_url": "https://ticketa.co/event/taitwvzz",
