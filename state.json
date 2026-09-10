@@ -718,6 +718,20 @@
       ],
       "thread_id": "1518046181534470277"
     },
+    "192c6d2f8b10588bb6bbbb7c296608fac7915e4ec9d874e359335bb47cbdb6ba": {
+      "canonical_url": "https://aifactory.space/ko/page/knps",
+      "event_id": "192c6d2f8b10588bb6bbbb7c296608fac7915e4ec9d874e359335bb47cbdb6ba",
+      "message_id": "1547410405817589921",
+      "posted": true,
+      "posted_at": "2026-09-10T09:56:07.183629+09:00",
+      "source_title": "2026 국립공원 위성 모니터링 AI 챌린지",
+      "tags": [
+        "온라인",
+        "공모전/대회",
+        "AI"
+      ],
+      "thread_id": "1547410405817589921"
+    },
     "19785b2b48982aafa28822390ead312cecc38914046af5f73340638145a3368e": {
       "canonical_url": "https://onoffmix.com/event/339468",
       "event_id": "19785b2b48982aafa28822390ead312cecc38914046af5f73340638145a3368e",
@@ -1016,6 +1030,19 @@
       ],
       "thread_id": "1492671055611953337"
     },
+    "24bf720abeb4d0a3f68067a4ac71e4d1b221ca31abc7990ef0bd1e72128aef25": {
+      "canonical_url": "https://ticketa.co/event/qdbrrlz0",
+      "event_id": "24bf720abeb4d0a3f68067a4ac71e4d1b221ca31abc7990ef0bd1e72128aef25",
+      "message_id": "1547410347898568715",
+      "posted": true,
+      "posted_at": "2026-09-10T09:56:07.183629+09:00",
+      "source_title": "대만 오픈소스 컨퍼런스 COSCUP 후기 공유회",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나"
+      ],
+      "thread_id": "1547410347898568715"
+    },
     "24e56482e635aa81ea2e4ba0279cadad73bfff548fc08df643095426ecdd5d66": {
       "canonical_url": "https://luma.com/1cwwvh0p",
       "event_id": "24e56482e635aa81ea2e4ba0279cadad73bfff548fc08df643095426ecdd5d66",
@@ -1178,6 +1205,20 @@
         "클라우드"
       ],
       "thread_id": "1526377068328390848"
+    },
+    "2c94e663536a1ce9c79b38fffbdf04e8aeaf76dbde23f92fb5de589b9b2fb473": {
+      "canonical_url": "https://event-us.kr/kdataaichallenge/event/134967",
+      "event_id": "2c94e663536a1ce9c79b38fffbdf04e8aeaf76dbde23f92fb5de589b9b2fb473",
+      "message_id": "1547410441440067677",
+      "posted": true,
+      "posted_at": "2026-09-10T09:56:07.183629+09:00",
+      "source_title": "2026 데이터·AI 혁신 챌린지 통합경진대회 데이터 문제해결 부문",
+      "tags": [
+        "온라인",
+        "공모전/대회",
+        "AI"
+      ],
+      "thread_id": "1547410441440067677"
     },
     "2d6e1b690a154387fa79fbdb8cba3d7557d770281f708ffd03a21c6eb160d7b0": {
       "canonical_url": "https://ticketa.co/event/6u6vfsn9",
@@ -1478,6 +1519,20 @@
       ],
       "thread_id": "1519130607614033921"
     },
+    "39d8fbc6036a71b24e71b8452ef154a15a2496528d000c60d8f00d5284327f2f": {
+      "canonical_url": "https://rocketpunch.com/event?eventId=cZlwtO40G0",
+      "event_id": "39d8fbc6036a71b24e71b8452ef154a15a2496528d000c60d8f00d5284327f2f",
+      "message_id": "1547410485996163176",
+      "posted": true,
+      "posted_at": "2026-09-10T09:56:07.183629+09:00",
+      "source_title": "생산성부터 보안, AI 까지 다루는 12주 릴레이 웨비나!",
+      "tags": [
+        "온라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1547410485996163176"
+    },
     "3bf520ec261ced951d82b65699de14a27616973a9dcce4a4ca36ee79800643dc": {
       "canonical_url": "https://event-us.kr/bylinenetwork/event/132802",
       "event_id": "3bf520ec261ced951d82b65699de14a27616973a9dcce4a4ca36ee79800643dc",
@@ -1627,6 +1682,20 @@
         "컨퍼런스/세미나"
       ],
       "thread_id": "1481072696543547554"
+    },
+    "46fc2683998e502c56887b9ad2724a6d51b9c35c26799f91758e7748ad8ac793": {
+      "canonical_url": "https://event-us.kr/edutta/event/133694",
+      "event_id": "46fc2683998e502c56887b9ad2724a6d51b9c35c26799f91758e7748ad8ac793",
+      "message_id": "1547410420816543758",
+      "posted": true,
+      "posted_at": "2026-09-10T09:56:07.183629+09:00",
+      "source_title": "[TTA/무료웨비나] QUANTUM PARADIGM: 양자가 바꿀 ICT 보안과 네트워크의 미래",
+      "tags": [
+        "온라인",
+        "교육/부트캠프",
+        "보안"
+      ],
+      "thread_id": "1547410420816543758"
     },
     "480575dd6b77717eb807352d1de15fbc49f79949c5f2742d58d86627fedea87c": {
       "canonical_url": "https://dacon.io/competitions/official/236749/overview/description",
@@ -2309,6 +2378,20 @@
       ],
       "thread_id": "1532901801240690825"
     },
+    "613d985e792fa3ada83f173396683ef3424f785e526b8a7c0ec7299878f27066": {
+      "canonical_url": "https://event-us.kr/Ut2KSHw11cCG/event/132606",
+      "event_id": "613d985e792fa3ada83f173396683ef3424f785e526b8a7c0ec7299878f27066",
+      "message_id": "1547410331645517835",
+      "posted": true,
+      "posted_at": "2026-09-10T09:56:07.183629+09:00",
+      "source_title": "[KISA] 도메인 관리 실무 및 보안 강화",
+      "tags": [
+        "온라인",
+        "컨퍼런스/세미나",
+        "보안"
+      ],
+      "thread_id": "1547410331645517835"
+    },
     "61f31b4165173ab96614fb687532418219e461e3ce36026d442e2111349aa2c4": {
       "canonical_url": "https://ticketa.co/event/mauqdg4j",
       "event_id": "61f31b4165173ab96614fb687532418219e461e3ce36026d442e2111349aa2c4",
@@ -2634,6 +2717,20 @@
         "컨퍼런스/세미나"
       ],
       "thread_id": "1544160958526787667"
+    },
+    "6e7f3e0ca8821b7231eb1e721b993cf04929d83f0b312ed9f8f573bb30fa3da6": {
+      "canonical_url": "https://event-us.kr/peoplus/event/134972",
+      "event_id": "6e7f3e0ca8821b7231eb1e721b993cf04929d83f0b312ed9f8f573bb30fa3da6",
+      "message_id": "1547410460725346327",
+      "posted": true,
+      "posted_at": "2026-09-10T09:56:07.183629+09:00",
+      "source_title": "AI 시대의 지능형 사이버 보안 전략!",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1547410460725346327"
     },
     "6f8faa3a9928e6c3aad306c8b0deb63f86f2eb56086a94e30d03dd08da44216b": {
       "canonical_url": "https://meetup.com/awskrug/events/312616848",
@@ -3148,6 +3245,20 @@
       ],
       "thread_id": "1483247687103938723"
     },
+    "7fc4a0a9ef226e24d62ba6b2d07c1db6755736b647d382fc2e69d5ca2e4f0aba": {
+      "canonical_url": "https://partner.skala.co.kr/",
+      "event_id": "7fc4a0a9ef226e24d62ba6b2d07c1db6755736b647d382fc2e69d5ca2e4f0aba",
+      "message_id": "1547410503997980695",
+      "posted": true,
+      "posted_at": "2026-09-10T09:56:07.183629+09:00",
+      "source_title": "SK AX 상생아카데미",
+      "tags": [
+        "오프라인",
+        "교육/부트캠프",
+        "AI"
+      ],
+      "thread_id": "1547410503997980695"
+    },
     "7ff81ce62d7b7934c56870f11156e8bb9a295c51a9b00ffba394ac6076e38958": {
       "canonical_url": "https://aim-airisk.com/",
       "event_id": "7ff81ce62d7b7934c56870f11156e8bb9a295c51a9b00ffba394ac6076e38958",
@@ -3475,6 +3586,18 @@
       ],
       "thread_id": "1540140969830125680"
     },
+    "8c1f75183bdacab65ca32786d39fbb412c5dd49260a13f337bfd961fa2510d18": {
+      "canonical_url": "https://gxg.world/",
+      "event_id": "8c1f75183bdacab65ca32786d39fbb412c5dd49260a13f337bfd961fa2510d18",
+      "message_id": "1547410321126195231",
+      "posted": true,
+      "posted_at": "2026-09-10T09:56:07.183629+09:00",
+      "source_title": "GXG 2026",
+      "tags": [
+        "오프라인"
+      ],
+      "thread_id": "1547410321126195231"
+    },
     "8c223a6a61c0b596f29ab45316b0c6cc9c255ac48ffc456972e7c3a97de9f0c4": {
       "canonical_url": "https://luma.com/pb000fua",
       "event_id": "8c223a6a61c0b596f29ab45316b0c6cc9c255ac48ffc456972e7c3a97de9f0c4",
@@ -3634,6 +3757,20 @@
       ],
       "thread_id": "1540864546049097770"
     },
+    "9280da42e7fb1a047a1d1ffe7a70bc165a4c19a6cfaa22da4b5eda42c4fc28da": {
+      "canonical_url": "https://ostday.kr/",
+      "event_id": "9280da42e7fb1a047a1d1ffe7a70bc165a4c19a6cfaa22da4b5eda42c4fc28da",
+      "message_id": "1547410391397699626",
+      "posted": true,
+      "posted_at": "2026-09-10T09:56:07.183629+09:00",
+      "source_title": "오픈소스 테크데이 2026",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1547410391397699626"
+    },
     "940e91e5fbbf860f1dd3e6254db2c6a6a162df7867b96160c6e81596c160bdef": {
       "canonical_url": "https://forms.gle/Jp5or1t1tohCerdX8",
       "event_id": "940e91e5fbbf860f1dd3e6254db2c6a6a162df7867b96160c6e81596c160bdef",
@@ -3738,6 +3875,20 @@
         "AI"
       ],
       "thread_id": "1511545693184196689"
+    },
+    "974a265b369b0a7f6753b7223c149372d74d45ee45e6d188c4548b012a0ca8c1": {
+      "canonical_url": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=yDUE9b-R_0S6bazYnHEv8mh1z_yAjedIuR8-S9A4C1lUMURSSlRBVEFRWDlCQ01LWVlCUU0yTzBDTS4u&route=shorturl",
+      "event_id": "974a265b369b0a7f6753b7223c149372d74d45ee45e6d188c4548b012a0ca8c1",
+      "message_id": "1547410311802519605",
+      "posted": true,
+      "posted_at": "2026-09-10T09:56:07.183629+09:00",
+      "source_title": "2026 GAME TECH NIGHT",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1547410311802519605"
     },
     "97af9f6617f163ed5ffaf8d1ae82c3555c26b54d58668a260e61a40b3ac87aa2": {
       "canonical_url": "https://ticketa.co/event/smu6uxm5",
@@ -4956,6 +5107,19 @@
       ],
       "thread_id": "1485058331222474923"
     },
+    "cd712420f249446f74179ecefc06bcee90d043d7172e6bc1c015e5f92d6de6b6": {
+      "canonical_url": "https://ticketa.co/event/2o8rdpls",
+      "event_id": "cd712420f249446f74179ecefc06bcee90d043d7172e6bc1c015e5f92d6de6b6",
+      "message_id": "1547410477632462939",
+      "posted": true,
+      "posted_at": "2026-09-10T09:56:07.183629+09:00",
+      "source_title": "드로이드나이츠 2026",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나"
+      ],
+      "thread_id": "1547410477632462939"
+    },
     "cd8c1a9315bd849efeca986c8fbbdeeb551266eb6f9dda7d24c2b47e30b59cd1": {
       "canonical_url": "https://event.wanted.co.kr/ai-championship/2026",
       "event_id": "cd8c1a9315bd849efeca986c8fbbdeeb551266eb6f9dda7d24c2b47e30b59cd1",
@@ -5373,6 +5537,20 @@
       ],
       "thread_id": "1506087395299295377"
     },
+    "da3f9713f18bd4c40194e631e6a0593ca70674431456995af5337433406e9532": {
+      "canonical_url": "https://if.kakao.com/2026",
+      "event_id": "da3f9713f18bd4c40194e631e6a0593ca70674431456995af5337433406e9532",
+      "message_id": "1547410363304255499",
+      "posted": true,
+      "posted_at": "2026-09-10T09:56:07.183629+09:00",
+      "source_title": "if(kakao)26",
+      "tags": [
+        "온라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1547410363304255499"
+    },
     "da6d9701216391b152ee35ed03864ee2a467c3909ec6d855236f0492052095de": {
       "canonical_url": "https://boostcamp-wm.notion.site/AI-Agent-Challenge-35ab9dd86abe809db232f9d2f5e3f521",
       "event_id": "da6d9701216391b152ee35ed03864ee2a467c3909ec6d855236f0492052095de",
@@ -5589,6 +5767,20 @@
         "AI"
       ],
       "thread_id": "1545235169588281397"
+    },
+    "e3ce6f41c0a9b1cea18be5e04a9037a977b541be48df1b48bed859a3a335464e": {
+      "canonical_url": "https://event-us.kr/gsneotek/event/134839",
+      "event_id": "e3ce6f41c0a9b1cea18be5e04a9037a977b541be48df1b48bed859a3a335464e",
+      "message_id": "1547410375832506419",
+      "posted": true,
+      "posted_at": "2026-09-10T09:56:07.183629+09:00",
+      "source_title": "AI Agent Build Day: Gemini Enterprise로 완성하는 에이전트 개발 전략",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1547410375832506419"
     },
     "e406040862932097d082bc22e8a2fdbcf38b058e90e9436ad9dddde1bc3fac08": {
       "canonical_url": "https://honam-is-hackathon.com/",
