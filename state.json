@@ -705,6 +705,20 @@
       ],
       "thread_id": "1538327693165207593"
     },
+    "1892dfeb23330a6eefd635440882d1b4f49a481ed93b278f7c576dffd809fbe8": {
+      "canonical_url": "https://event-us.kr/bibimbap/event/135242",
+      "event_id": "1892dfeb23330a6eefd635440882d1b4f49a481ed93b278f7c576dffd809fbe8",
+      "message_id": "1549227739486101555",
+      "posted": true,
+      "posted_at": "2026-09-15T10:17:41.000396+09:00",
+      "source_title": "현 AI는 학습하지 못한다 - 사람을 닮은 지능 SNN 배우기",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1549227739486101555"
+    },
     "189b701fbe6396752a94f20c2be82c752782368e31f550abc9b81d064ed2e798": {
       "canonical_url": "https://aicampus.goorm.io/",
       "event_id": "189b701fbe6396752a94f20c2be82c752782368e31f550abc9b81d064ed2e798",
@@ -1574,6 +1588,20 @@
         "AI"
       ],
       "thread_id": "1540141163661623349"
+    },
+    "3dfb28cefdc90aff55dbb5aa8e3db2b74c94130a9d6178a9de94a62ad35a279c": {
+      "canonical_url": "https://event-us.kr/valleyco/event/135067",
+      "event_id": "3dfb28cefdc90aff55dbb5aa8e3db2b74c94130a9d6178a9de94a62ad35a279c",
+      "message_id": "1549227712667852845",
+      "posted": true,
+      "posted_at": "2026-09-15T10:17:41.000396+09:00",
+      "source_title": "2026년 제1회 서남권 가상융합 콘텐츠 기술 세미나 [AI-XR NOVA 2026]",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1549227712667852845"
     },
     "3ef23a84b79d5d2367d3c95d56ce55e6d7ce0ee8e389537457016c5697c45d6f": {
       "canonical_url": "https://event-us.kr/ConventionSOOP/event/131013",
@@ -3466,6 +3494,18 @@
       ],
       "thread_id": "1506087415855452272"
     },
+    "88dd396a6a1b492fd8da7779e1eab476dd4a61a5c45064cf290005fc96424d72": {
+      "canonical_url": "https://toss.im/builder/to/aad14fa6ffbd420993d9566d3a8a87bf",
+      "event_id": "88dd396a6a1b492fd8da7779e1eab476dd4a61a5c45064cf290005fc96424d72",
+      "message_id": "1549227756041015336",
+      "posted": true,
+      "posted_at": "2026-09-15T10:17:41.000396+09:00",
+      "source_title": "Toss Infra Day",
+      "tags": [
+        "오프라인"
+      ],
+      "thread_id": "1549227756041015336"
+    },
     "892720572c4276ceb27c3d919fa6d991c4e5b4d7e76e5afb95771b91fa536d7f": {
       "canonical_url": "https://meetup.com/awskrug/events/315099275",
       "event_id": "892720572c4276ceb27c3d919fa6d991c4e5b4d7e76e5afb95771b91fa536d7f",
@@ -3957,6 +3997,19 @@
       ],
       "thread_id": "1542390067635687466"
     },
+    "9ce25d1ba3a2ad850a337d7e8fca84c8462ae285f3c51ea6552719232b2541a6": {
+      "canonical_url": "https://ticketa.co/event/c9xsstcs",
+      "event_id": "9ce25d1ba3a2ad850a337d7e8fca84c8462ae285f3c51ea6552719232b2541a6",
+      "message_id": "1549227890787356693",
+      "posted": true,
+      "posted_at": "2026-09-15T10:17:41.000396+09:00",
+      "source_title": "Flutter Korea 2026",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나"
+      ],
+      "thread_id": "1549227890787356693"
+    },
     "9df663c5be6901def8863315eb9ec107f321e2c0d956d43d2cd42ec38a57742a": {
       "canonical_url": "https://meetup.com/awskrug/events/316192838",
       "event_id": "9df663c5be6901def8863315eb9ec107f321e2c0d956d43d2cd42ec38a57742a",
@@ -3984,6 +4037,19 @@
         "AI"
       ],
       "thread_id": "1511161973826392125"
+    },
+    "9f1e53f08cad19a7ab9f9df1bfd66b09d7c301151b52cd312753000d481c657b": {
+      "canonical_url": "https://dev-korea.com/events/dev-korea-15-september-2026",
+      "event_id": "9f1e53f08cad19a7ab9f9df1bfd66b09d7c301151b52cd312753000d481c657b",
+      "message_id": "1549227768850686033",
+      "posted": true,
+      "posted_at": "2026-09-15T10:17:41.000396+09:00",
+      "source_title": "Accessibility, live (Dev Korea #15)",
+      "tags": [
+        "오프라인",
+        "AI"
+      ],
+      "thread_id": "1549227768850686033"
     },
     "9fbb95aa9ec06dc49504d52775ae0df12e4aca5ddf382e185a9aea54e25f4374": {
       "canonical_url": "https://meetup.com/awskrug/events/316053582",
@@ -4195,6 +4261,19 @@
         "컨퍼런스/세미나"
       ],
       "thread_id": "1485058367872569475"
+    },
+    "a711efd09b253ed7bde6d8b74e6f83c82fc798494c34c5186056081e44c02876": {
+      "canonical_url": "https://okky.kr/articles/1563407",
+      "event_id": "a711efd09b253ed7bde6d8b74e6f83c82fc798494c34c5186056081e44c02876",
+      "message_id": "1549227684205166655",
+      "posted": true,
+      "posted_at": "2026-09-15T10:17:41.000396+09:00",
+      "source_title": "[부산글로벌게임센터] Bu:net 컨퍼런스",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나"
+      ],
+      "thread_id": "1549227684205166655"
     },
     "a75477367d72d86a86b324a0ec62b64d979bbcfb416714344ac0426f5e8cbfaf": {
       "canonical_url": "https://event-us.kr/gdgcampuskorea/event/131744",
@@ -4475,6 +4554,20 @@
         "컨퍼런스/세미나"
       ],
       "thread_id": "1542389874496245794"
+    },
+    "b15384bdd62794f532e75df4fb02348f3f5e1d17688aebb944adaad083beb66d": {
+      "canonical_url": "https://event-us.kr/intelseminar/event/131490",
+      "event_id": "b15384bdd62794f532e75df4fb02348f3f5e1d17688aebb944adaad083beb66d",
+      "message_id": "1549227877533360181",
+      "posted": true,
+      "posted_at": "2026-09-15T10:17:41.000396+09:00",
+      "source_title": "Intel AI Summit Seoul 2026",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1549227877533360181"
     },
     "b18374b12adc6ba5d3aa0fa01029df407947e5e6551c33454ce85e55f06e8740": {
       "canonical_url": "https://meetup.com/awskrug/events/315611077",
@@ -4882,6 +4975,19 @@
       ],
       "thread_id": "1483972193091194901"
     },
+    "c44c19943a2d69bc60533ccfe6f79144a8bd99882e0f50bb46606580981dfaca": {
+      "canonical_url": "https://event-us.kr/ConventionSOOP/event/135004",
+      "event_id": "c44c19943a2d69bc60533ccfe6f79144a8bd99882e0f50bb46606580981dfaca",
+      "message_id": "1549227851897905173",
+      "posted": true,
+      "posted_at": "2026-09-15T10:17:41.000396+09:00",
+      "source_title": "2026 넥스트 블록체인 교육 [4회차]",
+      "tags": [
+        "오프라인",
+        "교육/부트캠프"
+      ],
+      "thread_id": "1549227851897905173"
+    },
     "c50cbf08f5ff44c5fa9e0c70abd4d627b8e8959bb7382b2c377dc83d2da7b0b8": {
       "canonical_url": "https://meetup.com/awskrug/events/315082322",
       "event_id": "c50cbf08f5ff44c5fa9e0c70abd4d627b8e8959bb7382b2c377dc83d2da7b0b8",
@@ -5012,6 +5118,19 @@
       "source_title": "2026 인터넷서비스 트렌드 컨퍼런스",
       "tags": [],
       "thread_id": null
+    },
+    "c96dac0df0684260e0574197e5cb0cf4e377dcf5cea79dda57f452c091ee34bf": {
+      "canonical_url": "https://ticketa.co/event/o65cl11x",
+      "event_id": "c96dac0df0684260e0574197e5cb0cf4e377dcf5cea79dda57f452c091ee34bf",
+      "message_id": "1549227896894263368",
+      "posted": true,
+      "posted_at": "2026-09-15T10:17:41.000396+09:00",
+      "source_title": "DDD Seoul 2026",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나"
+      ],
+      "thread_id": "1549227896894263368"
     },
     "c99650f147ac671f6bfa9f7bd8a81ebbf6df9b3f49ce39c155ec16fe1c214525": {
       "canonical_url": "https://weatherhackathon.kr/",
@@ -5823,6 +5942,20 @@
       ],
       "thread_id": "1542389829449551924"
     },
+    "e5f425200c1155daa18843dab4e8b99b3d35ad5954a802b9de78f12ab6fc7e22": {
+      "canonical_url": "https://okky.kr/articles/1563786",
+      "event_id": "e5f425200c1155daa18843dab4e8b99b3d35ad5954a802b9de78f12ab6fc7e22",
+      "message_id": "1549227797220823111",
+      "posted": true,
+      "posted_at": "2026-09-15T10:17:41.000396+09:00",
+      "source_title": "서울시여성가족재단 우먼잇츠 AX 세미나 [AI와 함께하는 경계의 확장]",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1549227797220823111"
+    },
     "e6219c2271da3e3ec956502412ca409264881a1ec25f47b0e65db20a06b11119": {
       "canonical_url": "https://meetup.com/awskrug/events/316175545",
       "event_id": "e6219c2271da3e3ec956502412ca409264881a1ec25f47b0e65db20a06b11119",
@@ -6191,6 +6324,20 @@
       ],
       "thread_id": "1510073615830220810"
     },
+    "f3ca4455f22efdaf15774948497b556b83960ae057ccb4db92890172f1152c1b": {
+      "canonical_url": "https://event-us.kr/elicelab/event/135055",
+      "event_id": "f3ca4455f22efdaf15774948497b556b83960ae057ccb4db92890172f1152c1b",
+      "message_id": "1549227783522222192",
+      "posted": true,
+      "posted_at": "2026-09-15T10:17:41.000396+09:00",
+      "source_title": "[부산·무료] 바이브코딩을 활용한 웹서비스 제작과 품질 검증",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1549227783522222192"
+    },
     "f436e417cc3374d3662c8e9f45b37e0792cd23f5ecbedf01b312ae929739186d": {
       "canonical_url": "https://2026.ubuntu-kr.org/ko",
       "event_id": "f436e417cc3374d3662c8e9f45b37e0792cd23f5ecbedf01b312ae929739186d",
@@ -6394,6 +6541,19 @@
         "AI"
       ],
       "thread_id": "1501371638212591787"
+    },
+    "f9d980630e80f932b758a05b1c54295b2cf7d2417b672aff6d27e7234092c8cc": {
+      "canonical_url": "https://event-us.kr/bespinglobalkorea/event/135104",
+      "event_id": "f9d980630e80f932b758a05b1c54295b2cf7d2417b672aff6d27e7234092c8cc",
+      "message_id": "1549227832008376420",
+      "posted": true,
+      "posted_at": "2026-09-15T10:17:41.000396+09:00",
+      "source_title": "AI BESTudy #4 - AI 배포 승인, '정확도 90%'라는 숫자로 충분하니까?",
+      "tags": [
+        "오프라인",
+        "AI"
+      ],
+      "thread_id": "1549227832008376420"
     },
     "faef89647a7b72b15fa587c33da294f70099d9307273bdbcbc2604b161f3e746": {
       "canonical_url": "https://meetup.com/awskrug/events/316051935",
