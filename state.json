@@ -14,6 +14,20 @@
       "tags": [],
       "thread_id": null
     },
+    "0297bbaa32b818ab822108c146da456bf340fe470b5b5709e3fd8c9d97e58aca": {
+      "canonical_url": "https://ainnov.co.kr/event/view/2617",
+      "event_id": "0297bbaa32b818ab822108c146da456bf340fe470b5b5709e3fd8c9d97e58aca",
+      "message_id": "1552851689227165767",
+      "posted": true,
+      "posted_at": "2026-09-25T10:18:08.688176+09:00",
+      "source_title": "PAC 2026 (Physical AI Challenge)",
+      "tags": [
+        "오프라인",
+        "공모전/대회",
+        "AI"
+      ],
+      "thread_id": "1552851689227165767"
+    },
     "02b4c106ceb5f04e5350a82f9b54015e2962183822e877f4534579298f6e7e87": {
       "canonical_url": "https://partner.skala.co.kr/front/main.html",
       "event_id": "02b4c106ceb5f04e5350a82f9b54015e2962183822e877f4534579298f6e7e87",
@@ -185,6 +199,20 @@
         "AI"
       ],
       "thread_id": "1505358857478602782"
+    },
+    "06d3a3a23732287544b31b38f97e7aecaa4025bb7b8117b70294be8e6f58ea8a": {
+      "canonical_url": "https://aida.kisti.re.kr/competition/main/competition/COMP_000000000000050/detail.do",
+      "event_id": "06d3a3a23732287544b31b38f97e7aecaa4025bb7b8117b70294be8e6f58ea8a",
+      "message_id": "1552851976495308852",
+      "posted": true,
+      "posted_at": "2026-09-25T10:18:08.688176+09:00",
+      "source_title": "2026 DATA·AI 분석 경진대회",
+      "tags": [
+        "온라인",
+        "공모전/대회",
+        "AI"
+      ],
+      "thread_id": "1552851976495308852"
     },
     "06e102fd0c1874d161ea8339ba89e5825c1b51a380d55d1d35cd47862313bc46": {
       "canonical_url": "https://tally.so/r/2EvE5g",
@@ -1329,6 +1357,33 @@
       ],
       "thread_id": "1492671043318579220"
     },
+    "2dd48e6f57e7dc05c26caeecdde2985d0ed65bd287723c442531013f0a10b48d": {
+      "canonical_url": "https://k-ctf.org/contests/6ab33df611c4d10a23949148",
+      "event_id": "2dd48e6f57e7dc05c26caeecdde2985d0ed65bd287723c442531013f0a10b48d",
+      "message_id": "1552851856961839126",
+      "posted": true,
+      "posted_at": "2026-09-25T10:18:08.688176+09:00",
+      "source_title": "2026 ELECCON",
+      "tags": [
+        "온라인",
+        "공모전/대회"
+      ],
+      "thread_id": "1552851856961839126"
+    },
+    "2e02a93eb1d520c530d5fa0522cee0b0d633f6da5499fd0d037ee95228ca4342": {
+      "canonical_url": "https://devcontest-digitalsolveup.kr/",
+      "event_id": "2e02a93eb1d520c530d5fa0522cee0b0d633f6da5499fd0d037ee95228ca4342",
+      "message_id": "1552851832857165936",
+      "posted": true,
+      "posted_at": "2026-09-25T10:18:08.688176+09:00",
+      "source_title": "2026 AI·디지털 기반 사회문제 해결 챌린지",
+      "tags": [
+        "온라인",
+        "공모전/대회",
+        "AI"
+      ],
+      "thread_id": "1552851832857165936"
+    },
     "2f73ac8e19eb07ff61c5d709508e35809a71a184fd1910de260458a1d018ea42": {
       "canonical_url": "https://ssafy.com/ksp/jsp/swp/apply/swpApplyProcess.jsp?_gl=1%2A1rntetw%2A_gcl_au%2AMjkyMDA5OTQyLjE3NzM2NjUyODE.",
       "event_id": "2f73ac8e19eb07ff61c5d709508e35809a71a184fd1910de260458a1d018ea42",
@@ -1762,6 +1817,19 @@
         "AI"
       ],
       "thread_id": "1503911019611947118"
+    },
+    "42b0d5c707b253811fb32e90d3123297005c3e94fece24ed30bc6221585de908": {
+      "canonical_url": "https://meetup.com/opensearch-project-seoul/events/316379129",
+      "event_id": "42b0d5c707b253811fb32e90d3123297005c3e94fece24ed30bc6221585de908",
+      "message_id": "1552851865409163348",
+      "posted": true,
+      "posted_at": "2026-09-25T10:18:08.688176+09:00",
+      "source_title": "OpenSearch Project - Seoul Meetup",
+      "tags": [
+        "오프라인",
+        "AI"
+      ],
+      "thread_id": "1552851865409163348"
     },
     "4383c66113bc4a7f744faf1232702faf095439b7e009e8697a43a5617d98130e": {
       "canonical_url": "https://event-us.kr/day1com/event/132713",
@@ -2283,6 +2351,19 @@
       ],
       "thread_id": "1480224181986656339"
     },
+    "5809423368c9144abb211d350912dc68c2f2f007aad3293395934d09475e1821": {
+      "canonical_url": "https://mois.go.kr/frt/bbs/type013/commonSelectBoardArticle.do?bbsId=BBSMSTR_000000000006&nttId=129458",
+      "event_id": "5809423368c9144abb211d350912dc68c2f2f007aad3293395934d09475e1821",
+      "message_id": "1552851918806851749",
+      "posted": true,
+      "posted_at": "2026-09-25T10:18:08.688176+09:00",
+      "source_title": "공공 웹사이트 불법광고 탐지 도구 개발 공모전",
+      "tags": [
+        "온라인",
+        "공모전/대회"
+      ],
+      "thread_id": "1552851918806851749"
+    },
     "587e7bb447cbd1888303101b1a6291bcc74050a58c65122fedc08db9f46d27d4": {
       "canonical_url": "https://uniteseoul.co.kr/",
       "event_id": "587e7bb447cbd1888303101b1a6291bcc74050a58c65122fedc08db9f46d27d4",
@@ -2526,6 +2607,20 @@
         "AI"
       ],
       "thread_id": "1526377082119262259"
+    },
+    "5fd3f55b1df75534b29bb6a2f056419cd3fe9118c4847681d2e6aa40dace007a": {
+      "canonical_url": "https://maicon.kr/",
+      "event_id": "5fd3f55b1df75534b29bb6a2f056419cd3fe9118c4847681d2e6aa40dace007a",
+      "message_id": "1552851819468951624",
+      "posted": true,
+      "posted_at": "2026-09-25T10:18:08.688176+09:00",
+      "source_title": "2026 국방 AI 경진대회 (MAICON)",
+      "tags": [
+        "온라인",
+        "공모전/대회",
+        "AI"
+      ],
+      "thread_id": "1552851819468951624"
     },
     "60564e39341428721759277d9278011cd0ea2efd9220f7cc529f11db47bedc14": {
       "canonical_url": "https://ticketa.co/event/t8kiwngp",
@@ -3288,6 +3383,20 @@
       ],
       "thread_id": "1514424349556473987"
     },
+    "77e93c2303ea6aaa54dd37f82d81ced5e76635b0a1fa96f730e177d39e8e100e": {
+      "canonical_url": "https://k-ctf.org/contests/6aaba42311c4d10a2394911e",
+      "event_id": "77e93c2303ea6aaa54dd37f82d81ced5e76635b0a1fa96f730e177d39e8e100e",
+      "message_id": "1552851851848847431",
+      "posted": true,
+      "posted_at": "2026-09-25T10:18:08.688176+09:00",
+      "source_title": "2026 제2회 영남권 사이버 공격 방어 대회",
+      "tags": [
+        "온라인",
+        "공모전/대회",
+        "보안"
+      ],
+      "thread_id": "1552851851848847431"
+    },
     "77e9e35d71233de64ff68b21fb0e6cf56087348570a75b444ed25280ad1e798e": {
       "canonical_url": "https://luma.com/64ztqype",
       "event_id": "77e9e35d71233de64ff68b21fb0e6cf56087348570a75b444ed25280ad1e798e",
@@ -3328,6 +3437,19 @@
         "클라우드"
       ],
       "thread_id": "1519858496294748201"
+    },
+    "785fa18b54ae71f05988575d30cc041ef8139066b565203c278702e0cba18edf": {
+      "canonical_url": "https://woowacon.com/",
+      "event_id": "785fa18b54ae71f05988575d30cc041ef8139066b565203c278702e0cba18edf",
+      "message_id": "1552851872631496705",
+      "posted": true,
+      "posted_at": "2026-09-25T10:18:08.688176+09:00",
+      "source_title": "우아콘 2026 (WOOWACON 2026)",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나"
+      ],
+      "thread_id": "1552851872631496705"
     },
     "788b76207869d64d1b8668416aaebcb9e095bc7ab137c3ded700368233bc4230": {
       "canonical_url": "https://meetup.com/awskrug/events/316306742",
@@ -3410,6 +3532,20 @@
         "클라우드"
       ],
       "thread_id": "1515873018466009203"
+    },
+    "7c9cb537cf9df9998806afabf059347c2dabb2c016b7d1002de00562dffcb4ff": {
+      "canonical_url": "https://sw.or.kr/site/sw/ex/board/View.do?cbIdx=292&bcIdx=66137",
+      "event_id": "7c9cb537cf9df9998806afabf059347c2dabb2c016b7d1002de00562dffcb4ff",
+      "message_id": "1552851765924208672",
+      "posted": true,
+      "posted_at": "2026-09-25T10:18:08.688176+09:00",
+      "source_title": "제5회 2026 대한민국 고등학생 AI·SW 개발 공모전",
+      "tags": [
+        "온라인",
+        "공모전/대회",
+        "AI"
+      ],
+      "thread_id": "1552851765924208672"
     },
     "7ca0534bb18b8e1e30c932395e47e0f98e44c56c15525937a8f444a23aea6f15": {
       "canonical_url": "https://ticketa.co/event/f5dgdhms",
@@ -3789,6 +3925,19 @@
         "컨퍼런스/세미나"
       ],
       "thread_id": "1483972216793338007"
+    },
+    "89e17ec03836cd759a17e048e913986d204ad2c8fd86fd796699e81abda5e199": {
+      "canonical_url": "https://btcpp.dev/seoul",
+      "event_id": "89e17ec03836cd759a17e048e913986d204ad2c8fd86fd796699e81abda5e199",
+      "message_id": "1552851959323566081",
+      "posted": true,
+      "posted_at": "2026-09-25T10:18:08.688176+09:00",
+      "source_title": "bitcoin++ Seoul, privacy edition",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나"
+      ],
+      "thread_id": "1552851959323566081"
     },
     "8a6180659dd6cc1f9c7213af82dccf4dfe8f39d6ae5158e040ddc59ced3d57c7": {
       "canonical_url": "https://event-us.kr/mdsit/event/131366",
@@ -4232,6 +4381,20 @@
       ],
       "thread_id": "1542390043849658419"
     },
+    "9a7f59a5d50afe28be8003bd063eafd1154933abda897afd79916961a93c4ee4": {
+      "canonical_url": "https://국민참여고용서비스발굴온라인해커톤.com/",
+      "event_id": "9a7f59a5d50afe28be8003bd063eafd1154933abda897afd79916961a93c4ee4",
+      "message_id": "1552851867720224831",
+      "posted": true,
+      "posted_at": "2026-09-25T10:18:08.688176+09:00",
+      "source_title": "2026 고용24 국민참여 AI 고용서비스 발굴 온라인 해커톤",
+      "tags": [
+        "온라인",
+        "해커톤",
+        "AI"
+      ],
+      "thread_id": "1552851867720224831"
+    },
     "9aae81bbf5cbf4c107f81166443ba41e23f5347299b498a2fda4bc718c6b375d": {
       "canonical_url": "https://event-us.kr/klkd/event/133026",
       "event_id": "9aae81bbf5cbf4c107f81166443ba41e23f5347299b498a2fda4bc718c6b375d",
@@ -4270,6 +4433,19 @@
         "컨퍼런스/세미나"
       ],
       "thread_id": "1549227890787356693"
+    },
+    "9da5980a40ff79d796e7d775eb90a1581f6aa072dcd7a1f8dcb5d498835dda2c": {
+      "canonical_url": "https://2026.feconf.kr/",
+      "event_id": "9da5980a40ff79d796e7d775eb90a1581f6aa072dcd7a1f8dcb5d498835dda2c",
+      "message_id": "1552851888725172246",
+      "posted": true,
+      "posted_at": "2026-09-25T10:18:08.688176+09:00",
+      "source_title": "FEConf 2026",
+      "tags": [
+        "오프라인",
+        "교육/부트캠프"
+      ],
+      "thread_id": "1552851888725172246"
     },
     "9df663c5be6901def8863315eb9ec107f321e2c0d956d43d2cd42ec38a57742a": {
       "canonical_url": "https://meetup.com/awskrug/events/316192838",
@@ -4590,6 +4766,20 @@
       ],
       "thread_id": "1540864595953197067"
     },
+    "a90ad5cf8fbc3ef975a2be7f65ad597d25abfea898e27d06a041d3947fb162e8": {
+      "canonical_url": "https://nvidia.com/ko-kr/ai-days",
+      "event_id": "a90ad5cf8fbc3ef975a2be7f65ad597d25abfea898e27d06a041d3947fb162e8",
+      "message_id": "1552851978432937985",
+      "posted": true,
+      "posted_at": "2026-09-25T10:18:08.688176+09:00",
+      "source_title": "NVIDIA AI Day Seoul 2026",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1552851978432937985"
+    },
     "a9203d6353e3edca1e089958c758572734c465f91313faf433cb38126c69ec11": {
       "canonical_url": "https://ticketa.co/event/nv2atyow",
       "event_id": "a9203d6353e3edca1e089958c758572734c465f91313faf433cb38126c69ec11",
@@ -4766,6 +4956,19 @@
       ],
       "thread_id": "1487596554146545776"
     },
+    "ae4089025f6fa00edad9d110b0cb1dffb99b03b8817f3ed0ae462b7c1951fe3c": {
+      "canonical_url": "https://wevity.com/?c=find&s=1&gbn=view&ix=110895",
+      "event_id": "ae4089025f6fa00edad9d110b0cb1dffb99b03b8817f3ed0ae462b7c1951fe3c",
+      "message_id": "1552851947713728514",
+      "posted": true,
+      "posted_at": "2026-09-25T10:18:08.688176+09:00",
+      "source_title": "쿵야 IP를 활용한 로블록스(Roblox) 게임 콘텐츠 제작 공모전",
+      "tags": [
+        "온라인",
+        "공모전/대회"
+      ],
+      "thread_id": "1552851947713728514"
+    },
     "aeb94afea5689b8f6381faec6d7480b01c41bcd9c83588a10f58714031935ead": {
       "canonical_url": "https://wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=viewok&gp=1&ix=105710",
       "event_id": "aeb94afea5689b8f6381faec6d7480b01c41bcd9c83588a10f58714031935ead",
@@ -4803,6 +5006,20 @@
       "tags": [],
       "thread_id": null
     },
+    "afdc9555a3f13c0b13711485630ea578876183e23b8f7d34c77e40b6a007fb92": {
+      "canonical_url": "https://komap.ai/front/competition2026",
+      "event_id": "afdc9555a3f13c0b13711485630ea578876183e23b8f7d34c77e40b6a007fb92",
+      "message_id": "1552851885684162681",
+      "posted": true,
+      "posted_at": "2026-09-25T10:18:08.688176+09:00",
+      "source_title": "2026 KoMaP AI 경진대회",
+      "tags": [
+        "온라인",
+        "공모전/대회",
+        "AI"
+      ],
+      "thread_id": "1552851885684162681"
+    },
     "b07d1702936ae1d07f926dc139497ad64fcc4ea998902620fde272193c11cc58": {
       "canonical_url": "https://event-us.kr/hso/event/132381",
       "event_id": "b07d1702936ae1d07f926dc139497ad64fcc4ea998902620fde272193c11cc58",
@@ -4816,6 +5033,19 @@
         "AI"
       ],
       "thread_id": "1546687419070418954"
+    },
+    "b082458184884969563055603bd4f4ca61efff4d157784a22ba6b88fb1c379bd": {
+      "canonical_url": "https://ggdc.or.kr/",
+      "event_id": "b082458184884969563055603bd4f4ca61efff4d157784a22ba6b88fb1c379bd",
+      "message_id": "1552851902327169110",
+      "posted": true,
+      "posted_at": "2026-09-25T10:18:08.688176+09:00",
+      "source_title": "GGDC 2026 (글로벌 게임 개발자 컨퍼런스)",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나"
+      ],
+      "thread_id": "1552851902327169110"
     },
     "b0941eaf2af4bc1f238275af6812955979725abbe1d7db27ec1ab95636513811": {
       "canonical_url": "https://meetup.com/awskrug/events/316565592",
@@ -5213,6 +5443,19 @@
       ],
       "thread_id": "1518770981748084787"
     },
+    "c1a2050e725eef5d260d65cdbb529910e704abb00ba9715b09b15ffca94c8897": {
+      "canonical_url": "https://luma.com/kdth-2026",
+      "event_id": "c1a2050e725eef5d260d65cdbb529910e704abb00ba9715b09b15ffca94c8897",
+      "message_id": "1552851861596278938",
+      "posted": true,
+      "posted_at": "2026-09-25T10:18:08.688176+09:00",
+      "source_title": "Korea Defense Tech Hackathon",
+      "tags": [
+        "오프라인",
+        "해커톤"
+      ],
+      "thread_id": "1552851861596278938"
+    },
     "c27422889148ab74ad560cee6f5baad274d1afe3992ddc16180d78e622b347b9": {
       "canonical_url": "https://worlditshow.co.kr/introduce/01.php",
       "event_id": "c27422889148ab74ad560cee6f5baad274d1afe3992ddc16180d78e622b347b9",
@@ -5527,6 +5770,19 @@
       ],
       "thread_id": "1515509568862687323"
     },
+    "ccd61d6a5747e78ec50439dc33f54e327115a694bff6d7a6399263a3d2962360": {
+      "canonical_url": "https://2026.fossforall.org/",
+      "event_id": "ccd61d6a5747e78ec50439dc33f54e327115a694bff6d7a6399263a3d2962360",
+      "message_id": "1552852006023073965",
+      "posted": true,
+      "posted_at": "2026-09-25T10:18:08.688176+09:00",
+      "source_title": "FOSS for All Conference 2026",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나"
+      ],
+      "thread_id": "1552852006023073965"
+    },
     "cd548f3f4b12a1a41e352266dd9f21bf9e662aed9b8386bd3d921d887e82932c": {
       "canonical_url": "https://event.wanted.co.kr/WATN",
       "event_id": "cd548f3f4b12a1a41e352266dd9f21bf9e662aed9b8386bd3d921d887e82932c",
@@ -5595,6 +5851,19 @@
         "AI"
       ],
       "thread_id": "1540864691600097494"
+    },
+    "ce65414a317d4285c6dc4685aa27900cbc91daa071cdb44cab37ac09731237bc": {
+      "canonical_url": "https://meetup.com/mongodb-usergroup-seoul/events/316356394",
+      "event_id": "ce65414a317d4285c6dc4685aa27900cbc91daa071cdb44cab37ac09731237bc",
+      "message_id": "1552851935495717039",
+      "posted": true,
+      "posted_at": "2026-09-25T10:18:08.688176+09:00",
+      "source_title": "MongoDB User Group Seoul Meetup #6 OCT 2026",
+      "tags": [
+        "오프라인",
+        "AI"
+      ],
+      "thread_id": "1552851935495717039"
     },
     "cf742b1be900b9ffab31dfbb75d0ba57bc966438bb35a6ed50f2c54714c17757": {
       "canonical_url": "https://ticketa.co/event/7fm5o8fo",
@@ -6242,6 +6511,20 @@
       ],
       "thread_id": "1547410375832506419"
     },
+    "e3f564f7cd670df8c2ce9d436637954054862f067ff02c41ae863948ff151386": {
+      "canonical_url": "https://gwdckorea.co.kr/",
+      "event_id": "e3f564f7cd670df8c2ce9d436637954054862f067ff02c41ae863948ff151386",
+      "message_id": "1552851679022682192",
+      "posted": true,
+      "posted_at": "2026-09-25T10:18:08.688176+09:00",
+      "source_title": "GWDC 2026 Korea 해커톤",
+      "tags": [
+        "오프라인",
+        "해커톤",
+        "AI"
+      ],
+      "thread_id": "1552851679022682192"
+    },
     "e406040862932097d082bc22e8a2fdbcf38b058e90e9436ad9dddde1bc3fac08": {
       "canonical_url": "https://honam-is-hackathon.com/",
       "event_id": "e406040862932097d082bc22e8a2fdbcf38b058e90e9436ad9dddde1bc3fac08",
@@ -6543,6 +6826,20 @@
       ],
       "thread_id": "1501371632982298728"
     },
+    "ed80f6d629c5a40a30237af846476befe54fd49b8dce56765fa0afa8a056d917": {
+      "canonical_url": "https://kisa.or.kr/401/form?postSeq=3762",
+      "event_id": "ed80f6d629c5a40a30237af846476befe54fd49b8dce56765fa0afa8a056d917",
+      "message_id": "1552851773029359629",
+      "posted": true,
+      "posted_at": "2026-09-25T10:18:08.688176+09:00",
+      "source_title": "2026년 제13회 소프트웨어(SW) 개발보안 경진대회",
+      "tags": [
+        "온라인",
+        "공모전/대회",
+        "보안"
+      ],
+      "thread_id": "1552851773029359629"
+    },
     "edb45d0e541faa9529a7024270fae7851074395285766cb409b0953fe6e5f706": {
       "canonical_url": "https://mongodb.com/ko-kr/events/mongodb-local/seoul",
       "event_id": "edb45d0e541faa9529a7024270fae7851074395285766cb409b0953fe6e5f706",
@@ -6611,6 +6908,19 @@
       ],
       "thread_id": "1488322257272180848"
     },
+    "f058a2eb9493b36a0c5bb2beffdb6dfadbf37a6e903c23774823188dc44575a7": {
+      "canonical_url": "https://linkareer.com/activity/352004",
+      "event_id": "f058a2eb9493b36a0c5bb2beffdb6dfadbf37a6e903c23774823188dc44575a7",
+      "message_id": "1552851986586533930",
+      "posted": true,
+      "posted_at": "2026-09-25T10:18:08.688176+09:00",
+      "source_title": "2026 동남 버그바운티 대회",
+      "tags": [
+        "온라인",
+        "공모전/대회"
+      ],
+      "thread_id": "1552851986586533930"
+    },
     "f05a34db23dc7adad3cb6af8e1cdd2fa8e49e9170361dc5429521a4cf8cd3878": {
       "canonical_url": "https://oss.kr/pages/2",
       "event_id": "f05a34db23dc7adad3cb6af8e1cdd2fa8e49e9170361dc5429521a4cf8cd3878",
@@ -6651,6 +6961,20 @@
         "AI"
       ],
       "thread_id": "1492671034468601878"
+    },
+    "f1fb8c6cd028fa5a6796348db48e3034efd80335ad493ac818fe7051ff69689d": {
+      "canonical_url": "https://luma.com/06x2etd7",
+      "event_id": "f1fb8c6cd028fa5a6796348db48e3034efd80335ad493ac818fe7051ff69689d",
+      "message_id": "1552851928600416327",
+      "posted": true,
+      "posted_at": "2026-09-25T10:18:08.688176+09:00",
+      "source_title": "Cursor Hackathon Seoul 4th",
+      "tags": [
+        "오프라인",
+        "해커톤",
+        "AI"
+      ],
+      "thread_id": "1552851928600416327"
     },
     "f2fa5ff86347b8dab6525047441f18fb4b4ead5f30c83ab65a7acf9f85e9d14f": {
       "canonical_url": "https://event-us.kr/Pentacle/event/124637",
