@@ -534,6 +534,20 @@
       ],
       "thread_id": "1480224277780234426"
     },
+    "10a727c3c29f3914f7320af4d0ad830d7c941f82f1ce96b06acaab9012499eb2": {
+      "canonical_url": "https://event-us.kr/pebblous/event/136147",
+      "event_id": "10a727c3c29f3914f7320af4d0ad830d7c941f82f1ce96b06acaab9012499eb2",
+      "message_id": "1554319724802875453",
+      "posted": true,
+      "posted_at": "2026-09-29T11:31:35.575623+09:00",
+      "source_title": "실험실 밖에서 무너지는 피지컬 AI? 실전에 강한 피지컬 AI를 위한 데이터 관리 로드맵",
+      "tags": [
+        "온라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1554319724802875453"
+    },
     "110b50975cb0fd98a2f38df0f73377d840a708bedd3141f1d44cab632433685d": {
       "canonical_url": "https://dothack.io/",
       "event_id": "110b50975cb0fd98a2f38df0f73377d840a708bedd3141f1d44cab632433685d",
@@ -706,6 +720,20 @@
         "AI"
       ],
       "thread_id": "1532901789609758863"
+    },
+    "146789e594121a3566c5eb7953de9699541ac3edf479a205e01c76effd2fb940": {
+      "canonical_url": "https://bigcontest.or.kr/",
+      "event_id": "146789e594121a3566c5eb7953de9699541ac3edf479a205e01c76effd2fb940",
+      "message_id": "1554319826988568667",
+      "posted": true,
+      "posted_at": "2026-09-29T11:31:35.575623+09:00",
+      "source_title": "2026 제14회 빅콘테스트 AI·데이터 경진대회",
+      "tags": [
+        "온라인",
+        "공모전/대회",
+        "AI"
+      ],
+      "thread_id": "1554319826988568667"
     },
     "147c5be703f59dd86a302440f24d8159e5eab4675fc868eebf71edb0fed81103": {
       "canonical_url": "https://event-us.kr/2026bcmd/event/129785",
@@ -1941,6 +1969,20 @@
       ],
       "thread_id": "1496294718408101908"
     },
+    "48a927ebb2ca1f84f48b384726160de320dbe2a16709d3908635ab9d165cb78c": {
+      "canonical_url": "https://kr.nota.ai/ytlive",
+      "event_id": "48a927ebb2ca1f84f48b384726160de320dbe2a16709d3908635ab9d165cb78c",
+      "message_id": "1554319713369333791",
+      "posted": true,
+      "posted_at": "2026-09-29T11:31:35.575623+09:00",
+      "source_title": "[Nota on AIr #02] AI PC에서 로컬 LLM을 더 가볍고, 더 쉽게 사용하기",
+      "tags": [
+        "온라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1554319713369333791"
+    },
     "48ab7089936546132159435468aa7547d18378a1136f137f247ded9c7a63e48c": {
       "canonical_url": "https://luma.com/8w9eo0qy",
       "event_id": "48ab7089936546132159435468aa7547d18378a1136f137f247ded9c7a63e48c",
@@ -2214,6 +2256,20 @@
       ],
       "thread_id": "1511161965651951670"
     },
+    "53102829a63fba6c5f1ba0eb1c1effe15a6e41e02f0e4f55671561106e649e8f": {
+      "canonical_url": "https://event-us.kr/2026bcmd/event/129794",
+      "event_id": "53102829a63fba6c5f1ba0eb1c1effe15a6e41e02f0e4f55671561106e649e8f",
+      "message_id": "1554319781354541129",
+      "posted": true,
+      "posted_at": "2026-09-29T11:31:35.575623+09:00",
+      "source_title": "2026 블록체인 밋업데이 (28회차)",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1554319781354541129"
+    },
     "53be24e951c4ea2c186d7739b1f17f460bc6854877a98dae6f1a94e1f332d90b": {
       "canonical_url": "https://inf.run/9zmtr",
       "event_id": "53be24e951c4ea2c186d7739b1f17f460bc6854877a98dae6f1a94e1f332d90b",
@@ -2460,6 +2516,19 @@
         "AI"
       ],
       "thread_id": "1540864653419216999"
+    },
+    "5b0151b3b03ea1bc7ec663c8c0edf5e8286c0d987b61404000d83043d368219d": {
+      "canonical_url": "https://luma.com/1odx3eoy",
+      "event_id": "5b0151b3b03ea1bc7ec663c8c0edf5e8286c0d987b61404000d83043d368219d",
+      "message_id": "1554319709233745921",
+      "posted": true,
+      "posted_at": "2026-09-29T11:31:35.575623+09:00",
+      "source_title": "ML Engineer Meetup",
+      "tags": [
+        "오프라인",
+        "AI"
+      ],
+      "thread_id": "1554319709233745921"
     },
     "5bf2ba60ca8864b847994767cb6a425161621d10df9f6a645d42ba3d785636bc": {
       "canonical_url": "https://ticketa.co/event/ql1tygi5",
@@ -4194,6 +4263,19 @@
         "교육/부트캠프"
       ],
       "thread_id": "1503911001463062558"
+    },
+    "916bbdec3abe610fb34f9e681fd6a45c61c8ddf1b13aa4c0367e03f0646ea725": {
+      "canonical_url": "https://event-us.kr/2026bcmd/event/129793",
+      "event_id": "916bbdec3abe610fb34f9e681fd6a45c61c8ddf1b13aa4c0367e03f0646ea725",
+      "message_id": "1554319753558884363",
+      "posted": true,
+      "posted_at": "2026-09-29T11:31:35.575623+09:00",
+      "source_title": "2026 블록체인 밋업데이 (27회차)",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나"
+      ],
+      "thread_id": "1554319753558884363"
     },
     "91fe52d4fa77b29328855b10d6ae873f9a2d16a8a28234bf5c2d3b651d5d1bfe": {
       "canonical_url": "https://event-us.kr/doverunner/event/131565",
@@ -6565,6 +6647,19 @@
         "AI"
       ],
       "thread_id": "1542389829449551924"
+    },
+    "e5d2970e7fe53364d5d6db97d38676c645b65c2f0417a4b5578640f6dbd5204e": {
+      "canonical_url": "https://event-us.kr/vimkr/event/136098",
+      "event_id": "e5d2970e7fe53364d5d6db97d38676c645b65c2f0417a4b5578640f6dbd5204e",
+      "message_id": "1554319810136113203",
+      "posted": true,
+      "posted_at": "2026-09-29T11:31:35.575623+09:00",
+      "source_title": "Git 사용자를 위한 Jujutsu Workshop",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나"
+      ],
+      "thread_id": "1554319810136113203"
     },
     "e5f425200c1155daa18843dab4e8b99b3d35ad5954a802b9de78f12ab6fc7e22": {
       "canonical_url": "https://okky.kr/articles/1563786",
