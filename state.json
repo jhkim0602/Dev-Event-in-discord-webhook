@@ -385,6 +385,19 @@
       ],
       "thread_id": "1542390059599405129"
     },
+    "0bacbed602a0bde9a95252564156a07808ee98ea78db444a1df50b133ccba01b": {
+      "canonical_url": "https://luma.com/549sb2ds",
+      "event_id": "0bacbed602a0bde9a95252564156a07808ee98ea78db444a1df50b133ccba01b",
+      "message_id": "1555400089986400350",
+      "posted": true,
+      "posted_at": "2026-10-02T11:04:38.423060+09:00",
+      "source_title": "OpenSource AI Mixer",
+      "tags": [
+        "오프라인",
+        "AI"
+      ],
+      "thread_id": "1555400089986400350"
+    },
     "0baea362c00585045a8d6ba9c98cda6de4250087ce131c47e36b9a319cae2b74": {
       "canonical_url": "https://event-us.kr/datayanolja2020/event/124270",
       "event_id": "0baea362c00585045a8d6ba9c98cda6de4250087ce131c47e36b9a319cae2b74",
@@ -558,6 +571,20 @@
       "tags": [],
       "thread_id": null
     },
+    "11680dc7f8c3fbb39f45763348b4d04371ad94beffba1e6ebaa30f38a0816709": {
+      "canonical_url": "https://event-us.kr/day1com/event/136354",
+      "event_id": "11680dc7f8c3fbb39f45763348b4d04371ad94beffba1e6ebaa30f38a0816709",
+      "message_id": "1555400181506117653",
+      "posted": true,
+      "posted_at": "2026-10-02T11:04:38.423060+09:00",
+      "source_title": "[무료] AI시대, 데이터를 지키는 보안전략 - 기업과 금융보안부터 내 개인정보까지",
+      "tags": [
+        "온라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1555400181506117653"
+    },
     "118c5c439adc487fc52da88fc399d632af5b1625890bf9041498987d717ae2b3": {
       "canonical_url": "https://ticketa.co/event/zbj22eqq",
       "event_id": "118c5c439adc487fc52da88fc399d632af5b1625890bf9041498987d717ae2b3",
@@ -653,6 +680,20 @@
         "AI"
       ],
       "thread_id": "1480224077372457161"
+    },
+    "135650a6dd1fa88366be8d0279f0085335397bc07a98fa96656a198c9745eadc": {
+      "canonical_url": "https://event-us.kr/itsman/event/136224",
+      "event_id": "135650a6dd1fa88366be8d0279f0085335397bc07a98fa96656a198c9745eadc",
+      "message_id": "1555400120827252890",
+      "posted": true,
+      "posted_at": "2026-10-02T11:04:38.423060+09:00",
+      "source_title": "AI 공격 대응 : 위협 인텔리전스 실전 활용 전략",
+      "tags": [
+        "온라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1555400120827252890"
     },
     "13674b568937d7dce13a0934bfe8001eabf63f21b294f1ff5e7c56dd60d56f61": {
       "canonical_url": "https://buidl.creditcoin.org/",
@@ -2868,6 +2909,20 @@
       ],
       "thread_id": "1509346462083973210"
     },
+    "6875ff7d7fbe0e2de0de205365210b5f1dfe53d8e5d847c9563cde24d7369874": {
+      "canonical_url": "https://daker.ai/public/hackathons/kic-ai-agent-competition",
+      "event_id": "6875ff7d7fbe0e2de0de205365210b5f1dfe53d8e5d847c9563cde24d7369874",
+      "message_id": "1555400271566475339",
+      "posted": true,
+      "posted_at": "2026-10-02T11:04:38.423060+09:00",
+      "source_title": "국부펀드 KIC, AI 에이전트 공모전",
+      "tags": [
+        "온라인",
+        "공모전/대회",
+        "AI"
+      ],
+      "thread_id": "1555400271566475339"
+    },
     "692ffc03d384bf1f1560bf2009397d7aeb7316602ffa877d4cd73531a1f81ee5": {
       "canonical_url": "https://event-us.kr/gsneotek/event/132338",
       "event_id": "692ffc03d384bf1f1560bf2009397d7aeb7316602ffa877d4cd73531a1f81ee5",
@@ -2962,6 +3017,20 @@
         "AI"
       ],
       "thread_id": "1521307034207912057"
+    },
+    "6b56737e80820d1ae5fa0b299105d73538030e295ed68f45b45c8cb68835d52f": {
+      "canonical_url": "https://event-us.kr/exem/event/136209",
+      "event_id": "6b56737e80820d1ae5fa0b299105d73538030e295ed68f45b45c8cb68835d52f",
+      "message_id": "1555400257754365973",
+      "posted": true,
+      "posted_at": "2026-10-02T11:04:38.423060+09:00",
+      "source_title": "[엑셈 기술 웨비나] 내부 동작 메커니즘으로 이해하는 PostgreSQL Wait Event",
+      "tags": [
+        "온라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1555400257754365973"
     },
     "6b860aca182c669063a7b66274806b29bdb3d645423182ae93483b0047ba264d": {
       "canonical_url": "https://event-us.kr/bylinenetwork/event/135596",
@@ -3100,6 +3169,20 @@
         "AI"
       ],
       "thread_id": "1547410460725346327"
+    },
+    "6ecff1288a7801b722cc0ed2552029236d52c9c230052955d11566506dccf699": {
+      "canonical_url": "https://daker.ai/public/hackathons/ai-platform-build-challenge-prelims",
+      "event_id": "6ecff1288a7801b722cc0ed2552029236d52c9c230052955d11566506dccf699",
+      "message_id": "1555400202498867241",
+      "posted": true,
+      "posted_at": "2026-10-02T11:04:38.423060+09:00",
+      "source_title": "AI Platform Build Challenge 예선",
+      "tags": [
+        "온라인",
+        "공모전/대회",
+        "AI"
+      ],
+      "thread_id": "1555400202498867241"
     },
     "6f8faa3a9928e6c3aad306c8b0deb63f86f2eb56086a94e30d03dd08da44216b": {
       "canonical_url": "https://meetup.com/awskrug/events/312616848",
@@ -4303,6 +4386,20 @@
       ],
       "thread_id": "1547410391397699626"
     },
+    "937c20c908760b89694891ffa3c09d66ebcb55d2010a550f00ae09ad4f682f75": {
+      "canonical_url": "https://dacon.io/competitions/official/236771/overview/description",
+      "event_id": "937c20c908760b89694891ffa3c09d66ebcb55d2010a550f00ae09ad4f682f75",
+      "message_id": "1555400243246530652",
+      "posted": true,
+      "posted_at": "2026-10-02T11:04:38.423060+09:00",
+      "source_title": "항만 문제해결을 위한 AI 기술 공모전",
+      "tags": [
+        "온라인",
+        "공모전/대회",
+        "AI"
+      ],
+      "thread_id": "1555400243246530652"
+    },
     "940e91e5fbbf860f1dd3e6254db2c6a6a162df7867b96160c6e81596c160bdef": {
       "canonical_url": "https://forms.gle/Jp5or1t1tohCerdX8",
       "event_id": "940e91e5fbbf860f1dd3e6254db2c6a6a162df7867b96160c6e81596c160bdef",
@@ -4314,6 +4411,20 @@
         "온라인"
       ],
       "thread_id": "1515873013294170254"
+    },
+    "945d699f83b421733d27cb64bcbd03be033a9ce08868a62baedc76380e99e89d": {
+      "canonical_url": "https://ticketa.co/event/sk8bvff0",
+      "event_id": "945d699f83b421733d27cb64bcbd03be033a9ce08868a62baedc76380e99e89d",
+      "message_id": "1555400232819228723",
+      "posted": true,
+      "posted_at": "2026-10-02T11:04:38.423060+09:00",
+      "source_title": "무료 개발자 세미나 - 인프라지스틱스 데이 2026",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1555400232819228723"
     },
     "94c3f75634e5ae064a0587dd78799c666d84aa475a0f13356dcba07b6fc18801": {
       "canonical_url": "https://seoulwomen.or.kr/sfwf/contents/sfwf-event.do?schM=view&id=31236",
@@ -4610,6 +4721,20 @@
         "AI"
       ],
       "thread_id": "1480224268301369558"
+    },
+    "a15d793a172a72bb206a14526363f1a410499443b1c7cd7dede29638b1e6f1ce": {
+      "canonical_url": "https://meetup.com/awskrug/events/316773011",
+      "event_id": "a15d793a172a72bb206a14526363f1a410499443b1c7cd7dede29638b1e6f1ce",
+      "message_id": "1555400133976531056",
+      "posted": true,
+      "posted_at": "2026-10-02T11:04:38.423060+09:00",
+      "source_title": "AWSKRUG 서버리스 #Serverless 소모임 (10월 14일)",
+      "tags": [
+        "오프라인",
+        "AI",
+        "클라우드"
+      ],
+      "thread_id": "1555400133976531056"
     },
     "a195860d282390858a8bcef2a6918eddc8d9215798ed32498cd88b9eb2b3c310": {
       "canonical_url": "https://ticketa.co/event/ee3aykrj",
@@ -5428,6 +5553,19 @@
       ],
       "thread_id": "1538327640883200109"
     },
+    "bb03568b335c4a8da40047f10e9ad06162924281982be05998ee5a04e30af6aa": {
+      "canonical_url": "https://event-us.kr/blaybus/event/136364",
+      "event_id": "bb03568b335c4a8da40047f10e9ad06162924281982be05998ee5a04e30af6aa",
+      "message_id": "1555400144139059211",
+      "posted": true,
+      "posted_at": "2026-10-02T11:04:38.423060+09:00",
+      "source_title": "2026 우연한식탁 MVP 개발 해커톤",
+      "tags": [
+        "온라인",
+        "해커톤"
+      ],
+      "thread_id": "1555400144139059211"
+    },
     "bb08de0755d9c54036ae8484bd9a6487d8297b0c3195e69828bcda9c194952ad": {
       "canonical_url": "https://pvs-studio.com/en/webinar/30",
       "event_id": "bb08de0755d9c54036ae8484bd9a6487d8297b0c3195e69828bcda9c194952ad",
@@ -5812,6 +5950,20 @@
         "컨퍼런스/세미나"
       ],
       "thread_id": "1483972204713611487"
+    },
+    "caf3901cb3e385631b1a28c9734a62fee8894ac5509fb9cad15c51e2d1e3d04f": {
+      "canonical_url": "https://event-us.kr/cccr/event/136368",
+      "event_id": "caf3901cb3e385631b1a28c9734a62fee8894ac5509fb9cad15c51e2d1e3d04f",
+      "message_id": "1555400211390533724",
+      "posted": true,
+      "posted_at": "2026-10-02T11:04:38.423060+09:00",
+      "source_title": "K-클라우드 핵심 인프라 및 오픈소스 SW 기술 세미나",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1555400211390533724"
     },
     "cb81480983d98e5b420e94329130ae4ce960fb689f8831be4ae11eaa3c66803b": {
       "canonical_url": "https://maplestoryworlds.career.greetinghr.com/ko/home",
@@ -6798,6 +6950,20 @@
       ],
       "thread_id": "1486510379554050071"
     },
+    "ea985dee4a96e90726adfac7fd00db3e8e9fd40f85c6b1e847f06b6607f9f3a7": {
+      "canonical_url": "https://cloud.google.com/events/intl/ko-kr/build-with-gemini-seoul/all-builders-day",
+      "event_id": "ea985dee4a96e90726adfac7fd00db3e8e9fd40f85c6b1e847f06b6607f9f3a7",
+      "message_id": "1555400158181589013",
+      "posted": true,
+      "posted_at": "2026-10-02T11:04:38.423060+09:00",
+      "source_title": "Build with Gemini Seoul - All Builders Day",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1555400158181589013"
+    },
     "eacaba958326089241c05a56709908bf828863fff255371b0698756f22a5fb3e": {
       "canonical_url": "https://event-us.kr/saif2026/event/135379",
       "event_id": "eacaba958326089241c05a56709908bf828863fff255371b0698756f22a5fb3e",
@@ -7247,6 +7413,33 @@
       ],
       "thread_id": "1526377072547594281"
     },
+    "f74257017bab531f85792721981a53fd0d8213d55262c950968146ef982fe9bd": {
+      "canonical_url": "https://event-us.kr/pnuai2026/event/136302",
+      "event_id": "f74257017bab531f85792721981a53fd0d8213d55262c950968146ef982fe9bd",
+      "message_id": "1555400099964784711",
+      "posted": true,
+      "posted_at": "2026-10-02T11:04:38.423060+09:00",
+      "source_title": "[부산대 AI 콜로퀴엄 2026] 직접 만들며 본 Foundation Model의 현재, 그리고 어디까지 진화할까?",
+      "tags": [
+        "온라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1555400099964784711"
+    },
+    "f76c640711bf47f38dc5b7c91f297e5d15e7d223f2aaf177930d653bd9945605": {
+      "canonical_url": "https://developeracademy.postech.ac.kr/showcase26",
+      "event_id": "f76c640711bf47f38dc5b7c91f297e5d15e7d223f2aaf177930d653bd9945605",
+      "message_id": "1555400277484507208",
+      "posted": true,
+      "posted_at": "2026-10-02T11:04:38.423060+09:00",
+      "source_title": "SHOWCASE26",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나"
+      ],
+      "thread_id": "1555400277484507208"
+    },
     "f779ede8562c148b5423579b125884892c481297ae9147d241c44966f849dddb": {
       "canonical_url": "https://biz.modulabs.co.kr/event/425",
       "event_id": "f779ede8562c148b5423579b125884892c481297ae9147d241c44966f849dddb",
@@ -7409,6 +7602,20 @@
         "클라우드"
       ],
       "thread_id": "1510073604694610100"
+    },
+    "fcf719f5016c694d603d43f4e1cff06a19de2c5d46ef3db60fa00402bc424dc9": {
+      "canonical_url": "https://daker.ai/public/hackathons/synthetic-microstructure-property-prediction-ai",
+      "event_id": "fcf719f5016c694d603d43f4e1cff06a19de2c5d46ef3db60fa00402bc424dc9",
+      "message_id": "1555400162912899154",
+      "posted": true,
+      "posted_at": "2026-10-02T11:04:38.423060+09:00",
+      "source_title": "합성 미세구조 기반 재료 물성 예측 AI 경진대회",
+      "tags": [
+        "온라인",
+        "공모전/대회",
+        "AI"
+      ],
+      "thread_id": "1555400162912899154"
     },
     "fe325e56964e1c909fe8e36dfb6eebd7576704f6541613289e576b638e578a16": {
       "canonical_url": "https://meetup.com/awskrug/events/316366209",
