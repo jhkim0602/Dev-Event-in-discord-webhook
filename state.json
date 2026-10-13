@@ -708,6 +708,19 @@
       ],
       "thread_id": "1538327743421481103"
     },
+    "138a92ea1b0bf657355dc5f85e2b0d5bf9a41b20c7265d5cd7eaca6a8a45a53e": {
+      "canonical_url": "https://luma.com/3leebkxk",
+      "event_id": "138a92ea1b0bf657355dc5f85e2b0d5bf9a41b20c7265d5cd7eaca6a8a45a53e",
+      "message_id": "1559406844710232156",
+      "posted": true,
+      "posted_at": "2026-10-13T12:25:52.650760+09:00",
+      "source_title": "Grok Bot Meetup Seoul",
+      "tags": [
+        "오프라인",
+        "AI"
+      ],
+      "thread_id": "1559406844710232156"
+    },
     "13b176b3b6eba645ba517bf74a814bcaaf88c3ce2cd9acc5555616ec3973bd5f": {
       "canonical_url": "https://developeracademy.postech.ac.kr/event/ideaplayground",
       "event_id": "13b176b3b6eba645ba517bf74a814bcaaf88c3ce2cd9acc5555616ec3973bd5f",
@@ -1358,6 +1371,20 @@
       ],
       "thread_id": "1534713405133557834"
     },
+    "2a4f734db0d389b98083346ad8c6b60260681df7e4f4a7ce273fbf96ae97f765": {
+      "canonical_url": "https://hackathon.savetax.now/",
+      "event_id": "2a4f734db0d389b98083346ad8c6b60260681df7e4f4a7ce273fbf96ae97f765",
+      "message_id": "1559406834580848671",
+      "posted": true,
+      "posted_at": "2026-10-13T12:25:52.650760+09:00",
+      "source_title": "나랏돈 50조 찾기 프로젝트 : 나라장터 해커톤",
+      "tags": [
+        "온라인",
+        "해커톤",
+        "AI"
+      ],
+      "thread_id": "1559406834580848671"
+    },
     "2a5fbb2370673404ab035627d82972672a0b8b3962ef2454c5b54bb4cce0737f": {
       "canonical_url": "https://okky.kr/articles/1560073",
       "event_id": "2a5fbb2370673404ab035627d82972672a0b8b3962ef2454c5b54bb4cce0737f",
@@ -1696,6 +1723,18 @@
         "컨퍼런스/세미나"
       ],
       "thread_id": "1499922438798966805"
+    },
+    "357daac6b84ccde36d7b8e1ffca5c6505646be9487335b4ecc61514bc37ca4b0": {
+      "canonical_url": "https://ticketa.co/event/agk0gglh",
+      "event_id": "357daac6b84ccde36d7b8e1ffca5c6505646be9487335b4ecc61514bc37ca4b0",
+      "message_id": "1559406853048504471",
+      "posted": true,
+      "posted_at": "2026-10-13T12:25:52.650760+09:00",
+      "source_title": "K-DEVCON HAPPY DEV-WIN",
+      "tags": [
+        "오프라인"
+      ],
+      "thread_id": "1559406853048504471"
     },
     "35cfee7c482943d73f7c3d48e42dfed604a8fb5cff07bac4676d8590dcbe39fe": {
       "canonical_url": "https://event-us.kr/axarena/event/125135",
@@ -3550,6 +3589,20 @@
       ],
       "thread_id": "1540140953266823279"
     },
+    "74992e3664286c0aebc0fdd57f60098240b083a31fd91ef9ac7e127b2eaeed6b": {
+      "canonical_url": "https://ticketa.co/event/8dedugs6",
+      "event_id": "74992e3664286c0aebc0fdd57f60098240b083a31fd91ef9ac7e127b2eaeed6b",
+      "message_id": "1559406871398453331",
+      "posted": true,
+      "posted_at": "2026-10-13T12:25:52.650760+09:00",
+      "source_title": "DEVFEST INCHEON 2026",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1559406871398453331"
+    },
     "752c3878b0f48263e8f2c41e217d0a64e38d6432457c48450bb0b5e72b937562": {
       "canonical_url": "https://event-us.kr/ax/event/131858",
       "event_id": "752c3878b0f48263e8f2c41e217d0a64e38d6432457c48450bb0b5e72b937562",
@@ -4656,6 +4709,34 @@
       ],
       "thread_id": "1525291347282497622"
     },
+    "94cfcbb74746329f648f261e2b1eb481eacb9f9f7f3af25ef6a491cb2eac2902": {
+      "canonical_url": "https://event-us.kr/FKH3nHkjmPGh/event/137338",
+      "event_id": "94cfcbb74746329f648f261e2b1eb481eacb9f9f7f3af25ef6a491cb2eac2902",
+      "message_id": "1559406883486572628",
+      "posted": true,
+      "posted_at": "2026-10-13T12:25:52.650760+09:00",
+      "source_title": "월간 AX: 10월",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1559406883486572628"
+    },
+    "95418282be1ed3dbb353eb431fd0a96035069fbb4930789f0eb858fff28c55fe": {
+      "canonical_url": "https://seoulaiforum.kr/",
+      "event_id": "95418282be1ed3dbb353eb431fd0a96035069fbb4930789f0eb858fff28c55fe",
+      "message_id": "1559406826330652703",
+      "posted": true,
+      "posted_at": "2026-10-13T12:25:52.650760+09:00",
+      "source_title": "2026 AI 인사이트 포럼",
+      "tags": [
+        "온라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1559406826330652703"
+    },
     "95ca3f09eb85c55a3bc3cac07ea5d3d0f294ea3555c6236f165e0c26528c2531": {
       "canonical_url": "https://dnd.ac/",
       "event_id": "95ca3f09eb85c55a3bc3cac07ea5d3d0f294ea3555c6236f165e0c26528c2531",
@@ -5053,6 +5134,20 @@
         "교육/부트캠프"
       ],
       "thread_id": "1542788265826848850"
+    },
+    "a31a0bdcaf93db994468763ff513fa0c42cbe49f79874d4c21618717646af1a0": {
+      "canonical_url": "https://event-us.kr/techive/event/137241",
+      "event_id": "a31a0bdcaf93db994468763ff513fa0c42cbe49f79874d4c21618717646af1a0",
+      "message_id": "1559406925165363215",
+      "posted": true,
+      "posted_at": "2026-10-13T12:25:52.650760+09:00",
+      "source_title": "Techive 여덟번째 발표: AI 에이전트를 이해하고 부리고 다스리기",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1559406925165363215"
     },
     "a3475cbdbbdfaf60d132870ebedd5778b0bb1338d9b805eeeb31834d7b649b9d": {
       "canonical_url": "https://cometrue.ai/index.php/con_260519",
@@ -5961,6 +6056,20 @@
       ],
       "thread_id": "1529276452795715595"
     },
+    "be6dd9fb49a679307fe335ff4b50c485a76429821c42536062ba475dace65993": {
+      "canonical_url": "https://event-us.kr/aibuildersglobal/event/137263",
+      "event_id": "be6dd9fb49a679307fe335ff4b50c485a76429821c42536062ba475dace65993",
+      "message_id": "1559406810186649762",
+      "posted": true,
+      "posted_at": "2026-10-13T12:25:52.650760+09:00",
+      "source_title": "Daytona HackSprint Seoul 해커톤",
+      "tags": [
+        "오프라인",
+        "해커톤",
+        "AI"
+      ],
+      "thread_id": "1559406810186649762"
+    },
     "bfc9f3f6311433676a5a6fd4ff1ea153c81926056c2769afeef72ac3460cce69": {
       "canonical_url": "https://xai.kaist.ac.kr/AI-Factory-Capability-Seminar/2026",
       "event_id": "bfc9f3f6311433676a5a6fd4ff1ea153c81926056c2769afeef72ac3460cce69",
@@ -6186,6 +6295,19 @@
       ],
       "thread_id": "1536519462977802253"
     },
+    "c79105a6043b9ab790ab6e3198df0edb10463427ddbcedb2865beb84db3ee9ee": {
+      "canonical_url": "https://pqcchallenge.kr/",
+      "event_id": "c79105a6043b9ab790ab6e3198df0edb10463427ddbcedb2865beb84db3ee9ee",
+      "message_id": "1559406865350402199",
+      "posted": true,
+      "posted_at": "2026-10-13T12:25:52.650760+09:00",
+      "source_title": "2026년 양자내성암호 전환 경진대회·해커톤",
+      "tags": [
+        "온라인",
+        "해커톤"
+      ],
+      "thread_id": "1559406865350402199"
+    },
     "c7dfb4fc864b8f92f3d409c9bf6b11de8b4d91a35e952e97567fce504936f44b": {
       "canonical_url": "https://ticketa.co/event/gy6ybl8f",
       "event_id": "c7dfb4fc864b8f92f3d409c9bf6b11de8b4d91a35e952e97567fce504936f44b",
@@ -6262,6 +6384,19 @@
         "클라우드"
       ],
       "thread_id": "1511545689971101817"
+    },
+    "c9b68f1bd32ce37477c731653c93ebebfadf8e6a5b26afb936db91ea5aa9fac7": {
+      "canonical_url": "https://event-us.kr/2026bcmd/event/129798",
+      "event_id": "c9b68f1bd32ce37477c731653c93ebebfadf8e6a5b26afb936db91ea5aa9fac7",
+      "message_id": "1559406904655224932",
+      "posted": true,
+      "posted_at": "2026-10-13T12:25:52.650760+09:00",
+      "source_title": "2026 블록체인 밋업데이 (30회차)",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나"
+      ],
+      "thread_id": "1559406904655224932"
     },
     "c9df077adcf6779c358bb89ccef6739280c832bb93fd1e979155ba9f20ab9b4c": {
       "canonical_url": "https://meetup.com/awskrug/events/313678685",
