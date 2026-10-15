@@ -533,6 +533,20 @@
       ],
       "thread_id": "1480224156145422562"
     },
+    "0fb67dd4040966c78ac461c8cba82163471ffc6c728f6a37b6b28dd2f6259cc0": {
+      "canonical_url": "https://meetup.com/awskrug/events/316937476",
+      "event_id": "0fb67dd4040966c78ac461c8cba82163471ffc6c728f6a37b6b28dd2f6259cc0",
+      "message_id": "1560099722063249552",
+      "posted": true,
+      "posted_at": "2026-10-15T10:19:08.880565+09:00",
+      "source_title": "AWSKRUG 주니어 #junior 밋업 - 11월 5일 (목)",
+      "tags": [
+        "오프라인",
+        "AI",
+        "클라우드"
+      ],
+      "thread_id": "1560099722063249552"
+    },
     "1041b695260a6649bc3d6bdf7d2dbace6f404a20db99a78cbb6772889928f0db": {
       "canonical_url": "https://codysseycampus.kr/",
       "event_id": "1041b695260a6649bc3d6bdf7d2dbace6f404a20db99a78cbb6772889928f0db",
@@ -2145,6 +2159,20 @@
       ],
       "thread_id": "1556860807390691406"
     },
+    "48d8208de45cd10ad68c1a5fc789c1e3a2db584b9c441d43df28d04efdf99a68": {
+      "canonical_url": "https://event-us.kr/datanet/event/137419",
+      "event_id": "48d8208de45cd10ad68c1a5fc789c1e3a2db584b9c441d43df28d04efdf99a68",
+      "message_id": "1560099695785934871",
+      "posted": true,
+      "posted_at": "2026-10-15T10:19:08.880565+09:00",
+      "source_title": "AI 에이전트의 ERP·레거시 연동과 멀티에이전트 협업 실전 세미나",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1560099695785934871"
+    },
     "4ae77062f00727d2ce59b1337468b78c3eba211c1c3c88c827b92f90149bc0fe": {
       "canonical_url": "https://luma.com/haoh7sla",
       "event_id": "4ae77062f00727d2ce59b1337468b78c3eba211c1c3c88c827b92f90149bc0fe",
@@ -3113,6 +3141,20 @@
       ],
       "thread_id": "1555400271566475339"
     },
+    "691b095187769cf3b6356bc302c8e4f1bb0f6aa4d4d294a559e8a6ab682269f8": {
+      "canonical_url": "https://event-us.kr/openkcloud/event/137324",
+      "event_id": "691b095187769cf3b6356bc302c8e4f1bb0f6aa4d4d294a559e8a6ab682269f8",
+      "message_id": "1560099770784153654",
+      "posted": true,
+      "posted_at": "2026-10-15T10:19:08.880565+09:00",
+      "source_title": "openKcloud DevDay 2026 \"모두를 위한 AI, 관측에서 서비스까지 AI로 연결되는 클라우드\"",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1560099770784153654"
+    },
     "692ffc03d384bf1f1560bf2009397d7aeb7316602ffa877d4cd73531a1f81ee5": {
       "canonical_url": "https://event-us.kr/gsneotek/event/132338",
       "event_id": "692ffc03d384bf1f1560bf2009397d7aeb7316602ffa877d4cd73531a1f81ee5",
@@ -3291,6 +3333,20 @@
         "AI"
       ],
       "thread_id": "1518046198416805989"
+    },
+    "6dd6f24db171045d58f15a55b30310e0ee5e7f3b22219201cddf2557a843cb68": {
+      "canonical_url": "https://meetup.com/awskrug/events/316967026",
+      "event_id": "6dd6f24db171045d58f15a55b30310e0ee5e7f3b22219201cddf2557a843cb68",
+      "message_id": "1560099700051419160",
+      "posted": true,
+      "posted_at": "2026-10-15T10:19:08.880565+09:00",
+      "source_title": "AWSKRUG #AIEngineering 소모임 - 문서를 이해하는 실전 AI 에이전트 [10월 27일]",
+      "tags": [
+        "오프라인",
+        "AI",
+        "클라우드"
+      ],
+      "thread_id": "1560099700051419160"
     },
     "6ddba8e831dd6cb2d1fa23ee3ac65d093de9ebe0770b00a0e9b7e1a3235b6c85": {
       "canonical_url": "https://ai-champion.or.kr/",
@@ -3834,6 +3890,19 @@
         "AI"
       ],
       "thread_id": "1522032595066425455"
+    },
+    "79359022dcf59ad82cf059b306f0943e031348fbdf8bfaf6b5f280909de3a316": {
+      "canonical_url": "https://dev-korea.com/events/ai-clarity-october-2026",
+      "event_id": "79359022dcf59ad82cf059b306f0943e031348fbdf8bfaf6b5f280909de3a316",
+      "message_id": "1560099717084352596",
+      "posted": true,
+      "posted_at": "2026-10-15T10:19:08.880565+09:00",
+      "source_title": "AI: Clarity amongst hype, uncertainty, and instability (Dev Korea #18)",
+      "tags": [
+        "오프라인",
+        "AI"
+      ],
+      "thread_id": "1560099717084352596"
     },
     "7955217378a227a2212f071e034d88060c311444e46866ba894d8ff1fa130716": {
       "canonical_url": "https://event-us.kr/advantechseminar/event/132284",
@@ -4615,6 +4684,19 @@
         "교육/부트캠프"
       ],
       "thread_id": "1503911001463062558"
+    },
+    "9161d50814673c8200abfe69aea7061f9802ec1bf7b4c074fb31e7a79d8d2edc": {
+      "canonical_url": "https://luma.com/wlmnk9mo",
+      "event_id": "9161d50814673c8200abfe69aea7061f9802ec1bf7b4c074fb31e7a79d8d2edc",
+      "message_id": "1560099706086887436",
+      "posted": true,
+      "posted_at": "2026-10-15T10:19:08.880565+09:00",
+      "source_title": "AutoRAG Meetup",
+      "tags": [
+        "오프라인",
+        "AI"
+      ],
+      "thread_id": "1560099706086887436"
     },
     "916bbdec3abe610fb34f9e681fd6a45c61c8ddf1b13aa4c0367e03f0646ea725": {
       "canonical_url": "https://event-us.kr/2026bcmd/event/129793",
@@ -6439,6 +6521,20 @@
       ],
       "thread_id": "1497383502298091584"
     },
+    "cc01f6d25ca7fe1580c5b448ad9a0fc1ec0df1aabae17c5c389727c7d0c02a9f": {
+      "canonical_url": "https://skttechacademy.com/notice/15",
+      "event_id": "cc01f6d25ca7fe1580c5b448ad9a0fc1ec0df1aabae17c5c389727c7d0c02a9f",
+      "message_id": "1560099758247518380",
+      "posted": true,
+      "posted_at": "2026-10-15T10:19:08.880565+09:00",
+      "source_title": "[SK텔레콤] FLY AI Challenger 10기 모집",
+      "tags": [
+        "오프라인",
+        "교육/부트캠프",
+        "AI"
+      ],
+      "thread_id": "1560099758247518380"
+    },
     "cc816b2192e8a67046663056e3935d39b5d0ec4699db8b1979bc1ed0ec0007a3": {
       "canonical_url": "https://edu.rapa.or.kr/recruitment/428",
       "event_id": "cc816b2192e8a67046663056e3935d39b5d0ec4699db8b1979bc1ed0ec0007a3",
@@ -7737,6 +7833,20 @@
       ],
       "thread_id": "1492671034468601878"
     },
+    "f1c34e5a1b750baf277a9337f5d4cb34143bde69f407a999e73e8463177accbe": {
+      "canonical_url": "https://event-us.kr/advantechkr/event/137034",
+      "event_id": "f1c34e5a1b750baf277a9337f5d4cb34143bde69f407a999e73e8463177accbe",
+      "message_id": "1560099734331461695",
+      "posted": true,
+      "posted_at": "2026-10-15T10:19:08.880565+09:00",
+      "source_title": "2026 Edge AI Day",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1560099734331461695"
+    },
     "f1fb8c6cd028fa5a6796348db48e3034efd80335ad493ac818fe7051ff69689d": {
       "canonical_url": "https://luma.com/06x2etd7",
       "event_id": "f1fb8c6cd028fa5a6796348db48e3034efd80335ad493ac818fe7051ff69689d",
@@ -8089,6 +8199,19 @@
         "AI"
       ],
       "thread_id": "1549227832008376420"
+    },
+    "fa43d698724af16b882985d99d3277f480ceb15dc7996f9cb81606efd0d74806": {
+      "canonical_url": "https://luma.com/4liixtsf",
+      "event_id": "fa43d698724af16b882985d99d3277f480ceb15dc7996f9cb81606efd0d74806",
+      "message_id": "1560099683110490234",
+      "posted": true,
+      "posted_at": "2026-10-15T10:19:08.880565+09:00",
+      "source_title": "DevDay Exchange Community: Suwon",
+      "tags": [
+        "오프라인",
+        "AI"
+      ],
+      "thread_id": "1560099683110490234"
     },
     "faef89647a7b72b15fa587c33da294f70099d9307273bdbcbc2604b161f3e746": {
       "canonical_url": "https://meetup.com/awskrug/events/316051935",
