@@ -131,6 +131,20 @@
       "tags": [],
       "thread_id": null
     },
+    "0563506d516e653f79f3c79a253e55c03e17017b1e214af072c69e0ac95a8caf": {
+      "canonical_url": "https://cday2026.awskr.org/",
+      "event_id": "0563506d516e653f79f3c79a253e55c03e17017b1e214af072c69e0ac95a8caf",
+      "message_id": "1562637398079447042",
+      "posted": true,
+      "posted_at": "2026-10-22T10:22:28.096587+09:00",
+      "source_title": "AWS Community Day Seoul 2026 - AI 에이전트 시대의 클라우드 운영 배우기",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1562637398079447042"
+    },
     "061663bb97b68f5a3001c73aa674bf043c0b7d8fc82deafde852c38d1511d499": {
       "canonical_url": "https://events.teams.microsoft.com/event/b1532464-68b5-4997-825d-bc3430d621a3@97f42f55-f1db-4804-b1eb-08db083efd4f",
       "event_id": "061663bb97b68f5a3001c73aa674bf043c0b7d8fc82deafde852c38d1511d499",
@@ -1301,6 +1315,20 @@
         "컨퍼런스/세미나"
       ],
       "thread_id": "1547410347898568715"
+    },
+    "24d33530f8d4a744628c9d66c20d126498d76fe75dd60307afac9b027d02392b": {
+      "canonical_url": "https://hbrkorea.com/event/view/page/1/eno/44",
+      "event_id": "24d33530f8d4a744628c9d66c20d126498d76fe75dd60307afac9b027d02392b",
+      "message_id": "1562637269268037716",
+      "posted": true,
+      "posted_at": "2026-10-22T10:22:28.096587+09:00",
+      "source_title": "2026 HBR AX SUMMIT",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1562637269268037716"
     },
     "24e56482e635aa81ea2e4ba0279cadad73bfff548fc08df643095426ecdd5d66": {
       "canonical_url": "https://luma.com/1cwwvh0p",
@@ -3187,6 +3215,20 @@
       ],
       "thread_id": "1501371587075772476"
     },
+    "62c848df2070bb721e1e95d809c562550c93f67894877fab92ef272f5d2e33e5": {
+      "canonical_url": "https://event-us.kr/kaci/event/138123",
+      "event_id": "62c848df2070bb721e1e95d809c562550c93f67894877fab92ef272f5d2e33e5",
+      "message_id": "1562637290008879155",
+      "posted": true,
+      "posted_at": "2026-10-22T10:22:28.096587+09:00",
+      "source_title": "[SaaS 전환지원센터] 제10회 SaaS 전환 성공 세미나 - AI 시대, SaaS 고도화와 보안·운영 혁신 전략",
+      "tags": [
+        "온라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1562637290008879155"
+    },
     "6409ee7141ff6008ffe5646129422a925848ad755d892d5bd299e32ff702d7d6": {
       "canonical_url": "https://luma.com/m5go7n2c",
       "event_id": "6409ee7141ff6008ffe5646129422a925848ad755d892d5bd299e32ff702d7d6",
@@ -3621,6 +3663,19 @@
       ],
       "thread_id": "1497383493594775642"
     },
+    "70489bf0a31232ee39536326bef311f9beedca00921758db34197dc2ad887840": {
+      "canonical_url": "https://event-us.kr/gorani/event/137959",
+      "event_id": "70489bf0a31232ee39536326bef311f9beedca00921758db34197dc2ad887840",
+      "message_id": "1562637321684393995",
+      "posted": true,
+      "posted_at": "2026-10-22T10:22:28.096587+09:00",
+      "source_title": "AI 개발에 관심있는 사람들의 네트워킹 모임",
+      "tags": [
+        "오프라인",
+        "AI"
+      ],
+      "thread_id": "1562637321684393995"
+    },
     "714d8d2384e6fc9f725bb70d8bb53d92968c1bd867638ea85695daf84cec7537": {
       "canonical_url": "https://event-us.kr/coontec/event/133762",
       "event_id": "714d8d2384e6fc9f725bb70d8bb53d92968c1bd867638ea85695daf84cec7537",
@@ -3933,6 +3988,20 @@
         "AI"
       ],
       "thread_id": "1514424349556473987"
+    },
+    "77dc237f6ee953cb03a607750bc7a0fbb3eed35a681768d0dc3ab72101d09e7b": {
+      "canonical_url": "https://modulabs.co.kr/community/momos/620",
+      "event_id": "77dc237f6ee953cb03a607750bc7a0fbb3eed35a681768d0dc3ab72101d09e7b",
+      "message_id": "1562637385550921821",
+      "posted": true,
+      "posted_at": "2026-10-22T10:22:28.096587+09:00",
+      "source_title": "[1회차] RL과 VLA로 만나는 Physical AI - 로봇 제어 기초",
+      "tags": [
+        "오프라인",
+        "교육/부트캠프",
+        "AI"
+      ],
+      "thread_id": "1562637385550921821"
     },
     "77e93c2303ea6aaa54dd37f82d81ced5e76635b0a1fa96f730e177d39e8e100e": {
       "canonical_url": "https://k-ctf.org/contests/6aaba42311c4d10a2394911e",
@@ -5481,6 +5550,20 @@
       ],
       "thread_id": "1490496438625374400"
     },
+    "a40b11e934dc3a09e9a79fb53cc0ca276a9213b88517a83d0d29231d600d2303": {
+      "canonical_url": "https://luma.com/atze6fex",
+      "event_id": "a40b11e934dc3a09e9a79fb53cc0ca276a9213b88517a83d0d29231d600d2303",
+      "message_id": "1562637310066032681",
+      "posted": true,
+      "posted_at": "2026-10-22T10:22:28.096587+09:00",
+      "source_title": "Kiro 한국 사용자 모임 (2026-11)",
+      "tags": [
+        "오프라인",
+        "AI",
+        "클라우드"
+      ],
+      "thread_id": "1562637310066032681"
+    },
     "a4b75829c471e1b8ed1c309c8c61f9a10b4daf68d8922aa2845d98fde00d0c85": {
       "canonical_url": "https://meetup.com/awskrug/events/315869898",
       "event_id": "a4b75829c471e1b8ed1c309c8c61f9a10b4daf68d8922aa2845d98fde00d0c85",
@@ -5886,6 +5969,20 @@
         "컨퍼런스/세미나"
       ],
       "thread_id": "1534352556581720175"
+    },
+    "af86d4f797d31c36a055cca02aa67b98dd1b2a9c8635c96aa876b451b3e806fb": {
+      "canonical_url": "https://event-us.kr/theori/event/137804",
+      "event_id": "af86d4f797d31c36a055cca02aa67b98dd1b2a9c8635c96aa876b451b3e806fb",
+      "message_id": "1562637240721739889",
+      "posted": true,
+      "posted_at": "2026-10-22T10:22:28.096587+09:00",
+      "source_title": "[웨비나] 통제 없는 자율성에 맞서다: ARTEX 중심으로 본 AI 자율 침투 도구",
+      "tags": [
+        "온라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1562637240721739889"
     },
     "afa854af684f5258a54983850c40ea2f03c9c4bcae3a4d5c3bd49f55d9d67b08": {
       "canonical_url": "https://lp.jetbrains.com/intellij-idea-conf-2026",
@@ -6400,6 +6497,19 @@
         "해커톤"
       ],
       "thread_id": "1552851861596278938"
+    },
+    "c1a39067bb6141e2a9e5fbe474d92be364c84532d4dff0dc3672f4818e4727b4": {
+      "canonical_url": "https://oliveyoung.tech/conf/2026",
+      "event_id": "c1a39067bb6141e2a9e5fbe474d92be364c84532d4dff0dc3672f4818e4727b4",
+      "message_id": "1562637348624138251",
+      "posted": true,
+      "posted_at": "2026-10-22T10:22:28.096587+09:00",
+      "source_title": "올리브영 테크 컨퍼런스 define:OMNI",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나"
+      ],
+      "thread_id": "1562637348624138251"
     },
     "c27422889148ab74ad560cee6f5baad274d1afe3992ddc16180d78e622b347b9": {
       "canonical_url": "https://worlditshow.co.kr/introduce/01.php",
@@ -7241,6 +7351,20 @@
       ],
       "thread_id": "1540141255994908725"
     },
+    "d81ab48a83d425b18b5874a9bcf1f5fdbb3f2d88fd34985cab25a5b3b9ae5360": {
+      "canonical_url": "https://ticketa.co/event/96cdhqje",
+      "event_id": "d81ab48a83d425b18b5874a9bcf1f5fdbb3f2d88fd34985cab25a5b3b9ae5360",
+      "message_id": "1562637374545072171",
+      "posted": true,
+      "posted_at": "2026-10-22T10:22:28.096587+09:00",
+      "source_title": "DEVS 커뮤니티 1st 밋업",
+      "tags": [
+        "오프라인",
+        "AI",
+        "클라우드"
+      ],
+      "thread_id": "1562637374545072171"
+    },
     "d849cc4a7e1042c6164afb24e64d778b4c41b53ab134ffa34d6d33bcb2f921e1": {
       "canonical_url": "https://luma.com/ai9yfq4w",
       "event_id": "d849cc4a7e1042c6164afb24e64d778b4c41b53ab134ffa34d6d33bcb2f921e1",
@@ -8000,6 +8124,20 @@
       ],
       "thread_id": "1495570745370083441"
     },
+    "ee9fc170f5b22856ca71e78eeb9c5e713a24f1a76449cb9abc6de4fc73646155": {
+      "canonical_url": "https://goa2026.co.kr/",
+      "event_id": "ee9fc170f5b22856ca71e78eeb9c5e713a24f1a76449cb9abc6de4fc73646155",
+      "message_id": "1562637254835568661",
+      "posted": true,
+      "posted_at": "2026-10-22T10:22:28.096587+09:00",
+      "source_title": "Games on AWS 2026",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "클라우드"
+      ],
+      "thread_id": "1562637254835568661"
+    },
     "eeac322dd6a337bac3423f2871935e2db63c2c2242c99cf9d9fcc787bfcd27a6": {
       "canonical_url": "https://ticketa.co/event/xzch6c1g",
       "event_id": "eeac322dd6a337bac3423f2871935e2db63c2c2242c99cf9d9fcc787bfcd27a6",
@@ -8123,6 +8261,20 @@
       ],
       "thread_id": "1552851928600416327"
     },
+    "f2aa852ff87f14205749859ac124fe503615c7c51f993807742c3cea56680af9": {
+      "canonical_url": "https://jeckathon.ject.kr/",
+      "event_id": "f2aa852ff87f14205749859ac124fe503615c7c51f993807742c3cea56680af9",
+      "message_id": "1562637332413288502",
+      "posted": true,
+      "posted_at": "2026-10-22T10:22:28.096587+09:00",
+      "source_title": "젝커톤 2026 | 젝트 X 스위프 AI 해커톤",
+      "tags": [
+        "오프라인",
+        "해커톤",
+        "AI"
+      ],
+      "thread_id": "1562637332413288502"
+    },
     "f2e437c53ad08bc31a1317bf7882b13371476dea1ee0ffea9e7cf246b1a73760": {
       "canonical_url": "https://event-us.kr/2026bcmd/event/129795",
       "event_id": "f2e437c53ad08bc31a1317bf7882b13371476dea1ee0ffea9e7cf246b1a73760",
@@ -8205,6 +8357,19 @@
       ],
       "thread_id": "1530727305218097203"
     },
+    "f4bfd42521148535703a08512bc926f0281a79e077bf4e1c39a486413026fd98": {
+      "canonical_url": "https://event-us.kr/kcc2026/event/136969",
+      "event_id": "f4bfd42521148535703a08512bc926f0281a79e077bf4e1c39a486413026fd98",
+      "message_id": "1562637360162807952",
+      "posted": true,
+      "posted_at": "2026-10-22T10:22:28.096587+09:00",
+      "source_title": "콘솔게임 개발자 컨퍼런스 2026 (K-CONSOLE CONFERENCE)",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나"
+      ],
+      "thread_id": "1562637360162807952"
+    },
     "f5123899ff07ea1958bf3cda2bb3e2e3225d58baf99d5072eded3f77ec7d33c0": {
       "canonical_url": "https://meetup.com/awskrug/events/315954361",
       "event_id": "f5123899ff07ea1958bf3cda2bb3e2e3225d58baf99d5072eded3f77ec7d33c0",
@@ -8257,6 +8422,19 @@
         "해커톤"
       ],
       "thread_id": "1490496455188676629"
+    },
+    "f59587317c9adfa25a6a4229cb257089f47de70c1c65580311542af4b72291d2": {
+      "canonical_url": "https://meetup.com/owasp-seoul/events/316792626",
+      "event_id": "f59587317c9adfa25a6a4229cb257089f47de70c1c65580311542af4b72291d2",
+      "message_id": "1562637369985990667",
+      "posted": true,
+      "posted_at": "2026-10-22T10:22:28.096587+09:00",
+      "source_title": "OWASP x BIPA 부산 보안 커뮤니티 데이",
+      "tags": [
+        "오프라인",
+        "보안"
+      ],
+      "thread_id": "1562637369985990667"
     },
     "f5ba2ef932421d78e48b956c1486e959963f7db054ac597620c0a2e604531fad": {
       "canonical_url": "https://rocketpunch.com/event/fDKPI1TUwR",
