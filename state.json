@@ -240,6 +240,20 @@
       ],
       "thread_id": "1495570692974968983"
     },
+    "07769ca44dfd015a25de805b09c5c802427a66d980d42e14d1ea409ad1d1062d": {
+      "canonical_url": "https://event-us.kr/naekyehs/event/137280",
+      "event_id": "07769ca44dfd015a25de805b09c5c802427a66d980d42e14d1ea409ad1d1062d",
+      "message_id": "1563362992777597019",
+      "posted": true,
+      "posted_at": "2026-10-24T10:26:06.480562+09:00",
+      "source_title": "제23회 차세대 테크 리더십포럼 - AI-Native System: 지능화로 다시 설계되는 공학",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1563362992777597019"
+    },
     "07b57e2d69589386cd8ab35ce1a98c5b239a6cab69d3a34234e4628c825aba1c": {
       "canonical_url": "https://event-us.kr/owasp/event/133675",
       "event_id": "07b57e2d69589386cd8ab35ce1a98c5b239a6cab69d3a34234e4628c825aba1c",
@@ -1152,6 +1166,20 @@
       ],
       "thread_id": "1506087399854178354"
     },
+    "1ff318ded18a27824e22aaa469feb264ce033730457e2f1ed78f66b02378fb70": {
+      "canonical_url": "https://event-us.kr/lgupluswebinar/event/137697",
+      "event_id": "1ff318ded18a27824e22aaa469feb264ce033730457e2f1ed78f66b02378fb70",
+      "message_id": "1563363014260957217",
+      "posted": true,
+      "posted_at": "2026-10-24T10:26:06.480562+09:00",
+      "source_title": "[LG U+ RTK 웨비나] 피지컬 AI 시대, 정확한 위치가 경쟁력입니다",
+      "tags": [
+        "온라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1563363014260957217"
+    },
     "1ff8691b2c4c7f7ddcd5faa20a96891506afe75129bbc94a4f2a8f1a4b42fda8": {
       "canonical_url": "https://meetup.com/awskrug/events/313880043",
       "event_id": "1ff8691b2c4c7f7ddcd5faa20a96891506afe75129bbc94a4f2a8f1a4b42fda8",
@@ -1178,6 +1206,20 @@
         "교육/부트캠프"
       ],
       "thread_id": "1499922379172872324"
+    },
+    "2086f654935caf1be7faf89f9b070397744c445bd15c86cd8d237864b683ab4c": {
+      "canonical_url": "https://hackathon.trillionlabs.co/",
+      "event_id": "2086f654935caf1be7faf89f9b070397744c445bd15c86cd8d237864b683ab4c",
+      "message_id": "1563362948695588886",
+      "posted": true,
+      "posted_at": "2026-10-24T10:26:06.480562+09:00",
+      "source_title": "TRILLION AGENT AI HACKATHON 2026",
+      "tags": [
+        "오프라인",
+        "해커톤",
+        "AI"
+      ],
+      "thread_id": "1563362948695588886"
     },
     "20ccc6ec3e9e82fecfbc627832eecf70e9561d2f9abbe3b079e36f7d6374cbd3": {
       "canonical_url": "https://ai4scikorea.org/",
@@ -1686,6 +1728,20 @@
         "보안"
       ],
       "thread_id": "1492671050000105513"
+    },
+    "321eee913e31532a98ced64eabde2a302bd2ceda17a6fc85eeb423365a7d7981": {
+      "canonical_url": "https://event-us.kr/teammawd/event/138375",
+      "event_id": "321eee913e31532a98ced64eabde2a302bd2ceda17a6fc85eeb423365a7d7981",
+      "message_id": "1563362963862331475",
+      "posted": true,
+      "posted_at": "2026-10-24T10:26:06.480562+09:00",
+      "source_title": "MAWD 대학생 START-UP HACKATHON",
+      "tags": [
+        "오프라인",
+        "해커톤",
+        "AI"
+      ],
+      "thread_id": "1563362963862331475"
     },
     "324b725216494ec1547f993a6298f1431b70a849a3aa7420db78aeb0a7a495e4": {
       "canonical_url": "https://tech.channel.io/kr/articles/ai-product-frontiers-fba8c7be",
@@ -3269,6 +3325,19 @@
         "AI"
       ],
       "thread_id": "1539415291061080077"
+    },
+    "65fd39f6413188a65441be7f9c86abce60959d062984fdc27b4e0bbf7ea55c45": {
+      "canonical_url": "https://event-us.kr/langcon/event/138372",
+      "event_id": "65fd39f6413188a65441be7f9c86abce60959d062984fdc27b4e0bbf7ea55c45",
+      "message_id": "1563362935269499034",
+      "posted": true,
+      "posted_at": "2026-10-24T10:26:06.480562+09:00",
+      "source_title": "Inference Korea meetup",
+      "tags": [
+        "온라인",
+        "AI"
+      ],
+      "thread_id": "1563362935269499034"
     },
     "6766e163c2aad6aaf260f5e95de4d1507b5dcc29b5bb931c8e980e1aa63c1eeb": {
       "canonical_url": "https://ticketa.co/event/xf3lr3a0",
@@ -5916,6 +5985,19 @@
       ],
       "thread_id": "1487596554146545776"
     },
+    "ad4ad970f9174026edcd8bc95ff693beec966129c6379fa1ca2f1935075093a6": {
+      "canonical_url": "https://appdevchallenge.auto-hmg.io/",
+      "event_id": "ad4ad970f9174026edcd8bc95ff693beec966129c6379fa1ca2f1935075093a6",
+      "message_id": "1563363005419364387",
+      "posted": true,
+      "posted_at": "2026-10-24T10:26:06.480562+09:00",
+      "source_title": "현대자동차그룹 차량용 앱 개발 공모전 (Code your App into Pleos App Market)",
+      "tags": [
+        "온라인",
+        "공모전/대회"
+      ],
+      "thread_id": "1563363005419364387"
+    },
     "ae4089025f6fa00edad9d110b0cb1dffb99b03b8817f3ed0ae462b7c1951fe3c": {
       "canonical_url": "https://wevity.com/?c=find&s=1&gbn=view&ix=110895",
       "event_id": "ae4089025f6fa00edad9d110b0cb1dffb99b03b8817f3ed0ae462b7c1951fe3c",
@@ -8165,6 +8247,20 @@
       ],
       "thread_id": "1524204126848680039"
     },
+    "ef42b231968ca17b37d341c4998dcdf83e1d3f9b14767f80cb3e3220765fe597": {
+      "canonical_url": "https://event-us.kr/ConventionSOOP/event/138223",
+      "event_id": "ef42b231968ca17b37d341c4998dcdf83e1d3f9b14767f80cb3e3220765fe597",
+      "message_id": "1563363043042131980",
+      "posted": true,
+      "posted_at": "2026-10-24T10:26:06.480562+09:00",
+      "source_title": "2026 대구 블록체인 밋업데이 [4회차 보안 과정]",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "보안"
+      ],
+      "thread_id": "1563363043042131980"
+    },
     "f00568ceb192463f0bfaf0bdc007650245f571717ad9553c2ebd7fa6e71bab04": {
       "canonical_url": "https://luma.com/d6xzrnyk",
       "event_id": "f00568ceb192463f0bfaf0bdc007650245f571717ad9553c2ebd7fa6e71bab04",
@@ -8545,6 +8641,18 @@
         "AI"
       ],
       "thread_id": "1552488779321835542"
+    },
+    "f7a3e6a385a036ecaebb9764766592cb4ae8b2bc5792ad1c5bf362732388a048": {
+      "canonical_url": "https://events.mlh.com/events/15353-hacktoberfest-meetup-seoul-x-hacktoberfest-korea",
+      "event_id": "f7a3e6a385a036ecaebb9764766592cb4ae8b2bc5792ad1c5bf362732388a048",
+      "message_id": "1563362945239486646",
+      "posted": true,
+      "posted_at": "2026-10-24T10:26:06.480562+09:00",
+      "source_title": "Hacktoberfest Seoul 2026",
+      "tags": [
+        "오프라인"
+      ],
+      "thread_id": "1563362945239486646"
     },
     "f80b3079e890194f515a1a65e40aedcfaaa81e226ebae4b2653a6a822a16f304": {
       "canonical_url": "https://event-us.kr/kdf/event/122063",
