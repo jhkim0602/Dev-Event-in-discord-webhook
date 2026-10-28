@@ -240,6 +240,20 @@
       ],
       "thread_id": "1495570692974968983"
     },
+    "0733c3f7c479880ea814fa178872275d472f64cac6b8ac2b4346dc91f1be9067": {
+      "canonical_url": "https://daker.ai/public/hackathons/2026-hai-hecto-ai-challenge",
+      "event_id": "0733c3f7c479880ea814fa178872275d472f64cac6b8ac2b4346dc91f1be9067",
+      "message_id": "1564822392994406404",
+      "posted": true,
+      "posted_at": "2026-10-28T11:04:32.257255+09:00",
+      "source_title": "2026 HAI(하이)! - Hecto AI x Wallet Service Challenge",
+      "tags": [
+        "온라인",
+        "공모전/대회",
+        "AI"
+      ],
+      "thread_id": "1564822392994406404"
+    },
     "07769ca44dfd015a25de805b09c5c802427a66d980d42e14d1ea409ad1d1062d": {
       "canonical_url": "https://event-us.kr/naekyehs/event/137280",
       "event_id": "07769ca44dfd015a25de805b09c5c802427a66d980d42e14d1ea409ad1d1062d",
@@ -709,6 +723,19 @@
         "보안"
       ],
       "thread_id": "1552488726108700764"
+    },
+    "12af4fc8a632f86f81f27d214d75834deabf58588a55ce34f07ea6280bfaddfd": {
+      "canonical_url": "https://event-us.kr/officekeeper/event/138456",
+      "event_id": "12af4fc8a632f86f81f27d214d75834deabf58588a55ce34f07ea6280bfaddfd",
+      "message_id": "1564822158084145153",
+      "posted": true,
+      "posted_at": "2026-10-28T11:04:32.257255+09:00",
+      "source_title": "21회 보안잇 | 규정도 장비도 있는데, 보안 운영은 왜 어려울까요?",
+      "tags": [
+        "오프라인",
+        "보안"
+      ],
+      "thread_id": "1564822158084145153"
     },
     "12c3522e0fc7038d9dc70931ff13f2ac07756a56dc3a7fc106641d7d8ca949ee": {
       "canonical_url": "https://meetup.com/awskrug/events/316167655",
@@ -2478,6 +2505,20 @@
       ],
       "thread_id": "1561544306731257917"
     },
+    "4de6f46c4ea907691ddd2e40bb01cf9fd7af5f21bcf41bd948efbdd5abca8bd7": {
+      "canonical_url": "https://amd-advancing-ai-seoul.com/",
+      "event_id": "4de6f46c4ea907691ddd2e40bb01cf9fd7af5f21bcf41bd948efbdd5abca8bd7",
+      "message_id": "1564822188337668177",
+      "posted": true,
+      "posted_at": "2026-10-28T11:04:32.257255+09:00",
+      "source_title": "AMD Advancing AI + AI DevDay Seoul 2026",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1564822188337668177"
+    },
     "4ebd6dc4b9b1119e84ef632e7ac0a34e00e84318d44dccd09e7a9fd69a2b5115": {
       "canonical_url": "https://sites.google.com/view/2026-study-jams/h1-study-jam",
       "event_id": "4ebd6dc4b9b1119e84ef632e7ac0a34e00e84318d44dccd09e7a9fd69a2b5115",
@@ -3326,6 +3367,19 @@
       ],
       "thread_id": "1539415291061080077"
     },
+    "65ccc1b869b8c3d592422d018a700496df58f0162d57dacc9c9f0aceb8d5d5cd": {
+      "canonical_url": "https://ticketa.co/event/zry4rrhh",
+      "event_id": "65ccc1b869b8c3d592422d018a700496df58f0162d57dacc9c9f0aceb8d5d5cd",
+      "message_id": "1564822358370553877",
+      "posted": true,
+      "posted_at": "2026-10-28T11:04:32.257255+09:00",
+      "source_title": ".NET Conf 2026 @Seoul",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나"
+      ],
+      "thread_id": "1564822358370553877"
+    },
     "65fd39f6413188a65441be7f9c86abce60959d062984fdc27b4e0bbf7ea55c45": {
       "canonical_url": "https://event-us.kr/langcon/event/138372",
       "event_id": "65fd39f6413188a65441be7f9c86abce60959d062984fdc27b4e0bbf7ea55c45",
@@ -3556,6 +3610,20 @@
       ],
       "thread_id": "1490496423324815430"
     },
+    "6bf471d65007ab57746bead935df3fd1db508867f7eb2573783e986375aad382": {
+      "canonical_url": "https://daker.ai/public/hackathons/jeju-ai-bigdata-agent-challenge",
+      "event_id": "6bf471d65007ab57746bead935df3fd1db508867f7eb2573783e986375aad382",
+      "message_id": "1564822314590412842",
+      "posted": true,
+      "posted_at": "2026-10-28T11:04:32.257255+09:00",
+      "source_title": "제주 AI·빅데이터 활용 AI Agent 개발 챌린지",
+      "tags": [
+        "온라인",
+        "공모전/대회",
+        "AI"
+      ],
+      "thread_id": "1564822314590412842"
+    },
     "6d70843a57bab730a8164462a7fe4755717b44ec19e852601ccb084b450e04b3": {
       "canonical_url": "https://event-us.kr/khpseminar/event/123681",
       "event_id": "6d70843a57bab730a8164462a7fe4755717b44ec19e852601ccb084b450e04b3",
@@ -3745,6 +3813,20 @@
       ],
       "thread_id": "1562637321684393995"
     },
+    "70cfcfa7045f3bb9facf7d8bd3e64b16725aaa3dd50563a7271c9b500a095e9b": {
+      "canonical_url": "https://hackersground.kr/",
+      "event_id": "70cfcfa7045f3bb9facf7d8bd3e64b16725aaa3dd50563a7271c9b500a095e9b",
+      "message_id": "1564822183123877899",
+      "posted": true,
+      "posted_at": "2026-10-28T11:04:32.257255+09:00",
+      "source_title": "2026 청도 바이브코딩 해커톤 with 해커그라운드",
+      "tags": [
+        "오프라인",
+        "해커톤",
+        "AI"
+      ],
+      "thread_id": "1564822183123877899"
+    },
     "714d8d2384e6fc9f725bb70d8bb53d92968c1bd867638ea85695daf84cec7537": {
       "canonical_url": "https://event-us.kr/coontec/event/133762",
       "event_id": "714d8d2384e6fc9f725bb70d8bb53d92968c1bd867638ea85695daf84cec7537",
@@ -3785,6 +3867,20 @@
         "AI"
       ],
       "thread_id": "1544160971323342960"
+    },
+    "716a2600b2325d1a5919f6941d9c9e719af9e2c2375991e1f5014cb132e3dd3c": {
+      "canonical_url": "https://event-us.kr/snowflake2026/event/138459",
+      "event_id": "716a2600b2325d1a5919f6941d9c9e719af9e2c2375991e1f5014cb132e3dd3c",
+      "message_id": "1564822214379966539",
+      "posted": true,
+      "posted_at": "2026-10-28T11:04:32.257255+09:00",
+      "source_title": "SNOWFLAKE EXPEDITION WEBINAR",
+      "tags": [
+        "온라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1564822214379966539"
     },
     "723fd1f9450ba4b6033c122057b44e771e0f537e215f1c6cf45413fb801f3a75": {
       "canonical_url": "https://rocketpunch.com/event/wLXO4XRrXO",
@@ -4207,6 +4303,34 @@
         "AI"
       ],
       "thread_id": "1540141182917681163"
+    },
+    "79ea096cacb37c57e4d60884937366e72951771ad7389c6d1aa533f05dbc667f": {
+      "canonical_url": "https://event-us.kr/mcloudbridge/event/138449",
+      "event_id": "79ea096cacb37c57e4d60884937366e72951771ad7389c6d1aa533f05dbc667f",
+      "message_id": "1564822337101111297",
+      "posted": true,
+      "posted_at": "2026-10-28T11:04:32.257255+09:00",
+      "source_title": "[엠클라우드브리지] 11월 25일(수) 마이크로소프트 ERP 기반 AI ERP 업무 혁신 세미나",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1564822337101111297"
+    },
+    "7bf548bce78e79678a610e080811bb1c442629a92910b8a9834d1317341ada82": {
+      "canonical_url": "https://event-us.kr/hso/event/138582",
+      "event_id": "7bf548bce78e79678a610e080811bb1c442629a92910b8a9834d1317341ada82",
+      "message_id": "1564822382407843921",
+      "posted": true,
+      "posted_at": "2026-10-28T11:04:32.257255+09:00",
+      "source_title": "우리 회사 AI 에이전트, 도입 전에 직접 만들어보세요 | Agent in a Day",
+      "tags": [
+        "온라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1564822382407843921"
     },
     "7bf8ab71d38858f642f5d82ae5b08ebc3572d21929baf9d1372ccaedeabad9fd": {
       "canonical_url": "https://event-us.kr/ject/event/133407",
@@ -5004,6 +5128,20 @@
       ],
       "thread_id": "1531813982795726891"
     },
+    "903bb914b7cf7527d6d23c1d20e8388e2a66be0526c172702e059a441da0d23a": {
+      "canonical_url": "https://meetup.com/awskrug/events/317143207",
+      "event_id": "903bb914b7cf7527d6d23c1d20e8388e2a66be0526c172702e059a441da0d23a",
+      "message_id": "1564822328267898931",
+      "posted": true,
+      "posted_at": "2026-10-28T11:04:32.257255+09:00",
+      "source_title": "AWSKRUG #container 🐳 K8s Service Account 기반 SSO 인증 및 GPU 컨테이너 활용 사례 (11/24)",
+      "tags": [
+        "오프라인",
+        "AI",
+        "클라우드"
+      ],
+      "thread_id": "1564822328267898931"
+    },
     "913227a5abb352a923a8b008ea862146560b53ff1e58e692f2dcd3695f0d21f4": {
       "canonical_url": "https://oss.kr/pages/10/4511?page=1&pageSize=10&searchKeyword=&searchType=",
       "event_id": "913227a5abb352a923a8b008ea862146560b53ff1e58e692f2dcd3695f0d21f4",
@@ -5096,6 +5234,20 @@
         "AI"
       ],
       "thread_id": "1555400243246530652"
+    },
+    "93ef4d7eb5b6899eb4475691971ded84e7cce022a15417751c8411af0b2fc33f": {
+      "canonical_url": "https://event-us.kr/khpseminar/event/137948",
+      "event_id": "93ef4d7eb5b6899eb4475691971ded84e7cce022a15417751c8411af0b2fc33f",
+      "message_id": "1564822232063017083",
+      "posted": true,
+      "posted_at": "2026-10-28T11:04:32.257255+09:00",
+      "source_title": "K-하이테크 플랫폼 AI 세미나 (AI TALKING STAGE)",
+      "tags": [
+        "온라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1564822232063017083"
     },
     "940e91e5fbbf860f1dd3e6254db2c6a6a162df7867b96160c6e81596c160bdef": {
       "canonical_url": "https://forms.gle/Jp5or1t1tohCerdX8",
@@ -5633,6 +5785,20 @@
       ],
       "thread_id": "1562637310066032681"
     },
+    "a45d365c01ee50ee463feadc9eb3d513fc3387eda47929b1f6c32997044aec26": {
+      "canonical_url": "https://ticketa.co/event/3wv8qz2b",
+      "event_id": "a45d365c01ee50ee463feadc9eb3d513fc3387eda47929b1f6c32997044aec26",
+      "message_id": "1564822373306212414",
+      "posted": true,
+      "posted_at": "2026-10-28T11:04:32.257255+09:00",
+      "source_title": "GitHub Copilot 활용한 레거시 애플리케이션 현대화 핸즈온 워크샵",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1564822373306212414"
+    },
     "a4b75829c471e1b8ed1c309c8c61f9a10b4daf68d8922aa2845d98fde00d0c85": {
       "canonical_url": "https://meetup.com/awskrug/events/315869898",
       "event_id": "a4b75829c471e1b8ed1c309c8c61f9a10b4daf68d8922aa2845d98fde00d0c85",
@@ -5673,6 +5839,20 @@
       ],
       "thread_id": "1536519466366664755"
     },
+    "a67e7e3ef8fb5c385d3b0e63531efae3abca4d92c6c6ddab719b88ca19e1ddc6": {
+      "canonical_url": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR5OR2SEXPTFBkSxxQiDL5sJURUNBTEFGNE1VWlE4OE9BOUhBNU5RUlQ5RC4u&route=shorturl",
+      "event_id": "a67e7e3ef8fb5c385d3b0e63531efae3abca4d92c6c6ddab719b88ca19e1ddc6",
+      "message_id": "1564822147476758539",
+      "posted": true,
+      "posted_at": "2026-10-28T11:04:32.257255+09:00",
+      "source_title": "The Next AI Frontier: Open Models, Enterprise Scale, Unlimited Possibilities",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1564822147476758539"
+    },
     "a699790c5048add130cdebf17f4d468d91f82beb6386cf366cbf35ce4295a2d0": {
       "canonical_url": "https://rocketpunch.com/event/jsnrpnY24Q",
       "event_id": "a699790c5048add130cdebf17f4d468d91f82beb6386cf366cbf35ce4295a2d0",
@@ -5686,6 +5866,18 @@
         "컨퍼런스/세미나"
       ],
       "thread_id": "1480224166849548453"
+    },
+    "a6b3d5694c5d7459423ec8ae49328423255fc9c37090a957d6ce93ed3947f1e3": {
+      "canonical_url": "https://dev-korea.com/events/vulnerability-engineering-november-2026",
+      "event_id": "a6b3d5694c5d7459423ec8ae49328423255fc9c37090a957d6ce93ed3947f1e3",
+      "message_id": "1564822252627689514",
+      "posted": true,
+      "posted_at": "2026-10-28T11:04:32.257255+09:00",
+      "source_title": "From Vulnerability Research to Vulnerability Engineering (Dev Korea #19)",
+      "tags": [
+        "오프라인"
+      ],
+      "thread_id": "1564822252627689514"
     },
     "a709f433fada743aa379ec02d8e7238fd34d6a840cb20ce8a9c89f429a0ffe36": {
       "canonical_url": "https://ticketa.co/event/871axvkx",
@@ -5984,6 +6176,19 @@
         "커리어"
       ],
       "thread_id": "1487596554146545776"
+    },
+    "ad40c3efcc3480e62b9e5b34200dff36638aaff432dbbd3b668a009302b7f285": {
+      "canonical_url": "https://luma.com/1kshcws3",
+      "event_id": "ad40c3efcc3480e62b9e5b34200dff36638aaff432dbbd3b668a009302b7f285",
+      "message_id": "1564822258805903491",
+      "posted": true,
+      "posted_at": "2026-10-28T11:04:32.257255+09:00",
+      "source_title": "Furiosa Developer Meetup",
+      "tags": [
+        "오프라인",
+        "AI"
+      ],
+      "thread_id": "1564822258805903491"
     },
     "ad4ad970f9174026edcd8bc95ff693beec966129c6379fa1ca2f1935075093a6": {
       "canonical_url": "https://appdevchallenge.auto-hmg.io/",
@@ -7471,6 +7676,18 @@
       "tags": [],
       "thread_id": null
     },
+    "d8c188969c360919f75edb2bfe230d1f24212bb4f4099412b0f0952683c31120": {
+      "canonical_url": "https://event-us.kr/cppkorea/event/138668",
+      "event_id": "d8c188969c360919f75edb2bfe230d1f24212bb4f4099412b0f0952683c31120",
+      "message_id": "1564822278858870936",
+      "posted": true,
+      "posted_at": "2026-10-28T11:04:32.257255+09:00",
+      "source_title": "C++ Korea 소모임 - 2026/11",
+      "tags": [
+        "오프라인"
+      ],
+      "thread_id": "1564822278858870936"
+    },
     "d927293b220c333e3d51dff95df3dbdaa33c0098391d6020d9102153f7e60f22": {
       "canonical_url": "https://event-us.kr/2026bcmd/event/129790",
       "event_id": "d927293b220c333e3d51dff95df3dbdaa33c0098391d6020d9102153f7e60f22",
@@ -7619,6 +7836,20 @@
       ],
       "thread_id": "1493760404722028554"
     },
+    "dcda45e75e8e901e5d95ff13ca80db70cb04e34cd3ed27864994ba8cc8427055": {
+      "canonical_url": "https://fastcampus.co.kr/data_thecamp_fdeforum",
+      "event_id": "dcda45e75e8e901e5d95ff13ca80db70cb04e34cd3ed27864994ba8cc8427055",
+      "message_id": "1564822368382222498",
+      "posted": true,
+      "posted_at": "2026-10-28T11:04:32.257255+09:00",
+      "source_title": "2026 FDE Field Forum: FDE가 전달하는 현장의 이야기",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1564822368382222498"
+    },
     "ddc05cb60983a4c67edfb2dd2507ea828a23c50e69b4dddd0acbe1a701a666d4": {
       "canonical_url": "https://allforyoung.com/posts/83827",
       "event_id": "ddc05cb60983a4c67edfb2dd2507ea828a23c50e69b4dddd0acbe1a701a666d4",
@@ -7687,6 +7918,34 @@
         "AI"
       ],
       "thread_id": "1503911083520294983"
+    },
+    "dfa04f8753249fa743750dbd66f65dbe6487c1dcae4f0a10cea566f4112c6ca4": {
+      "canonical_url": "https://ticketa.co/event/qexwz60x",
+      "event_id": "dfa04f8753249fa743750dbd66f65dbe6487c1dcae4f0a10cea566f4112c6ca4",
+      "message_id": "1564822245790982316",
+      "posted": true,
+      "posted_at": "2026-10-28T11:04:32.257255+09:00",
+      "source_title": "아임웹 테크그라운드 26",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1564822245790982316"
+    },
+    "dfb15c194744d102d47df3d8ba7376ba36f3ea9638838a13f847a12a557fd020": {
+      "canonical_url": "https://event-us.kr/kmst/event/138636",
+      "event_id": "dfb15c194744d102d47df3d8ba7376ba36f3ea9638838a13f847a12a557fd020",
+      "message_id": "1564822293299994655",
+      "posted": true,
+      "posted_at": "2026-10-28T11:04:32.257255+09:00",
+      "source_title": "AI 위협 시대, 운영 연속성을 위한 OT 보안 전략",
+      "tags": [
+        "온라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1564822293299994655"
     },
     "dfcdd89963c66f4d70368dcad17caf4afc376dff54d3d4a41a604cf6e281dcfd": {
       "canonical_url": "https://aws.amazon.com/ko/events/summits/seoul",
