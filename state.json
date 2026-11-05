@@ -201,6 +201,20 @@
       ],
       "thread_id": "1514424325124391033"
     },
+    "065e5839d872c46498934a3087b32ec7d13d23d2b4f3bf6e31376c965a97262d": {
+      "canonical_url": "https://axacademy.ai/axwar/samilpwc-1",
+      "event_id": "065e5839d872c46498934a3087b32ec7d13d23d2b4f3bf6e31376c965a97262d",
+      "message_id": "1567740243556307028",
+      "posted": true,
+      "posted_at": "2026-11-05T12:19:59.734866+09:00",
+      "source_title": "AX인재전쟁 ONLINE - 삼일PwC",
+      "tags": [
+        "온라인",
+        "공모전/대회",
+        "AI"
+      ],
+      "thread_id": "1567740243556307028"
+    },
     "06b7a6f03be7f079e28208cffdb0b3fa9949a3c3e2b0f6e005c7fc280d950bd3": {
       "canonical_url": "https://nerd.aviss.kr/archive/5",
       "event_id": "06b7a6f03be7f079e28208cffdb0b3fa9949a3c3e2b0f6e005c7fc280d950bd3",
@@ -763,6 +777,20 @@
         "보안"
       ],
       "thread_id": "1552488726108700764"
+    },
+    "12a73af243eb91f621a91d6a7705373b1cc6693c6e74934e3a2f683534e78d37": {
+      "canonical_url": "https://event-us.kr/tug/event/139112",
+      "event_id": "12a73af243eb91f621a91d6a7705373b1cc6693c6e74934e3a2f683534e78d37",
+      "message_id": "1567740257586257991",
+      "posted": true,
+      "posted_at": "2026-11-05T12:19:59.734866+09:00",
+      "source_title": "2026 AI 활용 전국 대학생 창업 해커톤",
+      "tags": [
+        "오프라인",
+        "해커톤",
+        "AI"
+      ],
+      "thread_id": "1567740257586257991"
     },
     "12af4fc8a632f86f81f27d214d75834deabf58588a55ce34f07ea6280bfaddfd": {
       "canonical_url": "https://event-us.kr/officekeeper/event/138456",
@@ -1341,6 +1369,33 @@
         "클라우드"
       ],
       "thread_id": "1499922434659455059"
+    },
+    "221be4b5ff8a7ce3e32eabadbb11878e456430f2b31c6046c283d44538603b40": {
+      "canonical_url": "https://mogefdatacontest.co.kr/",
+      "event_id": "221be4b5ff8a7ce3e32eabadbb11878e456430f2b31c6046c283d44538603b40",
+      "message_id": "1567740283091681310",
+      "posted": true,
+      "posted_at": "2026-11-05T12:19:59.734866+09:00",
+      "source_title": "2026 성평등 AI 벤치마크 챌린지",
+      "tags": [
+        "온라인",
+        "공모전/대회",
+        "AI"
+      ],
+      "thread_id": "1567740283091681310"
+    },
+    "234fbeb8958f912b3065e4fe1054320202301efb3e0559631c4a4e00a498f3b5": {
+      "canonical_url": "https://event-us.kr/vllmkr/event/137780",
+      "event_id": "234fbeb8958f912b3065e4fe1054320202301efb3e0559631c4a4e00a498f3b5",
+      "message_id": "1567740306655281304",
+      "posted": true,
+      "posted_at": "2026-11-05T12:19:59.734866+09:00",
+      "source_title": "3rd vLLM Korea Meetup",
+      "tags": [
+        "오프라인",
+        "AI"
+      ],
+      "thread_id": "1567740306655281304"
     },
     "2378fb6d9ffa9f5887eb61f673dd917a23419bbcbbf884b0d4e7f3f0f1eecaf7": {
       "canonical_url": "https://rocketpunch.com/event/Wei7HtwOby",
@@ -2820,6 +2875,18 @@
       ],
       "thread_id": "1554319781354541129"
     },
+    "534ed66570630d95369b83ebac0ee2dfcfb136fc30de28cae1226d1a9bf26799": {
+      "canonical_url": "https://luma.com/qzf50hb0",
+      "event_id": "534ed66570630d95369b83ebac0ee2dfcfb136fc30de28cae1226d1a9bf26799",
+      "message_id": "1567740274409476309",
+      "posted": true,
+      "posted_at": "2026-11-05T12:19:59.734866+09:00",
+      "source_title": "Backend Meetup",
+      "tags": [
+        "오프라인"
+      ],
+      "thread_id": "1567740274409476309"
+    },
     "53be24e951c4ea2c186d7739b1f17f460bc6854877a98dae6f1a94e1f332d90b": {
       "canonical_url": "https://inf.run/9zmtr",
       "event_id": "53be24e951c4ea2c186d7739b1f17f460bc6854877a98dae6f1a94e1f332d90b",
@@ -3093,6 +3160,20 @@
         "AI"
       ],
       "thread_id": "1554319709233745921"
+    },
+    "5ba538c3c155f03083dfb6c062a724e32ceda858f9e2771fae6f24dd0d5728b8": {
+      "canonical_url": "https://pathfinder.camp/event-details/2026-aiconference",
+      "event_id": "5ba538c3c155f03083dfb6c062a724e32ceda858f9e2771fae6f24dd0d5728b8",
+      "message_id": "1567740268612948025",
+      "posted": true,
+      "posted_at": "2026-11-05T12:19:59.734866+09:00",
+      "source_title": "AI를 활용한 웹서비스 제작, 개발부터 배포까지 (부산)",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1567740268612948025"
     },
     "5bf2ba60ca8864b847994767cb6a425161621d10df9f6a645d42ba3d785636bc": {
       "canonical_url": "https://ticketa.co/event/ql1tygi5",
@@ -4646,6 +4727,20 @@
         "AI"
       ],
       "thread_id": "1540864586188591115"
+    },
+    "80fc0501e724b1666f878d094093ac5b6559b457795b775764d42f56c5410ac6": {
+      "canonical_url": "https://wma.co.kr/ax",
+      "event_id": "80fc0501e724b1666f878d094093ac5b6559b457795b775764d42f56c5410ac6",
+      "message_id": "1567740288716382299",
+      "posted": true,
+      "posted_at": "2026-11-05T12:19:59.734866+09:00",
+      "source_title": "2026 사회보장 데이터를 활용한 AI 혁신 아이디어 경진대회",
+      "tags": [
+        "온라인",
+        "공모전/대회",
+        "AI"
+      ],
+      "thread_id": "1567740288716382299"
     },
     "816362e2f34a44bec12f3238003dd176c13c288041f829b8830de5babb1fd409": {
       "canonical_url": "https://cyberguardians-cmx.kr/",
@@ -6417,6 +6512,20 @@
       "tags": [],
       "thread_id": null
     },
+    "afb3e620f4509a1208e3af38bcfdd1df0c7ce60ebddc931c31399be973ca2708": {
+      "canonical_url": "https://luma.com/clickh-gb3i",
+      "event_id": "afb3e620f4509a1208e3af38bcfdd1df0c7ce60ebddc931c31399be973ca2708",
+      "message_id": "1567740316151447583",
+      "posted": true,
+      "posted_at": "2026-11-05T12:19:59.734866+09:00",
+      "source_title": "ClickHouse x OliveYoung x NxtCloud 서울 밋업",
+      "tags": [
+        "오프라인",
+        "AI",
+        "클라우드"
+      ],
+      "thread_id": "1567740316151447583"
+    },
     "afdc9555a3f13c0b13711485630ea578876183e23b8f7d34c77e40b6a007fb92": {
       "canonical_url": "https://komap.ai/front/competition2026",
       "event_id": "afdc9555a3f13c0b13711485630ea578876183e23b8f7d34c77e40b6a007fb92",
@@ -8138,6 +8247,18 @@
         "AI"
       ],
       "thread_id": "1536519475103277058"
+    },
+    "e0ad040f742167188276789219e5b6110c2349e7a57a03c9981d72b5d8d206d0": {
+      "canonical_url": "https://ticketa.co/event/sjlia1ex",
+      "event_id": "e0ad040f742167188276789219e5b6110c2349e7a57a03c9981d72b5d8d206d0",
+      "message_id": "1567740295368675329",
+      "posted": true,
+      "posted_at": "2026-11-05T12:19:59.734866+09:00",
+      "source_title": "meet(Kotlin.DevRel): 퇴근길 Kotlin 소소밋업",
+      "tags": [
+        "오프라인"
+      ],
+      "thread_id": "1567740295368675329"
     },
     "e18cd2af2f486fdcbac388c633d0548310c86fed6b7de64cccff73a26d9bae1d": {
       "canonical_url": "https://2026.pycon.kr/",
