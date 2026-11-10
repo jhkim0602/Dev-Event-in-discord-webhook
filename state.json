@@ -14,6 +14,20 @@
       "tags": [],
       "thread_id": null
     },
+    "0231d87cd5211e47e96ddf71c3439d8256bff07bd9a30046257fe272d8f84482": {
+      "canonical_url": "https://event-us.kr/kaci/event/139541",
+      "event_id": "0231d87cd5211e47e96ddf71c3439d8256bff07bd9a30046257fe272d8f84482",
+      "message_id": "1569570259697016903",
+      "posted": true,
+      "posted_at": "2026-11-10T13:31:45.266560+09:00",
+      "source_title": "클라우드바리스타 커뮤니티 제12차 컨퍼런스 \"멀티 클라우드가 실현하는 초연결 AI 컴퓨팅 인프라의 미래\"",
+      "tags": [
+        "온라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1569570259697016903"
+    },
     "028f4aade37dfd12f135dbc142e0a726a8d303a6c7e1087282df36ce474cf485": {
       "canonical_url": "https://ticketa.co/event/qk6gq7et",
       "event_id": "028f4aade37dfd12f135dbc142e0a726a8d303a6c7e1087282df36ce474cf485",
@@ -1006,6 +1020,20 @@
         "클라우드"
       ],
       "thread_id": "1507536417956560896"
+    },
+    "163d7beabc8ee07dca03da372e98bc1499e14fef2287d0ed8981dbf233d23713": {
+      "canonical_url": "https://event-us.kr/itsman/event/139438",
+      "event_id": "163d7beabc8ee07dca03da372e98bc1499e14fef2287d0ed8981dbf233d23713",
+      "message_id": "1569570335743942667",
+      "posted": true,
+      "posted_at": "2026-11-10T13:31:45.266560+09:00",
+      "source_title": "AI 서비스 성공을 위한 A to Z AI큐브잇으로 시작하는 MLOps 자동화",
+      "tags": [
+        "온라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1569570335743942667"
     },
     "1643a7f8517fe6cb0d76c3e36695003970c9f24f1ee7d471ccc853908f8b3e7c": {
       "canonical_url": "https://oss.kr/pages/10/4459?page=1&pageSize=10&searchKeyword=&searchType=",
@@ -2174,6 +2202,19 @@
         "AI"
       ],
       "thread_id": "1547410485996163176"
+    },
+    "39ded31d46c6e758e62c3aa608cc3ec02fe009fbc36e0011852d4fa907db08ed": {
+      "canonical_url": "https://luma.com/reuf8z4u",
+      "event_id": "39ded31d46c6e758e62c3aa608cc3ec02fe009fbc36e0011852d4fa907db08ed",
+      "message_id": "1569570351451602975",
+      "posted": true,
+      "posted_at": "2026-11-10T13:31:45.266560+09:00",
+      "source_title": "Nucoders 2nd Demoday: 누코더스 데모데이",
+      "tags": [
+        "오프라인",
+        "AI"
+      ],
+      "thread_id": "1569570351451602975"
     },
     "3a3f016987a8f9584d8b0495c1f1160e5339d224d18e2116057363ac7443d771": {
       "canonical_url": "https://event-us.kr/theori/event/136959",
@@ -4291,6 +4332,20 @@
         "AI"
       ],
       "thread_id": "1486510346515517611"
+    },
+    "76ecf5808ed03d64b642f4f2f08eff3dcaa25edc83edacb6d9e012fddd28b02b": {
+      "canonical_url": "https://tosspayments.recatch.cc/workflows/ykowxqffrm",
+      "event_id": "76ecf5808ed03d64b642f4f2f08eff3dcaa25edc83edacb6d9e012fddd28b02b",
+      "message_id": "1569570303728816260",
+      "posted": true,
+      "posted_at": "2026-11-10T13:31:45.266560+09:00",
+      "source_title": "[토스페이먼츠] 2026 GEO 그로스 살롱 웨비나: 글로벌 진출 초기 챙겨야 할 GEO 전략",
+      "tags": [
+        "온라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1569570303728816260"
     },
     "776306d7137efcfa34909e20df2b8bac8539d5392c3ced7acdf22ccefaf2491d": {
       "canonical_url": "https://nextrise.co.kr/ko",
@@ -6447,6 +6502,19 @@
       ],
       "thread_id": "1552851947713728514"
     },
+    "ae7cbd6c94d9582b9ead2c9b80f0e5eda5bf7734b979c5459fe20c57087cb8fc": {
+      "canonical_url": "https://ticketa.co/event/73aey7ic",
+      "event_id": "ae7cbd6c94d9582b9ead2c9b80f0e5eda5bf7734b979c5459fe20c57087cb8fc",
+      "message_id": "1569570296602828816",
+      "posted": true,
+      "posted_at": "2026-11-10T13:31:45.266560+09:00",
+      "source_title": "제5회 코드포코리아 시빅테크 컨퍼런스 '다시' 시빅해킹",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나"
+      ],
+      "thread_id": "1569570296602828816"
+    },
     "ae9a414fa3a0c0e43dea6a2e80eff00baf710745e06914f97b60175d1961ed59": {
       "canonical_url": "https://rsvp.withgoogle.com/events/build-with-gemini-seoul-ge-champion-onboarding/home",
       "event_id": "ae9a414fa3a0c0e43dea6a2e80eff00baf710745e06914f97b60175d1961ed59",
@@ -7080,6 +7148,18 @@
         "커리어"
       ],
       "thread_id": "1482522230524088334"
+    },
+    "c31bc3616343068b34d1d3a57de36883a62491dd5da9c665f2efce452f267d23": {
+      "canonical_url": "https://event-us.kr/scraper/event/139732",
+      "event_id": "c31bc3616343068b34d1d3a57de36883a62491dd5da9c665f2efce452f267d23",
+      "message_id": "1569570286712655956",
+      "posted": true,
+      "posted_at": "2026-11-10T13:31:45.266560+09:00",
+      "source_title": "스크래퍼 개발자 모임 6회",
+      "tags": [
+        "오프라인"
+      ],
+      "thread_id": "1569570286712655956"
     },
     "c33303b0c720837c8ce2803e083579e4cb884f49e48ddc2dd6853d9fc77d6df7": {
       "canonical_url": "https://github.registration.goldcast.io/events/6dc10b2c-f650-48b2-b3c7-aa66937e774c",
@@ -7750,6 +7830,20 @@
       ],
       "thread_id": "1524204132750327849"
     },
+    "d31dcde8161a1d8f23f69d139be670dc53f2edffab3e08d863e356b90fdda9c1": {
+      "canonical_url": "https://hackon.kr/e/002e1704",
+      "event_id": "d31dcde8161a1d8f23f69d139be670dc53f2edffab3e08d863e356b90fdda9c1",
+      "message_id": "1569570244899373058",
+      "posted": true,
+      "posted_at": "2026-11-10T13:31:45.266560+09:00",
+      "source_title": "Korea Local Marketing Hackathon 2026",
+      "tags": [
+        "오프라인",
+        "해커톤",
+        "AI"
+      ],
+      "thread_id": "1569570244899373058"
+    },
     "d3db8ac81a64087a771ebd538f448b8f7a0267d5d55959ecd8a825d63c28ef5b": {
       "canonical_url": "https://openaigame2026.com/",
       "event_id": "d3db8ac81a64087a771ebd538f448b8f7a0267d5d55959ecd8a825d63c28ef5b",
@@ -7961,6 +8055,20 @@
       ],
       "thread_id": "1564822278858870936"
     },
+    "d8e320ba250501e885bd7aba83893f9e1308a617a724f3283d59b9f05d4ab4a5": {
+      "canonical_url": "https://edu.bccard.ai/contest",
+      "event_id": "d8e320ba250501e885bd7aba83893f9e1308a617a724f3283d59b9f05d4ab4a5",
+      "message_id": "1569570347416555732",
+      "posted": true,
+      "posted_at": "2026-11-10T13:31:45.266560+09:00",
+      "source_title": "eat.pl 잇플 수익화 챌린지 (K-SKILL × EAT.PL)",
+      "tags": [
+        "온라인",
+        "공모전/대회",
+        "AI"
+      ],
+      "thread_id": "1569570347416555732"
+    },
     "d927293b220c333e3d51dff95df3dbdaa33c0098391d6020d9102153f7e60f22": {
       "canonical_url": "https://event-us.kr/2026bcmd/event/129790",
       "event_id": "d927293b220c333e3d51dff95df3dbdaa33c0098391d6020d9102153f7e60f22",
@@ -8000,6 +8108,19 @@
         "보안"
       ],
       "thread_id": "1492308636301656124"
+    },
+    "d9db386f625c2fd0d5bb55c51f456e3ca6a14b2f896cd3cd130ba5c6fca6963c": {
+      "canonical_url": "https://ticketa.co/event/o2k0l625",
+      "event_id": "d9db386f625c2fd0d5bb55c51f456e3ca6a14b2f896cd3cd130ba5c6fca6963c",
+      "message_id": "1569570269721264256",
+      "posted": true,
+      "posted_at": "2026-11-10T13:31:45.266560+09:00",
+      "source_title": "클라우드 네이티브 커뮤니티 밋업 in 대구",
+      "tags": [
+        "오프라인",
+        "클라우드"
+      ],
+      "thread_id": "1569570269721264256"
     },
     "d9fc45182e696f693c03dc860b148b8a82d1cf780ff7271bedba99e207517273": {
       "canonical_url": "https://rocketpunch.com/event/lA16A0Ghwd",
@@ -8832,6 +8953,20 @@
       ],
       "thread_id": "1563363043042131980"
     },
+    "efe1cd8833def6dbe5c2008760487e8bc554c49ffec40d3b96e86854b09fb5be": {
+      "canonical_url": "https://aiffel.io/airesearcher",
+      "event_id": "efe1cd8833def6dbe5c2008760487e8bc554c49ffec40d3b96e86854b09fb5be",
+      "message_id": "1569570365678551142",
+      "posted": true,
+      "posted_at": "2026-11-10T13:31:45.266560+09:00",
+      "source_title": "아이펠 AI 리서처 20기 (AI 논문 연구 심화 부트캠프)",
+      "tags": [
+        "온라인",
+        "교육/부트캠프",
+        "AI"
+      ],
+      "thread_id": "1569570365678551142"
+    },
     "f00568ceb192463f0bfaf0bdc007650245f571717ad9553c2ebd7fa6e71bab04": {
       "canonical_url": "https://luma.com/d6xzrnyk",
       "event_id": "f00568ceb192463f0bfaf0bdc007650245f571717ad9553c2ebd7fa6e71bab04",
@@ -8886,6 +9021,20 @@
       ],
       "thread_id": "1503911034400932002"
     },
+    "f17d3e20dcf5f6447b484e8c2bf4e314c138b50fbd1fd706a6dc7f6c46da3670": {
+      "canonical_url": "https://luma.com/z8hzosog",
+      "event_id": "f17d3e20dcf5f6447b484e8c2bf4e314c138b50fbd1fd706a6dc7f6c46da3670",
+      "message_id": "1569570275714928732",
+      "posted": true,
+      "posted_at": "2026-11-10T13:31:45.266560+09:00",
+      "source_title": "[2회차] 디노티시아 NIPA 오픈소스 해커톤",
+      "tags": [
+        "오프라인",
+        "해커톤",
+        "AI"
+      ],
+      "thread_id": "1569570275714928732"
+    },
     "f1c1e036ab7fa54d10e07c0f2f8414e89e66d12515477d5d2b86c57587ce8609": {
       "canonical_url": "https://ticketa.co/event/ycbz77ae",
       "event_id": "f1c1e036ab7fa54d10e07c0f2f8414e89e66d12515477d5d2b86c57587ce8609",
@@ -8927,6 +9076,20 @@
         "AI"
       ],
       "thread_id": "1552851928600416327"
+    },
+    "f23405586a026285c58a1f45d93c6fadfc8720d5b29bb381a95dc9a5c53cfe03": {
+      "canonical_url": "https://extriver.com/event1",
+      "event_id": "f23405586a026285c58a1f45d93c6fadfc8720d5b29bb381a95dc9a5c53cfe03",
+      "message_id": "1569570361853354106",
+      "posted": true,
+      "posted_at": "2026-11-10T13:31:45.266560+09:00",
+      "source_title": "Hack the Audience 2026: Creator-to-CEO Hackathon",
+      "tags": [
+        "온라인",
+        "해커톤",
+        "보안"
+      ],
+      "thread_id": "1569570361853354106"
     },
     "f2aa852ff87f14205749859ac124fe503615c7c51f993807742c3cea56680af9": {
       "canonical_url": "https://jeckathon.ject.kr/",
