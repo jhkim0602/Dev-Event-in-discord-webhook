@@ -1549,6 +1549,19 @@
       ],
       "thread_id": "1493760416042717185"
     },
+    "25396d0088a96ca35096672052ba10c3afb4eeda5d6ae79f5027cca0347ed879": {
+      "canonical_url": "https://event-us.kr/2026edocesign/event/135685",
+      "event_id": "25396d0088a96ca35096672052ba10c3afb4eeda5d6ae79f5027cca0347ed879",
+      "message_id": "1572114091026288821",
+      "posted": true,
+      "posted_at": "2026-11-17T13:59:28.465375+09:00",
+      "source_title": "2026 전자문서x전자서명 컨퍼런스",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나"
+      ],
+      "thread_id": "1572114091026288821"
+    },
     "260a20367c7b7b3b26c12bf09523f28f3a7e59b8d72b23ce8165203ad2e1a542": {
       "canonical_url": "https://ticketa.co/event/8m4j5s2j",
       "event_id": "260a20367c7b7b3b26c12bf09523f28f3a7e59b8d72b23ce8165203ad2e1a542",
@@ -1659,6 +1672,18 @@
         "보안"
       ],
       "thread_id": "1534713405133557834"
+    },
+    "2a0e710ac9ea01d4477decfbd44b042a0b635ab9f4bc6810478020ccb379b91b": {
+      "canonical_url": "https://event-us.kr/ka2rbGlwNKTD/event/140317",
+      "event_id": "2a0e710ac9ea01d4477decfbd44b042a0b635ab9f4bc6810478020ccb379b91b",
+      "message_id": "1572113961313374249",
+      "posted": true,
+      "posted_at": "2026-11-17T13:59:28.465375+09:00",
+      "source_title": "시민기술 실험실 민주주의편 실험공유회",
+      "tags": [
+        "오프라인"
+      ],
+      "thread_id": "1572113961313374249"
     },
     "2a4f734db0d389b98083346ad8c6b60260681df7e4f4a7ce273fbf96ae97f765": {
       "canonical_url": "https://hackathon.savetax.now/",
@@ -1782,6 +1807,20 @@
         "AI"
       ],
       "thread_id": "1492671043318579220"
+    },
+    "2d9a838934f664504f5495c55930a6e41d7f46c2490b217185b5e17ea405478c": {
+      "canonical_url": "https://meetup.com/awskrug/events/317406828",
+      "event_id": "2d9a838934f664504f5495c55930a6e41d7f46c2490b217185b5e17ea405478c",
+      "message_id": "1572113999296987268",
+      "posted": true,
+      "posted_at": "2026-11-17T13:59:28.465375+09:00",
+      "source_title": "AWSKRUG #Data x AIEngineering 소모임 - 비전 파운데이션 모델 ZERO 개발 과정 공유 [11월 26일]",
+      "tags": [
+        "오프라인",
+        "AI",
+        "클라우드"
+      ],
+      "thread_id": "1572113999296987268"
     },
     "2dd48e6f57e7dc05c26caeecdde2985d0ed65bd287723c442531013f0a10b48d": {
       "canonical_url": "https://k-ctf.org/contests/6ab33df611c4d10a23949148",
@@ -2016,6 +2055,33 @@
       ],
       "thread_id": "1530366151035715615"
     },
+    "3413b9a42a6724a3a983c9cb9837a5ddf7d295bb04507acdb661f6c7c13f3b34": {
+      "canonical_url": "https://jobkorea.co.kr/goodjob/Tip/View?News_No=22687",
+      "event_id": "3413b9a42a6724a3a983c9cb9837a5ddf7d295bb04507acdb661f6c7c13f3b34",
+      "message_id": "1572114006913712160",
+      "posted": true,
+      "posted_at": "2026-11-17T13:59:28.465375+09:00",
+      "source_title": "잡코리아 프로덕트 컨퍼런스 | 흩어진 경계, 흔들리는 기준",
+      "tags": [
+        "온라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1572114006913712160"
+    },
+    "34729090a5fdeb218f8112e74167495424a56c43ec2d20b7501dd525064ed2ce": {
+      "canonical_url": "https://luma.com/Base44seoul1211",
+      "event_id": "34729090a5fdeb218f8112e74167495424a56c43ec2d20b7501dd525064ed2ce",
+      "message_id": "1572114163277234327",
+      "posted": true,
+      "posted_at": "2026-11-17T13:59:28.465375+09:00",
+      "source_title": "Vibe Coders Jam Session: feat. Base44",
+      "tags": [
+        "오프라인",
+        "AI"
+      ],
+      "thread_id": "1572114163277234327"
+    },
     "34815188a95259807f4477bffaecc16b582930feedf6a590538d32fa326b9886": {
       "canonical_url": "https://daker.ai/public/hackathons/monthly-hackathon-web-minigame-challenge",
       "event_id": "34815188a95259807f4477bffaecc16b582930feedf6a590538d32fa326b9886",
@@ -2189,6 +2255,20 @@
         "AI"
       ],
       "thread_id": "1544161061480046673"
+    },
+    "37b12941d8790cf63ddc4850c1cca3a40dfb0930b376f1d7a3888ceca3218fa4": {
+      "canonical_url": "https://home.nxavis.com/promotion/field/genailab26",
+      "event_id": "37b12941d8790cf63ddc4850c1cca3a40dfb0930b376f1d7a3888ceca3218fa4",
+      "message_id": "1572113996180492420",
+      "posted": true,
+      "posted_at": "2026-11-17T13:59:28.465375+09:00",
+      "source_title": "[GenAI Lab 핸즈온] 안전하고 경제적인 AI 운영 — LLM Gateway 직접 설치해보기",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1572113996180492420"
     },
     "38174c1587ce333d9b579243d67d2024fe7afe16af9c140245f5da589fbe8457": {
       "canonical_url": "https://event-us.kr/sipe/event/128290",
@@ -2434,6 +2514,20 @@
         "클라우드"
       ],
       "thread_id": "1480224174390644788"
+    },
+    "459e1f897a5271dc3511ffc8b6ac727d5535a718dea61eeeb3b1046700253056": {
+      "canonical_url": "https://luma.com/aisecurityseoul",
+      "event_id": "459e1f897a5271dc3511ffc8b6ac727d5535a718dea61eeeb3b1046700253056",
+      "message_id": "1572114154150436997",
+      "posted": true,
+      "posted_at": "2026-11-17T13:59:28.465375+09:00",
+      "source_title": "Capture, Explain, Defend — AI Cybersecurity Hackathon",
+      "tags": [
+        "오프라인",
+        "해커톤",
+        "AI"
+      ],
+      "thread_id": "1572114154150436997"
     },
     "45a4134b235b21726cebe9452e53867e33b4995c6ef465da028f5c8c550f486c": {
       "canonical_url": "https://kcloud.or.kr/board/read.php?M2_IDX=25869&B_IDX=178743",
@@ -2737,6 +2831,18 @@
         "AI"
       ],
       "thread_id": "1526377119288918087"
+    },
+    "4d2fe56659d5ee2507c55632e8a302b9f67d76d3409557123d530a844704b3b1": {
+      "canonical_url": "https://event-us.kr/mdocieyn/event/140156",
+      "event_id": "4d2fe56659d5ee2507c55632e8a302b9f67d76d3409557123d530a844704b3b1",
+      "message_id": "1572114106679562403",
+      "posted": true,
+      "posted_at": "2026-11-17T13:59:28.465375+09:00",
+      "source_title": "사이드테이블 네트워킹",
+      "tags": [
+        "오프라인"
+      ],
+      "thread_id": "1572114106679562403"
     },
     "4d47c3340e0d27d39596e2f6bfeb59fdba95c44d8764942e5c64461b51ab7ddf": {
       "canonical_url": "https://megazonesoft.com/gcp-fundamentals_20261027",
@@ -3298,6 +3404,19 @@
       ],
       "thread_id": "1545235243647373413"
     },
+    "5c3f772aa59bceeb453ad8abed7db4ee715354dcad9eee3d5f9920f235dd4c1f": {
+      "canonical_url": "https://dev-korea.com/events/replit-self-driving-company-december-2026",
+      "event_id": "5c3f772aa59bceeb453ad8abed7db4ee715354dcad9eee3d5f9920f235dd4c1f",
+      "message_id": "1572114124094312488",
+      "posted": true,
+      "posted_at": "2026-11-17T13:59:28.465375+09:00",
+      "source_title": "Become a self-driving company + workshop",
+      "tags": [
+        "오프라인",
+        "AI"
+      ],
+      "thread_id": "1572114124094312488"
+    },
     "5c838d9ffea7b2a2003203f25a1b898ca94142b7447340f0609a4cb2ab3942a2": {
       "canonical_url": "https://rocketpunch.com/event/ARNj09DPdv",
       "event_id": "5c838d9ffea7b2a2003203f25a1b898ca94142b7447340f0609a4cb2ab3942a2",
@@ -3720,6 +3839,20 @@
         "AI"
       ],
       "thread_id": "1563362935269499034"
+    },
+    "667540f44bf86f62ac2e76f90fa418d01d7be2b418cd02a6fab77562d0ecb406": {
+      "canonical_url": "https://forms.gle/VZNsYY1KgkS5n2B8A",
+      "event_id": "667540f44bf86f62ac2e76f90fa418d01d7be2b418cd02a6fab77562d0ecb406",
+      "message_id": "1572113930921181185",
+      "posted": true,
+      "posted_at": "2026-11-17T13:59:28.465375+09:00",
+      "source_title": "[세종테크노파크] 사이버 공격과 위협의 이해 (온라인 무료 교육)",
+      "tags": [
+        "온라인",
+        "교육/부트캠프",
+        "보안"
+      ],
+      "thread_id": "1572113930921181185"
     },
     "6766e163c2aad6aaf260f5e95de4d1507b5dcc29b5bb931c8e980e1aa63c1eeb": {
       "canonical_url": "https://ticketa.co/event/xf3lr3a0",
@@ -4633,6 +4766,20 @@
       ],
       "thread_id": "1561544392643190785"
     },
+    "78f8433f2665e601bc67e270b4d9a542d48a28a4b93eaa1b10739032b41d2842": {
+      "canonical_url": "https://prompt2026.sto.or.kr/",
+      "event_id": "78f8433f2665e601bc67e270b4d9a542d48a28a4b93eaa1b10739032b41d2842",
+      "message_id": "1572114063410991195",
+      "posted": true,
+      "posted_at": "2026-11-17T13:59:28.465375+09:00",
+      "source_title": "2026 서울관광 프롬프톤 (Seoul Tourism Prompt-thon)",
+      "tags": [
+        "오프라인",
+        "공모전/대회",
+        "AI"
+      ],
+      "thread_id": "1572114063410991195"
+    },
     "79359022dcf59ad82cf059b306f0943e031348fbdf8bfaf6b5f280909de3a316": {
       "canonical_url": "https://dev-korea.com/events/ai-clarity-october-2026",
       "event_id": "79359022dcf59ad82cf059b306f0943e031348fbdf8bfaf6b5f280909de3a316",
@@ -4879,6 +5026,19 @@
       ],
       "thread_id": "1540864586188591115"
     },
+    "801f23b336795881bbbbd23acc43ea6c7a0fb8bc4037f7514c2db77ccb7f5cde": {
+      "canonical_url": "https://mobis-robotics-challenge.com/",
+      "event_id": "801f23b336795881bbbbd23acc43ea6c7a0fb8bc4037f7514c2db77ccb7f5cde",
+      "message_id": "1572114132382126223",
+      "posted": true,
+      "posted_at": "2026-11-17T13:59:28.465375+09:00",
+      "source_title": "2027 MOBIS Robotics Challenge",
+      "tags": [
+        "오프라인",
+        "공모전/대회"
+      ],
+      "thread_id": "1572114132382126223"
+    },
     "80fc0501e724b1666f878d094093ac5b6559b457795b775764d42f56c5410ac6": {
       "canonical_url": "https://wma.co.kr/ax",
       "event_id": "80fc0501e724b1666f878d094093ac5b6559b457795b775764d42f56c5410ac6",
@@ -5018,6 +5178,20 @@
         "AI"
       ],
       "thread_id": "1525291319805612154"
+    },
+    "84122f2f5e8c4d44c2c943e34b6b4b6baee0aabab3a8654cf89c38455ca38194": {
+      "canonical_url": "https://ticketa.co/event/fh7781za",
+      "event_id": "84122f2f5e8c4d44c2c943e34b6b4b6baee0aabab3a8654cf89c38455ca38194",
+      "message_id": "1572114158575419495",
+      "posted": true,
+      "posted_at": "2026-11-17T13:59:28.465375+09:00",
+      "source_title": "GitHub Copilot 샌드박싱 워크샵",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1572114158575419495"
     },
     "84604cf0f7e9682d2600378c023ad5740cba4cdde1ee2c20a1bec2dcaff7f0cf": {
       "canonical_url": "https://rocketpunch.com/event/nN9JLuRdbi",
@@ -5242,6 +5416,20 @@
       ],
       "thread_id": "1552851959323566081"
     },
+    "8a0f73bfca61d6089b51b9464b8d50e158b0377dd29581ce4e2d276d9411f5d0": {
+      "canonical_url": "https://sesac.seoul.kr/sesac/course/offline/courseDetail.do?crsSn=1479",
+      "event_id": "8a0f73bfca61d6089b51b9464b8d50e158b0377dd29581ce4e2d276d9411f5d0",
+      "message_id": "1572114035040587906",
+      "posted": true,
+      "posted_at": "2026-11-17T13:59:28.465375+09:00",
+      "source_title": "(강북3기/AI핵심) 풀스택 AI 실무 프로젝트 과정",
+      "tags": [
+        "오프라인",
+        "교육/부트캠프",
+        "AI"
+      ],
+      "thread_id": "1572114035040587906"
+    },
     "8a5a353295260bd5e97ac829606b2d472179cc37b536f701893912e47db099d0": {
       "canonical_url": "https://event-us.kr/loopers/event/136682",
       "event_id": "8a5a353295260bd5e97ac829606b2d472179cc37b536f701893912e47db099d0",
@@ -5458,6 +5646,20 @@
       ],
       "thread_id": "1561544291279446129"
     },
+    "8d6defdbb8bab313336dda4a8135ddbec12d44a7acd950955ca49c8ae113a6da": {
+      "canonical_url": "https://event-us.kr/pytorchkr/event/140260",
+      "event_id": "8d6defdbb8bab313336dda4a8135ddbec12d44a7acd950955ca49c8ae113a6da",
+      "message_id": "1572113985023774771",
+      "posted": true,
+      "posted_at": "2026-11-17T13:59:28.465375+09:00",
+      "source_title": "PyTorch;DeepDive!",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1572113985023774771"
+    },
     "8e23603b2c5fa8a5c0536d27832f818ca7492aefd4d096df548bb7184849719d": {
       "canonical_url": "https://event-us.kr/2026bcmd/event/129786",
       "event_id": "8e23603b2c5fa8a5c0536d27832f818ca7492aefd4d096df548bb7184849719d",
@@ -5669,6 +5871,20 @@
         "AI"
       ],
       "thread_id": "1555400232819228723"
+    },
+    "946c18fb5a4ab85a414482e40fe6748f216c34bca57f2d9b2be34ba1fd0bc91a": {
+      "canonical_url": "https://meetup.com/awskrug/events/317392910",
+      "event_id": "946c18fb5a4ab85a414482e40fe6748f216c34bca57f2d9b2be34ba1fd0bc91a",
+      "message_id": "1572113950672158811",
+      "posted": true,
+      "posted_at": "2026-11-17T13:59:28.465375+09:00",
+      "source_title": "AWSKRUG #Security 소모임 - 11월 24일(화)",
+      "tags": [
+        "오프라인",
+        "클라우드",
+        "보안"
+      ],
+      "thread_id": "1572113950672158811"
     },
     "94c3f75634e5ae064a0587dd78799c666d84aa475a0f13356dcba07b6fc18801": {
       "canonical_url": "https://seoulwomen.or.kr/sfwf/contents/sfwf-event.do?schM=view&id=31236",
@@ -6234,6 +6450,18 @@
       ],
       "thread_id": "1536519466366664755"
     },
+    "a5deba961bae9c9996958f52942034214142ad38a68cb02d7de856ee366ea8c6": {
+      "canonical_url": "https://event-us.kr/vimkr/event/140254",
+      "event_id": "a5deba961bae9c9996958f52942034214142ad38a68cb02d7de856ee366ea8c6",
+      "message_id": "1572114051285389353",
+      "posted": true,
+      "posted_at": "2026-11-17T13:59:28.465375+09:00",
+      "source_title": "VIMRC 2026 : CLI 특집",
+      "tags": [
+        "오프라인"
+      ],
+      "thread_id": "1572114051285389353"
+    },
     "a67e7e3ef8fb5c385d3b0e63531efae3abca4d92c6c6ddab719b88ca19e1ddc6": {
       "canonical_url": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR5OR2SEXPTFBkSxxQiDL5sJURUNBTEFGNE1VWlE4OE9BOUhBNU5RUlQ5RC4u&route=shorturl",
       "event_id": "a67e7e3ef8fb5c385d3b0e63531efae3abca4d92c6c6ddab719b88ca19e1ddc6",
@@ -6287,6 +6515,19 @@
         "컨퍼런스/세미나"
       ],
       "thread_id": "1485058367872569475"
+    },
+    "a70bacdbedd3fea8c2e17abed7348d643c9d9f3be2e8a8c63c7ade1d1091444a": {
+      "canonical_url": "https://forms.gle/Tjjvk9Fe18NYnnvk6",
+      "event_id": "a70bacdbedd3fea8c2e17abed7348d643c9d9f3be2e8a8c63c7ade1d1091444a",
+      "message_id": "1572113936067858526",
+      "posted": true,
+      "posted_at": "2026-11-17T13:59:28.465375+09:00",
+      "source_title": "[세종테크노파크] 확장형 탐지 및 대응 솔루션(XDR) (온라인 무료 교육)",
+      "tags": [
+        "온라인",
+        "교육/부트캠프"
+      ],
+      "thread_id": "1572113936067858526"
     },
     "a711efd09b253ed7bde6d8b74e6f83c82fc798494c34c5186056081e44c02876": {
       "canonical_url": "https://okky.kr/articles/1563407",
@@ -7028,6 +7269,20 @@
         "AI"
       ],
       "thread_id": "1490496319582638123"
+    },
+    "b876feebb0ac5dbd2ec3507d931466a536c7fac6cbde9e472a5d8e64a9d37d30": {
+      "canonical_url": "https://event-us.kr/cloudbusanits/event/140032",
+      "event_id": "b876feebb0ac5dbd2ec3507d931466a536c7fac6cbde9e472a5d8e64a9d37d30",
+      "message_id": "1572114071602593946",
+      "posted": true,
+      "posted_at": "2026-11-17T13:59:28.465375+09:00",
+      "source_title": "클라우드 ROI 극대화를 위한 비용 최적화(FinOps) 및 아키텍처 실무 (부산)",
+      "tags": [
+        "오프라인",
+        "교육/부트캠프",
+        "클라우드"
+      ],
+      "thread_id": "1572114071602593946"
     },
     "b9587eda06d90a47e03982d83f349bd5b6bd9c8a3ae860389a7470abc732e5e1": {
       "canonical_url": "https://linkareer.com/activity/353364",
@@ -8434,6 +8689,20 @@
       ],
       "thread_id": "1497383473097216170"
     },
+    "df1fec54bab149623e94e04fdbe47d0f679796961d997702e295e635c123e22b": {
+      "canonical_url": "https://ticketa.co/event/275yzszz",
+      "event_id": "df1fec54bab149623e94e04fdbe47d0f679796961d997702e295e635c123e22b",
+      "message_id": "1572114147393413322",
+      "posted": true,
+      "posted_at": "2026-11-17T13:59:28.465375+09:00",
+      "source_title": "AgentOps - 에이전트 최적화 핸즈온 워크샵",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1572114147393413322"
+    },
     "df3c1ea407a790736d013c9a132e07515068889680473c0c26a29ba5fe1f5606": {
       "canonical_url": "https://ticketa.co/event/dtdi6msi",
       "event_id": "df3c1ea407a790736d013c9a132e07515068889680473c0c26a29ba5fe1f5606",
@@ -9455,6 +9724,20 @@
         "AI"
       ],
       "thread_id": "1527465409526108432"
+    },
+    "f6c30598fd3413cc05d1a2128d95322d5441b80b6b6e233c2e2e6be7ee11b70a": {
+      "canonical_url": "https://ticketa.co/event/034124ot",
+      "event_id": "f6c30598fd3413cc05d1a2128d95322d5441b80b6b6e233c2e2e6be7ee11b70a",
+      "message_id": "1572114142540865557",
+      "posted": true,
+      "posted_at": "2026-11-17T13:59:28.465375+09:00",
+      "source_title": "DevFest Android in Korea 2026 - AI 디톡스",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1572114142540865557"
     },
     "f71882ebddf6113c6b9cae53e02b28a52e022bff24abe68e686d82f8a2bbd7e3": {
       "canonical_url": "https://ticketa.co/event/y87tyxmj",
