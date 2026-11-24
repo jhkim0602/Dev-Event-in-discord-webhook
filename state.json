@@ -124,6 +124,20 @@
       ],
       "thread_id": "1493760422908661872"
     },
+    "03a49799faf321414fb2ddea4b992f46195c8f1b0863fa0452a5e68cf3a8e7f6": {
+      "canonical_url": "https://onoffmix.com/event/353238",
+      "event_id": "03a49799faf321414fb2ddea4b992f46195c8f1b0863fa0452a5e68cf3a8e7f6",
+      "message_id": "1574678841522389084",
+      "posted": true,
+      "posted_at": "2026-11-24T15:51:30.164881+09:00",
+      "source_title": "2026 AI-Powered V&V Tools — 슈어소프트테크 웨비나",
+      "tags": [
+        "온라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1574678841522389084"
+    },
     "0414d2fd493d1a78487255d155b0af4f5caa7d81072a6e839df61c6b0a845e09": {
       "canonical_url": "https://luma.com/ebg1nvg1",
       "event_id": "0414d2fd493d1a78487255d155b0af4f5caa7d81072a6e839df61c6b0a845e09",
@@ -135,6 +149,20 @@
         "오프라인"
       ],
       "thread_id": "1502821253780734072"
+    },
+    "041eeb586a071c400dd1bc0aa6530a9f27212eea0e5b7bd54c60aee9906cb27b": {
+      "canonical_url": "https://day1ax.com/ax-failure-con",
+      "event_id": "041eeb586a071c400dd1bc0aa6530a9f27212eea0e5b7bd54c60aee9906cb27b",
+      "message_id": "1574678989786714183",
+      "posted": true,
+      "posted_at": "2026-11-24T15:51:30.164881+09:00",
+      "source_title": "AX Failure Con — 기업 AI 전환의 실패와 교훈",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1574678989786714183"
     },
     "043543d5b2f91b23c8d0b7730a388165d003895592661d7b4ed0d75941500f87": {
       "canonical_url": "https://ticketa.co/event/196djvgj",
@@ -764,6 +792,19 @@
       ],
       "thread_id": "1519858504645611662"
     },
+    "11e7e3d2ad6e0ce13c104336877b912a07df6f628a3658ab2d947972d257a91b": {
+      "canonical_url": "https://developeracademy.postech.ac.kr/apply",
+      "event_id": "11e7e3d2ad6e0ce13c104336877b912a07df6f628a3658ab2d947972d257a91b",
+      "message_id": "1574678970127876219",
+      "posted": true,
+      "posted_at": "2026-11-24T15:51:30.164881+09:00",
+      "source_title": "2027년도 Apple 디벨로퍼 아카데미 6기 일반 전형 모집",
+      "tags": [
+        "오프라인",
+        "교육/부트캠프"
+      ],
+      "thread_id": "1574678970127876219"
+    },
     "11f3d57cf5fc8cf20e942cd91419e6e01cd7d23bfab5f0d3b4f402d01f944888": {
       "canonical_url": "https://event-us.kr/pytorchkr/event/135213",
       "event_id": "11f3d57cf5fc8cf20e942cd91419e6e01cd7d23bfab5f0d3b4f402d01f944888",
@@ -1021,6 +1062,34 @@
       ],
       "thread_id": "1516256706869465199"
     },
+    "152c6d9f582259e92f8470a3e9f8d345c33d4489732fffb3cf8793ccefe0c465": {
+      "canonical_url": "https://cms.sjcu.ac.kr/artificial-intelligence/community/data.do?mode=view&articleNo=138524",
+      "event_id": "152c6d9f582259e92f8470a3e9f8d345c33d4489732fffb3cf8793ccefe0c465",
+      "message_id": "1574679027468468276",
+      "posted": true,
+      "posted_at": "2026-11-24T15:51:30.164881+09:00",
+      "source_title": "2026 AI학과 공모전 「일상의 편리를 위한 AI서비스개발」 (세종사이버대학교)",
+      "tags": [
+        "온라인",
+        "공모전/대회",
+        "AI"
+      ],
+      "thread_id": "1574679027468468276"
+    },
+    "157e8fa9683b3ae44bbcd649ebb7860e7de32df4b6d95955f67bc24a87b50377": {
+      "canonical_url": "https://onoffmix.com/event/353826",
+      "event_id": "157e8fa9683b3ae44bbcd649ebb7860e7de32df4b6d95955f67bc24a87b50377",
+      "message_id": "1574679001476366399",
+      "posted": true,
+      "posted_at": "2026-11-24T15:51:30.164881+09:00",
+      "source_title": "[잇츠맨 웨비나] 텔레메트리 기반 수집부터 AI 연계까지, 실제 구축 사례로 보는 인프라 장애 대응 전략",
+      "tags": [
+        "온라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1574679001476366399"
+    },
     "1625f861e5c43cf186f9597de4496777242f822f842fb3f23ea26837badadce1": {
       "canonical_url": "https://megazonesoft.com/gcp_fundamentals_core_infra_20260504",
       "event_id": "1625f861e5c43cf186f9597de4496777242f822f842fb3f23ea26837badadce1",
@@ -1263,6 +1332,20 @@
       ],
       "thread_id": "1486510365868298280"
     },
+    "1d3740b48f9df51333db8cd830b86f4f587f87b60e4c14a43c778506a23e3369": {
+      "canonical_url": "https://bdai.co.kr/lectures/contest/18",
+      "event_id": "1d3740b48f9df51333db8cd830b86f4f587f87b60e4c14a43c778506a23e3369",
+      "message_id": "1574679079360143411",
+      "posted": true,
+      "posted_at": "2026-11-24T15:51:30.164881+09:00",
+      "source_title": "2027 제 2회 Superb AI X BDAI Vision AI Hackathon",
+      "tags": [
+        "온라인",
+        "해커톤",
+        "AI"
+      ],
+      "thread_id": "1574679079360143411"
+    },
     "1d9b4470aebc0c720f0416d67d8043aabd882f0b6d4456efee15498262c014a5": {
       "canonical_url": "https://event-us.kr/gghcs/event/138448",
       "event_id": "1d9b4470aebc0c720f0416d67d8043aabd882f0b6d4456efee15498262c014a5",
@@ -1276,6 +1359,19 @@
         "AI"
       ],
       "thread_id": "1566270609464496159"
+    },
+    "1e021e3ffb9aca8b2e09299fd1c5ff90b19f77fb27e560c9f2533bfd909a9ad3": {
+      "canonical_url": "https://ssgsag.kr/posters/29549",
+      "event_id": "1e021e3ffb9aca8b2e09299fd1c5ff90b19f77fb27e560c9f2533bfd909a9ad3",
+      "message_id": "1574678885193351192",
+      "posted": true,
+      "posted_at": "2026-11-24T15:51:30.164881+09:00",
+      "source_title": "[한국체육산업개발] 공공데이터 활용 경진대회",
+      "tags": [
+        "온라인",
+        "공모전/대회"
+      ],
+      "thread_id": "1574678885193351192"
     },
     "1e4024e63ce570d98ba58b059b0e82cbc5529be62ddad6eed9bca58347e3519a": {
       "canonical_url": "https://open.kakao.com/o/gusM0Oqi",
@@ -2394,6 +2490,20 @@
       ],
       "thread_id": "1570639086375538689"
     },
+    "3bcb4501c4e6ae103d105a7a2bc81cb6e29ec1eff269d5930247798010d8be64": {
+      "canonical_url": "https://dorahacks.io/hackathon/hskchainseoul/detail",
+      "event_id": "3bcb4501c4e6ae103d105a7a2bc81cb6e29ec1eff269d5930247798010d8be64",
+      "message_id": "1574678917779038209",
+      "posted": true,
+      "posted_at": "2026-11-24T15:51:30.164881+09:00",
+      "source_title": "HSK Chain Horizon Hackathon · Seoul",
+      "tags": [
+        "온라인",
+        "해커톤",
+        "AI"
+      ],
+      "thread_id": "1574678917779038209"
+    },
     "3bf520ec261ced951d82b65699de14a27616973a9dcce4a4ca36ee79800643dc": {
       "canonical_url": "https://event-us.kr/bylinenetwork/event/132802",
       "event_id": "3bf520ec261ced951d82b65699de14a27616973a9dcce4a4ca36ee79800643dc",
@@ -2734,6 +2844,19 @@
         "AI"
       ],
       "thread_id": "1560099695785934871"
+    },
+    "4929505851e8bf7cb3d0de501ad5d73cc09bc8f506043c2cd9ca2d9120bb90e8": {
+      "canonical_url": "https://onoffmix.com/event/353825",
+      "event_id": "4929505851e8bf7cb3d0de501ad5d73cc09bc8f506043c2cd9ca2d9120bb90e8",
+      "message_id": "1574679066546675743",
+      "posted": true,
+      "posted_at": "2026-11-24T15:51:30.164881+09:00",
+      "source_title": "[잇츠맨 웨비나] PostgreSQL for the Enterprise — 안정성, 관리, 기술지원을 어떻게 확보할 것인가?",
+      "tags": [
+        "온라인",
+        "컨퍼런스/세미나"
+      ],
+      "thread_id": "1574679066546675743"
     },
     "4a5e0fa109434d393f0244664b5a5a9ed6282bf9152c7a02dd655a34ea758dc7": {
       "canonical_url": "https://luma.com/ahvyoors",
@@ -3965,6 +4088,20 @@
       ],
       "thread_id": "1572113930921181185"
     },
+    "66c6a84f089d8baf99805bee2e7de780109804453754666839e53d4942deccb1": {
+      "canonical_url": "https://forwardthon.com/",
+      "event_id": "66c6a84f089d8baf99805bee2e7de780109804453754666839e53d4942deccb1",
+      "message_id": "1574678879866720322",
+      "posted": true,
+      "posted_at": "2026-11-24T15:51:30.164881+09:00",
+      "source_title": "ForwardThon 2026 — 기업의 숫자를 바꾸는 FDE 해커톤",
+      "tags": [
+        "오프라인",
+        "해커톤",
+        "AI"
+      ],
+      "thread_id": "1574678879866720322"
+    },
     "6766e163c2aad6aaf260f5e95de4d1507b5dcc29b5bb931c8e980e1aa63c1eeb": {
       "canonical_url": "https://ticketa.co/event/xf3lr3a0",
       "event_id": "6766e163c2aad6aaf260f5e95de4d1507b5dcc29b5bb931c8e980e1aa63c1eeb",
@@ -4481,6 +4618,33 @@
       ],
       "thread_id": "1490496332362944672"
     },
+    "7312df8d254d1e331c65242d54a20868ae171f9fbffc553314310f6c3a68c7c8": {
+      "canonical_url": "https://aifactory.space/ko/competitions/9320",
+      "event_id": "7312df8d254d1e331c65242d54a20868ae171f9fbffc553314310f6c3a68c7c8",
+      "message_id": "1574678942106001520",
+      "posted": true,
+      "posted_at": "2026-11-24T15:51:30.164881+09:00",
+      "source_title": "2026 서울 야간경제 활성화 해커톤 (Dopamine Seoul 24)",
+      "tags": [
+        "온라인",
+        "해커톤"
+      ],
+      "thread_id": "1574678942106001520"
+    },
+    "7329311fe930b527187d99f707227cbaa7a2dbe41211a8976275066fe7ef93bc": {
+      "canonical_url": "https://smartcity-ai.kr/",
+      "event_id": "7329311fe930b527187d99f707227cbaa7a2dbe41211a8976275066fe7ef93bc",
+      "message_id": "1574679054328668233",
+      "posted": true,
+      "posted_at": "2026-11-24T15:51:30.164881+09:00",
+      "source_title": "2026 국가시범도시 AI 아이디어·기술 공모전",
+      "tags": [
+        "온라인",
+        "공모전/대회",
+        "AI"
+      ],
+      "thread_id": "1574679054328668233"
+    },
     "7345e36d95e5f8900bfeab5ef83620f48e3e35dbcc9bbbce605c7b27808a37c2": {
       "canonical_url": "https://rocketpunch.com/event/iOVlW3GlEr",
       "event_id": "7345e36d95e5f8900bfeab5ef83620f48e3e35dbcc9bbbce605c7b27808a37c2",
@@ -4685,6 +4849,20 @@
         "AI"
       ],
       "thread_id": "1486510346515517611"
+    },
+    "76d7ed0bf5aaf9b942ebd8a9c3989f3e6d9b028a0cc9a88bfaa9bc42ee6a28bd": {
+      "canonical_url": "https://onoffmix.com/event/353459",
+      "event_id": "76d7ed0bf5aaf9b942ebd8a9c3989f3e6d9b028a0cc9a88bfaa9bc42ee6a28bd",
+      "message_id": "1574678981767069799",
+      "posted": true,
+      "posted_at": "2026-11-24T15:51:30.164881+09:00",
+      "source_title": "제41회 IT 인프라 & 네트워크 전문가 따라잡기 'N.EX.T' 정기 기술 세미나",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "클라우드"
+      ],
+      "thread_id": "1574678981767069799"
     },
     "76ecf5808ed03d64b642f4f2f08eff3dcaa25edc83edacb6d9e012fddd28b02b": {
       "canonical_url": "https://tosspayments.recatch.cc/workflows/ykowxqffrm",
@@ -5490,6 +5668,20 @@
       ],
       "thread_id": "1549227756041015336"
     },
+    "8906f7c6d1e97caeba0dcf0127fbf8f98de7c5ff22489d5adbbab5e9c0d74d2a": {
+      "canonical_url": "https://luma.com/pcd9sjr8",
+      "event_id": "8906f7c6d1e97caeba0dcf0127fbf8f98de7c5ff22489d5adbbab5e9c0d74d2a",
+      "message_id": "1574678876557152347",
+      "posted": true,
+      "posted_at": "2026-11-24T15:51:30.164881+09:00",
+      "source_title": "Build with Qwen: AutoRAG Hackathon 2026",
+      "tags": [
+        "오프라인",
+        "해커톤",
+        "AI"
+      ],
+      "thread_id": "1574678876557152347"
+    },
     "892720572c4276ceb27c3d919fa6d991c4e5b4d7e76e5afb95771b91fa536d7f": {
       "canonical_url": "https://meetup.com/awskrug/events/315099275",
       "event_id": "892720572c4276ceb27c3d919fa6d991c4e5b4d7e76e5afb95771b91fa536d7f",
@@ -5970,6 +6162,19 @@
       ],
       "thread_id": "1547410391397699626"
     },
+    "9345edc7a6c06d2e0a5952afa9802d78fe05df862cf75ff34297926c49ecfcf5": {
+      "canonical_url": "https://onoffmix.com/event/351274",
+      "event_id": "9345edc7a6c06d2e0a5952afa9802d78fe05df862cf75ff34297926c49ecfcf5",
+      "message_id": "1574679013396451480",
+      "posted": true,
+      "posted_at": "2026-11-24T15:51:30.164881+09:00",
+      "source_title": "2026 정보접근성기술 컨퍼런스 (2026 IAT Conference)",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나"
+      ],
+      "thread_id": "1574679013396451480"
+    },
     "937c20c908760b89694891ffa3c09d66ebcb55d2010a550f00ae09ad4f682f75": {
       "canonical_url": "https://dacon.io/competitions/official/236771/overview/description",
       "event_id": "937c20c908760b89694891ffa3c09d66ebcb55d2010a550f00ae09ad4f682f75",
@@ -6185,6 +6390,20 @@
         "컨퍼런스/세미나"
       ],
       "thread_id": "1497383537358143558"
+    },
+    "97bd9319aacef3f2470f85d07d523141ad77de71efff9a2e5acfdb32e96de019": {
+      "canonical_url": "https://ck-game-summit-2026.vercel.app/",
+      "event_id": "97bd9319aacef3f2470f85d07d523141ad77de71efff9a2e5acfdb32e96de019",
+      "message_id": "1574678854541516802",
+      "posted": true,
+      "posted_at": "2026-11-24T15:51:30.164881+09:00",
+      "source_title": "2026 청강 CK GAME SUMMIT — AI와 게임 산업의 미래 생태계를 논하다",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1574678854541516802"
     },
     "980450e73b88d93836e399439fa916649be5aaca78df7046d6b9efd4356f43c9": {
       "canonical_url": "https://event-us.kr/easyspub/event/132152",
@@ -7396,6 +7615,19 @@
       ],
       "thread_id": "1495570724960866427"
     },
+    "b5de269331d91f3e0de9e60312e2bf15fd89470216e5fe3244295139c7102eaf": {
+      "canonical_url": "https://luma.com/b4s042ch",
+      "event_id": "b5de269331d91f3e0de9e60312e2bf15fd89470216e5fe3244295139c7102eaf",
+      "message_id": "1574678851965943941",
+      "posted": true,
+      "posted_at": "2026-11-24T15:51:30.164881+09:00",
+      "source_title": "Builders Lounge 11월 모임: AI 개발 시대, 기획의 중요성",
+      "tags": [
+        "온라인",
+        "AI"
+      ],
+      "thread_id": "1574678851965943941"
+    },
     "b5e77123ecddaea5da280a40757f61f6df4255ac26c14793a9050af3ebc465a6": {
       "canonical_url": "https://am-expo.co.kr/sub-5-1",
       "event_id": "b5e77123ecddaea5da280a40757f61f6df4255ac26c14793a9050af3ebc465a6",
@@ -7655,6 +7887,20 @@
         "AI"
       ],
       "thread_id": "1559406810186649762"
+    },
+    "be954b77934066f25e129727f8cab7e58b1205fdc277ba04782f2f699c0dbae4": {
+      "canonical_url": "https://sangji-ai-startup-2026.workspace-700806.chatgpt.site/",
+      "event_id": "be954b77934066f25e129727f8cab7e58b1205fdc277ba04782f2f699c0dbae4",
+      "message_id": "1574678944488226869",
+      "posted": true,
+      "posted_at": "2026-11-24T15:51:30.164881+09:00",
+      "source_title": "2026 강원 AI 창업아이디어 경진대회",
+      "tags": [
+        "오프라인",
+        "공모전/대회",
+        "AI"
+      ],
+      "thread_id": "1574678944488226869"
     },
     "bfc9f3f6311433676a5a6fd4ff1ea153c81926056c2769afeef72ac3460cce69": {
       "canonical_url": "https://xai.kaist.ac.kr/AI-Factory-Capability-Seminar/2026",
@@ -8157,6 +8403,20 @@
       ],
       "thread_id": "1552852006023073965"
     },
+    "cd45e6677bb448b48336989cd13b42f2782abffefae8bbb541e6f5b30796492b": {
+      "canonical_url": "https://event-us.kr/gdgseoul/event/140782",
+      "event_id": "cd45e6677bb448b48336989cd13b42f2782abffefae8bbb541e6f5b30796492b",
+      "message_id": "1574678928591953992",
+      "posted": true,
+      "posted_at": "2026-11-24T15:51:30.164881+09:00",
+      "source_title": "DevFest Seoul 2026",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1574678928591953992"
+    },
     "cd548f3f4b12a1a41e352266dd9f21bf9e662aed9b8386bd3d921d887e82932c": {
       "canonical_url": "https://event.wanted.co.kr/WATN",
       "event_id": "cd548f3f4b12a1a41e352266dd9f21bf9e662aed9b8386bd3d921d887e82932c",
@@ -8454,6 +8714,20 @@
         "AI"
       ],
       "thread_id": "1569570244899373058"
+    },
+    "d3b0879d2b20704ad9fb54a84f524c881b6904a075019733df41b47a564ea315": {
+      "canonical_url": "https://onoffmix.com/event/353083",
+      "event_id": "d3b0879d2b20704ad9fb54a84f524c881b6904a075019733df41b47a564ea315",
+      "message_id": "1574678861143089223",
+      "posted": true,
+      "posted_at": "2026-11-24T15:51:30.164881+09:00",
+      "source_title": "[AI허브 안심존] Hands-On 데이터분석 : 미개방 데이터 체험",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1574678861143089223"
     },
     "d3db8ac81a64087a771ebd538f448b8f7a0267d5d55959ecd8a825d63c28ef5b": {
       "canonical_url": "https://openaigame2026.com/",
@@ -8760,6 +9034,20 @@
         "AI"
       ],
       "thread_id": "1547410363304255499"
+    },
+    "da5a9d75c8e6ffa17ea5df31729ed9454e8c38eff076eb627f99c2656eace7f8": {
+      "canonical_url": "https://luma.com/1j9tw0oj",
+      "event_id": "da5a9d75c8e6ffa17ea5df31729ed9454e8c38eff076eb627f99c2656eace7f8",
+      "message_id": "1574679047336894572",
+      "posted": true,
+      "posted_at": "2026-11-24T15:51:30.164881+09:00",
+      "source_title": "AutoRAG Agent 오픈소스 컨퍼런스 2026",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1574679047336894572"
     },
     "da6d9701216391b152ee35ed03864ee2a467c3909ec6d855236f0492052095de": {
       "canonical_url": "https://boostcamp-wm.notion.site/AI-Agent-Challenge-35ab9dd86abe809db232f9d2f5e3f521",
@@ -9320,6 +9608,20 @@
       ],
       "thread_id": "1570639120739602435"
     },
+    "e86a19b863860a226f96ba16644a960421cfdda9a98e7c025098165758c1b99e": {
+      "canonical_url": "https://orangepark.or.kr/articles/A8345675",
+      "event_id": "e86a19b863860a226f96ba16644a960421cfdda9a98e7c025098165758c1b99e",
+      "message_id": "1574678910292205641",
+      "posted": true,
+      "posted_at": "2026-11-24T15:51:30.164881+09:00",
+      "source_title": "오렌지파크 해커톤 | 아이디어를 MVP로, 첫 고객을 만나기",
+      "tags": [
+        "오프라인",
+        "해커톤",
+        "AI"
+      ],
+      "thread_id": "1574678910292205641"
+    },
     "e8c847566038e5d82d96a055b14bc83e564f05e44188fdea2ba50ed63b342ad1": {
       "canonical_url": "https://ticketa.co/event/taitwvzz",
       "event_id": "e8c847566038e5d82d96a055b14bc83e564f05e44188fdea2ba50ed63b342ad1",
@@ -9633,6 +9935,19 @@
       ],
       "thread_id": "1488322257272180848"
     },
+    "f0219a42bccc41b137b23bc522e7d7fdbd9cb1530a106e6856c8ab13c88cae63": {
+      "canonical_url": "https://luma.com/n8n-seoul-yearend-2026",
+      "event_id": "f0219a42bccc41b137b23bc522e7d7fdbd9cb1530a106e6856c8ab13c88cae63",
+      "message_id": "1574678974645407786",
+      "posted": true,
+      "posted_at": "2026-11-24T15:51:30.164881+09:00",
+      "source_title": "n8n Meetup Seoul · Year-End Meetup 2026",
+      "tags": [
+        "오프라인",
+        "AI"
+      ],
+      "thread_id": "1574678974645407786"
+    },
     "f058a2eb9493b36a0c5bb2beffdb6dfadbf37a6e903c23774823188dc44575a7": {
       "canonical_url": "https://linkareer.com/activity/352004",
       "event_id": "f058a2eb9493b36a0c5bb2beffdb6dfadbf37a6e903c23774823188dc44575a7",
@@ -9728,6 +10043,19 @@
         "AI"
       ],
       "thread_id": "1552851928600416327"
+    },
+    "f20d057b22f8186de3a91cdada49d2e7c6c8d5e06bc93f6d2e36e4e5d6394b93": {
+      "canonical_url": "https://luma.com/ftkf0lxh",
+      "event_id": "f20d057b22f8186de3a91cdada49d2e7c6c8d5e06bc93f6d2e36e4e5d6394b93",
+      "message_id": "1574679059395379231",
+      "posted": true,
+      "posted_at": "2026-11-24T15:51:30.164881+09:00",
+      "source_title": "MUG Seoul DEC 2026 - MongoDB 2026 Highlights",
+      "tags": [
+        "오프라인",
+        "AI"
+      ],
+      "thread_id": "1574679059395379231"
     },
     "f23405586a026285c58a1f45d93c6fadfc8720d5b29bb381a95dc9a5c53cfe03": {
       "canonical_url": "https://extriver.com/event1",
@@ -10202,6 +10530,20 @@
       ],
       "thread_id": "1485058355725734070"
     },
+    "fc4383950c247be276a0116dff3df7d40591a9e887e6d27e2d16c5ca2a3f837f": {
+      "canonical_url": "https://pyladies.kr/ko",
+      "event_id": "fc4383950c247be276a0116dff3df7d40591a9e887e6d27e2d16c5ca2a3f837f",
+      "message_id": "1574678873222807599",
+      "posted": true,
+      "posted_at": "2026-11-24T15:51:30.164881+09:00",
+      "source_title": "PyLadies Asia Conference 2026",
+      "tags": [
+        "오프라인",
+        "컨퍼런스/세미나",
+        "AI"
+      ],
+      "thread_id": "1574678873222807599"
+    },
     "fc9e66e1380f517827fdf7867991a77da5f4aa530a49d5a901997f89cabe6e33": {
       "canonical_url": "https://meetup.com/awskrug/events/315009322",
       "event_id": "fc9e66e1380f517827fdf7867991a77da5f4aa530a49d5a901997f89cabe6e33",
@@ -10215,6 +10557,19 @@
         "클라우드"
       ],
       "thread_id": "1510073604694610100"
+    },
+    "fce82cf5665c7c9262a800da86d5f1df87912714c940390ff1cfe341687425b7": {
+      "canonical_url": "https://luma.com/ek6u1wis",
+      "event_id": "fce82cf5665c7c9262a800da86d5f1df87912714c940390ff1cfe341687425b7",
+      "message_id": "1574678870450372629",
+      "posted": true,
+      "posted_at": "2026-11-24T15:51:30.164881+09:00",
+      "source_title": "Codex Community Meetup: Seoul",
+      "tags": [
+        "오프라인",
+        "AI"
+      ],
+      "thread_id": "1574678870450372629"
     },
     "fcf719f5016c694d603d43f4e1cff06a19de2c5d46ef3db60fa00402bc424dc9": {
       "canonical_url": "https://daker.ai/public/hackathons/synthetic-microstructure-property-prediction-ai",
